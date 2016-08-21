@@ -3,6 +3,7 @@ import * as actions from '../actions/index';
 import reduxify from '../utilities/reduxify'
 
 import Ballot from './Ballot';
+import Login from './Login';
 
 class App extends Component {
   constructor(props){
@@ -18,6 +19,7 @@ class App extends Component {
   render() {
     return (<div>
       <Ballot />
+      <Login />
       </div>
     );
   }
