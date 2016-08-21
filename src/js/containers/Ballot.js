@@ -1,25 +1,31 @@
-import {bindAllMethods} from './util';
+// import {bindAllMethods} from './util';
+//
+import React, {Component} from 'react';
 
-
-export default class Ballot {
+export default class Ballot extends Component {
   constructor(loginName){
     this.id = loginName;
     this.percentValue = 1;
-    this.vote = [];
     this.originalVote = [];
     this.locked = false;
-    bindAllMethods(this);
+    this.state = {
+      votePreferences: [],
+    }
   }
 
   getVote () {
-    return this.vote;
+    return this.state.votePreferences;
   }
 
   setChoice (candidate, position) {
+    let voteChange = this.state.votePreferences;
     if(!position && position !== 0){
-      this.vote.push(candidate);
+      this.setState({votePreferences})
+      let voteChange = this.state.votePreferences.concat(candidate);
+      this.setState({votePreferences: voteChange});
     } else {
-      this.vote[position] = candidate;
+      voteChange[position] = candidate;
+      this.setState({votePreferences: voteChange});
     }
   }
 
