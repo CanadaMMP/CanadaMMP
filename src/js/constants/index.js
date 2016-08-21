@@ -4,3 +4,4 @@ export const REMOVE_CANDIDATE = 'REMOVE_CANDIDATE';
 export const CLEAR_BALLOT = 'CLEAR_BALLOT';
 export const REPLACE_BALLOT = 'REPLACE_BALLOT';
 export const SET_NEW_VALUE = 'SET_NEW_VALUE';
+export const HYDRATE = 'HYDRATE';

@@ -1,3 +1,3 @@
-import * as counterActions from './actionsCounter'
+import * as ballotActions from './ballotActions'
 
-export default Object.assign({}, counterActions);
+export default Object.assign({}, ballotActions);

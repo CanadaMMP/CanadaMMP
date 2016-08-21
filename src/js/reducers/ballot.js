@@ -1,5 +1,10 @@
-import { INCREMENT_COUNTER } from '../constants/index';
-
+import {
+  SET_CHOICE,
+  REMOVE_CANDIDATE,
+  CLEAR_BALLOT,
+  REPLACE_BALLOT,
+  SET_NEW_VALUE,
+} from '../constants/index';
 
 /**
  * votePreferences - stores the vote preferences of the voter.
@@ -11,14 +16,21 @@ import { INCREMENT_COUNTER } from '../constants/index';
  *   @property {number} position - position to modify (array index);
  * @return {array} - vote state;
  */
-export function votePreferences(state = [], action) {
+export function votePreferences(state = [], action = {}) {
   switch(action.type){
     case SET_CHOICE:
       // because position can be "0";
+      if (action.position === undefined && state.includes(action.candidate)){
+        return state;
+      }
       if (action.position === undefined){
         return state.concat(action.candidate)
       }
-      return state.slice(0, action.position).concat(action.candidate, state.slice(action.position + 1))
+      let filteredState = state.filter((pref) => (pref !== action.candidate))
+      return filteredState.slice(0, action.position)
+        .concat(action.candidate).concat(filteredState.slice(action.position))
+
+      return state.slice(0, action.position).concat(action.candidate).concat(state.slice(action.position + 1))
     case REMOVE_CANDIDATE:
       return state.filter((pref) => (pref !== action.candidate))
     case CLEAR_BALLOT:
@@ -29,7 +41,7 @@ export function votePreferences(state = [], action) {
   }
 }
 
-export function voteValue(state = 1, action){
+export function voteValue(state = 1, action = {}){
   switch(action.type){
     case SET_NEW_VALUE:
       return state * action.value;

@@ -1,6 +1,8 @@
 import React, { Component } from 'react';
-import * as actions from '../actions';
+import * as actions from '../actions/index';
 import reduxify from '../utilities/reduxify'
+
+import Ballot from './Ballot';
 
 class App extends Component {
   constructor(props){
@@ -15,18 +17,10 @@ class App extends Component {
   }
   render() {
     return (<div>
-      <h1>Hello, world.</h1>
-      <h2>Component Counter:
-        <b>{this.state.componentCounter}</b>
-      </h2>
-      <button onClick={this.incrementComponentCounter} >Increment Component Counter</button>
-      <h2>Redux Store Counter:
-        <b>{this.props.counter}</b>
-      </h2>
-      <button onClick={this.props.actions.incrementCounter}>Increment Redux Store Counter</button>
+      <Ballot />
       </div>
     );
   }
 }
 
-export default reduxify(actions, ['counter'], App)
+export default reduxify(actions, ['counter'], App);

@@ -6,10 +6,10 @@ import { createStore, applyMiddleware, compose } from 'redux';
 import multi from 'redux-multi';
 import thunkMiddleware from 'redux-thunk';
 
-import rootReducer from '../reducers';
+import rootReducer from '../reducers/index';
 import createLogger from 'redux-logger';
 // import { localLog, logToLocal, detectCrashes } from '../utilities/loggers'
-// import { HYDRATE } from '../constants/index'
+import { HYDRATE } from '../constants/index'
 
 let logger = createLogger({
   duration: true,

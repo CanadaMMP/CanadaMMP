@@ -11,16 +11,12 @@ export const addVotePreference = (candidate, position) => ({
   candidate,
   position,
 })
-
 export const removeCandidate = (candidate) => ({
   type: REMOVE_CANDIDATE,
   candidate
 })
-
 export const clearBallot = () => ({ type: CLEAR_BALLOT })
-
 export const replaceBallot = (ballot) => ({ type: REPLACE_BALLOT, ballot })
-
 export const eliminateLoser = (loser) => removeCandidate(loser);
-
-export const processWinner = (winner, newVoteValue) => [{ type: SET_NEW_VALUE, value: newVoteValue }, removeCandidate(winner)]
+export const changeVoteValue = (value) => ({type: SET_NEW_VALUE, value})
+export const processWinner = (winner, value) => [changeVoteValue(value), removeCandidate(winner)]
