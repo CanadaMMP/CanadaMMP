@@ -11,12 +11,12 @@ import {
   eliminateLoser,
   changeVoteValue,
   processWinner,
-} from '../../src/js/actions/ballotActions'
+} from '../../src/frontend/js/actions/ballotActions'
 
 import {
   votePreferences,
   voteValue,
-} from '../../src/js/reducers/ballot'
+} from '../../src/frontend/js/reducers/ballot'
 
 describe('reducers - ballot.js', () => {
   describe('votePreferences()', () => {

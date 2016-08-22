@@ -3,7 +3,6 @@ import reduxify from '../utilities/reduxify';
 import * as actions from '../actions/index';
 import React, {Component} from 'react';
 import _ from 'lodash';
-import {sendToDatabase} from '../utilities/database'
 
 class Login extends Component {
   constructor(props){
@@ -15,7 +14,6 @@ class Login extends Component {
     }
     this.handleUsername = this.handleUsername.bind(this);
     this.handlePassword = this.handlePassword.bind(this);
-    this.helloDatabase = this.helloDatabase.bind(this);
   }
 
   handleUsername (event) {
@@ -24,15 +22,6 @@ class Login extends Component {
   handlePassword (event) {
     this.setState({password: event.target.value});
   }
-  helloDatabase () {
-    sendToDatabase('hello world', this.state.username, this.state.password)
-      .then((result) => {
-        this.setState({status: result})
-      }, (err) => {
-        this.setState({status: err})
-      })
-  }
-
 
   render() {
     return (<div>
@@ -44,7 +33,6 @@ class Login extends Component {
         onChange={this.handlePassword} name="password"/><br/>
         <div>username: {this.state.username}</div>
         <div>password: {this.state.password}</div>
-        <button onClick={this.helloDatabase}>write to database</button>
         {this.state.status}
       </div>
     );

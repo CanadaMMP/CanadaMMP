@@ -9,7 +9,7 @@ import {
   CLEAR_BALLOT,
   REPLACE_BALLOT,
   SET_NEW_VALUE,
-} from '../../src/js/constants/index'
+} from '../../src/frontend/js/constants/index'
 import {
   addVotePreference,
   removeCandidate,
@@ -17,7 +17,7 @@ import {
   replaceBallot,
   eliminateLoser,
   processWinner,
-} from '../../src/js/actions/ballotActions'
+} from '../../src/frontend/js/actions/ballotActions'
 
 describe('actions - ballotActions', () => {
   describe('addVotePreference()', () => {

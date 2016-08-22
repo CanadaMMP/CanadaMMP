@@ -1,9 +1,8 @@
-import 'babel-polyfill';
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';
-import store from './store/configureStore';
-import App from './containers/App';
+import store from './frontend/js/store/configureStore';
+import App from './frontend/js/containers/App';
 
 const MOUNT_NODE = document.getElementById('root');
 
