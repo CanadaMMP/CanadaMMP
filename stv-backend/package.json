@@ -1,0 +1,23 @@
+{
+  "name": "Mathcraftloggingserver",
+  "version": "1.1.0",
+  "description": "",
+  "main": "./dist/server.js",
+  "scripts": {
+    "build": "babel lib -d dist --presets es2015"
+  },
+  "author": "Brian Boyko",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "^6.9.1",
+    "babel-preset-es2015": "^6.9.0",
+    "mongodb": "^2.1.11",
+    "nodemon": "^1.9.1",
+    "superagent": "^1.8.3"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.9.0",
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
