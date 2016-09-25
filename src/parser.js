@@ -3,7 +3,7 @@ import fs from 'fs';
 const parseCSV = (document) => {
     let lines = document.split('\n')
     let headers = lines[0].split(',');
-    let results = lines.slice(1).map((line) => line.split(','))
+    let results = lines.slice(1, 3).map((line) => line.split(','))
     return results.map((result) => {
         let data = {}
         for (let n = 0; n < result.length; n++) {
