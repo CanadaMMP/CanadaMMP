@@ -1,68 +1,67 @@
 {
   "electoralDistrictNumber": "12002",
-  "englishDistrictName": "\"Central Nova\"",
-  "frenchDistrictName": "\"Nova-Centre\"",
-  "\"Conservative\"": {
-    "familyName": "\"DeLorey\"",
-    "middleName": "\"\"",
-    "firstName": "\"Fred\"",
-    "votes": 11267
+  "englishDistrictName": "Central Nova",
+  "frenchDistrictName": "Nova-Centre",
+  "Conservative": {
+    "votes": 11267,
+    "familyName": "DeLorey",
+    "middleName": "",
+    "firstName": "Fred"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Fraser\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sean\"",
-    "votes": 25535
+  "Liberal": {
+    "votes": 25535,
+    "familyName": "Fraser",
+    "middleName": "",
+    "firstName": "Sean"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Hachey\"",
-    "middleName": "\"\"",
-    "firstName": "\"David\"",
-    "votes": 1802
+  "Green Party": {
+    "votes": 1802,
+    "familyName": "Hachey",
+    "middleName": "",
+    "firstName": "David"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Landry\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ross\"",
-    "votes": 4460
+  "NDP-New Democratic Party": {
+    "votes": 4460,
+    "familyName": "Landry",
+    "middleName": "",
+    "firstName": "Ross"
   },
-  "\"Independent\"": {
-    "familyName": "\"MacKenzie\"",
-    "middleName": "\"\"",
-    "firstName": "\"Alexander J.\"",
-    "votes": 556
+  "Independent": {
+    "MacKenzie": {
+      "votes": 556,
+      "familyName": "MacKenzie",
+      "middleName": "",
+      "firstName": "Alexander J."
+    }
   },
-  "\"Fred\"": {
+  "Fred": {
+    "votes": null,
     "familyName": "248",
-    "middleName": "\"DeLorey\"",
-    "firstName": "\"\"",
-    "votes": null
+    "middleName": "DeLorey",
+    "firstName": ""
   },
-  "\"Sean\"": {
+  "Sean": {
+    "votes": null,
     "familyName": "248",
-    "middleName": "\"Fraser\"",
-    "firstName": "\"\"",
-    "votes": null
+    "middleName": "Fraser",
+    "firstName": ""
   },
-  "\"David\"": {
+  "David": {
+    "votes": null,
     "familyName": "248",
-    "middleName": "\"Hachey\"",
-    "firstName": "\"\"",
-    "votes": null
+    "middleName": "Hachey",
+    "firstName": ""
   },
-  "\"Ross\"": {
+  "Ross": {
+    "votes": null,
     "familyName": "248",
-    "middleName": "\"Landry\"",
-    "firstName": "\"\"",
-    "votes": null
+    "middleName": "Landry",
+    "firstName": ""
   },
-  "\"Alexander J.\"": {
+  "Alexander J.": {
+    "votes": null,
     "familyName": "248",
-    "middleName": "\"MacKenzie\"",
-    "firstName": "\"\"",
-    "votes": null
-  },
-  "undefined": {
-    "votes": null
+    "middleName": "MacKenzie",
+    "firstName": ""
   }
 }

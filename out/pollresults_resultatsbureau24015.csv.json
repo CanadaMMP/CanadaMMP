@@ -1,56 +1,55 @@
 {
   "electoralDistrictNumber": "24015",
-  "englishDistrictName": "\"Bourassa\"",
-  "frenchDistrictName": "\"Bourassa\"",
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Brunelle\"",
-    "middleName": "\"\"",
-    "firstName": "\"Claude\"",
-    "votes": 229
+  "englishDistrictName": "Bourassa",
+  "frenchDistrictName": "Bourassa",
+  "Marxist-Leninist": {
+    "votes": 229,
+    "familyName": "Brunelle",
+    "middleName": "",
+    "firstName": "Claude"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Charron\"",
-    "middleName": "\"\"",
-    "firstName": "\"Maxime\"",
-    "votes": 886
+  "Green Party": {
+    "votes": 886,
+    "familyName": "Charron",
+    "middleName": "",
+    "firstName": "Maxime"
   },
-  "\"Independent\"": {
-    "familyName": "\"Demers\"",
-    "middleName": "\"\"",
-    "firstName": "\"Julie\"",
-    "votes": 669
+  "Independent": {
+    "Demers": {
+      "votes": 669,
+      "familyName": "Demers",
+      "middleName": "",
+      "firstName": "Julie"
+    }
   },
-  "\"Liberal\"": {
-    "familyName": "\"Dubourg\"",
-    "middleName": "\"\"",
-    "firstName": "\"Emmanuel\"",
-    "votes": 22234
+  "Liberal": {
+    "votes": 22234,
+    "familyName": "Dubourg",
+    "middleName": "",
+    "firstName": "Emmanuel"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Laguerre\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dolmine\"",
-    "votes": 6144
+  "NDP-New Democratic Party": {
+    "votes": 6144,
+    "familyName": "Laguerre",
+    "middleName": "",
+    "firstName": "Dolmine"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Léveillé\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gilles\"",
-    "votes": 7049
+  "Bloc Québécois": {
+    "votes": 7049,
+    "familyName": "Léveillé",
+    "middleName": "",
+    "firstName": "Gilles"
   },
-  "\"Forces et Démocratie - Allier les forces de nos régions\"": {
-    "familyName": "\"Ndzana\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jean-Marie Floriant\"",
-    "votes": 99
+  "Forces et Démocratie - Allier les forces de nos régions": {
+    "votes": 99,
+    "familyName": "Ndzana",
+    "middleName": "",
+    "firstName": "Jean-Marie Floriant"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Potasso-Justino\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jason\"",
-    "votes": 3819
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 3819,
+    "familyName": "Potasso-Justino",
+    "middleName": "",
+    "firstName": "Jason"
   }
 }

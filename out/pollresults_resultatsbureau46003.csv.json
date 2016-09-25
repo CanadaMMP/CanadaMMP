@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "46003",
-  "englishDistrictName": "\"Churchill--Keewatinook Aski\"",
-  "frenchDistrictName": "\"Churchill--Keewatinook Aski\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Ashton\"",
-    "middleName": "\"\"",
-    "firstName": "\"Niki\"",
-    "votes": 13487
+  "englishDistrictName": "Churchill--Keewatinook Aski",
+  "frenchDistrictName": "Churchill--Keewatinook Aski",
+  "NDP-New Democratic Party": {
+    "votes": 13487,
+    "familyName": "Ashton",
+    "middleName": "",
+    "firstName": "Niki"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Chartrand\"",
-    "middleName": "\"\"",
-    "firstName": "\"Rebecca\"",
-    "votes": 12575
+  "Liberal": {
+    "votes": 12575,
+    "familyName": "Chartrand",
+    "middleName": "",
+    "firstName": "Rebecca"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Hastmann\"",
-    "middleName": "\"\"",
-    "firstName": "\"August\"",
-    "votes": 537
+  "Green Party": {
+    "votes": 537,
+    "familyName": "Hastmann",
+    "middleName": "",
+    "firstName": "August"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Linnick\"",
-    "middleName": "\"\"",
-    "firstName": "\"Zachary\"",
-    "votes": 255
+  "Libertarian": {
+    "votes": 255,
+    "familyName": "Linnick",
+    "middleName": "",
+    "firstName": "Zachary"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Mirecki\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kyle G.\"",
-    "votes": 3090
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 3090,
+    "familyName": "Mirecki",
+    "middleName": "",
+    "firstName": "Kyle G."
   }
 }

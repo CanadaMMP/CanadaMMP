@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35060",
-  "englishDistrictName": "\"Mississauga--Erin Mills\"",
-  "frenchDistrictName": "\"Mississauga--Erin Mills\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Bilek\"",
-    "middleName": "\"\"",
-    "firstName": "\"Michelle\"",
-    "votes": 5206
+  "englishDistrictName": "Mississauga--Erin Mills",
+  "frenchDistrictName": "Mississauga--Erin Mills",
+  "NDP-New Democratic Party": {
+    "votes": 5206,
+    "familyName": "Bilek",
+    "middleName": "",
+    "firstName": "Michelle"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Dechert\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bob\"",
-    "votes": 21716
+  "Conservative": {
+    "votes": 21716,
+    "familyName": "Dechert",
+    "middleName": "",
+    "firstName": "Bob"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Khalid\"",
-    "middleName": "\"\"",
-    "firstName": "\"Iqra\"",
-    "votes": 27520
+  "Liberal": {
+    "votes": 27520,
+    "familyName": "Khalid",
+    "middleName": "",
+    "firstName": "Iqra"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Roblin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Andrew\"",
-    "votes": 905
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 905,
+    "familyName": "Roblin",
+    "middleName": "",
+    "firstName": "Andrew"
   }
 }

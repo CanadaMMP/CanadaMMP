@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "35059",
-  "englishDistrictName": "\"Mississauga East--Cooksville\"",
-  "frenchDistrictName": "\"Mississauga-Est--Cooksville\"",
-  "\"Green Party\"": {
-    "familyName": "\"Bhikha\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jaymini\"",
-    "votes": 766
+  "englishDistrictName": "Mississauga East--Cooksville",
+  "frenchDistrictName": "Mississauga-Est--Cooksville",
+  "Green Party": {
+    "votes": 766,
+    "familyName": "Bhikha",
+    "middleName": "",
+    "firstName": "Jaymini"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Fonseca\"",
-    "middleName": "\"\"",
-    "firstName": "\"Peter\"",
-    "votes": 28154
+  "Liberal": {
+    "votes": 28154,
+    "familyName": "Fonseca",
+    "middleName": "",
+    "firstName": "Peter"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Lizon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Wladyslaw\"",
-    "votes": 18353
+  "Conservative": {
+    "votes": 18353,
+    "familyName": "Lizon",
+    "middleName": "",
+    "firstName": "Wladyslaw"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Naqvi\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ali\"",
-    "votes": 4481
+  "NDP-New Democratic Party": {
+    "votes": 4481,
+    "familyName": "Naqvi",
+    "middleName": "",
+    "firstName": "Ali"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Sullivan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Tim\"",
-    "votes": 163
-  },
-  "undefined": {
-    "votes": null
+  "Marxist-Leninist": {
+    "votes": 163,
+    "familyName": "Sullivan",
+    "middleName": "",
+    "firstName": "Tim"
   }
 }

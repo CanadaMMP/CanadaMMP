@@ -1,38 +1,37 @@
 {
   "electoralDistrictNumber": "48004",
-  "englishDistrictName": "\"Calgary Centre\"",
-  "frenchDistrictName": "\"Calgary-Centre\"",
-  "\"Green Party\"": {
-    "familyName": "\"Boonlert\"",
-    "middleName": "\"\"",
-    "firstName": "\"Thana\"",
-    "votes": 1347
+  "englishDistrictName": "Calgary Centre",
+  "frenchDistrictName": "Calgary-Centre",
+  "Green Party": {
+    "votes": 1347,
+    "familyName": "Boonlert",
+    "middleName": "",
+    "firstName": "Thana"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Crockatt\"",
-    "middleName": "\"\"",
-    "firstName": "\"Joan\"",
-    "votes": 27746
+  "Conservative": {
+    "votes": 27746,
+    "familyName": "Crockatt",
+    "middleName": "",
+    "firstName": "Joan"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Hehr\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kent\"",
-    "votes": 28496
+  "Liberal": {
+    "votes": 28496,
+    "familyName": "Hehr",
+    "middleName": "",
+    "firstName": "Kent"
   },
-  "\"Independent\"": {
-    "familyName": "\"Henderson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Yogi\"",
-    "votes": 248
+  "Independent": {
+    "Henderson": {
+      "votes": 248,
+      "familyName": "Henderson",
+      "middleName": "",
+      "firstName": "Yogi"
+    }
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Ratti\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jillian\"",
-    "votes": 3412
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 3412,
+    "familyName": "Ratti",
+    "middleName": "",
+    "firstName": "Jillian"
   }
 }

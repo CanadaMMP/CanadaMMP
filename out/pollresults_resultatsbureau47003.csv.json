@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "47003",
-  "englishDistrictName": "\"Desnethé--Missinippi--Churchill River\"",
-  "frenchDistrictName": "\"Desnethé--Missinippi--Rivière Churchill\"",
-  "\"Conservative\"": {
-    "familyName": "\"Clarke\"",
-    "middleName": "\"\"",
-    "firstName": "\"Rob\"",
-    "votes": 9105
+  "englishDistrictName": "Desnethé--Missinippi--Churchill River",
+  "frenchDistrictName": "Desnethé--Missinippi--Rivière Churchill",
+  "Conservative": {
+    "votes": 9105,
+    "familyName": "Clarke",
+    "middleName": "",
+    "firstName": "Rob"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Jolibois\"",
-    "middleName": "\"\"",
-    "firstName": "\"Georgina\"",
-    "votes": 10319
+  "NDP-New Democratic Party": {
+    "votes": 10319,
+    "familyName": "Jolibois",
+    "middleName": "",
+    "firstName": "Georgina"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Joseph\"",
-    "middleName": "\"\"",
-    "firstName": "\"Lawrence\"",
-    "votes": 10237
+  "Liberal": {
+    "votes": 10237,
+    "familyName": "Joseph",
+    "middleName": "",
+    "firstName": "Lawrence"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Koch\"",
-    "middleName": "\"\"",
-    "firstName": "\"Warren\"",
-    "votes": 552
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 552,
+    "familyName": "Koch",
+    "middleName": "",
+    "firstName": "Warren"
   }
 }

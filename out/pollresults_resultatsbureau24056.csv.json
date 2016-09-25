@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "24056",
-  "englishDistrictName": "\"Pierrefonds--Dollard\"",
-  "frenchDistrictName": "\"Pierrefonds--Dollard\"",
-  "\"Conservative\"": {
-    "familyName": "\"Assouline\"",
-    "middleName": "\"\"",
-    "firstName": "\"Valérie\"",
-    "votes": 11694
+  "englishDistrictName": "Pierrefonds--Dollard",
+  "frenchDistrictName": "Pierrefonds--Dollard",
+  "Conservative": {
+    "votes": 11694,
+    "familyName": "Assouline",
+    "middleName": "",
+    "firstName": "Valérie"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Baylis\"",
-    "middleName": "\"\"",
-    "firstName": "\"Frank\"",
-    "votes": 34319
+  "Liberal": {
+    "votes": 34319,
+    "familyName": "Baylis",
+    "middleName": "",
+    "firstName": "Frank"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Blanchette-Lamothe\"",
-    "middleName": "\"\"",
-    "firstName": "\"Lysane\"",
-    "votes": 9584
+  "NDP-New Democratic Party": {
+    "votes": 9584,
+    "familyName": "Blanchette-Lamothe",
+    "middleName": "",
+    "firstName": "Lysane"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Laplante\"",
-    "middleName": "\"\"",
-    "firstName": "\"Natalie\"",
-    "votes": 2043
+  "Bloc Québécois": {
+    "votes": 2043,
+    "familyName": "Laplante",
+    "middleName": "",
+    "firstName": "Natalie"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Weizfeld\"",
-    "middleName": "\"\"",
-    "firstName": "\"Abraham\"",
-    "votes": 865
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 865,
+    "familyName": "Weizfeld",
+    "middleName": "",
+    "firstName": "Abraham"
   }
 }

@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35091",
-  "englishDistrictName": "\"Sarnia--Lambton\"",
-  "frenchDistrictName": "\"Sarnia--Lambton\"",
-  "\"Conservative\"": {
-    "familyName": "\"Gladu\"",
-    "middleName": "\"\"",
-    "firstName": "\"Marilyn\"",
-    "votes": 22565
+  "englishDistrictName": "Sarnia--Lambton",
+  "frenchDistrictName": "Sarnia--Lambton",
+  "Conservative": {
+    "votes": 22565,
+    "familyName": "Gladu",
+    "middleName": "",
+    "firstName": "Marilyn"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"McMichael\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jason Wayne\"",
-    "votes": 18102
+  "NDP-New Democratic Party": {
+    "votes": 18102,
+    "familyName": "McMichael",
+    "middleName": "",
+    "firstName": "Jason Wayne"
   },
-  "\"Liberal\"": {
-    "familyName": "\"McPhail\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dave\"",
-    "votes": 15853
+  "Liberal": {
+    "votes": 15853,
+    "familyName": "McPhail",
+    "middleName": "",
+    "firstName": "Dave"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Smith\"",
-    "middleName": "\"\"",
-    "firstName": "\"Peter\"",
-    "votes": 1605
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1605,
+    "familyName": "Smith",
+    "middleName": "",
+    "firstName": "Peter"
   }
 }

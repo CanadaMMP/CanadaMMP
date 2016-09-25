@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35090",
-  "englishDistrictName": "\"Toronto--St. Paul's\"",
-  "frenchDistrictName": "\"Toronto--St. Paul's\"",
-  "\"Liberal\"": {
-    "familyName": "\"Bennett\"",
-    "middleName": "\"\"",
-    "firstName": "\"Carolyn\"",
-    "votes": 31481
+  "englishDistrictName": "Toronto--St. Paul's",
+  "frenchDistrictName": "Toronto--St. Paul's",
+  "Liberal": {
+    "votes": 31481,
+    "familyName": "Bennett",
+    "middleName": "",
+    "firstName": "Carolyn"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Farmer\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kevin\"",
-    "votes": 1729
+  "Green Party": {
+    "votes": 1729,
+    "familyName": "Farmer",
+    "middleName": "",
+    "firstName": "Kevin"
   },
-  "\"Conservative\"": {
-    "familyName": "\"MacDougall\"",
-    "middleName": "\"\"",
-    "firstName": "\"Marnie\"",
-    "votes": 15376
+  "Conservative": {
+    "votes": 15376,
+    "familyName": "MacDougall",
+    "middleName": "",
+    "firstName": "Marnie"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Richler\"",
-    "middleName": "\"\"",
-    "firstName": "\"Noah\"",
-    "votes": 8386
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 8386,
+    "familyName": "Richler",
+    "middleName": "",
+    "firstName": "Noah"
   }
 }

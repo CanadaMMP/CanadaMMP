@@ -1,38 +1,37 @@
 {
   "electoralDistrictNumber": "35006",
-  "englishDistrictName": "\"Bay of Quinte\"",
-  "frenchDistrictName": "\"Baie de Quinte\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Cassidy\"",
-    "middleName": "\"\"",
-    "firstName": "\"Terry\"",
-    "votes": 7001
+  "englishDistrictName": "Bay of Quinte",
+  "frenchDistrictName": "Baie de Quinte",
+  "NDP-New Democratic Party": {
+    "votes": 7001,
+    "familyName": "Cassidy",
+    "middleName": "",
+    "firstName": "Terry"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Ellis\"",
-    "middleName": "\"\"",
-    "firstName": "\"Neil\"",
-    "votes": 29281
+  "Liberal": {
+    "votes": 29281,
+    "familyName": "Ellis",
+    "middleName": "",
+    "firstName": "Neil"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Jenkins\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jodie\"",
-    "votes": 19781
+  "Conservative": {
+    "votes": 19781,
+    "familyName": "Jenkins",
+    "middleName": "",
+    "firstName": "Jodie"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Nelems\"",
-    "middleName": "\"\"",
-    "firstName": "\"Rachel\"",
-    "votes": 1278
+  "Green Party": {
+    "votes": 1278,
+    "familyName": "Nelems",
+    "middleName": "",
+    "firstName": "Rachel"
   },
-  "\"Independent\"": {
-    "familyName": "\"Tuck\"",
-    "middleName": "\"\"",
-    "firstName": "\"Trueman\"",
-    "votes": 372
-  },
-  "undefined": {
-    "votes": null
+  "Independent": {
+    "Tuck": {
+      "votes": 372,
+      "familyName": "Tuck",
+      "middleName": "",
+      "firstName": "Trueman"
+    }
   }
 }

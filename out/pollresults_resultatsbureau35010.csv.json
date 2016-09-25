@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "35010",
-  "englishDistrictName": "\"Brampton North\"",
-  "frenchDistrictName": "\"Brampton-Nord\"",
-  "\"Conservative\"": {
-    "familyName": "\"Gill\"",
-    "middleName": "\"\"",
-    "firstName": "\"Parm\"",
-    "votes": 15888
+  "englishDistrictName": "Brampton North",
+  "frenchDistrictName": "Brampton-Nord",
+  "Conservative": {
+    "votes": 15888,
+    "familyName": "Gill",
+    "middleName": "",
+    "firstName": "Parm"
   },
-  "\"Communist\"": {
-    "familyName": "\"Hundal\"",
-    "middleName": "\"\"",
-    "firstName": "\"Harinderpal\"",
-    "votes": 120
+  "Communist": {
+    "votes": 120,
+    "familyName": "Hundal",
+    "middleName": "",
+    "firstName": "Harinderpal"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Sahota\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ruby\"",
-    "votes": 23297
+  "Liberal": {
+    "votes": 23297,
+    "familyName": "Sahota",
+    "middleName": "",
+    "firstName": "Ruby"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Singh\"",
-    "middleName": "\"\"",
-    "firstName": "\"Martin\"",
-    "votes": 7946
+  "NDP-New Democratic Party": {
+    "votes": 7946,
+    "familyName": "Singh",
+    "middleName": "",
+    "firstName": "Martin"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Thornham\"",
-    "middleName": "\"\"",
-    "firstName": "\"Pauline\"",
-    "votes": 915
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 915,
+    "familyName": "Thornham",
+    "middleName": "",
+    "firstName": "Pauline"
   }
 }

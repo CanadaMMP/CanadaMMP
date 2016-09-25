@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "46007",
-  "englishDistrictName": "\"Portage--Lisgar\"",
-  "frenchDistrictName": "\"Portage--Lisgar\"",
-  "\"Conservative\"": {
-    "familyName": "\"Bergen\"",
-    "middleName": "\"\"",
-    "firstName": "\"Candice\"",
-    "votes": 25060
+  "englishDistrictName": "Portage--Lisgar",
+  "frenchDistrictName": "Portage--Lisgar",
+  "Conservative": {
+    "votes": 25060,
+    "familyName": "Bergen",
+    "middleName": "",
+    "firstName": "Candice"
   },
-  "\"Christian Heritage Party\"": {
-    "familyName": "\"Dondo\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jerome\"",
-    "votes": 1315
+  "Christian Heritage Party": {
+    "votes": 1315,
+    "familyName": "Dondo",
+    "middleName": "",
+    "firstName": "Jerome"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Eert\"",
-    "middleName": "\"\"",
-    "firstName": "\"Beverley\"",
-    "votes": 1637
+  "Green Party": {
+    "votes": 1637,
+    "familyName": "Eert",
+    "middleName": "",
+    "firstName": "Beverley"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Harder\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dean\"",
-    "votes": 2554
+  "NDP-New Democratic Party": {
+    "votes": 2554,
+    "familyName": "Harder",
+    "middleName": "",
+    "firstName": "Dean"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Werbiski\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ken\"",
-    "votes": 10621
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 10621,
+    "familyName": "Werbiski",
+    "middleName": "",
+    "firstName": "Ken"
   }
 }

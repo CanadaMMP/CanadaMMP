@@ -1,50 +1,47 @@
 {
   "electoralDistrictNumber": "24059",
-  "englishDistrictName": "\"Québec\"",
-  "frenchDistrictName": "\"Québec\"",
-  "\"Conservative\"": {
-    "familyName": "\"Asselin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Pierre-Thomas\"",
-    "votes": 11737
+  "englishDistrictName": "Québec",
+  "frenchDistrictName": "Québec",
+  "Conservative": {
+    "votes": 11737,
+    "familyName": "Asselin",
+    "middleName": "",
+    "firstName": "Pierre-Thomas"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Duclos\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jean-Yves\"",
-    "votes": 15566
+  "Liberal": {
+    "votes": 15566,
+    "familyName": "Duclos",
+    "middleName": "",
+    "firstName": "Jean-Yves"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Fournier\"",
-    "middleName": "\"\"",
-    "firstName": "\"Normand\"",
-    "votes": 153
+  "Marxist-Leninist": {
+    "votes": 153,
+    "familyName": "Fournier",
+    "middleName": "",
+    "firstName": "Normand"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Mordret\"",
-    "middleName": "\"\"",
-    "firstName": "\"Charles\"",
-    "votes": 10153
+  "Bloc Québécois": {
+    "votes": 10153,
+    "familyName": "Mordret",
+    "middleName": "",
+    "firstName": "Charles"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Papillon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Annick\"",
-    "votes": 14566
+  "NDP-New Democratic Party": {
+    "votes": 14566,
+    "familyName": "Papillon",
+    "middleName": "",
+    "firstName": "Annick"
   },
-  "\"Forces et Démocratie - Allier les forces de nos régions\"": {
-    "familyName": "\"Provost\"",
-    "middleName": "\"\"",
-    "firstName": "\"Danielle\"",
-    "votes": 122
+  "Forces et Démocratie - Allier les forces de nos régions": {
+    "votes": 122,
+    "familyName": "Provost",
+    "middleName": "",
+    "firstName": "Danielle"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Riboty\"",
-    "middleName": "\"\"",
-    "firstName": "\"Philippe\"",
-    "votes": 1570
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1570,
+    "familyName": "Riboty",
+    "middleName": "",
+    "firstName": "Philippe"
   }
 }

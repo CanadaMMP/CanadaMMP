@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "48034",
-  "englishDistrictName": "\"Yellowhead\"",
-  "frenchDistrictName": "\"Yellowhead\"",
-  "\"Conservative\"": {
-    "familyName": "\"Eglinski\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jim\"",
-    "votes": 37950
+  "englishDistrictName": "Yellowhead",
+  "frenchDistrictName": "Yellowhead",
+  "Conservative": {
+    "votes": 37950,
+    "familyName": "Eglinski",
+    "middleName": "",
+    "firstName": "Jim"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Kuzminski\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ken\"",
-    "votes": 4753
+  "NDP-New Democratic Party": {
+    "votes": 4753,
+    "familyName": "Kuzminski",
+    "middleName": "",
+    "firstName": "Ken"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Lystang\"",
-    "middleName": "\"\"",
-    "firstName": "\"Cory\"",
-    "votes": 817
+  "Libertarian": {
+    "votes": 817,
+    "familyName": "Lystang",
+    "middleName": "",
+    "firstName": "Cory"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Maguhn\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ryan\"",
-    "votes": 7467
+  "Liberal": {
+    "votes": 7467,
+    "familyName": "Maguhn",
+    "middleName": "",
+    "firstName": "Ryan"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Wolf Lange\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sandra\"",
-    "votes": 1538
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1538,
+    "familyName": "Wolf Lange",
+    "middleName": "",
+    "firstName": "Sandra"
   }
 }

@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35017",
-  "englishDistrictName": "\"Chatham-Kent--Leamington\"",
-  "frenchDistrictName": "\"Chatham-Kent--Leamington\"",
-  "\"Liberal\"": {
-    "familyName": "\"Omstead\"",
-    "middleName": "\"\"",
-    "firstName": "\"Katie\"",
-    "votes": 19351
+  "englishDistrictName": "Chatham-Kent--Leamington",
+  "frenchDistrictName": "Chatham-Kent--Leamington",
+  "Liberal": {
+    "votes": 19351,
+    "familyName": "Omstead",
+    "middleName": "",
+    "firstName": "Katie"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Van Kesteren\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dave\"",
-    "votes": 21677
+  "Conservative": {
+    "votes": 21677,
+    "familyName": "Van Kesteren",
+    "middleName": "",
+    "firstName": "Dave"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Vercouteren\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mark\"",
-    "votes": 1394
+  "Green Party": {
+    "votes": 1394,
+    "familyName": "Vercouteren",
+    "middleName": "",
+    "firstName": "Mark"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Walsh\"",
-    "middleName": "\"\"",
-    "firstName": "\"Tony\"",
-    "votes": 9549
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 9549,
+    "familyName": "Walsh",
+    "middleName": "",
+    "firstName": "Tony"
   }
 }

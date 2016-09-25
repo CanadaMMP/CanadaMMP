@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35107",
-  "englishDistrictName": "\"Timmins--James Bay\"",
-  "frenchDistrictName": "\"Timmins--Baie James\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Angus\"",
-    "middleName": "\"\"",
-    "firstName": "\"Charlie\"",
-    "votes": 15974
+  "englishDistrictName": "Timmins--James Bay",
+  "frenchDistrictName": "Timmins--Baie James",
+  "NDP-New Democratic Party": {
+    "votes": 15974,
+    "familyName": "Angus",
+    "middleName": "",
+    "firstName": "Charlie"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Curley\"",
-    "middleName": "\"\"",
-    "firstName": "\"John P.\"",
-    "votes": 7605
+  "Conservative": {
+    "votes": 7605,
+    "familyName": "Curley",
+    "middleName": "",
+    "firstName": "John P."
   },
-  "\"Green Party\"": {
-    "familyName": "\"Kennedy\"",
-    "middleName": "\"\"",
-    "firstName": "\"Max\"",
-    "votes": 752
+  "Green Party": {
+    "votes": 752,
+    "familyName": "Kennedy",
+    "middleName": "",
+    "firstName": "Max"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Lever\"",
-    "middleName": "\"\"",
-    "firstName": "\"Todd\"",
-    "votes": 12940
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 12940,
+    "familyName": "Lever",
+    "middleName": "",
+    "firstName": "Todd"
   }
 }

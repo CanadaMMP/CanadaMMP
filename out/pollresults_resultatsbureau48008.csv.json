@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "48008",
-  "englishDistrictName": "\"Calgary Midnapore\"",
-  "frenchDistrictName": "\"Calgary Midnapore\"",
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Askin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Peggy\"",
-    "votes": 145
+  "englishDistrictName": "Calgary Midnapore",
+  "frenchDistrictName": "Calgary Midnapore",
+  "Marxist-Leninist": {
+    "votes": 145,
+    "familyName": "Askin",
+    "middleName": "",
+    "firstName": "Peggy"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Brown\"",
-    "middleName": "\"\"",
-    "firstName": "\"Haley\"",
-    "votes": 14396
+  "Liberal": {
+    "votes": 14396,
+    "familyName": "Brown",
+    "middleName": "",
+    "firstName": "Haley"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Kenney\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jason\"",
-    "votes": 42415
+  "Conservative": {
+    "votes": 42415,
+    "familyName": "Kenney",
+    "middleName": "",
+    "firstName": "Jason"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Wauters\"",
-    "middleName": "\"\"",
-    "firstName": "\"Brennan\"",
-    "votes": 1691
+  "Green Party": {
+    "votes": 1691,
+    "familyName": "Wauters",
+    "middleName": "",
+    "firstName": "Brennan"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Weston\"",
-    "middleName": "\"\"",
-    "firstName": "\"Laura\"",
-    "votes": 4915
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 4915,
+    "familyName": "Weston",
+    "middleName": "",
+    "firstName": "Laura"
   }
 }

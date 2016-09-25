@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35072",
-  "englishDistrictName": "\"Oakville\"",
-  "frenchDistrictName": "\"Oakville\"",
-  "\"Green Party\"": {
-    "familyName": "\"Doel\"",
-    "middleName": "\"\"",
-    "firstName": "\"David\"",
-    "votes": 1420
+  "englishDistrictName": "Oakville",
+  "frenchDistrictName": "Oakville",
+  "Green Party": {
+    "votes": 1420,
+    "familyName": "Doel",
+    "middleName": "",
+    "firstName": "David"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Marville\"",
-    "middleName": "\"\"",
-    "firstName": "\"Che\"",
-    "votes": 3830
+  "NDP-New Democratic Party": {
+    "votes": 3830,
+    "familyName": "Marville",
+    "middleName": "",
+    "firstName": "Che"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Oliver\"",
-    "middleName": "\"\"",
-    "firstName": "\"John\"",
-    "votes": 31956
+  "Liberal": {
+    "votes": 31956,
+    "familyName": "Oliver",
+    "middleName": "",
+    "firstName": "John"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Young\"",
-    "middleName": "\"\"",
-    "firstName": "\"Terence\"",
-    "votes": 27497
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 27497,
+    "familyName": "Young",
+    "middleName": "",
+    "firstName": "Terence"
   }
 }

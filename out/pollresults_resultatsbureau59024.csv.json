@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "59024",
-  "englishDistrictName": "\"Prince George--Peace River--Northern Rockies\"",
-  "frenchDistrictName": "\"Prince George--Peace River--Northern Rockies\"",
-  "\"Green Party\"": {
-    "familyName": "\"Biggar\"",
-    "middleName": "\"\"",
-    "firstName": "\"Elizabeth\"",
-    "votes": 2672
+  "englishDistrictName": "Prince George--Peace River--Northern Rockies",
+  "frenchDistrictName": "Prince George--Peace River--Northern Rockies",
+  "Green Party": {
+    "votes": 2672,
+    "familyName": "Biggar",
+    "middleName": "",
+    "firstName": "Elizabeth"
   },
-  "\"PC Party\"": {
-    "familyName": "\"Blackman\"",
-    "middleName": "\"\"",
-    "firstName": "\"Barry\"",
-    "votes": 464
+  "PC Party": {
+    "votes": 464,
+    "familyName": "Blackman",
+    "middleName": "",
+    "firstName": "Barry"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Dickie\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kathi\"",
-    "votes": 8014
+  "NDP-New Democratic Party": {
+    "votes": 8014,
+    "familyName": "Dickie",
+    "middleName": "",
+    "firstName": "Kathi"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Keller\"",
-    "middleName": "\"\"",
-    "firstName": "\"W. Todd\"",
-    "votes": 559
+  "Libertarian": {
+    "votes": 559,
+    "familyName": "Keller",
+    "middleName": "",
+    "firstName": "W. Todd"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Shaw\"",
-    "middleName": "\"\"",
-    "firstName": "\"Matt\"",
-    "votes": 12913
+  "Liberal": {
+    "votes": 12913,
+    "familyName": "Shaw",
+    "middleName": "",
+    "firstName": "Matt"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Zimmer\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bob\"",
-    "votes": 27237
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 27237,
+    "familyName": "Zimmer",
+    "middleName": "",
+    "firstName": "Bob"
   }
 }

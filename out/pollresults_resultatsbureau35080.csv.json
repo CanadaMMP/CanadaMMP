@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "35080",
-  "englishDistrictName": "\"Oxford\"",
-  "frenchDistrictName": "\"Oxford\"",
-  "\"Christian Heritage Party\"": {
-    "familyName": "\"Aldred\"",
-    "middleName": "\"\"",
-    "firstName": "\"Melody Ann\"",
-    "votes": 1175
+  "englishDistrictName": "Oxford",
+  "frenchDistrictName": "Oxford",
+  "Christian Heritage Party": {
+    "votes": 1175,
+    "familyName": "Aldred",
+    "middleName": "",
+    "firstName": "Melody Ann"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Farlow\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mike\"",
-    "votes": 2004
+  "Green Party": {
+    "votes": 2004,
+    "familyName": "Farlow",
+    "middleName": "",
+    "firstName": "Mike"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Kunschner\"",
-    "middleName": "\"\"",
-    "firstName": "\"Zoe\"",
-    "votes": 9406
+  "NDP-New Democratic Party": {
+    "votes": 9406,
+    "familyName": "Kunschner",
+    "middleName": "",
+    "firstName": "Zoe"
   },
-  "\"Conservative\"": {
-    "familyName": "\"MacKenzie\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dave\"",
-    "votes": 25966
+  "Conservative": {
+    "votes": 25966,
+    "familyName": "MacKenzie",
+    "middleName": "",
+    "firstName": "Dave"
   },
-  "\"Liberal\"": {
-    "familyName": "\"McKay\"",
-    "middleName": "\"\"",
-    "firstName": "\"Don\"",
-    "votes": 18299
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 18299,
+    "familyName": "McKay",
+    "middleName": "",
+    "firstName": "Don"
   }
 }

@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "35026",
-  "englishDistrictName": "\"Essex\"",
-  "frenchDistrictName": "\"Essex\"",
-  "\"Green Party\"": {
-    "familyName": "\"Alderson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jennifer\"",
-    "votes": 1141
+  "englishDistrictName": "Essex",
+  "frenchDistrictName": "Essex",
+  "Green Party": {
+    "votes": 1141,
+    "familyName": "Alderson",
+    "middleName": "",
+    "firstName": "Jennifer"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Festeryga\"",
-    "middleName": "\"\"",
-    "firstName": "\"Audrey\"",
-    "votes": 12639
+  "Liberal": {
+    "votes": 12639,
+    "familyName": "Festeryga",
+    "middleName": "",
+    "firstName": "Audrey"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Ramsey\"",
-    "middleName": "\"\"",
-    "firstName": "\"Tracey\"",
-    "votes": 25072
+  "NDP-New Democratic Party": {
+    "votes": 25072,
+    "familyName": "Ramsey",
+    "middleName": "",
+    "firstName": "Tracey"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Villamizar\"",
-    "middleName": "\"\"",
-    "firstName": "\"Enver\"",
-    "votes": 77
+  "Marxist-Leninist": {
+    "votes": 77,
+    "familyName": "Villamizar",
+    "middleName": "",
+    "firstName": "Enver"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Watson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jeff\"",
-    "votes": 21602
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 21602,
+    "familyName": "Watson",
+    "middleName": "",
+    "firstName": "Jeff"
   }
 }

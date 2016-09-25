@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "61001",
-  "englishDistrictName": "\"Northwest Territories\"",
-  "frenchDistrictName": "\"Territoires du Nord-Ouest\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Bevington\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dennis Fraser\"",
-    "votes": 5783
+  "englishDistrictName": "Northwest Territories",
+  "frenchDistrictName": "Territoires du Nord-Ouest",
+  "NDP-New Democratic Party": {
+    "votes": 5783,
+    "familyName": "Bevington",
+    "middleName": "",
+    "firstName": "Dennis Fraser"
   },
-  "\"Liberal\"": {
-    "familyName": "\"McLeod\"",
-    "middleName": "\"\"",
-    "firstName": "\"Michael\"",
-    "votes": 9172
+  "Liberal": {
+    "votes": 9172,
+    "familyName": "McLeod",
+    "middleName": "",
+    "firstName": "Michael"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Moore\"",
-    "middleName": "\"\"",
-    "firstName": "\"John\"",
-    "votes": 537
+  "Green Party": {
+    "votes": 537,
+    "familyName": "Moore",
+    "middleName": "",
+    "firstName": "John"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Roland\"",
-    "middleName": "\"\"",
-    "firstName": "\"Floyd\"",
-    "votes": 3481
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 3481,
+    "familyName": "Roland",
+    "middleName": "",
+    "firstName": "Floyd"
   }
 }

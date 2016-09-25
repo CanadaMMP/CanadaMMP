@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "24007",
-  "englishDistrictName": "\"Beauce\"",
-  "frenchDistrictName": "\"Beauce\"",
-  "\"Conservative\"": {
-    "familyName": "\"Bernier\"",
-    "middleName": "\"\"",
-    "firstName": "\"Maxime\"",
-    "votes": 32910
+  "englishDistrictName": "Beauce",
+  "frenchDistrictName": "Beauce",
+  "Conservative": {
+    "votes": 32910,
+    "familyName": "Bernier",
+    "middleName": "",
+    "firstName": "Maxime"
   },
-  "\"Green Party\"": {
-    "familyName": "\"MacDonald\"",
-    "middleName": "\"\"",
-    "firstName": "\"Céline Brown\"",
-    "votes": 943
+  "Green Party": {
+    "votes": 943,
+    "familyName": "MacDonald",
+    "middleName": "",
+    "firstName": "Céline Brown"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Royer\"",
-    "middleName": "\"\"",
-    "firstName": "\"Daniel\"",
-    "votes": 5443
+  "NDP-New Democratic Party": {
+    "votes": 5443,
+    "familyName": "Royer",
+    "middleName": "",
+    "firstName": "Daniel"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Trudel\"",
-    "middleName": "\"\"",
-    "firstName": "\"Stéphane\"",
-    "votes": 4144
+  "Bloc Québécois": {
+    "votes": 4144,
+    "familyName": "Trudel",
+    "middleName": "",
+    "firstName": "Stéphane"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Veilleux\"",
-    "middleName": "\"\"",
-    "firstName": "\"Adam\"",
-    "votes": 12442
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 12442,
+    "familyName": "Veilleux",
+    "middleName": "",
+    "firstName": "Adam"
   }
 }

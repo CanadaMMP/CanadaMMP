@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35011",
-  "englishDistrictName": "\"Brampton South\"",
-  "frenchDistrictName": "\"Brampton-Sud\"",
-  "\"Green Party\"": {
-    "familyName": "\"Hatton\"",
-    "middleName": "\"\"",
-    "firstName": "\"Shaun\"",
-    "votes": 1011
+  "englishDistrictName": "Brampton South",
+  "frenchDistrictName": "Brampton-Sud",
+  "Green Party": {
+    "votes": 1011,
+    "familyName": "Hatton",
+    "middleName": "",
+    "firstName": "Shaun"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Sangha\"",
-    "middleName": "\"\"",
-    "firstName": "\"Amarjit\"",
-    "votes": 4843
+  "NDP-New Democratic Party": {
+    "votes": 4843,
+    "familyName": "Sangha",
+    "middleName": "",
+    "firstName": "Amarjit"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Seeback\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kyle\"",
-    "votes": 15929
+  "Conservative": {
+    "votes": 15929,
+    "familyName": "Seeback",
+    "middleName": "",
+    "firstName": "Kyle"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Sidhu\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sonia\"",
-    "votes": 23681
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 23681,
+    "familyName": "Sidhu",
+    "middleName": "",
+    "firstName": "Sonia"
   }
 }

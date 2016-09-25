@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "24001",
-  "englishDistrictName": "\"Abitibi--Baie-James--Nunavik--Eeyou\"",
-  "frenchDistrictName": "\"Abitibi--Baie-James--Nunavik--Eeyou\"",
-  "\"Green Party\"": {
-    "familyName": "\"Benoît\"",
-    "middleName": "\"\"",
-    "firstName": "\"Patrick\"",
-    "votes": 779
+  "englishDistrictName": "Abitibi--Baie-James--Nunavik--Eeyou",
+  "frenchDistrictName": "Abitibi--Baie-James--Nunavik--Eeyou",
+  "Green Party": {
+    "votes": 779,
+    "familyName": "Benoît",
+    "middleName": "",
+    "firstName": "Patrick"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Dufour\"",
-    "middleName": "\"\"",
-    "firstName": "\"Pierre\"",
-    "votes": 11094
+  "Liberal": {
+    "votes": 11094,
+    "familyName": "Dufour",
+    "middleName": "",
+    "firstName": "Pierre"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Ferland\"",
-    "middleName": "\"\"",
-    "firstName": "\"Luc\"",
-    "votes": 6398
+  "Bloc Québécois": {
+    "votes": 6398,
+    "familyName": "Ferland",
+    "middleName": "",
+    "firstName": "Luc"
   },
-  "\"Rhinoceros\"": {
-    "familyName": "\"Gagnon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mario\"",
-    "votes": 258
+  "Rhinoceros": {
+    "votes": 258,
+    "familyName": "Gagnon",
+    "middleName": "",
+    "firstName": "Mario"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Hébert\"",
-    "middleName": "\"\"",
-    "firstName": "\"Steven\"",
-    "votes": 3211
+  "Conservative": {
+    "votes": 3211,
+    "familyName": "Hébert",
+    "middleName": "",
+    "firstName": "Steven"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Saganash\"",
-    "middleName": "\"\"",
-    "firstName": "\"Romeo\"",
-    "votes": 12778
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 12778,
+    "familyName": "Saganash",
+    "middleName": "",
+    "firstName": "Romeo"
   }
 }

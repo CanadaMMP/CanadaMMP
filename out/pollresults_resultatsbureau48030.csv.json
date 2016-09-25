@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "48030",
-  "englishDistrictName": "\"Red Deer--Lacombe\"",
-  "frenchDistrictName": "\"Red Deer--Lacombe\"",
-  "\"Conservative\"": {
-    "familyName": "\"Calkins\"",
-    "middleName": "\"\"",
-    "firstName": "\"Blaine\"",
-    "votes": 43599
+  "englishDistrictName": "Red Deer--Lacombe",
+  "frenchDistrictName": "Red Deer--Lacombe",
+  "Conservative": {
+    "votes": 43599,
+    "familyName": "Calkins",
+    "middleName": "",
+    "firstName": "Blaine"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Hart\"",
-    "middleName": "\"\"",
-    "firstName": "\"Doug\"",
-    "votes": 7055
+  "NDP-New Democratic Party": {
+    "votes": 7055,
+    "familyName": "Hart",
+    "middleName": "",
+    "firstName": "Doug"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Kuzyk\"",
-    "middleName": "\"\"",
-    "firstName": "\"Les\"",
-    "votes": 1773
+  "Green Party": {
+    "votes": 1773,
+    "familyName": "Kuzyk",
+    "middleName": "",
+    "firstName": "Les"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Rock\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jeff\"",
-    "votes": 9235
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 9235,
+    "familyName": "Rock",
+    "middleName": "",
+    "firstName": "Jeff"
   }
 }

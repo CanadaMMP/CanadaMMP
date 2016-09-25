@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "35052",
-  "englishDistrictName": "\"London North Centre\"",
-  "frenchDistrictName": "\"London-Centre-Nord\"",
-  "\"Green Party\"": {
-    "familyName": "\"Dyck\"",
-    "middleName": "\"\"",
-    "firstName": "\"Carol\"",
-    "votes": 2286
+  "englishDistrictName": "London North Centre",
+  "frenchDistrictName": "London-Centre-Nord",
+  "Green Party": {
+    "votes": 2286,
+    "familyName": "Dyck",
+    "middleName": "",
+    "firstName": "Carol"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Fragiskatos\"",
-    "middleName": "\"\"",
-    "firstName": "\"Peter\"",
-    "votes": 32427
+  "Liberal": {
+    "votes": 32427,
+    "familyName": "Fragiskatos",
+    "middleName": "",
+    "firstName": "Peter"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Gutierrez\"",
-    "middleName": "\"\"",
-    "firstName": "\"German\"",
-    "votes": 9423
+  "NDP-New Democratic Party": {
+    "votes": 9423,
+    "familyName": "Gutierrez",
+    "middleName": "",
+    "firstName": "German"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Roman\"",
-    "middleName": "\"\"",
-    "firstName": "\"Marvin\"",
-    "votes": 145
+  "Marxist-Leninist": {
+    "votes": 145,
+    "familyName": "Roman",
+    "middleName": "",
+    "firstName": "Marvin"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Truppe\"",
-    "middleName": "\"\"",
-    "firstName": "\"Susan\"",
-    "votes": 19990
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 19990,
+    "familyName": "Truppe",
+    "middleName": "",
+    "firstName": "Susan"
   }
 }

@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "24052",
-  "englishDistrictName": "\"Mount Royal\"",
-  "frenchDistrictName": "\"Mont-Royal\"",
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Bossé Bélanger\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jade\"",
-    "votes": 908
+  "englishDistrictName": "Mount Royal",
+  "frenchDistrictName": "Mont-Royal",
+  "Bloc Québécois": {
+    "votes": 908,
+    "familyName": "Bossé Bélanger",
+    "middleName": "",
+    "firstName": "Jade"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Housefather\"",
-    "middleName": "\"\"",
-    "firstName": "\"Anthony\"",
-    "votes": 24187
+  "Liberal": {
+    "votes": 24187,
+    "familyName": "Housefather",
+    "middleName": "",
+    "firstName": "Anthony"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Johnston\"",
-    "middleName": "\"\"",
-    "firstName": "\"Diane\"",
-    "votes": 124
+  "Marxist-Leninist": {
+    "votes": 124,
+    "familyName": "Johnston",
+    "middleName": "",
+    "firstName": "Diane"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Landry\"",
-    "middleName": "\"\"",
-    "firstName": "\"Timothy\"",
-    "votes": 747
+  "Green Party": {
+    "votes": 747,
+    "familyName": "Landry",
+    "middleName": "",
+    "firstName": "Timothy"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Libman\"",
-    "middleName": "\"\"",
-    "firstName": "\"Robert\"",
-    "votes": 18201
+  "Conservative": {
+    "votes": 18201,
+    "familyName": "Libman",
+    "middleName": "",
+    "firstName": "Robert"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Rimbao\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mario Jacinto\"",
-    "votes": 3884
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 3884,
+    "familyName": "Rimbao",
+    "middleName": "",
+    "firstName": "Mario Jacinto"
   }
 }

@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "10005",
-  "englishDistrictName": "\"Long Range Mountains\"",
-  "frenchDistrictName": "\"Long Range Mountains\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Babstock\"",
-    "middleName": "\"\"",
-    "firstName": "\"Devon\"",
-    "votes": 4739
+  "englishDistrictName": "Long Range Mountains",
+  "frenchDistrictName": "Long Range Mountains",
+  "NDP-New Democratic Party": {
+    "votes": 4739,
+    "familyName": "Babstock",
+    "middleName": "",
+    "firstName": "Devon"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Cormier\"",
-    "middleName": "\"\"",
-    "firstName": "\"Terry\"",
-    "votes": 1111
+  "Green Party": {
+    "votes": 1111,
+    "familyName": "Cormier",
+    "middleName": "",
+    "firstName": "Terry"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Hutchings\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gudie\"",
-    "votes": 30889
+  "Liberal": {
+    "votes": 30889,
+    "familyName": "Hutchings",
+    "middleName": "",
+    "firstName": "Gudie"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Ruth\"",
-    "middleName": "\"\"",
-    "firstName": "\"Wayne\"",
-    "votes": 5085
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 5085,
+    "familyName": "Ruth",
+    "middleName": "",
+    "firstName": "Wayne"
   }
 }

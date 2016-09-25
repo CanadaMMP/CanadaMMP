@@ -1,26 +1,23 @@
 {
   "electoralDistrictNumber": "10004",
-  "englishDistrictName": "\"Labrador\"",
-  "frenchDistrictName": "\"Labrador\"",
-  "\"Liberal\"": {
-    "familyName": "\"Jones\"",
-    "middleName": "\"\"",
-    "firstName": "\"Yvonne\"",
-    "votes": 8878
+  "englishDistrictName": "Labrador",
+  "frenchDistrictName": "Labrador",
+  "Liberal": {
+    "votes": 8878,
+    "familyName": "Jones",
+    "middleName": "",
+    "firstName": "Yvonne"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Penashue\"",
-    "middleName": "\"\"",
-    "firstName": "\"Peter\"",
-    "votes": 1716
+  "Conservative": {
+    "votes": 1716,
+    "familyName": "Penashue",
+    "middleName": "",
+    "firstName": "Peter"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Rudkowski\"",
-    "middleName": "\"\"",
-    "firstName": "\"Edward\"",
-    "votes": 1779
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 1779,
+    "familyName": "Rudkowski",
+    "middleName": "",
+    "firstName": "Edward"
   }
 }

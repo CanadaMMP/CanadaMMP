@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "35101",
-  "englishDistrictName": "\"Spadina--Fort York\"",
-  "frenchDistrictName": "\"Spadina--Fort York\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Chow\"",
-    "middleName": "\"\"",
-    "firstName": "\"Olivia\"",
-    "votes": 15047
+  "englishDistrictName": "Spadina--Fort York",
+  "frenchDistrictName": "Spadina--Fort York",
+  "NDP-New Democratic Party": {
+    "votes": 15047,
+    "familyName": "Chow",
+    "middleName": "",
+    "firstName": "Olivia"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Danley\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sharon\"",
-    "votes": 1137
+  "Green Party": {
+    "votes": 1137,
+    "familyName": "Danley",
+    "middleName": "",
+    "firstName": "Sharon"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Lin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Nick\"",
-    "votes": 59
+  "Marxist-Leninist": {
+    "votes": 59,
+    "familyName": "Lin",
+    "middleName": "",
+    "firstName": "Nick"
   },
-  "\"PACT\"": {
-    "familyName": "\"Nicula\"",
-    "middleName": "\"\"",
-    "firstName": "\"Michael\"",
-    "votes": 91
+  "PACT": {
+    "votes": 91,
+    "familyName": "Nicula",
+    "middleName": "",
+    "firstName": "Michael"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Vaughan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Adam\"",
-    "votes": 30141
+  "Liberal": {
+    "votes": 30141,
+    "familyName": "Vaughan",
+    "middleName": "",
+    "firstName": "Adam"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Zuniga\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sabrina\"",
-    "votes": 8673
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 8673,
+    "familyName": "Zuniga",
+    "middleName": "",
+    "firstName": "Sabrina"
   }
 }

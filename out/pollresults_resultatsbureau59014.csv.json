@@ -1,26 +1,23 @@
 {
   "electoralDistrictNumber": "59014",
-  "englishDistrictName": "\"Kelowna--Lake Country\"",
-  "frenchDistrictName": "\"Kelowna--Lake Country\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Bowman\"",
-    "middleName": "\"\"",
-    "firstName": "\"Norah Mary\"",
-    "votes": 9039
+  "englishDistrictName": "Kelowna--Lake Country",
+  "frenchDistrictName": "Kelowna--Lake Country",
+  "NDP-New Democratic Party": {
+    "votes": 9039,
+    "familyName": "Bowman",
+    "middleName": "",
+    "firstName": "Norah Mary"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Cannan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ron\"",
-    "votes": 25502
+  "Conservative": {
+    "votes": 25502,
+    "familyName": "Cannan",
+    "middleName": "",
+    "firstName": "Ron"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Fuhr\"",
-    "middleName": "\"\"",
-    "firstName": "\"Stephen\"",
-    "votes": 29614
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 29614,
+    "familyName": "Fuhr",
+    "middleName": "",
+    "firstName": "Stephen"
   }
 }

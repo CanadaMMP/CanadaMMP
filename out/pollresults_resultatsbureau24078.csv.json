@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "24078",
-  "englishDistrictName": "\"Vimy\"",
-  "frenchDistrictName": "\"Vimy\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Duhamel\"",
-    "middleName": "\"\"",
-    "firstName": "\"France\"",
-    "votes": 11391
+  "englishDistrictName": "Vimy",
+  "frenchDistrictName": "Vimy",
+  "NDP-New Democratic Party": {
+    "votes": 11391,
+    "familyName": "Duhamel",
+    "middleName": "",
+    "firstName": "France"
   },
-  "\"Christian Heritage Party\"": {
-    "familyName": "\"Jenkins\"",
-    "middleName": "\"\"",
-    "firstName": "\"Brian\"",
-    "votes": 260
+  "Christian Heritage Party": {
+    "votes": 260,
+    "familyName": "Jenkins",
+    "middleName": "",
+    "firstName": "Brian"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Kaddouri\"",
-    "middleName": "\"\"",
-    "firstName": "\"Barek\"",
-    "votes": 9068
+  "Bloc Québécois": {
+    "votes": 9068,
+    "familyName": "Kaddouri",
+    "middleName": "",
+    "firstName": "Barek"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Mavros\"",
-    "middleName": "\"\"",
-    "firstName": "\"Anthony\"",
-    "votes": 7262
+  "Conservative": {
+    "votes": 7262,
+    "familyName": "Mavros",
+    "middleName": "",
+    "firstName": "Anthony"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Nassif\"",
-    "middleName": "\"\"",
-    "firstName": "\"Eva\"",
-    "votes": 25082
+  "Liberal": {
+    "votes": 25082,
+    "familyName": "Nassif",
+    "middleName": "",
+    "firstName": "Eva"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Núñez Melo\"",
-    "middleName": "\"\"",
-    "firstName": "\"José\"",
-    "votes": 1280
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1280,
+    "familyName": "Núñez Melo",
+    "middleName": "",
+    "firstName": "José"
   }
 }

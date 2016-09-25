@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "46002",
-  "englishDistrictName": "\"Charleswood--St. James--Assiniboia--Headingley\"",
-  "frenchDistrictName": "\"Charleswood--St. James--Assiniboia--Headingley\"",
-  "\"Liberal\"": {
-    "familyName": "\"Eyolfson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Doug\"",
-    "votes": 24531
+  "englishDistrictName": "Charleswood--St. James--Assiniboia--Headingley",
+  "frenchDistrictName": "Charleswood--St. James--Assiniboia--Headingley",
+  "Liberal": {
+    "votes": 24531,
+    "familyName": "Eyolfson",
+    "middleName": "",
+    "firstName": "Doug"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Fletcher\"",
-    "middleName": "\"\"",
-    "firstName": "\"Steven\"",
-    "votes": 18408
+  "Conservative": {
+    "votes": 18408,
+    "familyName": "Fletcher",
+    "middleName": "",
+    "firstName": "Steven"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Nichols\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kevin\"",
-    "votes": 1376
+  "Green Party": {
+    "votes": 1376,
+    "familyName": "Nichols",
+    "middleName": "",
+    "firstName": "Kevin"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Paulley\"",
-    "middleName": "\"\"",
-    "firstName": "\"Tom\"",
-    "votes": 2842
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 2842,
+    "familyName": "Paulley",
+    "middleName": "",
+    "firstName": "Tom"
   }
 }

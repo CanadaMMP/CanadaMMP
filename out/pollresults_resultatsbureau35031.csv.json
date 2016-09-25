@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "35031",
-  "englishDistrictName": "\"Glengarry--Prescott--Russell\"",
-  "frenchDistrictName": "\"Glengarry--Prescott--Russell\"",
-  "\"Libertarian\"": {
-    "familyName": "\"Brisson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jean-Serge\"",
-    "votes": 377
+  "englishDistrictName": "Glengarry--Prescott--Russell",
+  "frenchDistrictName": "Glengarry--Prescott--Russell",
+  "Libertarian": {
+    "votes": 377,
+    "familyName": "Brisson",
+    "middleName": "",
+    "firstName": "Jean-Serge"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Drouin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Francis\"",
-    "votes": 34189
+  "Liberal": {
+    "votes": 34189,
+    "familyName": "Drouin",
+    "middleName": "",
+    "firstName": "Francis"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Laurin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Normand\"",
-    "votes": 5087
+  "NDP-New Democratic Party": {
+    "votes": 5087,
+    "familyName": "Laurin",
+    "middleName": "",
+    "firstName": "Normand"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Lemieux\"",
-    "middleName": "\"\"",
-    "firstName": "\"Pierre\"",
-    "votes": 23367
+  "Conservative": {
+    "votes": 23367,
+    "familyName": "Lemieux",
+    "middleName": "",
+    "firstName": "Pierre"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Malouin-Diraddo\"",
-    "middleName": "\"\"",
-    "firstName": "\"Genevieve\"",
-    "votes": 1153
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1153,
+    "familyName": "Malouin-Diraddo",
+    "middleName": "",
+    "firstName": "Genevieve"
   }
 }

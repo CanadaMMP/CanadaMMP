@@ -1,44 +1,43 @@
 {
   "electoralDistrictNumber": "59017",
-  "englishDistrictName": "\"Mission--Matsqui--Fraser Canyon\"",
-  "frenchDistrictName": "\"Mission--Matsqui--Fraser Canyon\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Adamson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dennis\"",
-    "votes": 9174
+  "englishDistrictName": "Mission--Matsqui--Fraser Canyon",
+  "frenchDistrictName": "Mission--Matsqui--Fraser Canyon",
+  "NDP-New Democratic Party": {
+    "votes": 9174,
+    "familyName": "Adamson",
+    "middleName": "",
+    "firstName": "Dennis"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Green\"",
-    "middleName": "\"\"",
-    "firstName": "\"Arthur Alexander\"",
-    "votes": 2293
+  "Green Party": {
+    "votes": 2293,
+    "familyName": "Green",
+    "middleName": "",
+    "firstName": "Arthur Alexander"
   },
-  "\"Independent\"": {
-    "familyName": "\"Scott\"",
-    "middleName": "\"\"",
-    "firstName": "\"Wyatt\"",
-    "votes": 914
+  "Independent": {
+    "Scott": {
+      "votes": 914,
+      "familyName": "Scott",
+      "middleName": "",
+      "firstName": "Wyatt"
+    }
   },
-  "\"Liberal\"": {
-    "familyName": "\"Sidhu\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jati\"",
-    "votes": 16625
+  "Liberal": {
+    "votes": 16625,
+    "familyName": "Sidhu",
+    "middleName": "",
+    "firstName": "Jati"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Vis\"",
-    "middleName": "\"\"",
-    "firstName": "\"Brad\"",
-    "votes": 15587
+  "Conservative": {
+    "votes": 15587,
+    "familyName": "Vis",
+    "middleName": "",
+    "firstName": "Brad"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Wismer\"",
-    "middleName": "\"\"",
-    "firstName": "\"Elaine\"",
-    "votes": 58
-  },
-  "undefined": {
-    "votes": null
+  "Marxist-Leninist": {
+    "votes": 58,
+    "familyName": "Wismer",
+    "middleName": "",
+    "firstName": "Elaine"
   }
 }

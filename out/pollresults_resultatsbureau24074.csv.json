@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "24074",
-  "englishDistrictName": "\"Vaudreuil--Soulanges\"",
-  "frenchDistrictName": "\"Vaudreuil--Soulanges\"",
-  "\"Conservative\"": {
-    "familyName": "\"Boudreau\"",
-    "middleName": "\"\"",
-    "firstName": "\"Marc\"",
-    "votes": 9048
+  "englishDistrictName": "Vaudreuil--Soulanges",
+  "frenchDistrictName": "Vaudreuil--Soulanges",
+  "Conservative": {
+    "votes": 9048,
+    "familyName": "Boudreau",
+    "middleName": "",
+    "firstName": "Marc"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"François\"",
-    "middleName": "\"\"",
-    "firstName": "\"Vincent\"",
-    "votes": 9858
+  "Bloc Québécois": {
+    "votes": 9858,
+    "familyName": "François",
+    "middleName": "",
+    "firstName": "Vincent"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Kaszel\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jennifer\"",
-    "votes": 1445
+  "Green Party": {
+    "votes": 1445,
+    "familyName": "Kaszel",
+    "middleName": "",
+    "firstName": "Jennifer"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Nicholls\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jamie\"",
-    "votes": 14627
+  "NDP-New Democratic Party": {
+    "votes": 14627,
+    "familyName": "Nicholls",
+    "middleName": "",
+    "firstName": "Jamie"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Schiefke\"",
-    "middleName": "\"\"",
-    "firstName": "\"Peter\"",
-    "votes": 30550
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 30550,
+    "familyName": "Schiefke",
+    "middleName": "",
+    "firstName": "Peter"
   }
 }

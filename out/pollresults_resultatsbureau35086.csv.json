@@ -1,38 +1,37 @@
 {
   "electoralDistrictNumber": "35086",
-  "englishDistrictName": "\"Renfrew--Nipissing--Pembroke\"",
-  "frenchDistrictName": "\"Renfrew--Nipissing--Pembroke\"",
-  "\"Independent\"": {
-    "familyName": "\"Clouthier\"",
-    "middleName": "\"\"",
-    "firstName": "\"Hector\"",
-    "votes": 6300
+  "englishDistrictName": "Renfrew--Nipissing--Pembroke",
+  "frenchDistrictName": "Renfrew--Nipissing--Pembroke",
+  "Independent": {
+    "Clouthier": {
+      "votes": 6300,
+      "familyName": "Clouthier",
+      "middleName": "",
+      "firstName": "Hector"
+    }
   },
-  "\"Conservative\"": {
-    "familyName": "\"Gallant\"",
-    "middleName": "\"\"",
-    "firstName": "\"Cheryl\"",
-    "votes": 26195
+  "Conservative": {
+    "votes": 26195,
+    "familyName": "Gallant",
+    "middleName": "",
+    "firstName": "Cheryl"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Klietsch\"",
-    "middleName": "\"\"",
-    "firstName": "\"Stefan\"",
-    "votes": 1105
+  "Green Party": {
+    "votes": 1105,
+    "familyName": "Klietsch",
+    "middleName": "",
+    "firstName": "Stefan"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Lehoux\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jeff\"",
-    "votes": 18666
+  "Liberal": {
+    "votes": 18666,
+    "familyName": "Lehoux",
+    "middleName": "",
+    "firstName": "Jeff"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"McCarthy\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dan\"",
-    "votes": 4893
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 4893,
+    "familyName": "McCarthy",
+    "middleName": "",
+    "firstName": "Dan"
   }
 }

@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "35066",
-  "englishDistrictName": "\"Niagara Centre\"",
-  "frenchDistrictName": "\"Niagara-Centre\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Allen\"",
-    "middleName": "\"\"",
-    "firstName": "\"Malcolm\"",
-    "votes": 17218
+  "englishDistrictName": "Niagara Centre",
+  "frenchDistrictName": "Niagara-Centre",
+  "NDP-New Democratic Party": {
+    "votes": 17218,
+    "familyName": "Allen",
+    "middleName": "",
+    "firstName": "Malcolm"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Badawey\"",
-    "middleName": "\"\"",
-    "firstName": "\"Vance\"",
-    "votes": 19513
+  "Liberal": {
+    "votes": 19513,
+    "familyName": "Badawey",
+    "middleName": "",
+    "firstName": "Vance"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Clow\"",
-    "middleName": "\"\"",
-    "firstName": "\"David\"",
-    "votes": 1316
+  "Green Party": {
+    "votes": 1316,
+    "familyName": "Clow",
+    "middleName": "",
+    "firstName": "David"
   },
-  "\"Animal Alliance/Environment Voters\"": {
-    "familyName": "\"Di Bartolomeo\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jody\"",
-    "votes": 291
+  "Animal Alliance/Environment Voters": {
+    "votes": 291,
+    "familyName": "Di Bartolomeo",
+    "middleName": "",
+    "firstName": "Jody"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Villella\"",
-    "middleName": "\"\"",
-    "firstName": "\"Leanna\"",
-    "votes": 16248
+  "Conservative": {
+    "votes": 16248,
+    "familyName": "Villella",
+    "middleName": "",
+    "firstName": "Leanna"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Walker\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ron J.\"",
-    "votes": 96
-  },
-  "undefined": {
-    "votes": null
+  "Marxist-Leninist": {
+    "votes": 96,
+    "familyName": "Walker",
+    "middleName": "",
+    "firstName": "Ron J."
   }
 }

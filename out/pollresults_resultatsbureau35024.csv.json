@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "35024",
-  "englishDistrictName": "\"Eglinton--Lawrence\"",
-  "frenchDistrictName": "\"Eglinton--Lawrence\"",
-  "\"Animal Alliance/Environment Voters\"": {
-    "familyName": "\"Brunell Solomonovici\"",
-    "middleName": "\"\"",
-    "firstName": "\"Rudy\"",
-    "votes": 114
+  "englishDistrictName": "Eglinton--Lawrence",
+  "frenchDistrictName": "Eglinton--Lawrence",
+  "Animal Alliance/Environment Voters": {
+    "votes": 114,
+    "familyName": "Brunell Solomonovici",
+    "middleName": "",
+    "firstName": "Rudy"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Buchman\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ethan\"",
-    "votes": 308
+  "Libertarian": {
+    "votes": 308,
+    "familyName": "Buchman",
+    "middleName": "",
+    "firstName": "Ethan"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Chisholm\"",
-    "middleName": "\"\"",
-    "firstName": "\"Matthew\"",
-    "votes": 799
+  "Green Party": {
+    "votes": 799,
+    "familyName": "Chisholm",
+    "middleName": "",
+    "firstName": "Matthew"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Mendicino\"",
-    "middleName": "\"\"",
-    "firstName": "\"Marco\"",
-    "votes": 27278
+  "Liberal": {
+    "votes": 27278,
+    "familyName": "Mendicino",
+    "middleName": "",
+    "firstName": "Marco"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Oliver\"",
-    "middleName": "\"\"",
-    "firstName": "\"Joe\"",
-    "votes": 23788
+  "Conservative": {
+    "votes": 23788,
+    "familyName": "Oliver",
+    "middleName": "",
+    "firstName": "Joe"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Thomson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Andrew\"",
-    "votes": 3505
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 3505,
+    "familyName": "Thomson",
+    "middleName": "",
+    "firstName": "Andrew"
   }
 }

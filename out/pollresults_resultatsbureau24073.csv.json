@@ -1,50 +1,49 @@
 {
   "electoralDistrictNumber": "24073",
-  "englishDistrictName": "\"Sherbrooke\"",
-  "frenchDistrictName": "\"Sherbrooke\"",
-  "\"Liberal\"": {
-    "familyName": "\"Allen\"",
-    "middleName": "\"\"",
-    "firstName": "\"Thomas ''Tom''\"",
-    "votes": 17071
+  "englishDistrictName": "Sherbrooke",
+  "frenchDistrictName": "Sherbrooke",
+  "Liberal": {
+    "votes": 17071,
+    "familyName": "Allen",
+    "middleName": "",
+    "firstName": "Thomas ''Tom''"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Bouchard\"",
-    "middleName": "\"\"",
-    "firstName": "\"Caroline\"",
-    "votes": 11717
+  "Bloc Québécois": {
+    "votes": 11717,
+    "familyName": "Bouchard",
+    "middleName": "",
+    "firstName": "Caroline"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Dauphin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Marc\"",
-    "votes": 5391
+  "Conservative": {
+    "votes": 5391,
+    "familyName": "Dauphin",
+    "middleName": "",
+    "firstName": "Marc"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Dusseault\"",
-    "middleName": "\"\"",
-    "firstName": "\"Pierre-Luc\"",
-    "votes": 21410
+  "NDP-New Democratic Party": {
+    "votes": 21410,
+    "familyName": "Dusseault",
+    "middleName": "",
+    "firstName": "Pierre-Luc"
   },
-  "\"Independent\"": {
-    "familyName": "\"Huberdeau\"",
-    "middleName": "\"\"",
-    "firstName": "\"Benoit\"",
-    "votes": 303
+  "Independent": {
+    "Huberdeau": {
+      "votes": 303,
+      "familyName": "Huberdeau",
+      "middleName": "",
+      "firstName": "Benoit"
+    }
   },
-  "\"Green Party\"": {
-    "familyName": "\"Malouin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sophie\"",
-    "votes": 1143
+  "Green Party": {
+    "votes": 1143,
+    "familyName": "Malouin",
+    "middleName": "",
+    "firstName": "Sophie"
   },
-  "\"Rhinoceros\"": {
-    "familyName": "\"Richard\"",
-    "middleName": "\"\"",
-    "firstName": "\"Hubert\"",
-    "votes": 265
-  },
-  "undefined": {
-    "votes": null
+  "Rhinoceros": {
+    "votes": 265,
+    "familyName": "Richard",
+    "middleName": "",
+    "firstName": "Hubert"
   }
 }

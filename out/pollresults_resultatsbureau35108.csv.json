@@ -1,50 +1,49 @@
 {
   "electoralDistrictNumber": "35108",
-  "englishDistrictName": "\"Toronto Centre\"",
-  "frenchDistrictName": "\"Toronto-Centre\"",
-  "\"Communist\"": {
-    "familyName": "\"Ahmad\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mariam\"",
-    "votes": 133
+  "englishDistrictName": "Toronto Centre",
+  "frenchDistrictName": "Toronto-Centre",
+  "Communist": {
+    "votes": 133,
+    "familyName": "Ahmad",
+    "middleName": "",
+    "firstName": "Mariam"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Biggin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Colin\"",
-    "votes": 1315
+  "Green Party": {
+    "votes": 1315,
+    "familyName": "Biggin",
+    "middleName": "",
+    "firstName": "Colin"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Di Battista\"",
-    "middleName": "\"\"",
-    "firstName": "\"Julian\"",
-    "votes": 6167
+  "Conservative": {
+    "votes": 6167,
+    "familyName": "Di Battista",
+    "middleName": "",
+    "firstName": "Julian"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Fernandez\"",
-    "middleName": "\"\"",
-    "firstName": "\"Philip\"",
-    "votes": 76
+  "Marxist-Leninist": {
+    "votes": 76,
+    "familyName": "Fernandez",
+    "middleName": "",
+    "firstName": "Philip"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"McQuaig\"",
-    "middleName": "\"\"",
-    "firstName": "\"Linda\"",
-    "votes": 13467
+  "NDP-New Democratic Party": {
+    "votes": 13467,
+    "familyName": "McQuaig",
+    "middleName": "",
+    "firstName": "Linda"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Morneau\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bill\"",
-    "votes": 29297
+  "Liberal": {
+    "votes": 29297,
+    "familyName": "Morneau",
+    "middleName": "",
+    "firstName": "Bill"
   },
-  "\"Independent\"": {
-    "familyName": "\"Stone\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jordan\"",
-    "votes": 147
-  },
-  "undefined": {
-    "votes": null
+  "Independent": {
+    "Stone": {
+      "votes": 147,
+      "familyName": "Stone",
+      "middleName": "",
+      "firstName": "Jordan"
+    }
   }
 }

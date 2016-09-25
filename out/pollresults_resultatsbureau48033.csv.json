@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "48033",
-  "englishDistrictName": "\"Sturgeon River--Parkland\"",
-  "frenchDistrictName": "\"Sturgeon River--Parkland\"",
-  "\"Conservative\"": {
-    "familyName": "\"Ambrose\"",
-    "middleName": "\"\"",
-    "firstName": "\"Rona\"",
-    "votes": 43220
+  "englishDistrictName": "Sturgeon River--Parkland",
+  "frenchDistrictName": "Sturgeon River--Parkland",
+  "Conservative": {
+    "votes": 43220,
+    "familyName": "Ambrose",
+    "middleName": "",
+    "firstName": "Rona"
   },
-  "\"Christian Heritage Party\"": {
-    "familyName": "\"Chauvet\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ernest\"",
-    "votes": 690
+  "Christian Heritage Party": {
+    "votes": 690,
+    "familyName": "Chauvet",
+    "middleName": "",
+    "firstName": "Ernest"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Desforges\"",
-    "middleName": "\"\"",
-    "firstName": "\"Guy\"",
-    "votes": 6166
+  "NDP-New Democratic Party": {
+    "votes": 6166,
+    "familyName": "Desforges",
+    "middleName": "",
+    "firstName": "Guy"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Dueck\"",
-    "middleName": "\"\"",
-    "firstName": "\"Travis\"",
-    "votes": 9586
+  "Liberal": {
+    "votes": 9586,
+    "familyName": "Dueck",
+    "middleName": "",
+    "firstName": "Travis"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Greene\"",
-    "middleName": "\"\"",
-    "firstName": "\"Brendon\"",
-    "votes": 1875
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1875,
+    "familyName": "Greene",
+    "middleName": "",
+    "firstName": "Brendon"
   }
 }

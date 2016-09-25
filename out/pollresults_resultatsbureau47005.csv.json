@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "47005",
-  "englishDistrictName": "\"Moose Jaw--Lake Centre--Lanigan\"",
-  "frenchDistrictName": "\"Moose Jaw--Lake Centre--Lanigan\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Hlady\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dustan\"",
-    "votes": 9978
+  "englishDistrictName": "Moose Jaw--Lake Centre--Lanigan",
+  "frenchDistrictName": "Moose Jaw--Lake Centre--Lanigan",
+  "NDP-New Democratic Party": {
+    "votes": 9978,
+    "familyName": "Hlady",
+    "middleName": "",
+    "firstName": "Dustan"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Juttla\"",
-    "middleName": "\"\"",
-    "firstName": "\"Perry\"",
-    "votes": 7545
+  "Liberal": {
+    "votes": 7545,
+    "familyName": "Juttla",
+    "middleName": "",
+    "firstName": "Perry"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Lukiwski\"",
-    "middleName": "\"\"",
-    "firstName": "\"Tom\"",
-    "votes": 23273
+  "Conservative": {
+    "votes": 23273,
+    "familyName": "Lukiwski",
+    "middleName": "",
+    "firstName": "Tom"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Setyo\"",
-    "middleName": "\"\"",
-    "firstName": "\"Shawn\"",
-    "votes": 961
+  "Green Party": {
+    "votes": 961,
+    "familyName": "Setyo",
+    "middleName": "",
+    "firstName": "Shawn"
   },
-  "\"Rhinoceros\"": {
-    "familyName": "\"Thomas\"",
-    "middleName": "\"\"",
-    "firstName": "\"Robert\"",
-    "votes": 208
-  },
-  "undefined": {
-    "votes": null
+  "Rhinoceros": {
+    "votes": 208,
+    "familyName": "Thomas",
+    "middleName": "",
+    "firstName": "Robert"
   }
 }

@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "46013",
-  "englishDistrictName": "\"Winnipeg South\"",
-  "frenchDistrictName": "\"Winnipeg-Sud\"",
-  "\"Liberal\"": {
-    "familyName": "\"Duguid\"",
-    "middleName": "\"\"",
-    "firstName": "\"Terry\"",
-    "votes": 28096
+  "englishDistrictName": "Winnipeg South",
+  "frenchDistrictName": "Winnipeg-Sud",
+  "Liberal": {
+    "votes": 28096,
+    "familyName": "Duguid",
+    "middleName": "",
+    "firstName": "Terry"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Giesbrecht\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gordon\"",
-    "votes": 16709
+  "Conservative": {
+    "votes": 16709,
+    "familyName": "Giesbrecht",
+    "middleName": "",
+    "firstName": "Gordon"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Goertzen\"",
-    "middleName": "\"\"",
-    "firstName": "\"Brianne\"",
-    "votes": 2404
+  "NDP-New Democratic Party": {
+    "votes": 2404,
+    "familyName": "Goertzen",
+    "middleName": "",
+    "firstName": "Brianne"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Smith\"",
-    "middleName": "\"\"",
-    "firstName": "\"Adam\"",
-    "votes": 990
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 990,
+    "familyName": "Smith",
+    "middleName": "",
+    "firstName": "Adam"
   }
 }

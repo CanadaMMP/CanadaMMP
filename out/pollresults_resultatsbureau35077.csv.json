@@ -1,50 +1,47 @@
 {
   "electoralDistrictNumber": "35077",
-  "englishDistrictName": "\"Ottawa South\"",
-  "frenchDistrictName": "\"Ottawa-Sud\"",
-  "\"Conservative\"": {
-    "familyName": "\"Balkissoon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dev\"",
-    "votes": 15711
+  "englishDistrictName": "Ottawa South",
+  "frenchDistrictName": "Ottawa-Sud",
+  "Conservative": {
+    "votes": 15711,
+    "familyName": "Balkissoon",
+    "middleName": "",
+    "firstName": "Dev"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Brown\"",
-    "middleName": "\"\"",
-    "firstName": "\"George\"",
-    "votes": 7480
+  "NDP-New Democratic Party": {
+    "votes": 7480,
+    "familyName": "Brown",
+    "middleName": "",
+    "firstName": "George"
   },
-  "\"PC Party\"": {
-    "familyName": "\"Gullon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Al\"",
-    "votes": 366
+  "PC Party": {
+    "votes": 366,
+    "familyName": "Gullon",
+    "middleName": "",
+    "firstName": "Al"
   },
-  "\"Liberal\"": {
-    "familyName": "\"McGuinty\"",
-    "middleName": "\"\"",
-    "firstName": "\"David\"",
-    "votes": 38831
+  "Liberal": {
+    "votes": 38831,
+    "familyName": "McGuinty",
+    "middleName": "",
+    "firstName": "David"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Redins\"",
-    "middleName": "\"\"",
-    "firstName": "\"John\"",
-    "votes": 1888
+  "Green Party": {
+    "votes": 1888,
+    "familyName": "Redins",
+    "middleName": "",
+    "firstName": "John"
   },
-  "\"Communist\"": {
-    "familyName": "\"Wasslen\"",
-    "middleName": "\"\"",
-    "firstName": "\"Larry\"",
-    "votes": 136
+  "Communist": {
+    "votes": 136,
+    "familyName": "Wasslen",
+    "middleName": "",
+    "firstName": "Larry"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Wilson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Damien\"",
-    "votes": 237
-  },
-  "undefined": {
-    "votes": null
+  "Libertarian": {
+    "votes": 237,
+    "familyName": "Wilson",
+    "middleName": "",
+    "firstName": "Damien"
   }
 }

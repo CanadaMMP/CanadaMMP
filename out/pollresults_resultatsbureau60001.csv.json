@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "60001",
-  "englishDistrictName": "\"Yukon\"",
-  "frenchDistrictName": "\"Yukon\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Atkinson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Melissa\"",
-    "votes": 3943
+  "englishDistrictName": "Yukon",
+  "frenchDistrictName": "Yukon",
+  "NDP-New Democratic Party": {
+    "votes": 3943,
+    "familyName": "Atkinson",
+    "middleName": "",
+    "firstName": "Melissa"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Bagnell\"",
-    "middleName": "\"\"",
-    "firstName": "\"Larry\"",
-    "votes": 10887
+  "Liberal": {
+    "votes": 10887,
+    "familyName": "Bagnell",
+    "middleName": "",
+    "firstName": "Larry"
   },
-  "\"Green Party\"": {
-    "familyName": "\"de Jong\"",
-    "middleName": "\"\"",
-    "firstName": "\"Frank\"",
-    "votes": 533
+  "Green Party": {
+    "votes": 533,
+    "familyName": "de Jong",
+    "middleName": "",
+    "firstName": "Frank"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Leef\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ryan\"",
-    "votes": 4928
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 4928,
+    "familyName": "Leef",
+    "middleName": "",
+    "firstName": "Ryan"
   }
 }

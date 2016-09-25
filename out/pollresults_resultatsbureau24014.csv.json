@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "24014",
-  "englishDistrictName": "\"Pierre-Boucher--Les Patriotes--Verchères\"",
-  "frenchDistrictName": "\"Pierre-Boucher--Les Patriotes--Verchères\"",
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Barsalou-Duval\"",
-    "middleName": "\"\"",
-    "firstName": "\"Xavier\"",
-    "votes": 17007
+  "englishDistrictName": "Pierre-Boucher--Les Patriotes--Verchères",
+  "frenchDistrictName": "Pierre-Boucher--Les Patriotes--Verchères",
+  "Bloc Québécois": {
+    "votes": 17007,
+    "familyName": "Barsalou-Duval",
+    "middleName": "",
+    "firstName": "Xavier"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Fortin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Raphaël\"",
-    "votes": 14454
+  "NDP-New Democratic Party": {
+    "votes": 14454,
+    "familyName": "Fortin",
+    "middleName": "",
+    "firstName": "Raphaël"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Gagnon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Lucie\"",
-    "votes": 16794
+  "Liberal": {
+    "votes": 16794,
+    "familyName": "Gagnon",
+    "middleName": "",
+    "firstName": "Lucie"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Lauzon\"",
-    "middleName": "\"\"",
-    "firstName": "\"JiCi\"",
-    "votes": 5056
+  "Green Party": {
+    "votes": 5056,
+    "familyName": "Lauzon",
+    "middleName": "",
+    "firstName": "JiCi"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Maheux\"",
-    "middleName": "\"\"",
-    "firstName": "\"Clovis\"",
-    "votes": 6079
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 6079,
+    "familyName": "Maheux",
+    "middleName": "",
+    "firstName": "Clovis"
   }
 }

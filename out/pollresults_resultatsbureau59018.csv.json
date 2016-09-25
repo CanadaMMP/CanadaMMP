@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "59018",
-  "englishDistrictName": "\"Nanaimo--Ladysmith\"",
-  "frenchDistrictName": "\"Nanaimo--Ladysmith\"",
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"East\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jack\"",
-    "votes": 126
+  "englishDistrictName": "Nanaimo--Ladysmith",
+  "frenchDistrictName": "Nanaimo--Ladysmith",
+  "Marxist-Leninist": {
+    "votes": 126,
+    "familyName": "East",
+    "middleName": "",
+    "firstName": "Jack"
   },
-  "\"Conservative\"": {
-    "familyName": "\"MacDonald\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mark Allen\"",
-    "votes": 16637
+  "Conservative": {
+    "votes": 16637,
+    "familyName": "MacDonald",
+    "middleName": "",
+    "firstName": "Mark Allen"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Malcolmson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sheila\"",
-    "votes": 23651
+  "NDP-New Democratic Party": {
+    "votes": 23651,
+    "familyName": "Malcolmson",
+    "middleName": "",
+    "firstName": "Sheila"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Manly\"",
-    "middleName": "\"\"",
-    "firstName": "\"Paul\"",
-    "votes": 14074
+  "Green Party": {
+    "votes": 14074,
+    "familyName": "Manly",
+    "middleName": "",
+    "firstName": "Paul"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Tessier\"",
-    "middleName": "\"\"",
-    "firstName": "\"Tim\"",
-    "votes": 16753
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 16753,
+    "familyName": "Tessier",
+    "middleName": "",
+    "firstName": "Tim"
   }
 }

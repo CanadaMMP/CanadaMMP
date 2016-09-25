@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "24017",
-  "englishDistrictName": "\"Brossard--Saint-Lambert\"",
-  "frenchDistrictName": "\"Brossard--Saint-Lambert\"",
-  "\"Conservative\"": {
-    "familyName": "\"Hamidi\"",
-    "middleName": "\"\"",
-    "firstName": "\"Qais\"",
-    "votes": 7215
+  "englishDistrictName": "Brossard--Saint-Lambert",
+  "frenchDistrictName": "Brossard--Saint-Lambert",
+  "Conservative": {
+    "votes": 7215,
+    "familyName": "Hamidi",
+    "middleName": "",
+    "firstName": "Qais"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Hu\"",
-    "middleName": "\"\"",
-    "firstName": "\"Fang\"",
-    "votes": 1081
+  "Green Party": {
+    "votes": 1081,
+    "familyName": "Hu",
+    "middleName": "",
+    "firstName": "Fang"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Lachance\"",
-    "middleName": "\"\"",
-    "firstName": "\"Suzanne\"",
-    "votes": 6071
+  "Bloc Québécois": {
+    "votes": 6071,
+    "familyName": "Lachance",
+    "middleName": "",
+    "firstName": "Suzanne"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Mai\"",
-    "middleName": "\"\"",
-    "firstName": "\"Hoang\"",
-    "votes": 14075
+  "NDP-New Democratic Party": {
+    "votes": 14075,
+    "familyName": "Mai",
+    "middleName": "",
+    "firstName": "Hoang"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Mendès\"",
-    "middleName": "\"\"",
-    "firstName": "\"Alexandra\"",
-    "votes": 28818
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 28818,
+    "familyName": "Mendès",
+    "middleName": "",
+    "firstName": "Alexandra"
   }
 }

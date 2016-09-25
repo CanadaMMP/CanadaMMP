@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "11004",
-  "englishDistrictName": "\"Malpeque\"",
-  "frenchDistrictName": "\"Malpeque\"",
-  "\"Liberal\"": {
-    "familyName": "\"Easter\"",
-    "middleName": "\"\"",
-    "firstName": "\"Wayne\"",
-    "votes": 13950
+  "englishDistrictName": "Malpeque",
+  "frenchDistrictName": "Malpeque",
+  "Liberal": {
+    "votes": 13950,
+    "familyName": "Easter",
+    "middleName": "",
+    "firstName": "Wayne"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Hayward\"",
-    "middleName": "\"\"",
-    "firstName": "\"Leah-Jane\"",
-    "votes": 2509
+  "NDP-New Democratic Party": {
+    "votes": 2509,
+    "familyName": "Hayward",
+    "middleName": "",
+    "firstName": "Leah-Jane"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Lund\"",
-    "middleName": "\"\"",
-    "firstName": "\"Lynne\"",
-    "votes": 2066
+  "Green Party": {
+    "votes": 2066,
+    "familyName": "Lund",
+    "middleName": "",
+    "firstName": "Lynne"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Stewart\"",
-    "middleName": "\"\"",
-    "firstName": "\"Stephen\"",
-    "votes": 3947
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 3947,
+    "familyName": "Stewart",
+    "middleName": "",
+    "firstName": "Stephen"
   }
 }

@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "47014",
-  "englishDistrictName": "\"Yorkton--Melville \"",
-  "frenchDistrictName": "\"Yorkton--Melville \"",
-  "\"Green Party\"": {
-    "familyName": "\"Hughes\"",
-    "middleName": "\"\"",
-    "firstName": "\"Elaine Marie\"",
-    "votes": 1030
+  "englishDistrictName": "Yorkton--Melville ",
+  "frenchDistrictName": "Yorkton--Melville ",
+  "Green Party": {
+    "votes": 1030,
+    "familyName": "Hughes",
+    "middleName": "",
+    "firstName": "Elaine Marie"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Malinoski\"",
-    "middleName": "\"\"",
-    "firstName": "\"Brooke Taylor\"",
-    "votes": 6504
+  "Liberal": {
+    "votes": 6504,
+    "familyName": "Malinoski",
+    "middleName": "",
+    "firstName": "Brooke Taylor"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Ottenbreit\"",
-    "middleName": "\"\"",
-    "firstName": "\"Doug\"",
-    "votes": 7396
+  "NDP-New Democratic Party": {
+    "votes": 7396,
+    "familyName": "Ottenbreit",
+    "middleName": "",
+    "firstName": "Doug"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Wagantall\"",
-    "middleName": "\"\"",
-    "firstName": "\"Cathay\"",
-    "votes": 21683
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 21683,
+    "familyName": "Wagantall",
+    "middleName": "",
+    "firstName": "Cathay"
   }
 }

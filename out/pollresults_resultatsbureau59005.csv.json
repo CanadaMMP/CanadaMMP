@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "59005",
-  "englishDistrictName": "\"Central Okanagan--Similkameen--Nicola\"",
-  "frenchDistrictName": "\"Central Okanagan--Similkameen--Nicola\"",
-  "\"Conservative\"": {
-    "familyName": "\"Albas\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dan\"",
-    "votes": 24517
+  "englishDistrictName": "Central Okanagan--Similkameen--Nicola",
+  "frenchDistrictName": "Central Okanagan--Similkameen--Nicola",
+  "Conservative": {
+    "votes": 24517,
+    "familyName": "Albas",
+    "middleName": "",
+    "firstName": "Dan"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Mellalieu\"",
-    "middleName": "\"\"",
-    "firstName": "\"Robert\"",
-    "votes": 2436
+  "Green Party": {
+    "votes": 2436,
+    "familyName": "Mellalieu",
+    "middleName": "",
+    "firstName": "Robert"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Scott\"",
-    "middleName": "\"\"",
-    "firstName": "\"Karley\"",
-    "votes": 23059
+  "Liberal": {
+    "votes": 23059,
+    "familyName": "Scott",
+    "middleName": "",
+    "firstName": "Karley"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Wood\"",
-    "middleName": "\"\"",
-    "firstName": "\"Angelique\"",
-    "votes": 11961
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 11961,
+    "familyName": "Wood",
+    "middleName": "",
+    "firstName": "Angelique"
   }
 }

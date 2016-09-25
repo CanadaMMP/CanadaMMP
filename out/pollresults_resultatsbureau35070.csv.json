@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35070",
-  "englishDistrictName": "\"Nipissing--Timiskaming\"",
-  "frenchDistrictName": "\"Nipissing--Timiskaming\"",
-  "\"Conservative\"": {
-    "familyName": "\"Aspin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jay\"",
-    "votes": 14325
+  "englishDistrictName": "Nipissing--Timiskaming",
+  "frenchDistrictName": "Nipissing--Timiskaming",
+  "Conservative": {
+    "votes": 14325,
+    "familyName": "Aspin",
+    "middleName": "",
+    "firstName": "Jay"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Jodouin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kathleen\"",
-    "votes": 7936
+  "NDP-New Democratic Party": {
+    "votes": 7936,
+    "familyName": "Jodouin",
+    "middleName": "",
+    "firstName": "Kathleen"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Peltier\"",
-    "middleName": "\"\"",
-    "firstName": "\"Nicole\"",
-    "votes": 1257
+  "Green Party": {
+    "votes": 1257,
+    "familyName": "Peltier",
+    "middleName": "",
+    "firstName": "Nicole"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Rota\"",
-    "middleName": "\"\"",
-    "firstName": "\"Anthony\"",
-    "votes": 25357
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 25357,
+    "familyName": "Rota",
+    "middleName": "",
+    "firstName": "Anthony"
   }
 }

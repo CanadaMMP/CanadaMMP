@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "59023",
-  "englishDistrictName": "\"Port Moody--Coquitlam\"",
-  "frenchDistrictName": "\"Port Moody--Coquitlam\"",
-  "\"Liberal\"": {
-    "familyName": "\"Adcock\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jessie\"",
-    "votes": 16888
+  "englishDistrictName": "Port Moody--Coquitlam",
+  "frenchDistrictName": "Port Moody--Coquitlam",
+  "Liberal": {
+    "votes": 16888,
+    "familyName": "Adcock",
+    "middleName": "",
+    "firstName": "Jessie"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Donnelly\"",
-    "middleName": "\"\"",
-    "firstName": "\"Fin\"",
-    "votes": 19706
+  "NDP-New Democratic Party": {
+    "votes": 19706,
+    "familyName": "Donnelly",
+    "middleName": "",
+    "firstName": "Fin"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Laidler\"",
-    "middleName": "\"\"",
-    "firstName": "\"Tim\"",
-    "votes": 16112
+  "Conservative": {
+    "votes": 16112,
+    "familyName": "Laidler",
+    "middleName": "",
+    "firstName": "Tim"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Madsen\"",
-    "middleName": "\"\"",
-    "firstName": "\"Marcus\"",
-    "votes": 1878
+  "Green Party": {
+    "votes": 1878,
+    "familyName": "Madsen",
+    "middleName": "",
+    "firstName": "Marcus"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Verrier\"",
-    "middleName": "\"\"",
-    "firstName": "\"Roland\"",
-    "votes": 83
-  },
-  "undefined": {
-    "votes": null
+  "Marxist-Leninist": {
+    "votes": 83,
+    "familyName": "Verrier",
+    "middleName": "",
+    "firstName": "Roland"
   }
 }

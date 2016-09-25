@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "24037",
-  "englishDistrictName": "\"LaSalle--Émard--Verdun\"",
-  "frenchDistrictName": "\"LaSalle--Émard--Verdun\"",
-  "\"Green Party\"": {
-    "familyName": "\"Banville\"",
-    "middleName": "\"\"",
-    "firstName": "\"Lorraine\"",
-    "votes": 1717
+  "englishDistrictName": "LaSalle--Émard--Verdun",
+  "frenchDistrictName": "LaSalle--Émard--Verdun",
+  "Green Party": {
+    "votes": 1717,
+    "familyName": "Banville",
+    "middleName": "",
+    "firstName": "Lorraine"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Lametti\"",
-    "middleName": "\"\"",
-    "firstName": "\"David\"",
-    "votes": 23603
+  "Liberal": {
+    "votes": 23603,
+    "familyName": "Lametti",
+    "middleName": "",
+    "firstName": "David"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"LeBlanc\"",
-    "middleName": "\"\"",
-    "firstName": "\"Hélène\"",
-    "votes": 15566
+  "NDP-New Democratic Party": {
+    "votes": 15566,
+    "familyName": "LeBlanc",
+    "middleName": "",
+    "firstName": "Hélène"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Paquette\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gilbert\"",
-    "votes": 9164
+  "Bloc Québécois": {
+    "votes": 9164,
+    "familyName": "Paquette",
+    "middleName": "",
+    "firstName": "Gilbert"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Zamir\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mohammad\"",
-    "votes": 3713
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 3713,
+    "familyName": "Zamir",
+    "middleName": "",
+    "firstName": "Mohammad"
   }
 }

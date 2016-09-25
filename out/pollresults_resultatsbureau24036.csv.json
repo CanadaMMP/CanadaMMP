@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "24036",
-  "englishDistrictName": "\"Lac-Saint-Louis\"",
-  "frenchDistrictName": "\"Lac-Saint-Louis\"",
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Bernier\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gabriel\"",
-    "votes": 1681
+  "englishDistrictName": "Lac-Saint-Louis",
+  "frenchDistrictName": "Lac-Saint-Louis",
+  "Bloc Québécois": {
+    "votes": 1681,
+    "familyName": "Bernier",
+    "middleName": "",
+    "firstName": "Gabriel"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Dean\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bradford\"",
-    "votes": 1812
+  "Green Party": {
+    "votes": 1812,
+    "familyName": "Dean",
+    "middleName": "",
+    "firstName": "Bradford"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Girard\"",
-    "middleName": "\"\"",
-    "firstName": "\"Eric\"",
-    "votes": 10857
+  "Conservative": {
+    "votes": 10857,
+    "familyName": "Girard",
+    "middleName": "",
+    "firstName": "Eric"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Scarpaleggia\"",
-    "middleName": "\"\"",
-    "firstName": "\"Francis\"",
-    "votes": 39965
+  "Liberal": {
+    "votes": 39965,
+    "familyName": "Scarpaleggia",
+    "middleName": "",
+    "firstName": "Francis"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Young\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ryan\"",
-    "votes": 7997
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 7997,
+    "familyName": "Young",
+    "middleName": "",
+    "firstName": "Ryan"
   }
 }

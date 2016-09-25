@@ -1,50 +1,49 @@
 {
   "electoralDistrictNumber": "59041",
-  "englishDistrictName": "\"Victoria\"",
-  "frenchDistrictName": "\"Victoria\"",
-  "\"Independent\"": {
-    "familyName": "\"Andersen\"",
-    "middleName": "\"\"",
-    "firstName": "\"Saul\"",
-    "votes": 124
+  "englishDistrictName": "Victoria",
+  "frenchDistrictName": "Victoria",
+  "Independent": {
+    "Andersen": {
+      "votes": 124,
+      "familyName": "Andersen",
+      "middleName": "",
+      "firstName": "Saul"
+    }
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Lowe\"",
-    "middleName": "\"\"",
-    "firstName": "\"Art\"",
-    "votes": 539
+  "Libertarian": {
+    "votes": 539,
+    "familyName": "Lowe",
+    "middleName": "",
+    "firstName": "Art"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Rankin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Murray\"",
-    "votes": 30397
+  "NDP-New Democratic Party": {
+    "votes": 30397,
+    "familyName": "Rankin",
+    "middleName": "",
+    "firstName": "Murray"
   },
-  "\"Animal Alliance/Environment Voters\"": {
-    "familyName": "\"Reichert\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jordan\"",
-    "votes": 200
+  "Animal Alliance/Environment Voters": {
+    "votes": 200,
+    "familyName": "Reichert",
+    "middleName": "",
+    "firstName": "Jordan"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Rizzuti\"",
-    "middleName": "\"\"",
-    "firstName": "\"John\"",
-    "votes": 8480
+  "Conservative": {
+    "votes": 8480,
+    "familyName": "Rizzuti",
+    "middleName": "",
+    "firstName": "John"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Roberts\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jo-Ann\"",
-    "votes": 23666
+  "Green Party": {
+    "votes": 23666,
+    "familyName": "Roberts",
+    "middleName": "",
+    "firstName": "Jo-Ann"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Thomas\"",
-    "middleName": "\"\"",
-    "firstName": "\"Cheryl\"",
-    "votes": 8489
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 8489,
+    "familyName": "Thomas",
+    "middleName": "",
+    "firstName": "Cheryl"
   }
 }

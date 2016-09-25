@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "48020",
-  "englishDistrictName": "\"Edmonton West\"",
-  "frenchDistrictName": "\"Edmonton-Ouest\"",
-  "\"Green Party\"": {
-    "familyName": "\"Bryan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Pamela Leslie\"",
-    "votes": 1037
+  "englishDistrictName": "Edmonton West",
+  "frenchDistrictName": "Edmonton-Ouest",
+  "Green Party": {
+    "votes": 1037,
+    "familyName": "Bryan",
+    "middleName": "",
+    "firstName": "Pamela Leslie"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Dussault\"",
-    "middleName": "\"\"",
-    "firstName": "\"Alexander\"",
-    "votes": 341
+  "Libertarian": {
+    "votes": 341,
+    "familyName": "Dussault",
+    "middleName": "",
+    "firstName": "Alexander"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Leibovici\"",
-    "middleName": "\"\"",
-    "firstName": "\"Karen\"",
-    "votes": 18649
+  "Liberal": {
+    "votes": 18649,
+    "familyName": "Leibovici",
+    "middleName": "",
+    "firstName": "Karen"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"MacKenzie\"",
-    "middleName": "\"\"",
-    "firstName": "\"Heather\"",
-    "votes": 6955
+  "NDP-New Democratic Party": {
+    "votes": 6955,
+    "familyName": "MacKenzie",
+    "middleName": "",
+    "firstName": "Heather"
   },
-  "\"Conservative\"": {
-    "familyName": "\"McCauley\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kelly\"",
-    "votes": 26370
+  "Conservative": {
+    "votes": 26370,
+    "familyName": "McCauley",
+    "middleName": "",
+    "firstName": "Kelly"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Morton\"",
-    "middleName": "\"\"",
-    "firstName": "\"Peggy\"",
-    "votes": 105
-  },
-  "undefined": {
-    "votes": null
+  "Marxist-Leninist": {
+    "votes": 105,
+    "familyName": "Morton",
+    "middleName": "",
+    "firstName": "Peggy"
   }
 }

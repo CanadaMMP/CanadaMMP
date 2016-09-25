@@ -1,56 +1,55 @@
 {
   "electoralDistrictNumber": "59002",
-  "englishDistrictName": "\"Burnaby North--Seymour\"",
-  "frenchDistrictName": "\"Burnaby-Nord--Seymour\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Baird Ellan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Carol\"",
-    "votes": 15537
+  "englishDistrictName": "Burnaby North--Seymour",
+  "frenchDistrictName": "Burnaby-Nord--Seymour",
+  "NDP-New Democratic Party": {
+    "votes": 15537,
+    "familyName": "Baird Ellan",
+    "middleName": "",
+    "firstName": "Carol"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Beech\"",
-    "middleName": "\"\"",
-    "firstName": "\"Terry\"",
-    "votes": 18938
+  "Liberal": {
+    "votes": 18938,
+    "familyName": "Beech",
+    "middleName": "",
+    "firstName": "Terry"
   },
-  "\"Independent\"": {
-    "familyName": "\"Chang\"",
-    "middleName": "\"\"",
-    "firstName": "\"Helen Hee Soon\"",
-    "votes": 207
+  "Independent": {
+    "Chang": {
+      "votes": 207,
+      "familyName": "Chang",
+      "middleName": "",
+      "firstName": "Helen Hee Soon"
+    }
   },
-  "\"Communist\"": {
-    "familyName": "\"Jantzen\"",
-    "middleName": "\"\"",
-    "firstName": "\"Brent\"",
-    "votes": 126
+  "Communist": {
+    "votes": 126,
+    "familyName": "Jantzen",
+    "middleName": "",
+    "firstName": "Brent"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Little\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mike\"",
-    "votes": 14612
+  "Conservative": {
+    "votes": 14612,
+    "familyName": "Little",
+    "middleName": "",
+    "firstName": "Mike"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Quarmby\"",
-    "middleName": "\"\"",
-    "firstName": "\"Lynne\"",
-    "votes": 2765
+  "Green Party": {
+    "votes": 2765,
+    "familyName": "Quarmby",
+    "middleName": "",
+    "firstName": "Lynne"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Sproule\"",
-    "middleName": "\"\"",
-    "firstName": "\"Brian\"",
-    "votes": 43
+  "Marxist-Leninist": {
+    "votes": 43,
+    "familyName": "Sproule",
+    "middleName": "",
+    "firstName": "Brian"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Tylor\"",
-    "middleName": "\"\"",
-    "firstName": "\"Chris\"",
-    "votes": 252
-  },
-  "undefined": {
-    "votes": null
+  "Libertarian": {
+    "votes": 252,
+    "familyName": "Tylor",
+    "middleName": "",
+    "firstName": "Chris"
   }
 }

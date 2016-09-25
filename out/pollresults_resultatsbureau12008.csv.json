@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "12008",
-  "englishDistrictName": "\"Sackville--Preston--Chezzetcook\"",
-  "frenchDistrictName": "\"Sackville--Preston--Chezzetcook\"",
-  "\"Green Party\"": {
-    "familyName": "\"Montgomery\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mike\"",
-    "votes": 1341
+  "englishDistrictName": "Sackville--Preston--Chezzetcook",
+  "frenchDistrictName": "Sackville--Preston--Chezzetcook",
+  "Green Party": {
+    "votes": 1341,
+    "familyName": "Montgomery",
+    "middleName": "",
+    "firstName": "Mike"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Samson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Darrell\"",
-    "votes": 23161
+  "Liberal": {
+    "votes": 23161,
+    "familyName": "Samson",
+    "middleName": "",
+    "firstName": "Darrell"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Stoffer\"",
-    "middleName": "\"\"",
-    "firstName": "\"Peter\"",
-    "votes": 16613
+  "NDP-New Democratic Party": {
+    "votes": 16613,
+    "familyName": "Stoffer",
+    "middleName": "",
+    "firstName": "Peter"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Strickland\"",
-    "middleName": "\"\"",
-    "firstName": "\"Robert Thomas\"",
-    "votes": 7186
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 7186,
+    "familyName": "Strickland",
+    "middleName": "",
+    "firstName": "Robert Thomas"
   }
 }

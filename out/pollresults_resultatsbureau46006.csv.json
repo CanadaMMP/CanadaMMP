@@ -1,44 +1,43 @@
 {
   "electoralDistrictNumber": "46006",
-  "englishDistrictName": "\"Kildonan--St. Paul\"",
-  "frenchDistrictName": "\"Kildonan--St. Paul\"",
-  "\"Conservative\"": {
-    "familyName": "\"Bell\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jim\"",
-    "votes": 17478
+  "englishDistrictName": "Kildonan--St. Paul",
+  "frenchDistrictName": "Kildonan--St. Paul",
+  "Conservative": {
+    "votes": 17478,
+    "familyName": "Bell",
+    "middleName": "",
+    "firstName": "Jim"
   },
-  "\"Independent\"": {
-    "familyName": "\"Hiebert\"",
-    "middleName": "\"\"",
-    "firstName": "\"Eduard Walter\"",
-    "votes": 142
+  "Independent": {
+    "Hiebert": {
+      "votes": 142,
+      "familyName": "Hiebert",
+      "middleName": "",
+      "firstName": "Eduard Walter"
+    }
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Hrynyk\"",
-    "middleName": "\"\"",
-    "firstName": "\"Suzanne\"",
-    "votes": 6270
+  "NDP-New Democratic Party": {
+    "votes": 6270,
+    "familyName": "Hrynyk",
+    "middleName": "",
+    "firstName": "Suzanne"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Mihychuk\"",
-    "middleName": "\"\"",
-    "firstName": "\"MaryAnn\"",
-    "votes": 18717
+  "Liberal": {
+    "votes": 18717,
+    "familyName": "Mihychuk",
+    "middleName": "",
+    "firstName": "MaryAnn"
   },
-  "\"Christian Heritage Party\"": {
-    "familyName": "\"Reimer\"",
-    "middleName": "\"\"",
-    "firstName": "\"David\"",
-    "votes": 485
+  "Christian Heritage Party": {
+    "votes": 485,
+    "familyName": "Reimer",
+    "middleName": "",
+    "firstName": "David"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Stairs\"",
-    "middleName": "\"\"",
-    "firstName": "\"Steven\"",
-    "votes": 783
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 783,
+    "familyName": "Stairs",
+    "middleName": "",
+    "firstName": "Steven"
   }
 }

@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "24031",
-  "englishDistrictName": "\"Joliette\"",
-  "frenchDistrictName": "\"Joliette\"",
-  "\"Liberal\"": {
-    "familyName": "\"Bourgeois\"",
-    "middleName": "\"\"",
-    "firstName": "\"Michel\"",
-    "votes": 15995
+  "englishDistrictName": "Joliette",
+  "frenchDistrictName": "Joliette",
+  "Liberal": {
+    "votes": 15995,
+    "familyName": "Bourgeois",
+    "middleName": "",
+    "firstName": "Michel"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Eid\"",
-    "middleName": "\"\"",
-    "firstName": "\"Soheil\"",
-    "votes": 5705
+  "Conservative": {
+    "votes": 5705,
+    "familyName": "Eid",
+    "middleName": "",
+    "firstName": "Soheil"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Landreville\"",
-    "middleName": "\"\"",
-    "firstName": "\"Danielle\"",
-    "votes": 14566
+  "NDP-New Democratic Party": {
+    "votes": 14566,
+    "familyName": "Landreville",
+    "middleName": "",
+    "firstName": "Danielle"
   },
-  "\"Forces et Démocratie - Allier les forces de nos régions\"": {
-    "familyName": "\"Morais\"",
-    "middleName": "\"\"",
-    "firstName": "\"Robert D.\"",
-    "votes": 213
+  "Forces et Démocratie - Allier les forces de nos régions": {
+    "votes": 213,
+    "familyName": "Morais",
+    "middleName": "",
+    "firstName": "Robert D."
   },
-  "\"Green Party\"": {
-    "familyName": "\"Morin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mathieu\"",
-    "votes": 1335
+  "Green Party": {
+    "votes": 1335,
+    "familyName": "Morin",
+    "middleName": "",
+    "firstName": "Mathieu"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Ste-Marie\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gabriel\"",
-    "votes": 18875
-  },
-  "undefined": {
-    "votes": null
+  "Bloc Québécois": {
+    "votes": 18875,
+    "familyName": "Ste-Marie",
+    "middleName": "",
+    "firstName": "Gabriel"
   }
 }

@@ -1,50 +1,47 @@
 {
   "electoralDistrictNumber": "24077",
-  "englishDistrictName": "\"Ville-Marie--Le Sud-Ouest--Île-des-Soeurs\"",
-  "frenchDistrictName": "\"Ville-Marie--Le Sud-Ouest--Île-des-Soeurs\"",
-  "\"Green Party\"": {
-    "familyName": "\"Green\"",
-    "middleName": "\"\"",
-    "firstName": "\"Daniel\"",
-    "votes": 2398
+  "englishDistrictName": "Ville-Marie--Le Sud-Ouest--Île-des-Soeurs",
+  "frenchDistrictName": "Ville-Marie--Le Sud-Ouest--Île-des-Soeurs",
+  "Green Party": {
+    "votes": 2398,
+    "familyName": "Green",
+    "middleName": "",
+    "firstName": "Daniel"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Miller\"",
-    "middleName": "\"\"",
-    "firstName": "\"Marc\"",
-    "votes": 25491
+  "Liberal": {
+    "votes": 25491,
+    "familyName": "Miller",
+    "middleName": "",
+    "firstName": "Marc"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Shanahan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Steve\"",
-    "votes": 5948
+  "Conservative": {
+    "votes": 5948,
+    "familyName": "Shanahan",
+    "middleName": "",
+    "firstName": "Steve"
   },
-  "\"Communist\"": {
-    "familyName": "\"Sloan\"",
-    "middleName": "\"\"",
-    "firstName": "\"William\"",
-    "votes": 102
+  "Communist": {
+    "votes": 102,
+    "familyName": "Sloan",
+    "middleName": "",
+    "firstName": "William"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"St-Onge\"",
-    "middleName": "\"\"",
-    "firstName": "\"Chantal\"",
-    "votes": 4307
+  "Bloc Québécois": {
+    "votes": 4307,
+    "familyName": "St-Onge",
+    "middleName": "",
+    "firstName": "Chantal"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Turner\"",
-    "middleName": "\"\"",
-    "firstName": "\"Allison\"",
-    "votes": 11757
+  "NDP-New Democratic Party": {
+    "votes": 11757,
+    "familyName": "Turner",
+    "middleName": "",
+    "firstName": "Allison"
   },
-  "\"Rhinoceros\"": {
-    "familyName": "\"Wolfe\"",
-    "middleName": "\"\"",
-    "firstName": "\"Daniel\"",
-    "votes": 161
-  },
-  "undefined": {
-    "votes": null
+  "Rhinoceros": {
+    "votes": 161,
+    "familyName": "Wolfe",
+    "middleName": "",
+    "firstName": "Daniel"
   }
 }

@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "48024",
-  "englishDistrictName": "\"Grande Prairie--Mackenzie\"",
-  "frenchDistrictName": "\"Grande Prairie--Mackenzie\"",
-  "\"Green Party\"": {
-    "familyName": "\"Friesen\"",
-    "middleName": "\"\"",
-    "firstName": "\"James David\"",
-    "votes": 1673
+  "englishDistrictName": "Grande Prairie--Mackenzie",
+  "frenchDistrictName": "Grande Prairie--Mackenzie",
+  "Green Party": {
+    "votes": 1673,
+    "familyName": "Friesen",
+    "middleName": "",
+    "firstName": "James David"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Johnston\"",
-    "middleName": "\"\"",
-    "firstName": "\"Reagan\"",
-    "votes": 7819
+  "Liberal": {
+    "votes": 7819,
+    "familyName": "Johnston",
+    "middleName": "",
+    "firstName": "Reagan"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Mossagizi\"",
-    "middleName": "\"\"",
-    "firstName": "\"Saba\"",
-    "votes": 4343
+  "NDP-New Democratic Party": {
+    "votes": 4343,
+    "familyName": "Mossagizi",
+    "middleName": "",
+    "firstName": "Saba"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Thompson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dylan\"",
-    "votes": 613
+  "Libertarian": {
+    "votes": 613,
+    "familyName": "Thompson",
+    "middleName": "",
+    "firstName": "Dylan"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Warkentin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Chris\"",
-    "votes": 38895
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 38895,
+    "familyName": "Warkentin",
+    "middleName": "",
+    "firstName": "Chris"
   }
 }

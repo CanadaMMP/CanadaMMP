@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "11003",
-  "englishDistrictName": "\"Egmont\"",
-  "frenchDistrictName": "\"Egmont\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Dickieson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Herb\"",
-    "votes": 4097
+  "englishDistrictName": "Egmont",
+  "frenchDistrictName": "Egmont",
+  "NDP-New Democratic Party": {
+    "votes": 4097,
+    "familyName": "Dickieson",
+    "middleName": "",
+    "firstName": "Herb"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Ling\"",
-    "middleName": "\"\"",
-    "firstName": "\"Nils\"",
-    "votes": 559
+  "Green Party": {
+    "votes": 559,
+    "familyName": "Ling",
+    "middleName": "",
+    "firstName": "Nils"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Morrissey\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bobby\"",
-    "votes": 10521
+  "Liberal": {
+    "votes": 10521,
+    "familyName": "Morrissey",
+    "middleName": "",
+    "firstName": "Bobby"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Shea\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gail\"",
-    "votes": 6185
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 6185,
+    "familyName": "Shea",
+    "middleName": "",
+    "firstName": "Gail"
   }
 }

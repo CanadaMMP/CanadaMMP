@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "48028",
-  "englishDistrictName": "\"Peace River--Westlock\"",
-  "frenchDistrictName": "\"Peace River--Westlock\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Alexis\"",
-    "middleName": "\"\"",
-    "firstName": "\"Cameron\"",
-    "votes": 7127
+  "englishDistrictName": "Peace River--Westlock",
+  "frenchDistrictName": "Peace River--Westlock",
+  "NDP-New Democratic Party": {
+    "votes": 7127,
+    "familyName": "Alexis",
+    "middleName": "",
+    "firstName": "Cameron"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Brown\"",
-    "middleName": "\"\"",
-    "firstName": "\"Chris\"",
-    "votes": 6360
+  "Liberal": {
+    "votes": 6360,
+    "familyName": "Brown",
+    "middleName": "",
+    "firstName": "Chris"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Levac\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sabrina Lee\"",
-    "votes": 1247
+  "Green Party": {
+    "votes": 1247,
+    "familyName": "Levac",
+    "middleName": "",
+    "firstName": "Sabrina Lee"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Sergeew\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jeremy\"",
-    "votes": 443
+  "Libertarian": {
+    "votes": 443,
+    "familyName": "Sergeew",
+    "middleName": "",
+    "firstName": "Jeremy"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Viersen\"",
-    "middleName": "\"\"",
-    "firstName": "\"Arnold\"",
-    "votes": 34342
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 34342,
+    "familyName": "Viersen",
+    "middleName": "",
+    "firstName": "Arnold"
   }
 }

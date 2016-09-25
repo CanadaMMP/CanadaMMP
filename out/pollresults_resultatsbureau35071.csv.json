@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35071",
-  "englishDistrictName": "\"Northumberland--Peterborough South\"",
-  "frenchDistrictName": "\"Northumberland--Peterborough-Sud\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Christianson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Russ\"",
-    "votes": 9411
+  "englishDistrictName": "Northumberland--Peterborough South",
+  "frenchDistrictName": "Northumberland--Peterborough-Sud",
+  "NDP-New Democratic Party": {
+    "votes": 9411,
+    "familyName": "Christianson",
+    "middleName": "",
+    "firstName": "Russ"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Moulton\"",
-    "middleName": "\"\"",
-    "firstName": "\"Adam\"",
-    "votes": 25165
+  "Conservative": {
+    "votes": 25165,
+    "familyName": "Moulton",
+    "middleName": "",
+    "firstName": "Adam"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Rudd\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kim\"",
-    "votes": 27043
+  "Liberal": {
+    "votes": 27043,
+    "familyName": "Rudd",
+    "middleName": "",
+    "firstName": "Kim"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Sinnott\"",
-    "middleName": "\"\"",
-    "firstName": "\"Patricia\"",
-    "votes": 1990
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1990,
+    "familyName": "Sinnott",
+    "middleName": "",
+    "firstName": "Patricia"
   }
 }

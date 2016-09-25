@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "13002",
-  "englishDistrictName": "\"Beauséjour\"",
-  "frenchDistrictName": "\"Beauséjour\"",
-  "\"Conservative\"": {
-    "familyName": "\"Bastarache\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ann\"",
-    "votes": 6017
+  "englishDistrictName": "Beauséjour",
+  "frenchDistrictName": "Beauséjour",
+  "Conservative": {
+    "votes": 6017,
+    "familyName": "Bastarache",
+    "middleName": "",
+    "firstName": "Ann"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Boudreau\"",
-    "middleName": "\"\"",
-    "firstName": "\"Hélène\"",
-    "votes": 8009
+  "NDP-New Democratic Party": {
+    "votes": 8009,
+    "familyName": "Boudreau",
+    "middleName": "",
+    "firstName": "Hélène"
   },
-  "\"Green Party\"": {
-    "familyName": "\"King\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kevin\"",
-    "votes": 2376
+  "Green Party": {
+    "votes": 2376,
+    "familyName": "King",
+    "middleName": "",
+    "firstName": "Kevin"
   },
-  "\"Liberal\"": {
-    "familyName": "\"LeBlanc\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dominic\"",
-    "votes": 36534
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 36534,
+    "familyName": "LeBlanc",
+    "middleName": "",
+    "firstName": "Dominic"
   }
 }

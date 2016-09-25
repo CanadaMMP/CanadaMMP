@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "48026",
-  "englishDistrictName": "\"Lethbridge\"",
-  "frenchDistrictName": "\"Lethbridge\"",
-  "\"Christian Heritage Party\"": {
-    "familyName": "\"Capp\"",
-    "middleName": "\"\"",
-    "firstName": "\"Geoffrey\"",
-    "votes": 746
+  "englishDistrictName": "Lethbridge",
+  "frenchDistrictName": "Lethbridge",
+  "Christian Heritage Party": {
+    "votes": 746,
+    "familyName": "Capp",
+    "middleName": "",
+    "firstName": "Geoffrey"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Harder\"",
-    "middleName": "\"\"",
-    "firstName": "\"Rachael\"",
-    "votes": 32321
+  "Conservative": {
+    "votes": 32321,
+    "familyName": "Harder",
+    "middleName": "",
+    "firstName": "Rachael"
   },
-  "\"Rhinoceros\"": {
-    "familyName": "\"Krygier-Paine\"",
-    "middleName": "\"\"",
-    "firstName": "\"Solly\"",
-    "votes": 209
+  "Rhinoceros": {
+    "votes": 209,
+    "familyName": "Krygier-Paine",
+    "middleName": "",
+    "firstName": "Solly"
   },
-  "\"Green Party\"": {
-    "familyName": "\"MacMillan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kas\"",
-    "votes": 1461
+  "Green Party": {
+    "votes": 1461,
+    "familyName": "MacMillan",
+    "middleName": "",
+    "firstName": "Kas"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Meheden\"",
-    "middleName": "\"\"",
-    "firstName": "\"Cheryl\"",
-    "votes": 11674
+  "NDP-New Democratic Party": {
+    "votes": 11674,
+    "familyName": "Meheden",
+    "middleName": "",
+    "firstName": "Cheryl"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Pyne\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mike\"",
-    "votes": 10532
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 10532,
+    "familyName": "Pyne",
+    "middleName": "",
+    "firstName": "Mike"
   }
 }

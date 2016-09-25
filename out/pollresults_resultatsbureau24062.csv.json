@@ -1,44 +1,43 @@
 {
   "electoralDistrictNumber": "24062",
-  "englishDistrictName": "\"Rivière-des-Mille-Îles\"",
-  "frenchDistrictName": "\"Rivière-des-Mille-Îles\"",
-  "\"Conservative\"": {
-    "familyName": "\"Gauthier\"",
-    "middleName": "\"\"",
-    "firstName": "\"Érick\"",
-    "votes": 6099
+  "englishDistrictName": "Rivière-des-Mille-Îles",
+  "frenchDistrictName": "Rivière-des-Mille-Îles",
+  "Conservative": {
+    "votes": 6099,
+    "familyName": "Gauthier",
+    "middleName": "",
+    "firstName": "Érick"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Lapointe\"",
-    "middleName": "\"\"",
-    "firstName": "\"Linda\"",
-    "votes": 18787
+  "Liberal": {
+    "votes": 18787,
+    "familyName": "Lapointe",
+    "middleName": "",
+    "firstName": "Linda"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Liu\"",
-    "middleName": "\"\"",
-    "firstName": "\"Laurin\"",
-    "votes": 17111
+  "NDP-New Democratic Party": {
+    "votes": 17111,
+    "familyName": "Liu",
+    "middleName": "",
+    "firstName": "Laurin"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Pinel\"",
-    "middleName": "\"\"",
-    "firstName": "\"Félix\"",
-    "votes": 14755
+  "Bloc Québécois": {
+    "votes": 14755,
+    "familyName": "Pinel",
+    "middleName": "",
+    "firstName": "Félix"
   },
-  "\"Independent\"": {
-    "familyName": "\"Quinteros\"",
-    "middleName": "\"\"",
-    "firstName": "\"Luis\"",
-    "votes": 158
+  "Independent": {
+    "Quinteros": {
+      "votes": 158,
+      "familyName": "Quinteros",
+      "middleName": "",
+      "firstName": "Luis"
+    }
   },
-  "\"Green Party\"": {
-    "familyName": "\"Ware\"",
-    "middleName": "\"\"",
-    "firstName": "\"Alec\"",
-    "votes": 1136
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1136,
+    "familyName": "Ware",
+    "middleName": "",
+    "firstName": "Alec"
   }
 }

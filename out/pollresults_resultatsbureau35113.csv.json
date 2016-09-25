@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "35113",
-  "englishDistrictName": "\"Wellington--Halton Hills\"",
-  "frenchDistrictName": "\"Wellington--Halton Hills\"",
-  "\"CAP\"": {
-    "familyName": "\"Anstey\"",
-    "middleName": "\"\"",
-    "firstName": "\"Harvey Edward\"",
-    "votes": 183
+  "englishDistrictName": "Wellington--Halton Hills",
+  "frenchDistrictName": "Wellington--Halton Hills",
+  "CAP": {
+    "votes": 183,
+    "familyName": "Anstey",
+    "middleName": "",
+    "firstName": "Harvey Edward"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Bouteiller\"",
-    "middleName": "\"\"",
-    "firstName": "\"Brent Allan\"",
-    "votes": 2547
+  "Green Party": {
+    "votes": 2547,
+    "familyName": "Bouteiller",
+    "middleName": "",
+    "firstName": "Brent Allan"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Chong\"",
-    "middleName": "\"\"",
-    "firstName": "\"Michael\"",
-    "votes": 32482
+  "Conservative": {
+    "votes": 32482,
+    "familyName": "Chong",
+    "middleName": "",
+    "firstName": "Michael"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Gajerski-Cauley\"",
-    "middleName": "\"\"",
-    "firstName": "\"Anne\"",
-    "votes": 5321
+  "NDP-New Democratic Party": {
+    "votes": 5321,
+    "familyName": "Gajerski-Cauley",
+    "middleName": "",
+    "firstName": "Anne"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Trant\"",
-    "middleName": "\"\"",
-    "firstName": "\"Don\"",
-    "votes": 23279
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 23279,
+    "familyName": "Trant",
+    "middleName": "",
+    "firstName": "Don"
   }
 }

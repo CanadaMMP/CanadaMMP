@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "24018",
-  "englishDistrictName": "\"Rimouski-Neigette--Témiscouata--Les Basques\"",
-  "frenchDistrictName": "\"Rimouski-Neigette--Témiscouata--Les Basques\"",
-  "\"Green Party\"": {
-    "familyName": "\"Boutin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Louise\"",
-    "votes": 669
+  "englishDistrictName": "Rimouski-Neigette--Témiscouata--Les Basques",
+  "frenchDistrictName": "Rimouski-Neigette--Témiscouata--Les Basques",
+  "Green Party": {
+    "votes": 669,
+    "familyName": "Boutin",
+    "middleName": "",
+    "firstName": "Louise"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Cadieux\"",
-    "middleName": "\"\"",
-    "firstName": "\"Pierre\"",
-    "votes": 12594
+  "Liberal": {
+    "votes": 12594,
+    "familyName": "Cadieux",
+    "middleName": "",
+    "firstName": "Pierre"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Carignan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Johanne\"",
-    "votes": 8673
+  "Bloc Québécois": {
+    "votes": 8673,
+    "familyName": "Carignan",
+    "middleName": "",
+    "firstName": "Johanne"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Caron\"",
-    "middleName": "\"\"",
-    "firstName": "\"Guy\"",
-    "votes": 19374
+  "NDP-New Democratic Party": {
+    "votes": 19374,
+    "familyName": "Caron",
+    "middleName": "",
+    "firstName": "Guy"
   },
-  "\"Rhinoceros\"": {
-    "familyName": "\"Côrriveau\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sébastien CôRhino\"",
-    "votes": 273
+  "Rhinoceros": {
+    "votes": 273,
+    "familyName": "Côrriveau",
+    "middleName": "",
+    "firstName": "Sébastien CôRhino"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Fortin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Francis\"",
-    "votes": 3363
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 3363,
+    "familyName": "Fortin",
+    "middleName": "",
+    "firstName": "Francis"
   }
 }

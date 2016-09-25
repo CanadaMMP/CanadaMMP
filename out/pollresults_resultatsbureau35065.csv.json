@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "35065",
-  "englishDistrictName": "\"Newmarket--Aurora\"",
-  "frenchDistrictName": "\"Newmarket--Aurora\"",
-  "\"PC Party\"": {
-    "familyName": "\"Baxter\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dorian\"",
-    "votes": 762
+  "englishDistrictName": "Newmarket--Aurora",
+  "frenchDistrictName": "Newmarket--Aurora",
+  "PC Party": {
+    "votes": 762,
+    "familyName": "Baxter",
+    "middleName": "",
+    "firstName": "Dorian"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Brown\"",
-    "middleName": "\"\"",
-    "firstName": "\"Lois\"",
-    "votes": 24057
+  "Conservative": {
+    "votes": 24057,
+    "familyName": "Brown",
+    "middleName": "",
+    "firstName": "Lois"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Kelly\"",
-    "middleName": "\"\"",
-    "firstName": "\"Yvonne\"",
-    "votes": 4806
+  "NDP-New Democratic Party": {
+    "votes": 4806,
+    "familyName": "Kelly",
+    "middleName": "",
+    "firstName": "Yvonne"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Long\"",
-    "middleName": "\"\"",
-    "firstName": "\"Vanessa\"",
-    "votes": 1331
+  "Green Party": {
+    "votes": 1331,
+    "familyName": "Long",
+    "middleName": "",
+    "firstName": "Vanessa"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Peterson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kyle\"",
-    "votes": 25508
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 25508,
+    "familyName": "Peterson",
+    "middleName": "",
+    "firstName": "Kyle"
   }
 }

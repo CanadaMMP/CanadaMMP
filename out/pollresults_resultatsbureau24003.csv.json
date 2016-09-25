@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "24003",
-  "englishDistrictName": "\"Ahuntsic-Cartierville\"",
-  "frenchDistrictName": "\"Ahuntsic-Cartierville\"",
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Bourdon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Nicolas\"",
-    "votes": 7346
+  "englishDistrictName": "Ahuntsic-Cartierville",
+  "frenchDistrictName": "Ahuntsic-Cartierville",
+  "Bloc Québécois": {
+    "votes": 7346,
+    "familyName": "Bourdon",
+    "middleName": "",
+    "firstName": "Nicolas"
   },
-  "\"Rhinoceros\"": {
-    "familyName": "\"Gascon-David\"",
-    "middleName": "\"\"",
-    "firstName": "\"Catherine\"",
-    "votes": 285
+  "Rhinoceros": {
+    "votes": 285,
+    "familyName": "Gascon-David",
+    "middleName": "",
+    "firstName": "Catherine"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Joly\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mélanie\"",
-    "votes": 26026
+  "Liberal": {
+    "votes": 26026,
+    "familyName": "Joly",
+    "middleName": "",
+    "firstName": "Mélanie"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Mercier\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gilles\"",
-    "votes": 1175
+  "Green Party": {
+    "votes": 1175,
+    "familyName": "Mercier",
+    "middleName": "",
+    "firstName": "Gilles"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Moughrabi\"",
-    "middleName": "\"\"",
-    "firstName": "\"Wiliam\"",
-    "votes": 4051
+  "Conservative": {
+    "votes": 4051,
+    "familyName": "Moughrabi",
+    "middleName": "",
+    "firstName": "Wiliam"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Mourani\"",
-    "middleName": "\"\"",
-    "firstName": "\"Maria\"",
-    "votes": 16684
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 16684,
+    "familyName": "Mourani",
+    "middleName": "",
+    "firstName": "Maria"
   }
 }

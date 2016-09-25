@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "35053",
-  "englishDistrictName": "\"London West\"",
-  "frenchDistrictName": "\"London-Ouest\"",
-  "\"Libertarian\"": {
-    "familyName": "\"Boudreau\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jacques Y.\"",
-    "votes": 732
+  "englishDistrictName": "London West",
+  "frenchDistrictName": "London-Ouest",
+  "Libertarian": {
+    "votes": 732,
+    "familyName": "Boudreau",
+    "middleName": "",
+    "firstName": "Jacques Y."
   },
-  "\"Conservative\"": {
-    "familyName": "\"Holder\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ed\"",
-    "votes": 24036
+  "Conservative": {
+    "votes": 24036,
+    "familyName": "Holder",
+    "middleName": "",
+    "firstName": "Ed"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Lascaris\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dimitri\"",
-    "votes": 1918
+  "Green Party": {
+    "votes": 1918,
+    "familyName": "Lascaris",
+    "middleName": "",
+    "firstName": "Dimitri"
   },
-  "\"Communist\"": {
-    "familyName": "\"Lewis\"",
-    "middleName": "\"\"",
-    "firstName": "\"Michael\"",
-    "votes": 87
+  "Communist": {
+    "votes": 87,
+    "familyName": "Lewis",
+    "middleName": "",
+    "firstName": "Michael"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Rowlinson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Matthew\"",
-    "votes": 10087
+  "NDP-New Democratic Party": {
+    "votes": 10087,
+    "familyName": "Rowlinson",
+    "middleName": "",
+    "firstName": "Matthew"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Young\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kate\"",
-    "votes": 31167
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 31167,
+    "familyName": "Young",
+    "middleName": "",
+    "firstName": "Kate"
   }
 }

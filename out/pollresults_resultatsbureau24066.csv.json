@@ -1,44 +1,43 @@
 {
   "electoralDistrictNumber": "24066",
-  "englishDistrictName": "\"Saint-Hyacinthe--Bagot\"",
-  "frenchDistrictName": "\"Saint-Hyacinthe--Bagot\"",
-  "\"Green Party\"": {
-    "familyName": "\"Durand\"",
-    "middleName": "\"\"",
-    "firstName": "\"Lise\"",
-    "votes": 1243
+  "englishDistrictName": "Saint-Hyacinthe--Bagot",
+  "frenchDistrictName": "Saint-Hyacinthe--Bagot",
+  "Green Party": {
+    "votes": 1243,
+    "familyName": "Durand",
+    "middleName": "",
+    "firstName": "Lise"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Filion\"",
-    "middleName": "\"\"",
-    "firstName": "\"Michel\"",
-    "votes": 13200
+  "Bloc Québécois": {
+    "votes": 13200,
+    "familyName": "Filion",
+    "middleName": "",
+    "firstName": "Michel"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Léveillé\"",
-    "middleName": "\"\"",
-    "firstName": "\"Réjean\"",
-    "votes": 9098
+  "Conservative": {
+    "votes": 9098,
+    "familyName": "Léveillé",
+    "middleName": "",
+    "firstName": "Réjean"
   },
-  "\"Independent\"": {
-    "familyName": "\"Ménard\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ugo\"",
-    "votes": 270
+  "Independent": {
+    "Ménard": {
+      "votes": 270,
+      "familyName": "Ménard",
+      "middleName": "",
+      "firstName": "Ugo"
+    }
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Sansoucy\"",
-    "middleName": "\"\"",
-    "firstName": "\"Brigitte\"",
-    "votes": 15578
+  "NDP-New Democratic Party": {
+    "votes": 15578,
+    "familyName": "Sansoucy",
+    "middleName": "",
+    "firstName": "Brigitte"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Vincelette\"",
-    "middleName": "\"\"",
-    "firstName": "\"René\"",
-    "votes": 14980
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 14980,
+    "familyName": "Vincelette",
+    "middleName": "",
+    "firstName": "René"
   }
 }

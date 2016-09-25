@@ -1,50 +1,47 @@
 {
   "electoralDistrictNumber": "35032",
-  "englishDistrictName": "\"Guelph\"",
-  "frenchDistrictName": "\"Guelph\"",
-  "\"Communist\"": {
-    "familyName": "\"Dineen\"",
-    "middleName": "\"\"",
-    "firstName": "\"Tristan\"",
-    "votes": 144
+  "englishDistrictName": "Guelph",
+  "frenchDistrictName": "Guelph",
+  "Communist": {
+    "votes": 144,
+    "familyName": "Dineen",
+    "middleName": "",
+    "firstName": "Tristan"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Fekri\"",
-    "middleName": "\"\"",
-    "firstName": "\"Alexander\"",
-    "votes": 520
+  "Libertarian": {
+    "votes": 520,
+    "familyName": "Fekri",
+    "middleName": "",
+    "firstName": "Alexander"
   },
-  "\"Radical Marijuana\"": {
-    "familyName": "\"Klevering\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kornelis\"",
-    "votes": 193
+  "Radical Marijuana": {
+    "votes": 193,
+    "familyName": "Klevering",
+    "middleName": "",
+    "firstName": "Kornelis"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Kovach\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gloria\"",
-    "votes": 18407
+  "Conservative": {
+    "votes": 18407,
+    "familyName": "Kovach",
+    "middleName": "",
+    "firstName": "Gloria"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Longfield\"",
-    "middleName": "\"\"",
-    "firstName": "\"Lloyd\"",
-    "votes": 34303
+  "Liberal": {
+    "votes": 34303,
+    "familyName": "Longfield",
+    "middleName": "",
+    "firstName": "Lloyd"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Miller\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gord\"",
-    "votes": 7909
+  "Green Party": {
+    "votes": 7909,
+    "familyName": "Miller",
+    "middleName": "",
+    "firstName": "Gord"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Seagram\"",
-    "middleName": "\"\"",
-    "firstName": "\"Andrew\"",
-    "votes": 8392
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 8392,
+    "familyName": "Seagram",
+    "middleName": "",
+    "firstName": "Andrew"
   }
 }

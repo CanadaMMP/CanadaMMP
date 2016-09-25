@@ -1,44 +1,43 @@
 {
   "electoralDistrictNumber": "35016",
-  "englishDistrictName": "\"Cambridge\"",
-  "frenchDistrictName": "\"Cambridge\"",
-  "\"Green Party\"": {
-    "familyName": "\"Braniff\"",
-    "middleName": "\"\"",
-    "firstName": "\"Michele\"",
-    "votes": 1723
+  "englishDistrictName": "Cambridge",
+  "frenchDistrictName": "Cambridge",
+  "Green Party": {
+    "votes": 1723,
+    "familyName": "Braniff",
+    "middleName": "",
+    "firstName": "Michele"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Couto\"",
-    "middleName": "\"\"",
-    "firstName": "\"Manuel\"",
-    "votes": 108
+  "Marxist-Leninist": {
+    "votes": 108,
+    "familyName": "Couto",
+    "middleName": "",
+    "firstName": "Manuel"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Goodyear\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gary\"",
-    "votes": 20613
+  "Conservative": {
+    "votes": 20613,
+    "familyName": "Goodyear",
+    "middleName": "",
+    "firstName": "Gary"
   },
-  "\"Liberal\"": {
-    "familyName": "\"May\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bryan\"",
-    "votes": 23024
+  "Liberal": {
+    "votes": 23024,
+    "familyName": "May",
+    "middleName": "",
+    "firstName": "Bryan"
   },
-  "\"Independent\"": {
-    "familyName": "\"Sperduti\"",
-    "middleName": "\"\"",
-    "firstName": "\"Lee\"",
-    "votes": 474
+  "Independent": {
+    "Sperduti": {
+      "votes": 474,
+      "familyName": "Sperduti",
+      "middleName": "",
+      "firstName": "Lee"
+    }
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Stewart\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bobbi\"",
-    "votes": 7397
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 7397,
+    "familyName": "Stewart",
+    "middleName": "",
+    "firstName": "Bobbi"
   }
 }

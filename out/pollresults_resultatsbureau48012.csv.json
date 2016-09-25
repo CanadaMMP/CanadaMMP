@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "48012",
-  "englishDistrictName": "\"Calgary Signal Hill\"",
-  "frenchDistrictName": "\"Calgary Signal Hill\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Ahmed\"",
-    "middleName": "\"\"",
-    "firstName": "\"Khalis\"",
-    "votes": 3128
+  "englishDistrictName": "Calgary Signal Hill",
+  "frenchDistrictName": "Calgary Signal Hill",
+  "NDP-New Democratic Party": {
+    "votes": 3128,
+    "familyName": "Ahmed",
+    "middleName": "",
+    "firstName": "Khalis"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Cundal\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kerry\"",
-    "votes": 19108
+  "Liberal": {
+    "votes": 19108,
+    "familyName": "Cundal",
+    "middleName": "",
+    "firstName": "Kerry"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Knorren\"",
-    "middleName": "\"\"",
-    "firstName": "\"Taryn\"",
-    "votes": 1586
+  "Green Party": {
+    "votes": 1586,
+    "familyName": "Knorren",
+    "middleName": "",
+    "firstName": "Taryn"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Liepert\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ron\"",
-    "votes": 37858
+  "Conservative": {
+    "votes": 37858,
+    "familyName": "Liepert",
+    "middleName": "",
+    "firstName": "Ron"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Moen\"",
-    "middleName": "\"\"",
-    "firstName": "\"Tim\"",
-    "votes": 679
+  "Libertarian": {
+    "votes": 679,
+    "familyName": "Moen",
+    "middleName": "",
+    "firstName": "Tim"
   },
-  "\"Christian Heritage Party\"": {
-    "familyName": "\"Rau\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jesse\"",
-    "votes": 160
-  },
-  "undefined": {
-    "votes": null
+  "Christian Heritage Party": {
+    "votes": 160,
+    "familyName": "Rau",
+    "middleName": "",
+    "firstName": "Jesse"
   }
 }

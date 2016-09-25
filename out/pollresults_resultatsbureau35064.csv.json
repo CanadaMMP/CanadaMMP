@@ -1,44 +1,55 @@
 {
   "electoralDistrictNumber": "35064",
-  "englishDistrictName": "\"Nepean\"",
-  "frenchDistrictName": "\"Nepean\"",
-  "\"Liberal\"": {
-    "familyName": "\"Arya\"",
-    "middleName": "\"\"",
-    "firstName": "\"Chandra\"",
-    "votes": 34017
+  "englishDistrictName": "Nepean",
+  "frenchDistrictName": "Nepean",
+  "Liberal": {
+    "votes": 34017,
+    "familyName": "Arya",
+    "middleName": "",
+    "firstName": "Chandra"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Cooke\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jean-Luc Roger\"",
-    "votes": 1513
+  "Green Party": {
+    "votes": 1513,
+    "familyName": "Cooke",
+    "middleName": "",
+    "firstName": "Jean-Luc Roger"
   },
-  "\"Independent\"": {
-    "familyName": "\"Cosico\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jesus\"",
-    "votes": 551
+  "Independent": {
+    "Cosico": {
+      "votes": 416,
+      "familyName": "Cosico",
+      "middleName": "",
+      "firstName": "Jesus"
+    },
+    "Mamba": {
+      "votes": 69,
+      "familyName": "Mamba",
+      "middleName": "",
+      "firstName": "Hubert"
+    },
+    "Splett": {
+      "votes": 66,
+      "familyName": "Splett",
+      "middleName": "",
+      "firstName": "Harry"
+    }
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Devine\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sean\"",
-    "votes": 5324
+  "NDP-New Democratic Party": {
+    "votes": 5324,
+    "familyName": "Devine",
+    "middleName": "",
+    "firstName": "Sean"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Seed\"",
-    "middleName": "\"\"",
-    "firstName": "\"Tony\"",
-    "votes": 41
+  "Marxist-Leninist": {
+    "votes": 41,
+    "familyName": "Seed",
+    "middleName": "",
+    "firstName": "Tony"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Wang\"",
-    "middleName": "\"\"",
-    "firstName": "\"Andy\"",
-    "votes": 23442
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 23442,
+    "familyName": "Wang",
+    "middleName": "",
+    "firstName": "Andy"
   }
 }

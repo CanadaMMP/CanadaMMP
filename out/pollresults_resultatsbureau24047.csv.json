@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "24047",
-  "englishDistrictName": "\"Mégantic--L'Érable\"",
-  "frenchDistrictName": "\"Mégantic--L'Érable\"",
-  "\"Liberal\"": {
-    "familyName": "\"Berthiaume\"",
-    "middleName": "\"\"",
-    "firstName": "\"David\"",
-    "votes": 13308
+  "englishDistrictName": "Mégantic--L'Érable",
+  "frenchDistrictName": "Mégantic--L'Érable",
+  "Liberal": {
+    "votes": 13308,
+    "familyName": "Berthiaume",
+    "middleName": "",
+    "firstName": "David"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Berthold\"",
-    "middleName": "\"\"",
-    "firstName": "\"Luc\"",
-    "votes": 16749
+  "Conservative": {
+    "votes": 16749,
+    "familyName": "Berthold",
+    "middleName": "",
+    "firstName": "Luc"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Delisle\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jean-François\"",
-    "votes": 10386
+  "NDP-New Democratic Party": {
+    "votes": 10386,
+    "familyName": "Delisle",
+    "middleName": "",
+    "firstName": "Jean-François"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Gervais\"",
-    "middleName": "\"\"",
-    "firstName": "\"Justin\"",
-    "votes": 1006
+  "Green Party": {
+    "votes": 1006,
+    "familyName": "Gervais",
+    "middleName": "",
+    "firstName": "Justin"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Provost\"",
-    "middleName": "\"\"",
-    "firstName": "\"Virginie\"",
-    "votes": 5838
-  },
-  "undefined": {
-    "votes": null
+  "Bloc Québécois": {
+    "votes": 5838,
+    "familyName": "Provost",
+    "middleName": "",
+    "firstName": "Virginie"
   }
 }

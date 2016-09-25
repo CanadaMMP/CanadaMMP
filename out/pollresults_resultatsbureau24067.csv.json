@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "24067",
-  "englishDistrictName": "\"Saint-Jean\"",
-  "frenchDistrictName": "\"Saint-Jean\"",
-  "\"Conservative\"": {
-    "familyName": "\"Guinta\"",
-    "middleName": "\"\"",
-    "firstName": "\"Stéphane\"",
-    "votes": 6549
+  "englishDistrictName": "Saint-Jean",
+  "frenchDistrictName": "Saint-Jean",
+  "Conservative": {
+    "votes": 6549,
+    "familyName": "Guinta",
+    "middleName": "",
+    "firstName": "Stéphane"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Hurtubise\"",
-    "middleName": "\"\"",
-    "firstName": "\"Denis\"",
-    "votes": 14979
+  "Bloc Québécois": {
+    "votes": 14979,
+    "familyName": "Hurtubise",
+    "middleName": "",
+    "firstName": "Denis"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Marotte\"",
-    "middleName": "\"\"",
-    "firstName": "\"Hans\"",
-    "votes": 17555
+  "NDP-New Democratic Party": {
+    "votes": 17555,
+    "familyName": "Marotte",
+    "middleName": "",
+    "firstName": "Hans"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Redivo\"",
-    "middleName": "\"\"",
-    "firstName": "\"Marilyn\"",
-    "votes": 1281
+  "Green Party": {
+    "votes": 1281,
+    "familyName": "Redivo",
+    "middleName": "",
+    "firstName": "Marilyn"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Rioux\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jean\"",
-    "votes": 20022
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 20022,
+    "familyName": "Rioux",
+    "middleName": "",
+    "firstName": "Jean"
   }
 }

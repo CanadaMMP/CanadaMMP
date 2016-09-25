@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35015",
-  "englishDistrictName": "\"Burlington\"",
-  "frenchDistrictName": "\"Burlington\"",
-  "\"Green Party\"": {
-    "familyName": "\"Fiorito\"",
-    "middleName": "\"\"",
-    "firstName": "\"Vince\"",
-    "votes": 1710
+  "englishDistrictName": "Burlington",
+  "frenchDistrictName": "Burlington",
+  "Green Party": {
+    "votes": 1710,
+    "familyName": "Fiorito",
+    "middleName": "",
+    "firstName": "Vince"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Gould\"",
-    "middleName": "\"\"",
-    "firstName": "\"Karina\"",
-    "votes": 32229
+  "Liberal": {
+    "votes": 32229,
+    "familyName": "Gould",
+    "middleName": "",
+    "firstName": "Karina"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Laird\"",
-    "middleName": "\"\"",
-    "firstName": "\"David\"",
-    "votes": 6381
+  "NDP-New Democratic Party": {
+    "votes": 6381,
+    "familyName": "Laird",
+    "middleName": "",
+    "firstName": "David"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Wallace\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mike\"",
-    "votes": 29780
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 29780,
+    "familyName": "Wallace",
+    "middleName": "",
+    "firstName": "Mike"
   }
 }

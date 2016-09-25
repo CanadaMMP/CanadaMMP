@@ -1,62 +1,67 @@
 {
   "electoralDistrictNumber": "24055",
-  "englishDistrictName": "\"Papineau\"",
-  "frenchDistrictName": "\"Papineau\"",
-  "\"No Affiliation\"": {
-    "familyName": "\"Bernardo\"",
-    "middleName": "\"\"",
-    "firstName": "\"Beverly\"",
-    "votes": 103
+  "englishDistrictName": "Papineau",
+  "frenchDistrictName": "Papineau",
+  "Independent": {
+    "Bernardo": {
+      "votes": 103,
+      "familyName": "Bernardo",
+      "middleName": "",
+      "firstName": "Beverly"
+    },
+    "Lloyd": {
+      "votes": 505,
+      "familyName": "Lloyd",
+      "middleName": "",
+      "firstName": "Chris"
+    },
+    "Waldron": {
+      "votes": 159,
+      "familyName": "Waldron",
+      "middleName": "",
+      "firstName": "Kim"
+    }
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Claveau\"",
-    "middleName": "\"\"",
-    "firstName": "\"Maxime\"",
-    "votes": 6182
+  "Bloc Québécois": {
+    "votes": 6182,
+    "familyName": "Claveau",
+    "middleName": "",
+    "firstName": "Maxime"
   },
-  "\"Rhinoceros\"": {
-    "familyName": "\"Gaudet\"",
-    "middleName": "\"\"",
-    "firstName": "\"Tommy\"",
-    "votes": 323
+  "Rhinoceros": {
+    "votes": 323,
+    "familyName": "Gaudet",
+    "middleName": "",
+    "firstName": "Tommy"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Lagacé Dowson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Anne\"",
-    "votes": 13132
+  "NDP-New Democratic Party": {
+    "votes": 13132,
+    "familyName": "Lagacé Dowson",
+    "middleName": "",
+    "firstName": "Anne"
   },
-  "\"Independent\"": {
-    "familyName": "\"Lloyd\"",
-    "middleName": "\"\"",
-    "firstName": "\"Chris\"",
-    "votes": 664
+  "Marxist-Leninist": {
+    "votes": 142,
+    "familyName": "Macrisopoulos",
+    "middleName": "",
+    "firstName": "Peter"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Macrisopoulos\"",
-    "middleName": "\"\"",
-    "firstName": "\"Peter\"",
-    "votes": 142
+  "Green Party": {
+    "votes": 1443,
+    "familyName": "Polifroni",
+    "middleName": "",
+    "firstName": "Danny"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Polifroni\"",
-    "middleName": "\"\"",
-    "firstName": "\"Danny\"",
-    "votes": 1443
+  "Liberal": {
+    "votes": 26391,
+    "familyName": "Trudeau",
+    "middleName": "",
+    "firstName": "Justin"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Trudeau\"",
-    "middleName": "\"\"",
-    "firstName": "\"Justin\"",
-    "votes": 26391
-  },
-  "\"Conservative\"": {
-    "familyName": "\"Vadnais\"",
-    "middleName": "\"\"",
-    "firstName": "\"Yvon\"",
-    "votes": 2390
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 2390,
+    "familyName": "Vadnais",
+    "middleName": "",
+    "firstName": "Yvon"
   }
 }

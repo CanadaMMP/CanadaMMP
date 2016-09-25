@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "24069",
-  "englishDistrictName": "\"Saint-Léonard--Saint-Michel\"",
-  "frenchDistrictName": "\"Saint-Léonard--Saint-Michel\"",
-  "\"Liberal\"": {
-    "familyName": "\"Di Iorio\"",
-    "middleName": "\"\"",
-    "firstName": "\"Nicola\"",
-    "votes": 28826
+  "englishDistrictName": "Saint-Léonard--Saint-Michel",
+  "frenchDistrictName": "Saint-Léonard--Saint-Michel",
+  "Liberal": {
+    "votes": 28826,
+    "familyName": "Di Iorio",
+    "middleName": "",
+    "firstName": "Nicola"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Filato\"",
-    "middleName": "\"\"",
-    "firstName": "\"Rosannie\"",
-    "votes": 6611
+  "NDP-New Democratic Party": {
+    "votes": 6611,
+    "familyName": "Filato",
+    "middleName": "",
+    "firstName": "Rosannie"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Fournier\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jean Philippe\"",
-    "votes": 4957
+  "Conservative": {
+    "votes": 4957,
+    "familyName": "Fournier",
+    "middleName": "",
+    "firstName": "Jean Philippe"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Gendron\"",
-    "middleName": "\"\"",
-    "firstName": "\"Steeve\"",
-    "votes": 3204
+  "Bloc Québécois": {
+    "votes": 3204,
+    "familyName": "Gendron",
+    "middleName": "",
+    "firstName": "Steeve"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Malek\"",
-    "middleName": "\"\"",
-    "firstName": "\"Arezki\"",
-    "votes": 128
+  "Marxist-Leninist": {
+    "votes": 128,
+    "familyName": "Malek",
+    "middleName": "",
+    "firstName": "Arezki"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Miscione\"",
-    "middleName": "\"\"",
-    "firstName": "\"Melissa\"",
-    "votes": 805
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 805,
+    "familyName": "Miscione",
+    "middleName": "",
+    "firstName": "Melissa"
   }
 }

@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "24068",
-  "englishDistrictName": "\"Saint-Laurent\"",
-  "frenchDistrictName": "\"Saint-Laurent\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Ackad\"",
-    "middleName": "\"\"",
-    "firstName": "\"Alain\"",
-    "votes": 4646
+  "englishDistrictName": "Saint-Laurent",
+  "frenchDistrictName": "Saint-Laurent",
+  "NDP-New Democratic Party": {
+    "votes": 4646,
+    "familyName": "Ackad",
+    "middleName": "",
+    "firstName": "Alain"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Deschamps\"",
-    "middleName": "\"\"",
-    "firstName": "\"Fernand\"",
-    "votes": 129
+  "Marxist-Leninist": {
+    "votes": 129,
+    "familyName": "Deschamps",
+    "middleName": "",
+    "firstName": "Fernand"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Dion\"",
-    "middleName": "\"\"",
-    "firstName": "\"Stéphane\"",
-    "votes": 24832
+  "Liberal": {
+    "votes": 24832,
+    "familyName": "Dion",
+    "middleName": "",
+    "firstName": "Stéphane"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Dumas-Dubreuil\"",
-    "middleName": "\"\"",
-    "firstName": "\"Pascal-Olivier\"",
-    "votes": 1879
+  "Bloc Québécois": {
+    "votes": 1879,
+    "familyName": "Dumas-Dubreuil",
+    "middleName": "",
+    "firstName": "Pascal-Olivier"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Tromp\"",
-    "middleName": "\"\"",
-    "firstName": "\"John\"",
-    "votes": 977
+  "Green Party": {
+    "votes": 977,
+    "familyName": "Tromp",
+    "middleName": "",
+    "firstName": "John"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Yu\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jimmy\"",
-    "votes": 7867
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 7867,
+    "familyName": "Yu",
+    "middleName": "",
+    "firstName": "Jimmy"
   }
 }

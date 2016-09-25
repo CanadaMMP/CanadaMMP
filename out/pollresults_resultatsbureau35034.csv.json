@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35034",
-  "englishDistrictName": "\"Haliburton--Kawartha Lakes--Brock\"",
-  "frenchDistrictName": "\"Haliburton--Kawartha Lakes--Brock\"",
-  "\"Green Party\"": {
-    "familyName": "\"MacCallum\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bill\"",
-    "votes": 2470
+  "englishDistrictName": "Haliburton--Kawartha Lakes--Brock",
+  "frenchDistrictName": "Haliburton--Kawartha Lakes--Brock",
+  "Green Party": {
+    "votes": 2470,
+    "familyName": "MacCallum",
+    "middleName": "",
+    "firstName": "Bill"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Marquis\"",
-    "middleName": "\"\"",
-    "firstName": "\"David\"",
-    "votes": 19634
+  "Liberal": {
+    "votes": 19634,
+    "familyName": "Marquis",
+    "middleName": "",
+    "firstName": "David"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Perry\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mike\"",
-    "votes": 12012
+  "NDP-New Democratic Party": {
+    "votes": 12012,
+    "familyName": "Perry",
+    "middleName": "",
+    "firstName": "Mike"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Schmale\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jamie\"",
-    "votes": 27718
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 27718,
+    "familyName": "Schmale",
+    "middleName": "",
+    "firstName": "Jamie"
   }
 }

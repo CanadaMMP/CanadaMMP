@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "48009",
-  "englishDistrictName": "\"Calgary Nose Hill\"",
-  "frenchDistrictName": "\"Calgary Nose Hill\"",
-  "\"Democratic Advancement\"": {
-    "familyName": "\"Butt\"",
-    "middleName": "\"\"",
-    "firstName": "\"Faizan\"",
-    "votes": 184
+  "englishDistrictName": "Calgary Nose Hill",
+  "frenchDistrictName": "Calgary Nose Hill",
+  "Democratic Advancement": {
+    "votes": 184,
+    "familyName": "Butt",
+    "middleName": "",
+    "firstName": "Faizan"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Gao\"",
-    "middleName": "\"\"",
-    "firstName": "\"Edward\"",
-    "votes": 727
+  "Libertarian": {
+    "votes": 727,
+    "familyName": "Gao",
+    "middleName": "",
+    "firstName": "Edward"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Kaufman\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bruce\"",
-    "votes": 4836
+  "NDP-New Democratic Party": {
+    "votes": 4836,
+    "familyName": "Kaufman",
+    "middleName": "",
+    "firstName": "Bruce"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Prcic\"",
-    "middleName": "\"\"",
-    "firstName": "\"Robert\"",
-    "votes": 14671
+  "Liberal": {
+    "votes": 14671,
+    "familyName": "Prcic",
+    "middleName": "",
+    "firstName": "Robert"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Rempel\"",
-    "middleName": "\"\"",
-    "firstName": "\"Michelle\"",
-    "votes": 32760
+  "Conservative": {
+    "votes": 32760,
+    "familyName": "Rempel",
+    "middleName": "",
+    "firstName": "Michelle"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Scheer\"",
-    "middleName": "\"\"",
-    "firstName": "\"Laurie\"",
-    "votes": 1384
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1384,
+    "familyName": "Scheer",
+    "middleName": "",
+    "firstName": "Laurie"
   }
 }

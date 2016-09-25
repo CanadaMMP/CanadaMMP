@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35118",
-  "englishDistrictName": "\"York Centre\"",
-  "frenchDistrictName": "\"York-Centre\"",
-  "\"Conservative\"": {
-    "familyName": "\"Adler\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mark\"",
-    "votes": 18893
+  "englishDistrictName": "York Centre",
+  "frenchDistrictName": "York-Centre",
+  "Conservative": {
+    "votes": 18893,
+    "familyName": "Adler",
+    "middleName": "",
+    "firstName": "Mark"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Berman\"",
-    "middleName": "\"\"",
-    "firstName": "\"Hal\"",
-    "votes": 3148
+  "NDP-New Democratic Party": {
+    "votes": 3148,
+    "familyName": "Berman",
+    "middleName": "",
+    "firstName": "Hal"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Kritsonis\"",
-    "middleName": "\"\"",
-    "firstName": "\"Constantine\"",
-    "votes": 772
+  "Green Party": {
+    "votes": 772,
+    "familyName": "Kritsonis",
+    "middleName": "",
+    "firstName": "Constantine"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Levitt\"",
-    "middleName": "\"\"",
-    "firstName": "\"Michael\"",
-    "votes": 20131
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 20131,
+    "familyName": "Levitt",
+    "middleName": "",
+    "firstName": "Michael"
   }
 }

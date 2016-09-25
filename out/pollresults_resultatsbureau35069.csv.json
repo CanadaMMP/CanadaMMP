@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "35069",
-  "englishDistrictName": "\"Nickel Belt\"",
-  "frenchDistrictName": "\"Nickel Belt\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Gravelle\"",
-    "middleName": "\"\"",
-    "firstName": "\"Claude\"",
-    "votes": 18321
+  "englishDistrictName": "Nickel Belt",
+  "frenchDistrictName": "Nickel Belt",
+  "NDP-New Democratic Party": {
+    "votes": 18321,
+    "familyName": "Gravelle",
+    "middleName": "",
+    "firstName": "Claude"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Laamanen\"",
-    "middleName": "\"\"",
-    "firstName": "\"Aino\"",
-    "votes": 8099
+  "Conservative": {
+    "votes": 8099,
+    "familyName": "Laamanen",
+    "middleName": "",
+    "firstName": "Aino"
   },
-  "\"Green Party\"": {
-    "familyName": "\"McCall\"",
-    "middleName": "\"\"",
-    "firstName": "\"Stuart\"",
-    "votes": 1204
+  "Green Party": {
+    "votes": 1204,
+    "familyName": "McCall",
+    "middleName": "",
+    "firstName": "Stuart"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Serré\"",
-    "middleName": "\"\"",
-    "firstName": "\"Marc G.\"",
-    "votes": 20853
+  "Liberal": {
+    "votes": 20853,
+    "familyName": "Serré",
+    "middleName": "",
+    "firstName": "Marc G."
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Starbuck\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dave\"",
-    "votes": 95
+  "Marxist-Leninist": {
+    "votes": 95,
+    "familyName": "Starbuck",
+    "middleName": "",
+    "firstName": "Dave"
   },
-  "\"\"": {
+  "": {
+    "votes": null,
     "familyName": "0",
     "middleName": "136",
-    "firstName": "\"Gravelle\"",
-    "votes": null
-  },
-  "undefined": {
-    "votes": null
+    "firstName": "Gravelle"
   }
 }

@@ -1,44 +1,49 @@
 {
   "electoralDistrictNumber": "35103",
-  "englishDistrictName": "\"Sudbury\"",
-  "frenchDistrictName": "\"Sudbury\"",
-  "\"Independent\"": {
-    "familyName": "\"Audet\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jean-Raymond\"",
-    "votes": 218
+  "englishDistrictName": "Sudbury",
+  "frenchDistrictName": "Sudbury",
+  "Independent": {
+    "Audet": {
+      "votes": 134,
+      "familyName": "Audet",
+      "middleName": "",
+      "firstName": "Jean-Raymond"
+    },
+    "Popescu": {
+      "votes": 84,
+      "familyName": "Popescu",
+      "middleName": "",
+      "firstName": "J. David"
+    }
   },
-  "\"Liberal\"": {
-    "familyName": "\"Lefebvre\"",
-    "middleName": "\"\"",
-    "firstName": "\"Paul\"",
-    "votes": 23534
+  "Liberal": {
+    "votes": 23534,
+    "familyName": "Lefebvre",
+    "middleName": "",
+    "firstName": "Paul"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Loewenberg\"",
-    "middleName": "\"\"",
-    "firstName": "\"Paul\"",
-    "votes": 13793
+  "NDP-New Democratic Party": {
+    "votes": 13793,
+    "familyName": "Loewenberg",
+    "middleName": "",
+    "firstName": "Paul"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Robinson\"",
-    "middleName": "\"\"",
-    "firstName": "\"David\"",
-    "votes": 1509
+  "Green Party": {
+    "votes": 1509,
+    "familyName": "Robinson",
+    "middleName": "",
+    "firstName": "David"
   },
-  "\"Communist\"": {
-    "familyName": "\"Rowley\"",
-    "middleName": "\"\"",
-    "firstName": "\"Elizabeth\"",
-    "votes": 102
+  "Communist": {
+    "votes": 102,
+    "familyName": "Rowley",
+    "middleName": "",
+    "firstName": "Elizabeth"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Slade\"",
-    "middleName": "\"\"",
-    "firstName": "\"Fred\"",
-    "votes": 10473
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 10473,
+    "familyName": "Slade",
+    "middleName": "",
+    "firstName": "Fred"
   }
 }

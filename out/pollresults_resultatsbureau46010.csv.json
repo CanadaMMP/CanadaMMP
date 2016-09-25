@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "46010",
-  "englishDistrictName": "\"Selkirk--Interlake--Eastman\"",
-  "frenchDistrictName": "\"Selkirk--Interlake--Eastman\"",
-  "\"Conservative\"": {
-    "familyName": "\"Bezan\"",
-    "middleName": "\"\"",
-    "firstName": "\"James\"",
-    "votes": 25617
+  "englishDistrictName": "Selkirk--Interlake--Eastman",
+  "frenchDistrictName": "Selkirk--Interlake--Eastman",
+  "Conservative": {
+    "votes": 25617,
+    "familyName": "Bezan",
+    "middleName": "",
+    "firstName": "James"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Chief\"",
-    "middleName": "\"\"",
-    "firstName": "\"Deborah\"",
-    "votes": 5649
+  "NDP-New Democratic Party": {
+    "votes": 5649,
+    "familyName": "Chief",
+    "middleName": "",
+    "firstName": "Deborah"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Grant\"",
-    "middleName": "\"\"",
-    "firstName": "\"Donald L.\"",
-    "votes": 882
+  "Libertarian": {
+    "votes": 882,
+    "familyName": "Grant",
+    "middleName": "",
+    "firstName": "Donald L."
   },
-  "\"Green Party\"": {
-    "familyName": "\"James\"",
-    "middleName": "\"\"",
-    "firstName": "\"Wayne\"",
-    "votes": 1707
+  "Green Party": {
+    "votes": 1707,
+    "familyName": "James",
+    "middleName": "",
+    "firstName": "Wayne"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Levy\"",
-    "middleName": "\"\"",
-    "firstName": "\"Joanne\"",
-    "votes": 15508
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 15508,
+    "familyName": "Levy",
+    "middleName": "",
+    "firstName": "Joanne"
   }
 }

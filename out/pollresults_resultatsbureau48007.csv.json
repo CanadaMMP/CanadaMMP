@@ -1,44 +1,55 @@
 {
   "electoralDistrictNumber": "48007",
-  "englishDistrictName": "\"Calgary Heritage\"",
-  "frenchDistrictName": "\"Calgary Heritage\"",
-  "\"Green Party\"": {
-    "familyName": "\"Christie\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kelly\"",
-    "votes": 1246
+  "englishDistrictName": "Calgary Heritage",
+  "frenchDistrictName": "Calgary Heritage",
+  "Green Party": {
+    "votes": 1246,
+    "familyName": "Christie",
+    "middleName": "",
+    "firstName": "Kelly"
   },
-  "\"Independent\"": {
-    "familyName": "\"Duchastel de Montrouge\"",
-    "middleName": "\"\"",
-    "firstName": "\"Nicolas\"",
-    "votes": 248
+  "Independent": {
+    "Duchastel de Montrouge": {
+      "votes": 61,
+      "familyName": "Duchastel de Montrouge",
+      "middleName": "",
+      "firstName": "Nicolas"
+    },
+    "Heather": {
+      "votes": 114,
+      "familyName": "Heather",
+      "middleName": "",
+      "firstName": "Larry R."
+    },
+    "Zepik": {
+      "votes": 73,
+      "familyName": "Zepik",
+      "middleName": "",
+      "firstName": "Korry"
+    }
   },
-  "\"Conservative\"": {
-    "familyName": "\"Harper\"",
-    "middleName": "\"\"",
-    "firstName": "\"Stephen J.\"",
-    "votes": 37263
+  "Conservative": {
+    "votes": 37263,
+    "familyName": "Harper",
+    "middleName": "",
+    "firstName": "Stephen J."
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Masters Burgener\"",
-    "middleName": "\"\"",
-    "firstName": "\"Matt\"",
-    "votes": 4255
+  "NDP-New Democratic Party": {
+    "votes": 4255,
+    "familyName": "Masters Burgener",
+    "middleName": "",
+    "firstName": "Matt"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Miles\"",
-    "middleName": "\"\"",
-    "firstName": "\"Brendan\"",
-    "votes": 15172
+  "Liberal": {
+    "votes": 15172,
+    "familyName": "Miles",
+    "middleName": "",
+    "firstName": "Brendan"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Paolasini\"",
-    "middleName": "\"\"",
-    "firstName": "\"Steven\"",
-    "votes": 246
-  },
-  "undefined": {
-    "votes": null
+  "Libertarian": {
+    "votes": 246,
+    "familyName": "Paolasini",
+    "middleName": "",
+    "firstName": "Steven"
   }
 }

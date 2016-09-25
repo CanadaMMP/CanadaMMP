@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "24023",
-  "englishDistrictName": "\"Compton--Stanstead\"",
-  "frenchDistrictName": "\"Compton--Stanstead\"",
-  "\"Liberal\"": {
-    "familyName": "\"Bibeau\"",
-    "middleName": "\"\"",
-    "firstName": "\"Marie-Claude\"",
-    "votes": 20582
+  "englishDistrictName": "Compton--Stanstead",
+  "frenchDistrictName": "Compton--Stanstead",
+  "Liberal": {
+    "votes": 20582,
+    "familyName": "Bibeau",
+    "middleName": "",
+    "firstName": "Marie-Claude"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Bonsant\"",
-    "middleName": "\"\"",
-    "firstName": "\"France\"",
-    "votes": 11551
+  "Bloc Québécois": {
+    "votes": 11551,
+    "familyName": "Bonsant",
+    "middleName": "",
+    "firstName": "France"
   },
-  "\"Rhinoceros\"": {
-    "familyName": "\"Côté\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kévin\"",
-    "votes": 315
+  "Rhinoceros": {
+    "votes": 315,
+    "familyName": "Côté",
+    "middleName": "",
+    "firstName": "Kévin"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Labrador\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gustavo\"",
-    "votes": 6978
+  "Conservative": {
+    "votes": 6978,
+    "familyName": "Labrador",
+    "middleName": "",
+    "firstName": "Gustavo"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Marshall\"",
-    "middleName": "\"\"",
-    "firstName": "\"Korie\"",
-    "votes": 1085
+  "Green Party": {
+    "votes": 1085,
+    "familyName": "Marshall",
+    "middleName": "",
+    "firstName": "Korie"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Rousseau\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jean\"",
-    "votes": 15300
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 15300,
+    "familyName": "Rousseau",
+    "middleName": "",
+    "firstName": "Jean"
   }
 }

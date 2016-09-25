@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "10003",
-  "englishDistrictName": "\"Coast of Bays--Central--Notre Dame\"",
-  "frenchDistrictName": "\"Coast of Bays--Central--Notre Dame\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Menchenton\"",
-    "middleName": "\"\"",
-    "firstName": "\"Claudette\"",
-    "votes": 2175
+  "englishDistrictName": "Coast of Bays--Central--Notre Dame",
+  "frenchDistrictName": "Coast of Bays--Central--Notre Dame",
+  "NDP-New Democratic Party": {
+    "votes": 2175,
+    "familyName": "Menchenton",
+    "middleName": "",
+    "firstName": "Claudette"
   },
-  "\"Conservative\"": {
-    "familyName": "\"O'Brien\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kevin George\"",
-    "votes": 6479
+  "Conservative": {
+    "votes": 6479,
+    "familyName": "O'Brien",
+    "middleName": "",
+    "firstName": "Kevin George"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Perry\"",
-    "middleName": "\"\"",
-    "firstName": "\"Elizabeth\"",
-    "votes": 271
+  "Green Party": {
+    "votes": 271,
+    "familyName": "Perry",
+    "middleName": "",
+    "firstName": "Elizabeth"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Simms\"",
-    "middleName": "\"\"",
-    "firstName": "\"Scott\"",
-    "votes": 26523
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 26523,
+    "familyName": "Simms",
+    "middleName": "",
+    "firstName": "Scott"
   }
 }

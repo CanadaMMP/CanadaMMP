@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "47007",
-  "englishDistrictName": "\"Regina--Lewvan\"",
-  "frenchDistrictName": "\"Regina--Lewvan\"",
-  "\"Liberal\"": {
-    "familyName": "\"Browne\"",
-    "middleName": "\"\"",
-    "firstName": "\"Louis\"",
-    "votes": 13143
+  "englishDistrictName": "Regina--Lewvan",
+  "frenchDistrictName": "Regina--Lewvan",
+  "Liberal": {
+    "votes": 13143,
+    "familyName": "Browne",
+    "middleName": "",
+    "firstName": "Louis"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Dolata\"",
-    "middleName": "\"K\"",
-    "firstName": "\"Wojciech\"",
-    "votes": 298
+  "Libertarian": {
+    "votes": 298,
+    "familyName": "Dolata",
+    "middleName": "K",
+    "firstName": "Wojciech"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Fraser\"",
-    "middleName": "\"\"",
-    "firstName": "\"Trent\"",
-    "votes": 16711
+  "Conservative": {
+    "votes": 16711,
+    "familyName": "Fraser",
+    "middleName": "",
+    "firstName": "Trent"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Friesen\"",
-    "middleName": "\"\"",
-    "firstName": "\"Tamela\"",
-    "votes": 839
+  "Green Party": {
+    "votes": 839,
+    "familyName": "Friesen",
+    "middleName": "",
+    "firstName": "Tamela"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Weir\"",
-    "middleName": "\"\"",
-    "firstName": "\"Erin\"",
-    "votes": 16843
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 16843,
+    "familyName": "Weir",
+    "middleName": "",
+    "firstName": "Erin"
   }
 }

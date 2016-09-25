@@ -1,56 +1,53 @@
 {
   "electoralDistrictNumber": "35075",
-  "englishDistrictName": "\"Ottawa Centre\"",
-  "frenchDistrictName": "\"Ottawa-Centre\"",
-  "\"Radical Marijuana\"": {
-    "familyName": "\"Akpata\"",
-    "middleName": "\"\"",
-    "firstName": "\"John Andrew Omowole\"",
-    "votes": 160
+  "englishDistrictName": "Ottawa Centre",
+  "frenchDistrictName": "Ottawa-Centre",
+  "Radical Marijuana": {
+    "votes": 160,
+    "familyName": "Akpata",
+    "middleName": "",
+    "firstName": "John Andrew Omowole"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Dewar\"",
-    "middleName": "\"\"",
-    "firstName": "\"Paul\"",
-    "votes": 29098
+  "NDP-New Democratic Party": {
+    "votes": 29098,
+    "familyName": "Dewar",
+    "middleName": "",
+    "firstName": "Paul"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Harris\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dean T.\"",
-    "votes": 551
+  "Libertarian": {
+    "votes": 551,
+    "familyName": "Harris",
+    "middleName": "",
+    "firstName": "Dean T."
   },
-  "\"Conservative\"": {
-    "familyName": "\"Konstantinakos\"",
-    "middleName": "\"\"",
-    "firstName": "\"Damian\"",
-    "votes": 10943
+  "Conservative": {
+    "votes": 10943,
+    "familyName": "Konstantinakos",
+    "middleName": "",
+    "firstName": "Damian"
   },
-  "\"Rhinoceros\"": {
-    "familyName": "\"Lukawski\"",
-    "middleName": "\"\"",
-    "firstName": "\"Conrad\"",
-    "votes": 167
+  "Rhinoceros": {
+    "votes": 167,
+    "familyName": "Lukawski",
+    "middleName": "",
+    "firstName": "Conrad"
   },
-  "\"Liberal\"": {
-    "familyName": "\"McKenna\"",
-    "middleName": "\"\"",
-    "firstName": "\"Catherine Mary\"",
-    "votes": 32211
+  "Liberal": {
+    "votes": 32211,
+    "familyName": "McKenna",
+    "middleName": "",
+    "firstName": "Catherine Mary"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Milroy\"",
-    "middleName": "\"\"",
-    "firstName": "\"Tom\"",
-    "votes": 2246
+  "Green Party": {
+    "votes": 2246,
+    "familyName": "Milroy",
+    "middleName": "",
+    "firstName": "Tom"
   },
-  "\"Communist\"": {
-    "familyName": "\"Ryan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Stuart\"",
-    "votes": 124
-  },
-  "undefined": {
-    "votes": null
+  "Communist": {
+    "votes": 124,
+    "familyName": "Ryan",
+    "middleName": "",
+    "firstName": "Stuart"
   }
 }

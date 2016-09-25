@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35067",
-  "englishDistrictName": "\"Niagara Falls\"",
-  "frenchDistrictName": "\"Niagara Falls\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Ioannoni\"",
-    "middleName": "\"\"",
-    "firstName": "\"Carolynn\"",
-    "votes": 13525
+  "englishDistrictName": "Niagara Falls",
+  "frenchDistrictName": "Niagara Falls",
+  "NDP-New Democratic Party": {
+    "votes": 13525,
+    "familyName": "Ioannoni",
+    "middleName": "",
+    "firstName": "Carolynn"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Nicholson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Rob\"",
-    "votes": 27235
+  "Conservative": {
+    "votes": 27235,
+    "familyName": "Nicholson",
+    "middleName": "",
+    "firstName": "Rob"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Planche\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ron\"",
-    "votes": 22318
+  "Liberal": {
+    "votes": 22318,
+    "familyName": "Planche",
+    "middleName": "",
+    "firstName": "Ron"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Soos\"",
-    "middleName": "\"\"",
-    "firstName": "\"Steven\"",
-    "votes": 1633
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1633,
+    "familyName": "Soos",
+    "middleName": "",
+    "firstName": "Steven"
   }
 }

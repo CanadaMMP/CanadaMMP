@@ -1,44 +1,43 @@
 {
   "electoralDistrictNumber": "35083",
-  "englishDistrictName": "\"Perth--Wellington\"",
-  "frenchDistrictName": "\"Perth--Wellington\"",
-  "\"Christian Heritage Party\"": {
-    "familyName": "\"DeVries\"",
-    "middleName": "\"\"",
-    "firstName": "\"Irma\"",
-    "votes": 794
+  "englishDistrictName": "Perth--Wellington",
+  "frenchDistrictName": "Perth--Wellington",
+  "Christian Heritage Party": {
+    "votes": 794,
+    "familyName": "DeVries",
+    "middleName": "",
+    "firstName": "Irma"
   },
-  "\"No Affiliation\"": {
-    "familyName": "\"Fuhr\"",
-    "middleName": "\"\"",
-    "firstName": "\"Roger\"",
-    "votes": 219
+  "Independent": {
+    "Fuhr": {
+      "votes": 219,
+      "familyName": "Fuhr",
+      "middleName": "",
+      "firstName": "Roger"
+    }
   },
-  "\"Liberal\"": {
-    "familyName": "\"McCotter\"",
-    "middleName": "\"\"",
-    "firstName": "\"Stephen\"",
-    "votes": 19480
+  "Liberal": {
+    "votes": 19480,
+    "familyName": "McCotter",
+    "middleName": "",
+    "firstName": "Stephen"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Nater\"",
-    "middleName": "\"\"",
-    "firstName": "\"John\"",
-    "votes": 22255
+  "Conservative": {
+    "votes": 22255,
+    "familyName": "Nater",
+    "middleName": "",
+    "firstName": "John"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Rabidoux\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ethan\"",
-    "votes": 7756
+  "NDP-New Democratic Party": {
+    "votes": 7756,
+    "familyName": "Rabidoux",
+    "middleName": "",
+    "firstName": "Ethan"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Ramsdale\"",
-    "middleName": "\"\"",
-    "firstName": "\"Nicole\"",
-    "votes": 1347
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1347,
+    "familyName": "Ramsdale",
+    "middleName": "",
+    "firstName": "Nicole"
   }
 }

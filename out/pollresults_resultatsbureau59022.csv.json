@@ -1,38 +1,37 @@
 {
   "electoralDistrictNumber": "59022",
-  "englishDistrictName": "\"Pitt Meadows--Maple Ridge\"",
-  "frenchDistrictName": "\"Pitt Meadows--Maple Ridge\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"D'Eith\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bob\"",
-    "votes": 15450
+  "englishDistrictName": "Pitt Meadows--Maple Ridge",
+  "frenchDistrictName": "Pitt Meadows--Maple Ridge",
+  "NDP-New Democratic Party": {
+    "votes": 15450,
+    "familyName": "D'Eith",
+    "middleName": "",
+    "firstName": "Bob"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Murray\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mike\"",
-    "votes": 16373
+  "Conservative": {
+    "votes": 16373,
+    "familyName": "Murray",
+    "middleName": "",
+    "firstName": "Mike"
   },
-  "\"Independent\"": {
-    "familyName": "\"Ranta\"",
-    "middleName": "\"\"",
-    "firstName": "\"Steve\"",
-    "votes": 452
+  "Independent": {
+    "Ranta": {
+      "votes": 452,
+      "familyName": "Ranta",
+      "middleName": "",
+      "firstName": "Steve"
+    }
   },
-  "\"Liberal\"": {
-    "familyName": "\"Ruimy\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dan\"",
-    "votes": 17673
+  "Liberal": {
+    "votes": 17673,
+    "familyName": "Ruimy",
+    "middleName": "",
+    "firstName": "Dan"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Tam\"",
-    "middleName": "\"\"",
-    "firstName": "\"Peter\"",
-    "votes": 2202
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 2202,
+    "familyName": "Tam",
+    "middleName": "",
+    "firstName": "Peter"
   }
 }

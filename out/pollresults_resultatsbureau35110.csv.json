@@ -1,62 +1,59 @@
 {
   "electoralDistrictNumber": "35110",
-  "englishDistrictName": "\"University--Rosedale\"",
-  "frenchDistrictName": "\"University--Rosedale\"",
-  "\"The Bridge\"": {
-    "familyName": "\"Berlin\"",
-    "middleName": "\"\"",
-    "firstName": "\"David\"",
-    "votes": 122
+  "englishDistrictName": "University--Rosedale",
+  "frenchDistrictName": "University--Rosedale",
+  "The Bridge": {
+    "votes": 122,
+    "familyName": "Berlin",
+    "middleName": "",
+    "firstName": "David"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Freeland\"",
-    "middleName": "\"\"",
-    "firstName": "\"Chrystia\"",
-    "votes": 27849
+  "Liberal": {
+    "votes": 27849,
+    "familyName": "Freeland",
+    "middleName": "",
+    "firstName": "Chrystia"
   },
-  "\"Communist\"": {
-    "familyName": "\"Garvie\"",
-    "middleName": "\"\"",
-    "firstName": "\"Drew\"",
-    "votes": 125
+  "Communist": {
+    "votes": 125,
+    "familyName": "Garvie",
+    "middleName": "",
+    "firstName": "Drew"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Hollett\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jennifer\"",
-    "votes": 15988
+  "NDP-New Democratic Party": {
+    "votes": 15988,
+    "familyName": "Hollett",
+    "middleName": "",
+    "firstName": "Jennifer"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Jivraj\"",
-    "middleName": "\"\"",
-    "firstName": "\"Karim\"",
-    "votes": 9790
+  "Conservative": {
+    "votes": 9790,
+    "familyName": "Jivraj",
+    "middleName": "",
+    "firstName": "Karim"
   },
-  "\"Animal Alliance/Environment Voters\"": {
-    "familyName": "\"Luisi\"",
-    "middleName": "\"\"",
-    "firstName": "\"Simon\"",
-    "votes": 126
+  "Animal Alliance/Environment Voters": {
+    "votes": 126,
+    "familyName": "Luisi",
+    "middleName": "",
+    "firstName": "Simon"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Rutchinski\"",
-    "middleName": "\"\"",
-    "firstName": "\"Steve\"",
-    "votes": 51
+  "Marxist-Leninist": {
+    "votes": 51,
+    "familyName": "Rutchinski",
+    "middleName": "",
+    "firstName": "Steve"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Waslowski\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jesse\"",
-    "votes": 233
+  "Libertarian": {
+    "votes": 233,
+    "familyName": "Waslowski",
+    "middleName": "",
+    "firstName": "Jesse"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Wright\"",
-    "middleName": "\"\"",
-    "firstName": "\"Nick\"",
-    "votes": 1641
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1641,
+    "familyName": "Wright",
+    "middleName": "",
+    "firstName": "Nick"
   }
 }

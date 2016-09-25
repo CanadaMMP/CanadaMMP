@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "48022",
-  "englishDistrictName": "\"Foothills\"",
-  "frenchDistrictName": "\"Foothills\"",
-  "\"Conservative\"": {
-    "familyName": "\"Barlow\"",
-    "middleName": "\"\"",
-    "firstName": "\"John\"",
-    "votes": 46166
+  "englishDistrictName": "Foothills",
+  "frenchDistrictName": "Foothills",
+  "Conservative": {
+    "votes": 46166,
+    "familyName": "Barlow",
+    "middleName": "",
+    "firstName": "John"
   },
-  "\"Liberal\"": {
-    "familyName": "\"MacPherson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Tanya\"",
-    "votes": 8149
+  "Liberal": {
+    "votes": 8149,
+    "familyName": "MacPherson",
+    "middleName": "",
+    "firstName": "Tanya"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Morgan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Cory\"",
-    "votes": 424
+  "Libertarian": {
+    "votes": 424,
+    "familyName": "Morgan",
+    "middleName": "",
+    "firstName": "Cory"
   },
-  "\"Christian Heritage Party\"": {
-    "familyName": "\"Slingerland\"",
-    "middleName": "\"\"",
-    "firstName": "\"Marc\"",
-    "votes": 345
+  "Christian Heritage Party": {
+    "votes": 345,
+    "familyName": "Slingerland",
+    "middleName": "",
+    "firstName": "Marc"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Thompson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Alison\"",
-    "votes": 3919
+  "NDP-New Democratic Party": {
+    "votes": 3919,
+    "familyName": "Thompson",
+    "middleName": "",
+    "firstName": "Alison"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Tittel\"",
-    "middleName": "\"\"",
-    "firstName": "\"Romy S.\"",
-    "votes": 1983
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1983,
+    "familyName": "Tittel",
+    "middleName": "",
+    "firstName": "Romy S."
   }
 }

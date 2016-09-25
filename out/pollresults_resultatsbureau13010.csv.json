@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "13010",
-  "englishDistrictName": "\"Tobique--Mactaquac\"",
-  "frenchDistrictName": "\"Tobique--Mactaquac\"",
-  "\"Conservative\"": {
-    "familyName": "\"Bragdon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Richard\"",
-    "votes": 14225
+  "englishDistrictName": "Tobique--Mactaquac",
+  "frenchDistrictName": "Tobique--Mactaquac",
+  "Conservative": {
+    "votes": 14225,
+    "familyName": "Bragdon",
+    "middleName": "",
+    "firstName": "Richard"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Harvey\"",
-    "middleName": "\"\"",
-    "firstName": "\"TJ\"",
-    "votes": 17909
+  "Liberal": {
+    "votes": 17909,
+    "familyName": "Harvey",
+    "middleName": "",
+    "firstName": "TJ"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Kitchen\"",
-    "middleName": "\"\"",
-    "firstName": "\"Robert\"",
-    "votes": 4334
+  "NDP-New Democratic Party": {
+    "votes": 4334,
+    "familyName": "Kitchen",
+    "middleName": "",
+    "firstName": "Robert"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Wishart\"",
-    "middleName": "\"\"",
-    "firstName": "\"Terry\"",
-    "votes": 1959
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1959,
+    "familyName": "Wishart",
+    "middleName": "",
+    "firstName": "Terry"
   }
 }

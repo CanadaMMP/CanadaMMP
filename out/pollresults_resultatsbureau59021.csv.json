@@ -1,44 +1,43 @@
 {
   "electoralDistrictNumber": "59021",
-  "englishDistrictName": "\"North Vancouver\"",
-  "frenchDistrictName": "\"North Vancouver\"",
-  "\"Independent\"": {
-    "familyName": "\"Azad\"",
-    "middleName": "\"\"",
-    "firstName": "\"Payam\"",
-    "votes": 94
+  "englishDistrictName": "North Vancouver",
+  "frenchDistrictName": "North Vancouver",
+  "Independent": {
+    "Azad": {
+      "votes": 94,
+      "familyName": "Azad",
+      "middleName": "",
+      "firstName": "Payam"
+    }
   },
-  "\"Green Party\"": {
-    "familyName": "\"Martin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Claire\"",
-    "votes": 5350
+  "Green Party": {
+    "votes": 5350,
+    "familyName": "Martin",
+    "middleName": "",
+    "firstName": "Claire"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Saxton\"",
-    "middleName": "\"\"",
-    "firstName": "\"Andrew\"",
-    "votes": 17301
+  "Conservative": {
+    "votes": 17301,
+    "familyName": "Saxton",
+    "middleName": "",
+    "firstName": "Andrew"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Thomas\"",
-    "middleName": "\"\"",
-    "firstName": "\"Carleen\"",
-    "votes": 5015
+  "NDP-New Democratic Party": {
+    "votes": 5015,
+    "familyName": "Thomas",
+    "middleName": "",
+    "firstName": "Carleen"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Wilkinson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jonathan\"",
-    "votes": 36458
+  "Liberal": {
+    "votes": 36458,
+    "familyName": "Wilkinson",
+    "middleName": "",
+    "firstName": "Jonathan"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Yetisen\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ismet\"",
-    "votes": 136
-  },
-  "undefined": {
-    "votes": null
+  "Libertarian": {
+    "votes": 136,
+    "familyName": "Yetisen",
+    "middleName": "",
+    "firstName": "Ismet"
   }
 }

@@ -1,56 +1,55 @@
 {
   "electoralDistrictNumber": "59035",
-  "englishDistrictName": "\"Vancouver East\"",
-  "frenchDistrictName": "\"Vancouver-Est\"",
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Jamieson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Anne\"",
-    "votes": 214
+  "englishDistrictName": "Vancouver East",
+  "frenchDistrictName": "Vancouver-Est",
+  "Marxist-Leninist": {
+    "votes": 214,
+    "familyName": "Jamieson",
+    "middleName": "",
+    "firstName": "Anne"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Kwan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jenny\"",
-    "votes": 29316
+  "NDP-New Democratic Party": {
+    "votes": 29316,
+    "familyName": "Kwan",
+    "middleName": "",
+    "firstName": "Jenny"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Low\"",
-    "middleName": "\"\"",
-    "firstName": "\"James\"",
-    "votes": 6322
+  "Conservative": {
+    "votes": 6322,
+    "familyName": "Low",
+    "middleName": "",
+    "firstName": "James"
   },
-  "\"Communist\"": {
-    "familyName": "\"Marcus\"",
-    "middleName": "\"\"",
-    "firstName": "\"Peter\"",
-    "votes": 525
+  "Communist": {
+    "votes": 525,
+    "familyName": "Marcus",
+    "middleName": "",
+    "firstName": "Peter"
   },
-  "\"Independent\"": {
-    "familyName": "\"Millar\"",
-    "middleName": "\"\"",
-    "firstName": "\"D. Alex\"",
-    "votes": 216
+  "Independent": {
+    "Millar": {
+      "votes": 216,
+      "familyName": "Millar",
+      "middleName": "",
+      "firstName": "D. Alex"
+    }
   },
-  "\"Green Party\"": {
-    "familyName": "\"Regan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Wes\"",
-    "votes": 5395
+  "Green Party": {
+    "votes": 5395,
+    "familyName": "Regan",
+    "middleName": "",
+    "firstName": "Wes"
   },
-  "\"Pirate\"": {
-    "familyName": "\"Vulliez\"",
-    "middleName": "\"\"",
-    "firstName": "\"Shawn\"",
-    "votes": 188
+  "Pirate": {
+    "votes": 188,
+    "familyName": "Vulliez",
+    "middleName": "",
+    "firstName": "Shawn"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Wong\"",
-    "middleName": "\"\"",
-    "firstName": "\"Edward\"",
-    "votes": 16532
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 16532,
+    "familyName": "Wong",
+    "middleName": "",
+    "firstName": "Edward"
   }
 }

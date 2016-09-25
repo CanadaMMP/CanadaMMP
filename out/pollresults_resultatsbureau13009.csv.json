@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "13009",
-  "englishDistrictName": "\"Saint John--Rothesay\"",
-  "frenchDistrictName": "\"Saint John--Rothesay\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Griffin\"",
-    "middleName": "\"\"",
-    "firstName": "\"AJ\"",
-    "votes": 7411
+  "englishDistrictName": "Saint John--Rothesay",
+  "frenchDistrictName": "Saint John--Rothesay",
+  "NDP-New Democratic Party": {
+    "votes": 7411,
+    "familyName": "Griffin",
+    "middleName": "",
+    "firstName": "AJ"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Long\"",
-    "middleName": "\"\"",
-    "firstName": "\"Wayne\"",
-    "votes": 20634
+  "Liberal": {
+    "votes": 20634,
+    "familyName": "Long",
+    "middleName": "",
+    "firstName": "Wayne"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Murphy\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sharon\"",
-    "votes": 1321
+  "Green Party": {
+    "votes": 1321,
+    "familyName": "Murphy",
+    "middleName": "",
+    "firstName": "Sharon"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Weston\"",
-    "middleName": "\"\"",
-    "firstName": "\"Rodney\"",
-    "votes": 12915
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 12915,
+    "familyName": "Weston",
+    "middleName": "",
+    "firstName": "Rodney"
   }
 }

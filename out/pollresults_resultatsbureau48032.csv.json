@@ -1,44 +1,43 @@
 {
   "electoralDistrictNumber": "48032",
-  "englishDistrictName": "\"Sherwood Park--Fort Saskatchewan\"",
-  "frenchDistrictName": "\"Sherwood Park--Fort Saskatchewan\"",
-  "\"Libertarian\"": {
-    "familyName": "\"Burry\"",
-    "middleName": "\"\"",
-    "firstName": "\"Stephen C.\"",
-    "votes": 678
+  "englishDistrictName": "Sherwood Park--Fort Saskatchewan",
+  "frenchDistrictName": "Sherwood Park--Fort Saskatchewan",
+  "Libertarian": {
+    "votes": 678,
+    "familyName": "Burry",
+    "middleName": "",
+    "firstName": "Stephen C."
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Cave\"",
-    "middleName": "\"\"",
-    "firstName": "\"Joanne\"",
-    "votes": 6540
+  "NDP-New Democratic Party": {
+    "votes": 6540,
+    "familyName": "Cave",
+    "middleName": "",
+    "firstName": "Joanne"
   },
-  "\"Independent\"": {
-    "familyName": "\"Ford\"",
-    "middleName": "\"\"",
-    "firstName": "\"James\"",
-    "votes": 1563
+  "Independent": {
+    "Ford": {
+      "votes": 1563,
+      "familyName": "Ford",
+      "middleName": "",
+      "firstName": "James"
+    }
   },
-  "\"Liberal\"": {
-    "familyName": "\"Frank\"",
-    "middleName": "\"\"",
-    "firstName": "\"Rod\"",
-    "votes": 13615
+  "Liberal": {
+    "votes": 13615,
+    "familyName": "Frank",
+    "middleName": "",
+    "firstName": "Rod"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Genuis\"",
-    "middleName": "\"\"",
-    "firstName": "\"Garnett\"",
-    "votes": 42642
+  "Conservative": {
+    "votes": 42642,
+    "familyName": "Genuis",
+    "middleName": "",
+    "firstName": "Garnett"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Harrop\"",
-    "middleName": "\"\"",
-    "firstName": "\"Brandie\"",
-    "votes": 1648
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1648,
+    "familyName": "Harrop",
+    "middleName": "",
+    "firstName": "Brandie"
   }
 }

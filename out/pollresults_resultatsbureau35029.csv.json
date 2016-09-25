@@ -1,44 +1,43 @@
 {
   "electoralDistrictNumber": "35029",
-  "englishDistrictName": "\"Etobicoke North\"",
-  "frenchDistrictName": "\"Etobicoke-Nord\"",
-  "\"Green Party\"": {
-    "familyName": "\"Ayub\"",
-    "middleName": "\"\"",
-    "firstName": "\"Akhtar\"",
-    "votes": 524
+  "englishDistrictName": "Etobicoke North",
+  "frenchDistrictName": "Etobicoke-Nord",
+  "Green Party": {
+    "votes": 524,
+    "familyName": "Ayub",
+    "middleName": "",
+    "firstName": "Akhtar"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Dada\"",
-    "middleName": "\"\"",
-    "firstName": "\"Toyin\"",
-    "votes": 9673
+  "Conservative": {
+    "votes": 9673,
+    "familyName": "Dada",
+    "middleName": "",
+    "firstName": "Toyin"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Di Carlo\"",
-    "middleName": "\"\"",
-    "firstName": "\"Anna\"",
-    "votes": 232
+  "Marxist-Leninist": {
+    "votes": 232,
+    "familyName": "Di Carlo",
+    "middleName": "",
+    "firstName": "Anna"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Duncan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kirsty\"",
-    "votes": 26251
+  "Liberal": {
+    "votes": 26251,
+    "familyName": "Duncan",
+    "middleName": "",
+    "firstName": "Kirsty"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Hassan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Faisal\"",
-    "votes": 5220
+  "NDP-New Democratic Party": {
+    "votes": 5220,
+    "familyName": "Hassan",
+    "middleName": "",
+    "firstName": "Faisal"
   },
-  "\"No Affiliation\"": {
-    "familyName": "\"Szebik\"",
-    "middleName": "\"\"",
-    "firstName": "\"George\"",
-    "votes": 164
-  },
-  "undefined": {
-    "votes": null
+  "Independent": {
+    "Szebik": {
+      "votes": 164,
+      "familyName": "Szebik",
+      "middleName": "",
+      "firstName": "George"
+    }
   }
 }

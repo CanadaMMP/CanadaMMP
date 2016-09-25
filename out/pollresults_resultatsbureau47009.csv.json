@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "47009",
-  "englishDistrictName": "\"Regina--Wascana \"",
-  "frenchDistrictName": "\"Regina--Wascana \"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Bourgeois\"",
-    "middleName": "\"\"",
-    "firstName": "\"April\"",
-    "votes": 5362
+  "englishDistrictName": "Regina--Wascana ",
+  "frenchDistrictName": "Regina--Wascana ",
+  "NDP-New Democratic Party": {
+    "votes": 5362,
+    "familyName": "Bourgeois",
+    "middleName": "",
+    "firstName": "April"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Goodale\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ralph\"",
-    "votes": 23552
+  "Liberal": {
+    "votes": 23552,
+    "familyName": "Goodale",
+    "middleName": "",
+    "firstName": "Ralph"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Kram\"",
-    "middleName": "\"\"",
-    "firstName": "\"Michael\"",
-    "votes": 12931
+  "Conservative": {
+    "votes": 12931,
+    "familyName": "Kram",
+    "middleName": "",
+    "firstName": "Michael"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Simonson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Frances\"",
-    "votes": 878
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 878,
+    "familyName": "Simonson",
+    "middleName": "",
+    "firstName": "Frances"
   }
 }

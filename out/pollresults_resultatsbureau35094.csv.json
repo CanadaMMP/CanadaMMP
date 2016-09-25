@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "35094",
-  "englishDistrictName": "\"Scarborough Centre\"",
-  "frenchDistrictName": "\"Scarborough-Centre\"",
-  "\"Libertarian\"": {
-    "familyName": "\"Androutsos\"",
-    "middleName": "\"\"",
-    "firstName": "\"Katerina\"",
-    "votes": 1384
+  "englishDistrictName": "Scarborough Centre",
+  "frenchDistrictName": "Scarborough-Centre",
+  "Libertarian": {
+    "votes": 1384,
+    "familyName": "Androutsos",
+    "middleName": "",
+    "firstName": "Katerina"
   },
-  "\"Conservative\"": {
-    "familyName": "\"James\"",
-    "middleName": "\"\"",
-    "firstName": "\"Roxanne\"",
-    "votes": 14705
+  "Conservative": {
+    "votes": 14705,
+    "familyName": "James",
+    "middleName": "",
+    "firstName": "Roxanne"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Thompson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Lindsay\"",
-    "votes": 960
+  "Green Party": {
+    "votes": 960,
+    "familyName": "Thompson",
+    "middleName": "",
+    "firstName": "Lindsay"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Wilson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Alex\"",
-    "votes": 5227
+  "NDP-New Democratic Party": {
+    "votes": 5227,
+    "familyName": "Wilson",
+    "middleName": "",
+    "firstName": "Alex"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Zahid\"",
-    "middleName": "\"\"",
-    "firstName": "\"Salma\"",
-    "votes": 22753
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 22753,
+    "familyName": "Zahid",
+    "middleName": "",
+    "firstName": "Salma"
   }
 }

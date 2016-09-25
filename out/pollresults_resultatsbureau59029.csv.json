@@ -1,38 +1,37 @@
 {
   "electoralDistrictNumber": "59029",
-  "englishDistrictName": "\"South Okanagan--West Kootenay\"",
-  "frenchDistrictName": "\"Okanagan-Sud--Kootenay-Ouest\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Cannings\"",
-    "middleName": "\"\"",
-    "firstName": "\"Richard\"",
-    "votes": 24823
+  "englishDistrictName": "South Okanagan--West Kootenay",
+  "frenchDistrictName": "Okanagan-Sud--Kootenay-Ouest",
+  "NDP-New Democratic Party": {
+    "votes": 24823,
+    "familyName": "Cannings",
+    "middleName": "",
+    "firstName": "Richard"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Denesiuk\"",
-    "middleName": "\"\"",
-    "firstName": "\"Connie\"",
-    "votes": 18732
+  "Liberal": {
+    "votes": 18732,
+    "familyName": "Denesiuk",
+    "middleName": "",
+    "firstName": "Connie"
   },
-  "\"Independent\"": {
-    "familyName": "\"Gray\"",
-    "middleName": "\"\"",
-    "firstName": "\"Brian\"",
-    "votes": 376
+  "Independent": {
+    "Gray": {
+      "votes": 376,
+      "familyName": "Gray",
+      "middleName": "",
+      "firstName": "Brian"
+    }
   },
-  "\"Conservative\"": {
-    "familyName": "\"Neufeld\"",
-    "middleName": "\"\"",
-    "firstName": "\"Marshall\"",
-    "votes": 19871
+  "Conservative": {
+    "votes": 19871,
+    "familyName": "Neufeld",
+    "middleName": "",
+    "firstName": "Marshall"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Troy\"",
-    "middleName": "\"\"",
-    "firstName": "\"Samantha\"",
-    "votes": 2792
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 2792,
+    "familyName": "Troy",
+    "middleName": "",
+    "firstName": "Samantha"
   }
 }

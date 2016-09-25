@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35058",
-  "englishDistrictName": "\"Mississauga Centre\"",
-  "frenchDistrictName": "\"Mississauga-Centre\"",
-  "\"Liberal\"": {
-    "familyName": "\"Alghabra\"",
-    "middleName": "\"\"",
-    "firstName": "\"Omar\"",
-    "votes": 28372
+  "englishDistrictName": "Mississauga Centre",
+  "frenchDistrictName": "Mississauga-Centre",
+  "Liberal": {
+    "votes": 28372,
+    "familyName": "Alghabra",
+    "middleName": "",
+    "firstName": "Omar"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Khan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Farheen\"",
-    "votes": 4920
+  "NDP-New Democratic Party": {
+    "votes": 4920,
+    "familyName": "Khan",
+    "middleName": "",
+    "firstName": "Farheen"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Nguyen\"",
-    "middleName": "\"\"",
-    "firstName": "\"Linh\"",
-    "votes": 1129
+  "Green Party": {
+    "votes": 1129,
+    "familyName": "Nguyen",
+    "middleName": "",
+    "firstName": "Linh"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Tiangson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Julius\"",
-    "votes": 17431
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 17431,
+    "familyName": "Tiangson",
+    "middleName": "",
+    "firstName": "Julius"
   }
 }

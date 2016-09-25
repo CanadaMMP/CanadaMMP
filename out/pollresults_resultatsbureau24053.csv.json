@@ -1,50 +1,49 @@
 {
   "electoralDistrictNumber": "24053",
-  "englishDistrictName": "\"Notre-Dame-de-Grâce--Westmount\"",
-  "frenchDistrictName": "\"Notre-Dame-de-Grâce--Westmount\"",
-  "\"Independent\"": {
-    "familyName": "\"Cahn\"",
-    "middleName": "\"\"",
-    "firstName": "\"Lisa Julie\"",
-    "votes": 151
+  "englishDistrictName": "Notre-Dame-de-Grâce--Westmount",
+  "frenchDistrictName": "Notre-Dame-de-Grâce--Westmount",
+  "Independent": {
+    "Cahn": {
+      "votes": 151,
+      "familyName": "Cahn",
+      "middleName": "",
+      "firstName": "Lisa Julie"
+    }
   },
-  "\"Liberal\"": {
-    "familyName": "\"Garneau\"",
-    "middleName": "\"\"",
-    "firstName": "\"Marc\"",
-    "votes": 29755
+  "Liberal": {
+    "votes": 29755,
+    "familyName": "Garneau",
+    "middleName": "",
+    "firstName": "Marc"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Hoffman\"",
-    "middleName": "\"\"",
-    "firstName": "\"Rachel\"",
-    "votes": 181
+  "Marxist-Leninist": {
+    "votes": 181,
+    "familyName": "Hoffman",
+    "middleName": "",
+    "firstName": "Rachel"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Hughes\"",
-    "middleName": "\"\"",
-    "firstName": "\"James\"",
-    "votes": 11229
+  "NDP-New Democratic Party": {
+    "votes": 11229,
+    "familyName": "Hughes",
+    "middleName": "",
+    "firstName": "James"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Quesnel\"",
-    "middleName": "\"\"",
-    "firstName": "\"Simon\"",
-    "votes": 1282
+  "Bloc Québécois": {
+    "votes": 1282,
+    "familyName": "Quesnel",
+    "middleName": "",
+    "firstName": "Simon"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Sagala\"",
-    "middleName": "\"\"",
-    "firstName": "\"Richard\"",
-    "votes": 7414
+  "Conservative": {
+    "votes": 7414,
+    "familyName": "Sagala",
+    "middleName": "",
+    "firstName": "Richard"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Wheeler\"",
-    "middleName": "\"\"",
-    "firstName": "\"Melissa Kate\"",
-    "votes": 1581
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1581,
+    "familyName": "Wheeler",
+    "middleName": "",
+    "firstName": "Melissa Kate"
   }
 }

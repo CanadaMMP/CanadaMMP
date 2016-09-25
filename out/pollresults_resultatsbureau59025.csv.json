@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "59025",
-  "englishDistrictName": "\"Richmond Centre\"",
-  "frenchDistrictName": "\"Richmond-Centre\"",
-  "\"Green Party\"": {
-    "familyName": "\"Chiu\"",
-    "middleName": "\"\"",
-    "firstName": "\"Vincent\"",
-    "votes": 1152
+  "englishDistrictName": "Richmond Centre",
+  "frenchDistrictName": "Richmond-Centre",
+  "Green Party": {
+    "votes": 1152,
+    "familyName": "Chiu",
+    "middleName": "",
+    "firstName": "Vincent"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Trovato\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jack\"",
-    "votes": 4602
+  "NDP-New Democratic Party": {
+    "votes": 4602,
+    "familyName": "Trovato",
+    "middleName": "",
+    "firstName": "Jack"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Wong\"",
-    "middleName": "\"\"",
-    "firstName": "\"Alice\"",
-    "votes": 17622
+  "Conservative": {
+    "votes": 17622,
+    "familyName": "Wong",
+    "middleName": "",
+    "firstName": "Alice"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Woo\"",
-    "middleName": "\"\"",
-    "firstName": "\"Lawrence\"",
-    "votes": 16486
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 16486,
+    "familyName": "Woo",
+    "middleName": "",
+    "firstName": "Lawrence"
   }
 }

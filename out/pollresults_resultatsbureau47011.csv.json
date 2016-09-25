@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "47011",
-  "englishDistrictName": "\"Saskatoon--University\"",
-  "frenchDistrictName": "\"Saskatoon--University\"",
-  "\"Liberal\"": {
-    "familyName": "\"Block\"",
-    "middleName": "\"\"",
-    "firstName": "\"Cynthia Marie\"",
-    "votes": 11287
+  "englishDistrictName": "Saskatoon--University",
+  "frenchDistrictName": "Saskatoon--University",
+  "Liberal": {
+    "votes": 11287,
+    "familyName": "Block",
+    "middleName": "",
+    "firstName": "Cynthia Marie"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Card\"",
-    "middleName": "\"\"",
-    "firstName": "\"Claire\"",
-    "votes": 14115
+  "NDP-New Democratic Party": {
+    "votes": 14115,
+    "familyName": "Card",
+    "middleName": "",
+    "firstName": "Claire"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Harvey\"",
-    "middleName": "\"\"",
-    "firstName": "\"Valerie\"",
-    "votes": 686
+  "Green Party": {
+    "votes": 686,
+    "familyName": "Harvey",
+    "middleName": "",
+    "firstName": "Valerie"
   },
-  "\"Rhinoceros\"": {
-    "familyName": "\"Schalm\"",
-    "middleName": "\"\"",
-    "firstName": "\"Eric Matthew\"",
-    "votes": 93
+  "Rhinoceros": {
+    "votes": 93,
+    "familyName": "Schalm",
+    "middleName": "",
+    "firstName": "Eric Matthew"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Trost\"",
-    "middleName": "\"\"",
-    "firstName": "\"Brad\"",
-    "votes": 18592
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 18592,
+    "familyName": "Trost",
+    "middleName": "",
+    "firstName": "Brad"
   }
 }

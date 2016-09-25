@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "24020",
-  "englishDistrictName": "\"Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix\"",
-  "frenchDistrictName": "\"Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix\"",
-  "\"Conservative\"": {
-    "familyName": "\"Boucher\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sylvie\"",
-    "votes": 16903
+  "englishDistrictName": "Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix",
+  "frenchDistrictName": "Beauport-Côte-de-Beaupré-Île d'Orléans-Charlevoix",
+  "Conservative": {
+    "votes": 16903,
+    "familyName": "Boucher",
+    "middleName": "",
+    "firstName": "Sylvie"
   },
-  "\"Forces et Démocratie - Allier les forces de nos régions\"": {
-    "familyName": "\"Desjardins Pelchat\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mario\"",
-    "votes": 182
+  "Forces et Démocratie - Allier les forces de nos régions": {
+    "votes": 182,
+    "familyName": "Desjardins Pelchat",
+    "middleName": "",
+    "firstName": "Mario"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Dufour\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sébastien\"",
-    "votes": 9650
+  "Bloc Québécois": {
+    "votes": 9650,
+    "familyName": "Dufour",
+    "middleName": "",
+    "firstName": "Sébastien"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Kerr\"",
-    "middleName": "\"\"",
-    "firstName": "\"Patrick\"",
-    "votes": 859
+  "Green Party": {
+    "votes": 859,
+    "familyName": "Kerr",
+    "middleName": "",
+    "firstName": "Patrick"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Tremblay\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jonathan\"",
-    "votes": 9306
+  "NDP-New Democratic Party": {
+    "votes": 9306,
+    "familyName": "Tremblay",
+    "middleName": "",
+    "firstName": "Jonathan"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Vigneau\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jean-Roger\"",
-    "votes": 13556
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 13556,
+    "familyName": "Vigneau",
+    "middleName": "",
+    "firstName": "Jean-Roger"
   }
 }

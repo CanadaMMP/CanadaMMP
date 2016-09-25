@@ -1,44 +1,49 @@
 {
   "electoralDistrictNumber": "35033",
-  "englishDistrictName": "\"Haldimand--Norfolk\"",
-  "frenchDistrictName": "\"Haldimand--Norfolk\"",
-  "\"Independent\"": {
-    "familyName": "\"Bory\"",
-    "middleName": "\"\"",
-    "firstName": "\"Leslie\"",
-    "votes": 423
+  "englishDistrictName": "Haldimand--Norfolk",
+  "frenchDistrictName": "Haldimand--Norfolk",
+  "Independent": {
+    "Bory": {
+      "votes": 151,
+      "familyName": "Bory",
+      "middleName": "",
+      "firstName": "Leslie"
+    },
+    "Wakeford": {
+      "votes": 272,
+      "familyName": "Wakeford",
+      "middleName": "",
+      "firstName": "Dustin"
+    }
   },
-  "\"Christian Heritage Party\"": {
-    "familyName": "\"Bylsma\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dave\"",
-    "votes": 884
+  "Christian Heritage Party": {
+    "votes": 884,
+    "familyName": "Bylsma",
+    "middleName": "",
+    "firstName": "Dave"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Ettinger\"",
-    "middleName": "\"\"",
-    "firstName": "\"Wayne\"",
-    "votes": 1857
+  "Green Party": {
+    "votes": 1857,
+    "familyName": "Ettinger",
+    "middleName": "",
+    "firstName": "Wayne"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Finley\"",
-    "middleName": "\"\"",
-    "firstName": "\"Diane\"",
-    "votes": 24714
+  "Conservative": {
+    "votes": 24714,
+    "familyName": "Finley",
+    "middleName": "",
+    "firstName": "Diane"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Harris\"",
-    "middleName": "\"\"",
-    "firstName": "\"John\"",
-    "votes": 7625
+  "NDP-New Democratic Party": {
+    "votes": 7625,
+    "familyName": "Harris",
+    "middleName": "",
+    "firstName": "John"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Mouland\"",
-    "middleName": "\"\"",
-    "firstName": "\"Joan\"",
-    "votes": 20487
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 20487,
+    "familyName": "Mouland",
+    "middleName": "",
+    "firstName": "Joan"
   }
 }

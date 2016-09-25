@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "35057",
-  "englishDistrictName": "\"Milton\"",
-  "frenchDistrictName": "\"Milton\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Anabusi\"",
-    "middleName": "\"\"",
-    "firstName": "\"Alex\"",
-    "votes": 5366
+  "englishDistrictName": "Milton",
+  "frenchDistrictName": "Milton",
+  "NDP-New Democratic Party": {
+    "votes": 5366,
+    "familyName": "Anabusi",
+    "middleName": "",
+    "firstName": "Alex"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Batra\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mini\"",
-    "votes": 1131
+  "Green Party": {
+    "votes": 1131,
+    "familyName": "Batra",
+    "middleName": "",
+    "firstName": "Mini"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Jewell\"",
-    "middleName": "\"\"",
-    "firstName": "\"Chris\"",
-    "votes": 493
+  "Libertarian": {
+    "votes": 493,
+    "familyName": "Jewell",
+    "middleName": "",
+    "firstName": "Chris"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Raitt\"",
-    "middleName": "\"\"",
-    "firstName": "\"Lisa\"",
-    "votes": 22378
+  "Conservative": {
+    "votes": 22378,
+    "familyName": "Raitt",
+    "middleName": "",
+    "firstName": "Lisa"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Rizvee\"",
-    "middleName": "\"\"",
-    "firstName": "\"Azim\"",
-    "votes": 19940
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 19940,
+    "familyName": "Rizvee",
+    "middleName": "",
+    "firstName": "Azim"
   }
 }

@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35054",
-  "englishDistrictName": "\"Markham--Stouffville\"",
-  "frenchDistrictName": "\"Markham--Stouffville\"",
-  "\"Conservative\"": {
-    "familyName": "\"Calandra\"",
-    "middleName": "\"\"",
-    "firstName": "\"Paul\"",
-    "votes": 25565
+  "englishDistrictName": "Markham--Stouffville",
+  "frenchDistrictName": "Markham--Stouffville",
+  "Conservative": {
+    "votes": 25565,
+    "familyName": "Calandra",
+    "middleName": "",
+    "firstName": "Paul"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Hines\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gregory\"",
-    "votes": 3647
+  "NDP-New Democratic Party": {
+    "votes": 3647,
+    "familyName": "Hines",
+    "middleName": "",
+    "firstName": "Gregory"
   },
-  "\"Green Party\"": {
-    "familyName": "\"O'Brien\"",
-    "middleName": "\"\"",
-    "firstName": "\"Myles\"",
-    "votes": 1145
+  "Green Party": {
+    "votes": 1145,
+    "familyName": "O'Brien",
+    "middleName": "",
+    "firstName": "Myles"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Philpott\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jane\"",
-    "votes": 29416
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 29416,
+    "familyName": "Philpott",
+    "middleName": "",
+    "firstName": "Jane"
   }
 }

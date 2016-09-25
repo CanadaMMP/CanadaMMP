@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "24021",
-  "englishDistrictName": "\"Châteauguay--Lacolle\"",
-  "frenchDistrictName": "\"Châteauguay--Lacolle\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Chicoine\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sylvain\"",
-    "votes": 11986
+  "englishDistrictName": "Châteauguay--Lacolle",
+  "frenchDistrictName": "Châteauguay--Lacolle",
+  "NDP-New Democratic Party": {
+    "votes": 11986,
+    "familyName": "Chicoine",
+    "middleName": "",
+    "firstName": "Sylvain"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Mercier\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jency\"",
-    "votes": 982
+  "Green Party": {
+    "votes": 982,
+    "familyName": "Mercier",
+    "middleName": "",
+    "firstName": "Jency"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Shanahan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Brenda\"",
-    "votes": 20245
+  "Liberal": {
+    "votes": 20245,
+    "familyName": "Shanahan",
+    "middleName": "",
+    "firstName": "Brenda"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Stanké\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sophie\"",
-    "votes": 12615
+  "Bloc Québécois": {
+    "votes": 12615,
+    "familyName": "Stanké",
+    "middleName": "",
+    "firstName": "Sophie"
   },
-  "\"Conservative\"": {
-    "familyName": "\"St-Pierre\"",
-    "middleName": "\"\"",
-    "firstName": "\"Philippe\"",
-    "votes": 5805
+  "Conservative": {
+    "votes": 5805,
+    "familyName": "St-Pierre",
+    "middleName": "",
+    "firstName": "Philippe"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Sullivan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Linda\"",
-    "votes": 149
-  },
-  "undefined": {
-    "votes": null
+  "Marxist-Leninist": {
+    "votes": 149,
+    "familyName": "Sullivan",
+    "middleName": "",
+    "firstName": "Linda"
   }
 }

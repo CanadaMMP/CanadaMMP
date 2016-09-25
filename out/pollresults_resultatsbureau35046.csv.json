@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "35046",
-  "englishDistrictName": "\"Kitchener--Conestoga\"",
-  "frenchDistrictName": "\"Kitchener--Conestoga\"",
-  "\"Conservative\"": {
-    "familyName": "\"Albrecht\"",
-    "middleName": "\"\"",
-    "firstName": "\"Harold\"",
-    "votes": 20649
+  "englishDistrictName": "Kitchener--Conestoga",
+  "frenchDistrictName": "Kitchener--Conestoga",
+  "Conservative": {
+    "votes": 20649,
+    "familyName": "Albrecht",
+    "middleName": "",
+    "firstName": "Harold"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Hodgson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Richard\"",
-    "votes": 685
+  "Libertarian": {
+    "votes": 685,
+    "familyName": "Hodgson",
+    "middleName": "",
+    "firstName": "Richard"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Jonkman\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bob\"",
-    "votes": 1314
+  "Green Party": {
+    "votes": 1314,
+    "familyName": "Jonkman",
+    "middleName": "",
+    "firstName": "Bob"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Louis\"",
-    "middleName": "\"\"",
-    "firstName": "\"Tim\"",
-    "votes": 20398
+  "Liberal": {
+    "votes": 20398,
+    "familyName": "Louis",
+    "middleName": "",
+    "firstName": "Tim"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Villeneuve\"",
-    "middleName": "\"\"",
-    "firstName": "\"James\"",
-    "votes": 4653
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 4653,
+    "familyName": "Villeneuve",
+    "middleName": "",
+    "firstName": "James"
   }
 }

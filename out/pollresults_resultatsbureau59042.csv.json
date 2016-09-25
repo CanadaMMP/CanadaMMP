@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "59042",
-  "englishDistrictName": "\"West Vancouver--Sunshine Coast--Sea to Sky Country\"",
-  "frenchDistrictName": "\"West Vancouver--Sunshine Coast--Sea to Sky Country\"",
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Chapman\"",
-    "middleName": "\"\"",
-    "firstName": "\"Carol-Lee\"",
-    "votes": 106
+  "englishDistrictName": "West Vancouver--Sunshine Coast--Sea to Sky Country",
+  "frenchDistrictName": "West Vancouver--Sunshine Coast--Sea to Sky Country",
+  "Marxist-Leninist": {
+    "votes": 106,
+    "familyName": "Chapman",
+    "middleName": "",
+    "firstName": "Carol-Lee"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Goldsmith-Jones\"",
-    "middleName": "\"\"",
-    "firstName": "\"Pam\"",
-    "votes": 36300
+  "Liberal": {
+    "votes": 36300,
+    "familyName": "Goldsmith-Jones",
+    "middleName": "",
+    "firstName": "Pam"
   },
-  "\"Radical Marijuana\"": {
-    "familyName": "\"Kehler\"",
-    "middleName": "\"\"",
-    "firstName": "\"Robin\"",
-    "votes": 180
+  "Radical Marijuana": {
+    "votes": 180,
+    "familyName": "Kehler",
+    "middleName": "",
+    "firstName": "Robin"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Koopman\"",
-    "middleName": "\"\"",
-    "firstName": "\"Larry\"",
-    "votes": 6554
+  "NDP-New Democratic Party": {
+    "votes": 6554,
+    "familyName": "Koopman",
+    "middleName": "",
+    "firstName": "Larry"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Melamed\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ken\"",
-    "votes": 5907
+  "Green Party": {
+    "votes": 5907,
+    "familyName": "Melamed",
+    "middleName": "",
+    "firstName": "Ken"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Weston\"",
-    "middleName": "\"\"",
-    "firstName": "\"John\"",
-    "votes": 17411
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 17411,
+    "familyName": "Weston",
+    "middleName": "",
+    "firstName": "John"
   }
 }

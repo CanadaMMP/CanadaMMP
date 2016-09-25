@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "24016",
-  "englishDistrictName": "\"Brome--Missisquoi\"",
-  "frenchDistrictName": "\"Brome--Missisquoi\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Lusson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Catherine\"",
-    "votes": 14383
+  "englishDistrictName": "Brome--Missisquoi",
+  "frenchDistrictName": "Brome--Missisquoi",
+  "NDP-New Democratic Party": {
+    "votes": 14383,
+    "familyName": "Lusson",
+    "middleName": "",
+    "firstName": "Catherine"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Melchior\"",
-    "middleName": "\"\"",
-    "firstName": "\"Patrick\"",
-    "votes": 10252
+  "Bloc Québécois": {
+    "votes": 10252,
+    "familyName": "Melchior",
+    "middleName": "",
+    "firstName": "Patrick"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Moynan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Cindy\"",
-    "votes": 1377
+  "Green Party": {
+    "votes": 1377,
+    "familyName": "Moynan",
+    "middleName": "",
+    "firstName": "Cindy"
   },
-  "\"Forces et Démocratie - Allier les forces de nos régions\"": {
-    "familyName": "\"Paine\"",
-    "middleName": "\"\"",
-    "firstName": "\"Patrick\"",
-    "votes": 195
+  "Forces et Démocratie - Allier les forces de nos régions": {
+    "votes": 195,
+    "familyName": "Paine",
+    "middleName": "",
+    "firstName": "Patrick"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Paradis\"",
-    "middleName": "\"\"",
-    "firstName": "\"Denis\"",
-    "votes": 25744
+  "Liberal": {
+    "votes": 25744,
+    "familyName": "Paradis",
+    "middleName": "",
+    "firstName": "Denis"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Poulin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Charles\"",
-    "votes": 6724
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 6724,
+    "familyName": "Poulin",
+    "middleName": "",
+    "firstName": "Charles"
   }
 }

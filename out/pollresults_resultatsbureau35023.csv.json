@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "35023",
-  "englishDistrictName": "\"Durham\"",
-  "frenchDistrictName": "\"Durham\"",
-  "\"Green Party\"": {
-    "familyName": "\"Leadbetter\"",
-    "middleName": "\"\"",
-    "firstName": "\"Stacey\"",
-    "votes": 1616
+  "englishDistrictName": "Durham",
+  "frenchDistrictName": "Durham",
+  "Green Party": {
+    "votes": 1616,
+    "familyName": "Leadbetter",
+    "middleName": "",
+    "firstName": "Stacey"
   },
-  "\"Christian Heritage Party\"": {
-    "familyName": "\"Moriarity\"",
-    "middleName": "\"\"",
-    "firstName": "\"Andrew\"",
-    "votes": 364
+  "Christian Heritage Party": {
+    "votes": 364,
+    "familyName": "Moriarity",
+    "middleName": "",
+    "firstName": "Andrew"
   },
-  "\"Conservative\"": {
-    "familyName": "\"O'Toole\"",
-    "middleName": "\"\"",
-    "firstName": "\"Erin\"",
-    "votes": 28967
+  "Conservative": {
+    "votes": 28967,
+    "familyName": "O'Toole",
+    "middleName": "",
+    "firstName": "Erin"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Spence\"",
-    "middleName": "\"\"",
-    "firstName": "\"Derek\"",
-    "votes": 10289
+  "NDP-New Democratic Party": {
+    "votes": 10289,
+    "familyName": "Spence",
+    "middleName": "",
+    "firstName": "Derek"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Traill\"",
-    "middleName": "\"\"",
-    "firstName": "\"Corinna\"",
-    "votes": 22949
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 22949,
+    "familyName": "Traill",
+    "middleName": "",
+    "firstName": "Corinna"
   }
 }

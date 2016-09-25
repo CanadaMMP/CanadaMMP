@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "13006",
-  "englishDistrictName": "\"Miramichi--Grand Lake\"",
-  "frenchDistrictName": "\"Miramichi--Grand Lake\"",
-  "\"Green Party\"": {
-    "familyName": "\"Clark\"",
-    "middleName": "\"\"",
-    "firstName": "\"Matthew Ian\"",
-    "votes": 1098
+  "englishDistrictName": "Miramichi--Grand Lake",
+  "frenchDistrictName": "Miramichi--Grand Lake",
+  "Green Party": {
+    "votes": 1098,
+    "familyName": "Clark",
+    "middleName": "",
+    "firstName": "Matthew Ian"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Colford\"",
-    "middleName": "\"\"",
-    "firstName": "\"Patrick\"",
-    "votes": 5588
+  "NDP-New Democratic Party": {
+    "votes": 5588,
+    "familyName": "Colford",
+    "middleName": "",
+    "firstName": "Patrick"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Finnigan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Pat\"",
-    "votes": 17202
+  "Liberal": {
+    "votes": 17202,
+    "familyName": "Finnigan",
+    "middleName": "",
+    "firstName": "Pat"
   },
-  "\"Conservative\"": {
-    "familyName": "\"O'Neill-Gordon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Tilly\"",
-    "votes": 12476
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 12476,
+    "familyName": "O'Neill-Gordon",
+    "middleName": "",
+    "firstName": "Tilly"
   }
 }

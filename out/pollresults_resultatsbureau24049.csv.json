@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "24049",
-  "englishDistrictName": "\"Montarville\"",
-  "frenchDistrictName": "\"Montarville\"",
-  "\"Green Party\"": {
-    "familyName": "\"Adam\"",
-    "middleName": "\"\"",
-    "firstName": "\"Olivier\"",
-    "votes": 1388
+  "englishDistrictName": "Montarville",
+  "frenchDistrictName": "Montarville",
+  "Green Party": {
+    "votes": 1388,
+    "familyName": "Adam",
+    "middleName": "",
+    "firstName": "Olivier"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Duranleau\"",
-    "middleName": "\"\"",
-    "firstName": "\"Stéphane\"",
-    "votes": 6284
+  "Conservative": {
+    "votes": 6284,
+    "familyName": "Duranleau",
+    "middleName": "",
+    "firstName": "Stéphane"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Fournier\"",
-    "middleName": "\"\"",
-    "firstName": "\"Catherine\"",
-    "votes": 16460
+  "Bloc Québécois": {
+    "votes": 16460,
+    "familyName": "Fournier",
+    "middleName": "",
+    "firstName": "Catherine"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Leclair\"",
-    "middleName": "\"\"",
-    "firstName": "\"Claude\"",
-    "votes": 641
+  "Libertarian": {
+    "votes": 641,
+    "familyName": "Leclair",
+    "middleName": "",
+    "firstName": "Claude"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Picard\"",
-    "middleName": "\"\"",
-    "firstName": "\"Michel\"",
-    "votes": 18848
+  "Liberal": {
+    "votes": 18848,
+    "familyName": "Picard",
+    "middleName": "",
+    "firstName": "Michel"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Sellah\"",
-    "middleName": "\"\"",
-    "firstName": "\"Djaouida\"",
-    "votes": 14296
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 14296,
+    "familyName": "Sellah",
+    "middleName": "",
+    "firstName": "Djaouida"
   }
 }

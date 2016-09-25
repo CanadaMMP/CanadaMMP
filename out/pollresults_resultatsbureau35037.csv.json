@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "35037",
-  "englishDistrictName": "\"Hamilton Mountain\"",
-  "frenchDistrictName": "\"Hamilton Mountain\"",
-  "\"Green Party\"": {
-    "familyName": "\"Aman\"",
-    "middleName": "\"\"",
-    "firstName": "\"Raheem\"",
-    "votes": 1283
+  "englishDistrictName": "Hamilton Mountain",
+  "frenchDistrictName": "Hamilton Mountain",
+  "Green Party": {
+    "votes": 1283,
+    "familyName": "Aman",
+    "middleName": "",
+    "firstName": "Raheem"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Burt\"",
-    "middleName": "\"\"",
-    "firstName": "\"Shaun\"",
-    "votes": 16933
+  "Liberal": {
+    "votes": 16933,
+    "familyName": "Burt",
+    "middleName": "",
+    "firstName": "Shaun"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Caton\"",
-    "middleName": "\"\"",
-    "firstName": "\"Andrew James\"",
-    "votes": 763
+  "Libertarian": {
+    "votes": 763,
+    "familyName": "Caton",
+    "middleName": "",
+    "firstName": "Andrew James"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Duvall\"",
-    "middleName": "\"\"",
-    "firstName": "\"Scott\"",
-    "votes": 18146
+  "NDP-New Democratic Party": {
+    "votes": 18146,
+    "familyName": "Duvall",
+    "middleName": "",
+    "firstName": "Scott"
   },
-  "\"Christian Heritage Party\"": {
-    "familyName": "\"Enos\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jim\"",
-    "votes": 438
+  "Christian Heritage Party": {
+    "votes": 438,
+    "familyName": "Enos",
+    "middleName": "",
+    "firstName": "Jim"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Miles\"",
-    "middleName": "\"\"",
-    "firstName": "\"Al\"",
-    "votes": 12991
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 12991,
+    "familyName": "Miles",
+    "middleName": "",
+    "firstName": "Al"
   }
 }

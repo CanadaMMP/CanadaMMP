@@ -1,44 +1,43 @@
 {
   "electoralDistrictNumber": "35100",
-  "englishDistrictName": "\"Simcoe North\"",
-  "frenchDistrictName": "\"Simcoe-Nord\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Banigan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Richard\"",
-    "votes": 6037
+  "englishDistrictName": "Simcoe North",
+  "frenchDistrictName": "Simcoe-Nord",
+  "NDP-New Democratic Party": {
+    "votes": 6037,
+    "familyName": "Banigan",
+    "middleName": "",
+    "firstName": "Richard"
   },
-  "\"No Affiliation\"": {
-    "familyName": "\"Kearey-Moreland\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jacob\"",
-    "votes": 618
+  "Independent": {
+    "Kearey-Moreland": {
+      "votes": 618,
+      "familyName": "Kearey-Moreland",
+      "middleName": "",
+      "firstName": "Jacob"
+    }
   },
-  "\"Liberal\"": {
-    "familyName": "\"Riley\"",
-    "middleName": "\"\"",
-    "firstName": "\"Liz\"",
-    "votes": 22718
+  "Liberal": {
+    "votes": 22718,
+    "familyName": "Riley",
+    "middleName": "",
+    "firstName": "Liz"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Stanton\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bruce\"",
-    "votes": 24836
+  "Conservative": {
+    "votes": 24836,
+    "familyName": "Stanton",
+    "middleName": "",
+    "firstName": "Bruce"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Stubbins\"",
-    "middleName": "\"\"",
-    "firstName": "\"Peter\"",
-    "votes": 2543
+  "Green Party": {
+    "votes": 2543,
+    "familyName": "Stubbins",
+    "middleName": "",
+    "firstName": "Peter"
   },
-  "\"Christian Heritage Party\"": {
-    "familyName": "\"Whittaker\"",
-    "middleName": "\"\"",
-    "firstName": "\"Scott\"",
-    "votes": 319
-  },
-  "undefined": {
-    "votes": null
+  "Christian Heritage Party": {
+    "votes": 319,
+    "familyName": "Whittaker",
+    "middleName": "",
+    "firstName": "Scott"
   }
 }

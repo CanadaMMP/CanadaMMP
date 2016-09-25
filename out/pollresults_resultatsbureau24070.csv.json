@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "24070",
-  "englishDistrictName": "\"Saint-Maurice--Champlain\"",
-  "frenchDistrictName": "\"Saint-Maurice--Champlain\"",
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Bédard\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jean-Paul\"",
-    "votes": 196
+  "englishDistrictName": "Saint-Maurice--Champlain",
+  "frenchDistrictName": "Saint-Maurice--Champlain",
+  "Marxist-Leninist": {
+    "votes": 196,
+    "familyName": "Bédard",
+    "middleName": "",
+    "firstName": "Jean-Paul"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Carignan Deschamps\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sacki\"",
-    "votes": 11295
+  "Bloc Québécois": {
+    "votes": 11295,
+    "familyName": "Carignan Deschamps",
+    "middleName": "",
+    "firstName": "Sacki"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Champagne\"",
-    "middleName": "\"\"",
-    "firstName": "\"François-Philippe\"",
-    "votes": 24475
+  "Liberal": {
+    "votes": 24475,
+    "familyName": "Champagne",
+    "middleName": "",
+    "firstName": "François-Philippe"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Grenier\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jacques\"",
-    "votes": 9592
+  "Conservative": {
+    "votes": 9592,
+    "familyName": "Grenier",
+    "middleName": "",
+    "firstName": "Jacques"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Toupin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Martial\"",
-    "votes": 1144
+  "Green Party": {
+    "votes": 1144,
+    "familyName": "Toupin",
+    "middleName": "",
+    "firstName": "Martial"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Tremblay\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jean-Yves\"",
-    "votes": 12245
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 12245,
+    "familyName": "Tremblay",
+    "middleName": "",
+    "firstName": "Jean-Yves"
   }
 }

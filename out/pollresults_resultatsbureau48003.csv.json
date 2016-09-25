@@ -1,50 +1,49 @@
 {
   "electoralDistrictNumber": "48003",
-  "englishDistrictName": "\"Bow River\"",
-  "frenchDistrictName": "\"Bow River\"",
-  "\"Liberal\"": {
-    "familyName": "\"Alexander\"",
-    "middleName": "\"\"",
-    "firstName": "\"William MacDonald\"",
-    "votes": 6840
+  "englishDistrictName": "Bow River",
+  "frenchDistrictName": "Bow River",
+  "Liberal": {
+    "votes": 6840,
+    "familyName": "Alexander",
+    "middleName": "",
+    "firstName": "William MacDonald"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Fromholt\"",
-    "middleName": "\"\"",
-    "firstName": "\"Rita Ann\"",
-    "votes": 919
+  "Green Party": {
+    "votes": 919,
+    "familyName": "Fromholt",
+    "middleName": "",
+    "firstName": "Rita Ann"
   },
-  "\"Democratic Advancement\"": {
-    "familyName": "\"Khalid\"",
-    "middleName": "\"\"",
-    "firstName": "\"Fahed\"",
-    "votes": 83
+  "Democratic Advancement": {
+    "votes": 83,
+    "familyName": "Khalid",
+    "middleName": "",
+    "firstName": "Fahed"
   },
-  "\"Independent\"": {
-    "familyName": "\"Kucy\"",
-    "middleName": "\"\"",
-    "firstName": "\"Andrew\"",
-    "votes": 543
+  "Independent": {
+    "Kucy": {
+      "votes": 543,
+      "familyName": "Kucy",
+      "middleName": "",
+      "firstName": "Andrew"
+    }
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"MacWilliam\"",
-    "middleName": "\"\"",
-    "firstName": "\"Lynn\"",
-    "votes": 2622
+  "NDP-New Democratic Party": {
+    "votes": 2622,
+    "familyName": "MacWilliam",
+    "middleName": "",
+    "firstName": "Lynn"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Shields\"",
-    "middleName": "\"\"",
-    "firstName": "\"Martin\"",
-    "votes": 38701
+  "Conservative": {
+    "votes": 38701,
+    "familyName": "Shields",
+    "middleName": "",
+    "firstName": "Martin"
   },
-  "\"Christian Heritage Party\"": {
-    "familyName": "\"VandeStroet\"",
-    "middleName": "\"\"",
-    "firstName": "\"Frans\"",
-    "votes": 280
-  },
-  "undefined": {
-    "votes": null
+  "Christian Heritage Party": {
+    "votes": 280,
+    "familyName": "VandeStroet",
+    "middleName": "",
+    "firstName": "Frans"
   }
 }

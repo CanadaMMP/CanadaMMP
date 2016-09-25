@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "35074",
-  "englishDistrictName": "\"Oshawa\"",
-  "frenchDistrictName": "\"Oshawa\"",
-  "\"Conservative\"": {
-    "familyName": "\"Carrie\"",
-    "middleName": "\"\"",
-    "firstName": "\"Colin\"",
-    "votes": 23162
+  "englishDistrictName": "Oshawa",
+  "frenchDistrictName": "Oshawa",
+  "Conservative": {
+    "votes": 23162,
+    "familyName": "Carrie",
+    "middleName": "",
+    "firstName": "Colin"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Dempsey\"",
-    "middleName": "\"\"",
-    "firstName": "\"Michael\"",
-    "votes": 1522
+  "Green Party": {
+    "votes": 1522,
+    "familyName": "Dempsey",
+    "middleName": "",
+    "firstName": "Michael"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Fowler\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mary\"",
-    "votes": 19339
+  "NDP-New Democratic Party": {
+    "votes": 19339,
+    "familyName": "Fowler",
+    "middleName": "",
+    "firstName": "Mary"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Gershuny\"",
-    "middleName": "\"\"",
-    "firstName": "\"David\"",
-    "votes": 75
+  "Marxist-Leninist": {
+    "votes": 75,
+    "familyName": "Gershuny",
+    "middleName": "",
+    "firstName": "David"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Marimpietri\"",
-    "middleName": "\"\"",
-    "firstName": "\"Tito-Dante\"",
-    "votes": 16588
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 16588,
+    "familyName": "Marimpietri",
+    "middleName": "",
+    "firstName": "Tito-Dante"
   }
 }

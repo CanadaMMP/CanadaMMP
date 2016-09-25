@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "24075",
-  "englishDistrictName": "\"Terrebonne\"",
-  "frenchDistrictName": "\"Terrebonne\"",
-  "\"Liberal\"": {
-    "familyName": "\"Audette\"",
-    "middleName": "\"\"",
-    "firstName": "\"Michèle\"",
-    "votes": 16316
+  "englishDistrictName": "Terrebonne",
+  "frenchDistrictName": "Terrebonne",
+  "Liberal": {
+    "votes": 16316,
+    "familyName": "Audette",
+    "middleName": "",
+    "firstName": "Michèle"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Borg\"",
-    "middleName": "\"\"",
-    "firstName": "\"Charmaine\"",
-    "votes": 14928
+  "NDP-New Democratic Party": {
+    "votes": 14928,
+    "familyName": "Borg",
+    "middleName": "",
+    "firstName": "Charmaine"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Boudrias\"",
-    "middleName": "\"\"",
-    "firstName": "\"Michel\"",
-    "votes": 19238
+  "Bloc Québécois": {
+    "votes": 19238,
+    "familyName": "Boudrias",
+    "middleName": "",
+    "firstName": "Michel"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Moen\"",
-    "middleName": "\"\"",
-    "firstName": "\"Susan\"",
-    "votes": 1016
+  "Green Party": {
+    "votes": 1016,
+    "familyName": "Moen",
+    "middleName": "",
+    "firstName": "Susan"
   },
-  "\"Forces et Démocratie - Allier les forces de nos régions\"": {
-    "familyName": "\"Sénat\"",
-    "middleName": "\"\"",
-    "firstName": "\"Louis Clément\"",
-    "votes": 171
+  "Forces et Démocratie - Allier les forces de nos régions": {
+    "votes": 171,
+    "familyName": "Sénat",
+    "middleName": "",
+    "firstName": "Louis Clément"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Surprenant\"",
-    "middleName": "\"\"",
-    "firstName": "\"Michel\"",
-    "votes": 6615
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 6615,
+    "familyName": "Surprenant",
+    "middleName": "",
+    "firstName": "Michel"
   }
 }

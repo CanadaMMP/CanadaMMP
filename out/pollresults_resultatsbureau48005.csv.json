@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "48005",
-  "englishDistrictName": "\"Calgary Confederation\"",
-  "frenchDistrictName": "\"Calgary Confederation\"",
-  "\"Liberal\"": {
-    "familyName": "\"Grant\"",
-    "middleName": "\"\"",
-    "firstName": "\"Matt\"",
-    "votes": 29083
+  "englishDistrictName": "Calgary Confederation",
+  "frenchDistrictName": "Calgary Confederation",
+  "Liberal": {
+    "votes": 29083,
+    "familyName": "Grant",
+    "middleName": "",
+    "firstName": "Matt"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Heuser\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kirk\"",
-    "votes": 4770
+  "NDP-New Democratic Party": {
+    "votes": 4770,
+    "familyName": "Heuser",
+    "middleName": "",
+    "firstName": "Kirk"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Hunter\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kevan\"",
-    "votes": 140
+  "Marxist-Leninist": {
+    "votes": 140,
+    "familyName": "Hunter",
+    "middleName": "",
+    "firstName": "Kevan"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Odd\"",
-    "middleName": "\"\"",
-    "firstName": "\"Natalie\"",
-    "votes": 2146
+  "Green Party": {
+    "votes": 2146,
+    "familyName": "Odd",
+    "middleName": "",
+    "firstName": "Natalie"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Webber\"",
-    "middleName": "\"\"",
-    "firstName": "\"Len\"",
-    "votes": 30669
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 30669,
+    "familyName": "Webber",
+    "middleName": "",
+    "firstName": "Len"
   }
 }

@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "24063",
-  "englishDistrictName": "\"Rivière-du-Nord\"",
-  "frenchDistrictName": "\"Rivière-du-Nord\"",
-  "\"Liberal\"": {
-    "familyName": "\"Bélair Rolland\"",
-    "middleName": "\"\"",
-    "firstName": "\"Janice\"",
-    "votes": 14933
+  "englishDistrictName": "Rivière-du-Nord",
+  "frenchDistrictName": "Rivière-du-Nord",
+  "Liberal": {
+    "votes": 14933,
+    "familyName": "Bélair Rolland",
+    "middleName": "",
+    "firstName": "Janice"
   },
-  "\"Rhinoceros\"": {
-    "familyName": "\"Côté\"",
-    "middleName": "\"\"",
-    "firstName": "\"Fobozof A.\"",
-    "votes": 261
+  "Rhinoceros": {
+    "votes": 261,
+    "familyName": "Côté",
+    "middleName": "",
+    "firstName": "Fobozof A."
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Dionne Labelle\"",
-    "middleName": "\"\"",
-    "firstName": "\"Pierre\"",
-    "votes": 17077
+  "NDP-New Democratic Party": {
+    "votes": 17077,
+    "familyName": "Dionne Labelle",
+    "middleName": "",
+    "firstName": "Pierre"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Fortin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Rhéal\"",
-    "votes": 18157
+  "Bloc Québécois": {
+    "votes": 18157,
+    "familyName": "Fortin",
+    "middleName": "",
+    "firstName": "Rhéal"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Leckman\"",
-    "middleName": "\"\"",
-    "firstName": "\"Joey\"",
-    "votes": 1436
+  "Green Party": {
+    "votes": 1436,
+    "familyName": "Leckman",
+    "middleName": "",
+    "firstName": "Joey"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Vignol\"",
-    "middleName": "\"\"",
-    "firstName": "\"Romain\"",
-    "votes": 4793
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 4793,
+    "familyName": "Vignol",
+    "middleName": "",
+    "firstName": "Romain"
   }
 }

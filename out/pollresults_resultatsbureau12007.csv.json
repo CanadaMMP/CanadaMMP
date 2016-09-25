@@ -1,44 +1,49 @@
 {
   "electoralDistrictNumber": "12007",
-  "englishDistrictName": "\"Kings--Hants\"",
-  "frenchDistrictName": "\"Kings--Hants\"",
-  "\"Liberal\"": {
-    "familyName": "\"Brison\"",
-    "middleName": "\"\"",
-    "firstName": "\"Scott\"",
-    "votes": 33026
+  "englishDistrictName": "Kings--Hants",
+  "frenchDistrictName": "Kings--Hants",
+  "Liberal": {
+    "votes": 33026,
+    "familyName": "Brison",
+    "middleName": "",
+    "firstName": "Scott"
   },
-  "\"Rhinoceros\"": {
-    "familyName": "\"Brown-Hodges\"",
-    "middleName": "\"\"",
-    "firstName": "\"Megan\"",
-    "votes": 184
+  "Rhinoceros": {
+    "votes": 184,
+    "familyName": "Brown-Hodges",
+    "middleName": "",
+    "firstName": "Megan"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Cooper\"",
-    "middleName": "\"\"",
-    "firstName": "\"Will\"",
-    "votes": 1569
+  "Green Party": {
+    "votes": 1569,
+    "familyName": "Cooper",
+    "middleName": "",
+    "firstName": "Will"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Curry\"",
-    "middleName": "\"\"",
-    "firstName": "\"Hugh\"",
-    "votes": 2998
+  "NDP-New Democratic Party": {
+    "votes": 2998,
+    "familyName": "Curry",
+    "middleName": "",
+    "firstName": "Hugh"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Morse\"",
-    "middleName": "\"\"",
-    "firstName": "\"David\"",
-    "votes": 8677
+  "Conservative": {
+    "votes": 8677,
+    "familyName": "Morse",
+    "middleName": "",
+    "firstName": "David"
   },
-  "\"Independent\"": {
-    "familyName": "\"Twohig\"",
-    "middleName": "\"\"",
-    "firstName": "\"Edd\"",
-    "votes": 232
-  },
-  "undefined": {
-    "votes": null
+  "Independent": {
+    "Twohig": {
+      "votes": 132,
+      "familyName": "Twohig",
+      "middleName": "",
+      "firstName": "Edd"
+    },
+    "Williams": {
+      "votes": 100,
+      "familyName": "Williams",
+      "middleName": "",
+      "firstName": "Clifford James"
+    }
   }
 }

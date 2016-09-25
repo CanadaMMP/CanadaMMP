@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35019",
-  "englishDistrictName": "\"Don Valley East\"",
-  "frenchDistrictName": "\"Don Valley-Est\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Ahmed\"",
-    "middleName": "\"\"",
-    "firstName": "\"Khalid\"",
-    "votes": 4307
+  "englishDistrictName": "Don Valley East",
+  "frenchDistrictName": "Don Valley-Est",
+  "NDP-New Democratic Party": {
+    "votes": 4307,
+    "familyName": "Ahmed",
+    "middleName": "",
+    "firstName": "Khalid"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Harquail\"",
-    "middleName": "\"\"",
-    "firstName": "\"Maureen\"",
-    "votes": 12155
+  "Conservative": {
+    "votes": 12155,
+    "familyName": "Harquail",
+    "middleName": "",
+    "firstName": "Maureen"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Ratansi\"",
-    "middleName": "\"\"",
-    "firstName": "\"Yasmin\"",
-    "votes": 24048
+  "Liberal": {
+    "votes": 24048,
+    "familyName": "Ratansi",
+    "middleName": "",
+    "firstName": "Yasmin"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Sanderson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Laura Elizabeth\"",
-    "votes": 1078
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1078,
+    "familyName": "Sanderson",
+    "middleName": "",
+    "firstName": "Laura Elizabeth"
   }
 }

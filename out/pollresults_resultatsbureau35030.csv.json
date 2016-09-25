@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35030",
-  "englishDistrictName": "\"Flamborough--Glanbrook\"",
-  "frenchDistrictName": "\"Flamborough--Glanbrook\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"DiLivio\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mike\"",
-    "votes": 7779
+  "englishDistrictName": "Flamborough--Glanbrook",
+  "frenchDistrictName": "Flamborough--Glanbrook",
+  "NDP-New Democratic Party": {
+    "votes": 7779,
+    "familyName": "DiLivio",
+    "middleName": "",
+    "firstName": "Mike"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Stebbing\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jennifer\"",
-    "votes": 21728
+  "Liberal": {
+    "votes": 21728,
+    "familyName": "Stebbing",
+    "middleName": "",
+    "firstName": "Jennifer"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Sweet\"",
-    "middleName": "\"\"",
-    "firstName": "\"David\"",
-    "votes": 24137
+  "Conservative": {
+    "votes": 24137,
+    "familyName": "Sweet",
+    "middleName": "",
+    "firstName": "David"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Urquhart\"",
-    "middleName": "\"\"",
-    "firstName": "\"David Allan\"",
-    "votes": 1866
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1866,
+    "familyName": "Urquhart",
+    "middleName": "",
+    "firstName": "David Allan"
   }
 }

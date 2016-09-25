@@ -1,50 +1,47 @@
 {
   "electoralDistrictNumber": "24041",
-  "englishDistrictName": "\"Longueuil--Charles-LeMoyne\"",
-  "frenchDistrictName": "\"Longueuil--Charles-LeMoyne\"",
-  "\"Conservative\"": {
-    "familyName": "\"Barré\"",
-    "middleName": "\"\"",
-    "firstName": "\"Thomas\"",
-    "votes": 4961
+  "englishDistrictName": "Longueuil--Charles-LeMoyne",
+  "frenchDistrictName": "Longueuil--Charles-LeMoyne",
+  "Conservative": {
+    "votes": 4961,
+    "familyName": "Barré",
+    "middleName": "",
+    "firstName": "Thomas"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Chénier\"",
-    "middleName": "\"\"",
-    "firstName": "\"Pierre\"",
-    "votes": 168
+  "Marxist-Leninist": {
+    "votes": 168,
+    "familyName": "Chénier",
+    "middleName": "",
+    "firstName": "Pierre"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Cloutier\"",
-    "middleName": "\"\"",
-    "firstName": "\"Philippe\"",
-    "votes": 13974
+  "Bloc Québécois": {
+    "votes": 13974,
+    "familyName": "Cloutier",
+    "middleName": "",
+    "firstName": "Philippe"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Groguhé\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sadia\"",
-    "votes": 12468
+  "NDP-New Democratic Party": {
+    "votes": 12468,
+    "familyName": "Groguhé",
+    "middleName": "",
+    "firstName": "Sadia"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Leclerc\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mario\"",
-    "votes": 1510
+  "Green Party": {
+    "votes": 1510,
+    "familyName": "Leclerc",
+    "middleName": "",
+    "firstName": "Mario"
   },
-  "\"Rhinoceros\"": {
-    "familyName": "\"Liberman\"",
-    "middleName": "\"\"",
-    "firstName": "\"Matthew Iakov\"",
-    "votes": 325
+  "Rhinoceros": {
+    "votes": 325,
+    "familyName": "Liberman",
+    "middleName": "",
+    "firstName": "Matthew Iakov"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Romanado\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sherry\"",
-    "votes": 18301
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 18301,
+    "familyName": "Romanado",
+    "middleName": "",
+    "firstName": "Sherry"
   }
 }

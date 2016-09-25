@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "59020",
-  "englishDistrictName": "\"North Okanagan--Shuswap\"",
-  "frenchDistrictName": "\"North Okanagan--Shuswap\"",
-  "\"Conservative\"": {
-    "familyName": "\"Arnold\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mel\"",
-    "votes": 27490
+  "englishDistrictName": "North Okanagan--Shuswap",
+  "frenchDistrictName": "North Okanagan--Shuswap",
+  "Conservative": {
+    "votes": 27490,
+    "familyName": "Arnold",
+    "middleName": "",
+    "firstName": "Mel"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Derkaz\"",
-    "middleName": "\"\"",
-    "firstName": "\"Cindy\"",
-    "votes": 20949
+  "Liberal": {
+    "votes": 20949,
+    "familyName": "Derkaz",
+    "middleName": "",
+    "firstName": "Cindy"
   },
-  "\"Green Party\"": {
-    "familyName": "\"George\"",
-    "middleName": "\"\"",
-    "firstName": "\"Chris\"",
-    "votes": 3608
+  "Green Party": {
+    "votes": 3608,
+    "familyName": "George",
+    "middleName": "",
+    "firstName": "Chris"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Gingras\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jacqui\"",
-    "votes": 17907
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 17907,
+    "familyName": "Gingras",
+    "middleName": "",
+    "firstName": "Jacqui"
   }
 }

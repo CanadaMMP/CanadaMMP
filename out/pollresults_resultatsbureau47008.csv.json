@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "47008",
-  "englishDistrictName": "\"Regina--Qu'Appelle \"",
-  "frenchDistrictName": "\"Regina--Qu'Appelle \"",
-  "\"Liberal\"": {
-    "familyName": "\"Anaquod\"",
-    "middleName": "\"\"",
-    "firstName": "\"Della\"",
-    "votes": 8401
+  "englishDistrictName": "Regina--Qu'Appelle ",
+  "frenchDistrictName": "Regina--Qu'Appelle ",
+  "Liberal": {
+    "votes": 8401,
+    "familyName": "Anaquod",
+    "middleName": "",
+    "firstName": "Della"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Chatterson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Greg\"",
-    "votes": 852
+  "Green Party": {
+    "votes": 852,
+    "familyName": "Chatterson",
+    "middleName": "",
+    "firstName": "Greg"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Kuyek\"",
-    "middleName": "\"\"",
-    "firstName": "\"Nial\"",
-    "votes": 11144
+  "NDP-New Democratic Party": {
+    "votes": 11144,
+    "familyName": "Kuyek",
+    "middleName": "",
+    "firstName": "Nial"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Scheer\"",
-    "middleName": "\"\"",
-    "firstName": "\"Andrew\"",
-    "votes": 16486
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 16486,
+    "familyName": "Scheer",
+    "middleName": "",
+    "firstName": "Andrew"
   }
 }

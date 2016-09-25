@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35085",
-  "englishDistrictName": "\"Pickering--Uxbridge\"",
-  "frenchDistrictName": "\"Pickering--Uxbridge\"",
-  "\"Conservative\"": {
-    "familyName": "\"Chisu\"",
-    "middleName": "\"\"",
-    "firstName": "\"Corneliu\"",
-    "votes": 22591
+  "englishDistrictName": "Pickering--Uxbridge",
+  "frenchDistrictName": "Pickering--Uxbridge",
+  "Conservative": {
+    "votes": 22591,
+    "familyName": "Chisu",
+    "middleName": "",
+    "firstName": "Corneliu"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Downward\"",
-    "middleName": "\"\"",
-    "firstName": "\"Pamela\"",
-    "votes": 5446
+  "NDP-New Democratic Party": {
+    "votes": 5446,
+    "familyName": "Downward",
+    "middleName": "",
+    "firstName": "Pamela"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Navarro\"",
-    "middleName": "\"\"",
-    "firstName": "\"Anthony Jordan\"",
-    "votes": 1365
+  "Green Party": {
+    "votes": 1365,
+    "familyName": "Navarro",
+    "middleName": "",
+    "firstName": "Anthony Jordan"
   },
-  "\"Liberal\"": {
-    "familyName": "\"O'Connell\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jennifer\"",
-    "votes": 29757
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 29757,
+    "familyName": "O'Connell",
+    "middleName": "",
+    "firstName": "Jennifer"
   }
 }

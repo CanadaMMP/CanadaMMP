@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35056",
-  "englishDistrictName": "\"Markham--Unionville\"",
-  "frenchDistrictName": "\"Markham--Unionville\"",
-  "\"Liberal\"": {
-    "familyName": "\"Jiang\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bang-Gu\"",
-    "votes": 21596
+  "englishDistrictName": "Markham--Unionville",
+  "frenchDistrictName": "Markham--Unionville",
+  "Liberal": {
+    "votes": 21596,
+    "familyName": "Jiang",
+    "middleName": "",
+    "firstName": "Bang-Gu"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Kao\"",
-    "middleName": "\"\"",
-    "firstName": "\"Elvin\"",
-    "votes": 1110
+  "Green Party": {
+    "votes": 1110,
+    "familyName": "Kao",
+    "middleName": "",
+    "firstName": "Elvin"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Saroya\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bob\"",
-    "votes": 24605
+  "Conservative": {
+    "votes": 24605,
+    "familyName": "Saroya",
+    "middleName": "",
+    "firstName": "Bob"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Zimmerman\"",
-    "middleName": "\"\"",
-    "firstName": "\"Colleen\"",
-    "votes": 2528
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 2528,
+    "familyName": "Zimmerman",
+    "middleName": "",
+    "firstName": "Colleen"
   }
 }

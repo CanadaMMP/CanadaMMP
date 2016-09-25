@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "35036",
-  "englishDistrictName": "\"Hamilton East--Stoney Creek\"",
-  "frenchDistrictName": "\"Hamilton-Est--Stoney Creek\"",
-  "\"Liberal\"": {
-    "familyName": "\"Bratina\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bob\"",
-    "votes": 19622
+  "englishDistrictName": "Hamilton East--Stoney Creek",
+  "frenchDistrictName": "Hamilton-Est--Stoney Creek",
+  "Liberal": {
+    "votes": 19622,
+    "familyName": "Bratina",
+    "middleName": "",
+    "firstName": "Bob"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Bubanko\"",
-    "middleName": "\"\"",
-    "firstName": "\"Diane\"",
-    "votes": 12715
+  "Conservative": {
+    "votes": 12715,
+    "familyName": "Bubanko",
+    "middleName": "",
+    "firstName": "Diane"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Davis\"",
-    "middleName": "\"\"",
-    "firstName": "\"Erin\"",
-    "votes": 1305
+  "Green Party": {
+    "votes": 1305,
+    "familyName": "Davis",
+    "middleName": "",
+    "firstName": "Erin"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Fields\"",
-    "middleName": "\"\"",
-    "firstName": "\"Wendell\"",
-    "votes": 55
+  "Marxist-Leninist": {
+    "votes": 55,
+    "familyName": "Fields",
+    "middleName": "",
+    "firstName": "Wendell"
   },
-  "\"Communist\"": {
-    "familyName": "\"Mann\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bob\"",
-    "votes": 170
+  "Communist": {
+    "votes": 170,
+    "familyName": "Mann",
+    "middleName": "",
+    "firstName": "Bob"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Marston\"",
-    "middleName": "\"\"",
-    "firstName": "\"Wayne\"",
-    "votes": 16465
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 16465,
+    "familyName": "Marston",
+    "middleName": "",
+    "firstName": "Wayne"
   }
 }

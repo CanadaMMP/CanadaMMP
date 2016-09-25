@@ -1,38 +1,37 @@
 {
   "electoralDistrictNumber": "48031",
-  "englishDistrictName": "\"St. Albert--Edmonton\"",
-  "frenchDistrictName": "\"St. Albert--Edmonton\"",
-  "\"Conservative\"": {
-    "familyName": "\"Cooper\"",
-    "middleName": "\"\"",
-    "firstName": "\"Michael\"",
-    "votes": 26783
+  "englishDistrictName": "St. Albert--Edmonton",
+  "frenchDistrictName": "St. Albert--Edmonton",
+  "Conservative": {
+    "votes": 26783,
+    "familyName": "Cooper",
+    "middleName": "",
+    "firstName": "Michael"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Ghettuba\"",
-    "middleName": "\"\"",
-    "firstName": "\"Beatrice\"",
-    "votes": 13343
+  "Liberal": {
+    "votes": 13343,
+    "familyName": "Ghettuba",
+    "middleName": "",
+    "firstName": "Beatrice"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Malayko\"",
-    "middleName": "\"\"",
-    "firstName": "\"Darlene\"",
-    "votes": 6609
+  "NDP-New Democratic Party": {
+    "votes": 6609,
+    "familyName": "Malayko",
+    "middleName": "",
+    "firstName": "Darlene"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Oldham\"",
-    "middleName": "\"\"",
-    "firstName": "\"Andrea\"",
-    "votes": 821
+  "Green Party": {
+    "votes": 821,
+    "familyName": "Oldham",
+    "middleName": "",
+    "firstName": "Andrea"
   },
-  "\"Independent\"": {
-    "familyName": "\"Rathgeber\"",
-    "middleName": "\"\"",
-    "firstName": "\"Brent\"",
-    "votes": 11652
-  },
-  "undefined": {
-    "votes": null
+  "Independent": {
+    "Rathgeber": {
+      "votes": 11652,
+      "familyName": "Rathgeber",
+      "middleName": "",
+      "firstName": "Brent"
+    }
   }
 }

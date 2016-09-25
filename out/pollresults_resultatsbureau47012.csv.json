@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "47012",
-  "englishDistrictName": "\"Saskatoon West\"",
-  "frenchDistrictName": "\"Saskatoon-Ouest\"",
-  "\"Liberal\"": {
-    "familyName": "\"Abbott\"",
-    "middleName": "\"\"",
-    "firstName": "\"Lisa\"",
-    "votes": 9234
+  "englishDistrictName": "Saskatoon West",
+  "frenchDistrictName": "Saskatoon-Ouest",
+  "Liberal": {
+    "votes": 9234,
+    "familyName": "Abbott",
+    "middleName": "",
+    "firstName": "Lisa"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Benson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sheri\"",
-    "votes": 14921
+  "NDP-New Democratic Party": {
+    "votes": 14921,
+    "familyName": "Benson",
+    "middleName": "",
+    "firstName": "Sheri"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Donauer\"",
-    "middleName": "\"\"",
-    "firstName": "\"Randy\"",
-    "votes": 12401
+  "Conservative": {
+    "votes": 12401,
+    "familyName": "Donauer",
+    "middleName": "",
+    "firstName": "Randy"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Hart\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bronek\"",
-    "votes": 230
+  "Libertarian": {
+    "votes": 230,
+    "familyName": "Hart",
+    "middleName": "",
+    "firstName": "Bronek"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Mitchell\"",
-    "middleName": "\"\"",
-    "firstName": "\"Lois Carol\"",
-    "votes": 658
+  "Green Party": {
+    "votes": 658,
+    "familyName": "Mitchell",
+    "middleName": "",
+    "firstName": "Lois Carol"
   },
-  "\"Canada Party\"": {
-    "familyName": "\"Pankiw\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jim\"",
-    "votes": 271
-  },
-  "undefined": {
-    "votes": null
+  "Canada Party": {
+    "votes": 271,
+    "familyName": "Pankiw",
+    "middleName": "",
+    "firstName": "Jim"
   }
 }

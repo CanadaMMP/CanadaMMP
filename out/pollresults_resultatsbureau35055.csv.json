@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35055",
-  "englishDistrictName": "\"Markham--Thornhill\"",
-  "frenchDistrictName": "\"Markham--Thornhill\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Chelliah\"",
-    "middleName": "\"\"",
-    "firstName": "\"Senthi\"",
-    "votes": 4595
+  "englishDistrictName": "Markham--Thornhill",
+  "frenchDistrictName": "Markham--Thornhill",
+  "NDP-New Democratic Party": {
+    "votes": 4595,
+    "familyName": "Chelliah",
+    "middleName": "",
+    "firstName": "Senthi"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Easow\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jobson\"",
-    "votes": 13849
+  "Conservative": {
+    "votes": 13849,
+    "familyName": "Easow",
+    "middleName": "",
+    "firstName": "Jobson"
   },
-  "\"Liberal\"": {
-    "familyName": "\"McCallum\"",
-    "middleName": "\"\"",
-    "firstName": "\"John\"",
-    "votes": 23878
+  "Liberal": {
+    "votes": 23878,
+    "familyName": "McCallum",
+    "middleName": "",
+    "firstName": "John"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Russell\"",
-    "middleName": "\"\"",
-    "firstName": "\"Joshua\"",
-    "votes": 535
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 535,
+    "familyName": "Russell",
+    "middleName": "",
+    "firstName": "Joshua"
   }
 }

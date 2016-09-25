@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "24046",
-  "englishDistrictName": "\"Manicouagan\"",
-  "frenchDistrictName": "\"Manicouagan\"",
-  "\"Conservative\"": {
-    "familyName": "\"Boudreau\"",
-    "middleName": "\"\"",
-    "firstName": "\"Yvon\"",
-    "votes": 4317
+  "englishDistrictName": "Manicouagan",
+  "frenchDistrictName": "Manicouagan",
+  "Conservative": {
+    "votes": 4317,
+    "familyName": "Boudreau",
+    "middleName": "",
+    "firstName": "Yvon"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Genest-Jourdain\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jonathan\"",
-    "votes": 7359
+  "NDP-New Democratic Party": {
+    "votes": 7359,
+    "familyName": "Genest-Jourdain",
+    "middleName": "",
+    "firstName": "Jonathan"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Gill\"",
-    "middleName": "\"\"",
-    "firstName": "\"Marilène\"",
-    "votes": 17338
+  "Bloc Québécois": {
+    "votes": 17338,
+    "familyName": "Gill",
+    "middleName": "",
+    "firstName": "Marilène"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Grills\"",
-    "middleName": "\"\"",
-    "firstName": "\"Nathan\"",
-    "votes": 673
+  "Green Party": {
+    "votes": 673,
+    "familyName": "Grills",
+    "middleName": "",
+    "firstName": "Nathan"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Tremblay\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mario\"",
-    "votes": 12343
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 12343,
+    "familyName": "Tremblay",
+    "middleName": "",
+    "firstName": "Mario"
   }
 }

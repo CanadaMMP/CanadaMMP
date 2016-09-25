@@ -1,38 +1,37 @@
 {
   "electoralDistrictNumber": "35114",
-  "englishDistrictName": "\"Whitby\"",
-  "frenchDistrictName": "\"Whitby\"",
-  "\"Liberal\"": {
-    "familyName": "\"Caesar-Chavannes\"",
-    "middleName": "\"\"",
-    "firstName": "\"Celina\"",
-    "votes": 29003
+  "englishDistrictName": "Whitby",
+  "frenchDistrictName": "Whitby",
+  "Liberal": {
+    "votes": 29003,
+    "familyName": "Caesar-Chavannes",
+    "middleName": "",
+    "firstName": "Celina"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Cameron\"",
-    "middleName": "\"\"",
-    "firstName": "\"Craig\"",
-    "votes": 1403
+  "Green Party": {
+    "votes": 1403,
+    "familyName": "Cameron",
+    "middleName": "",
+    "firstName": "Craig"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Kelly\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ryan\"",
-    "votes": 6677
+  "NDP-New Democratic Party": {
+    "votes": 6677,
+    "familyName": "Kelly",
+    "middleName": "",
+    "firstName": "Ryan"
   },
-  "\"Independent\"": {
-    "familyName": "\"O'Connor\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jon\"",
-    "votes": 279
+  "Independent": {
+    "O'Connor": {
+      "votes": 279,
+      "familyName": "O'Connor",
+      "middleName": "",
+      "firstName": "Jon"
+    }
   },
-  "\"Conservative\"": {
-    "familyName": "\"Perkins\"",
-    "middleName": "\"\"",
-    "firstName": "\"Pat\"",
-    "votes": 27154
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 27154,
+    "familyName": "Perkins",
+    "middleName": "",
+    "firstName": "Pat"
   }
 }

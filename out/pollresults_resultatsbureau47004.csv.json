@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "47004",
-  "englishDistrictName": "\"Carlton Trail--Eagle Creek\"",
-  "frenchDistrictName": "\"Sentier Carlton--Eagle Creek\"",
-  "\"Conservative\"": {
-    "familyName": "\"Block\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kelly\"",
-    "votes": 26004
+  "englishDistrictName": "Carlton Trail--Eagle Creek",
+  "frenchDistrictName": "Sentier Carlton--Eagle Creek",
+  "Conservative": {
+    "votes": 26004,
+    "familyName": "Block",
+    "middleName": "",
+    "firstName": "Kelly"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Oliphant\"",
-    "middleName": "\"\"",
-    "firstName": "\"Lynn Wesley\"",
-    "votes": 902
+  "Green Party": {
+    "votes": 902,
+    "familyName": "Oliphant",
+    "middleName": "",
+    "firstName": "Lynn Wesley"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Slusar\"",
-    "middleName": "\"\"",
-    "firstName": "\"Alexander\"",
-    "votes": 5774
+  "Liberal": {
+    "votes": 5774,
+    "familyName": "Slusar",
+    "middleName": "",
+    "firstName": "Alexander"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Wright\"",
-    "middleName": "\"\"",
-    "firstName": "\"Glenn\"",
-    "votes": 7499
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 7499,
+    "familyName": "Wright",
+    "middleName": "",
+    "firstName": "Glenn"
   }
 }

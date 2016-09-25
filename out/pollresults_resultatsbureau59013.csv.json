@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "59013",
-  "englishDistrictName": "\"Kamloops--Thompson--Cariboo\"",
-  "frenchDistrictName": "\"Kamloops--Thompson--Cariboo\"",
-  "\"Green Party\"": {
-    "familyName": "\"Greenwood\"",
-    "middleName": "\"\"",
-    "firstName": "\"Matthew\"",
-    "votes": 2489
+  "englishDistrictName": "Kamloops--Thompson--Cariboo",
+  "frenchDistrictName": "Kamloops--Thompson--Cariboo",
+  "Green Party": {
+    "votes": 2489,
+    "familyName": "Greenwood",
+    "middleName": "",
+    "firstName": "Matthew"
   },
-  "\"Conservative\"": {
-    "familyName": "\"McLeod\"",
-    "middleName": "\"\"",
-    "firstName": "\"Cathy\"",
-    "votes": 24595
+  "Conservative": {
+    "votes": 24595,
+    "familyName": "McLeod",
+    "middleName": "",
+    "firstName": "Cathy"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Powrie\"",
-    "middleName": "\"\"",
-    "firstName": "\"Steve\"",
-    "votes": 21215
+  "Liberal": {
+    "votes": 21215,
+    "familyName": "Powrie",
+    "middleName": "",
+    "firstName": "Steve"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Sundhu\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bill\"",
-    "votes": 21466
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 21466,
+    "familyName": "Sundhu",
+    "middleName": "",
+    "firstName": "Bill"
   }
 }

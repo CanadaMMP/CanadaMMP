@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35102",
-  "englishDistrictName": "\"Stormont--Dundas--South Glengarry\"",
-  "frenchDistrictName": "\"Stormont--Dundas--South Glengarry\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Burger\"",
-    "middleName": "\"\"",
-    "firstName": "\"Patrick\"",
-    "votes": 4332
+  "englishDistrictName": "Stormont--Dundas--South Glengarry",
+  "frenchDistrictName": "Stormont--Dundas--South Glengarry",
+  "NDP-New Democratic Party": {
+    "votes": 4332,
+    "familyName": "Burger",
+    "middleName": "",
+    "firstName": "Patrick"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Clement\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bernadette\"",
-    "votes": 20452
+  "Liberal": {
+    "votes": 20452,
+    "familyName": "Clement",
+    "middleName": "",
+    "firstName": "Bernadette"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Kennedy\"",
-    "middleName": "\"\"",
-    "firstName": "\"Elaine\"",
-    "votes": 1191
+  "Green Party": {
+    "votes": 1191,
+    "familyName": "Kennedy",
+    "middleName": "",
+    "firstName": "Elaine"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Lauzon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Guy\"",
-    "votes": 27091
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 27091,
+    "familyName": "Lauzon",
+    "middleName": "",
+    "firstName": "Guy"
   }
 }

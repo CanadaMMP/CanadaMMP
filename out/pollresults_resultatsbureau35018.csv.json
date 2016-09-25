@@ -1,44 +1,43 @@
 {
   "electoralDistrictNumber": "35018",
-  "englishDistrictName": "\"Davenport\"",
-  "frenchDistrictName": "\"Davenport\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Cash\"",
-    "middleName": "\"\"",
-    "firstName": "\"Andrew\"",
-    "votes": 20506
+  "englishDistrictName": "Davenport",
+  "frenchDistrictName": "Davenport",
+  "NDP-New Democratic Party": {
+    "votes": 20506,
+    "familyName": "Cash",
+    "middleName": "",
+    "firstName": "Andrew"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Dzerowicz\"",
-    "middleName": "\"\"",
-    "firstName": "\"Julie\"",
-    "votes": 21947
+  "Liberal": {
+    "votes": 21947,
+    "familyName": "Dzerowicz",
+    "middleName": "",
+    "firstName": "Julie"
   },
-  "\"Communist\"": {
-    "familyName": "\"Figueroa\"",
-    "middleName": "\"\"",
-    "firstName": "\"Miguel\"",
-    "votes": 261
+  "Communist": {
+    "votes": 261,
+    "familyName": "Figueroa",
+    "middleName": "",
+    "firstName": "Miguel"
   },
-  "\"Independent\"": {
-    "familyName": "\"Kalevar\"",
-    "middleName": "\"\"",
-    "firstName": "\"Chai\"",
-    "votes": 107
+  "Independent": {
+    "Kalevar": {
+      "votes": 107,
+      "familyName": "Kalevar",
+      "middleName": "",
+      "firstName": "Chai"
+    }
   },
-  "\"Conservative\"": {
-    "familyName": "\"Oliveira\"",
-    "middleName": "\"\"",
-    "firstName": "\"Carlos\"",
-    "votes": 5233
+  "Conservative": {
+    "votes": 5233,
+    "familyName": "Oliveira",
+    "middleName": "",
+    "firstName": "Carlos"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Stein\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dan\"",
-    "votes": 1530
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1530,
+    "familyName": "Stein",
+    "middleName": "",
+    "firstName": "Dan"
   }
 }

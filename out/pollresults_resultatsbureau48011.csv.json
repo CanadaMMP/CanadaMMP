@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "48011",
-  "englishDistrictName": "\"Calgary Shepard\"",
-  "frenchDistrictName": "\"Calgary Shepard\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Allard\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dany\"",
-    "votes": 4532
+  "englishDistrictName": "Calgary Shepard",
+  "frenchDistrictName": "Calgary Shepard",
+  "NDP-New Democratic Party": {
+    "votes": 4532,
+    "familyName": "Allard",
+    "middleName": "",
+    "firstName": "Dany"
   },
-  "\"Liberal\"": {
-    "familyName": "\"James\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jerome\"",
-    "votes": 16379
+  "Liberal": {
+    "votes": 16379,
+    "familyName": "James",
+    "middleName": "",
+    "firstName": "Jerome"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Kmiec\"",
-    "middleName": "\"\"",
-    "firstName": "\"Tom\"",
-    "votes": 43706
+  "Conservative": {
+    "votes": 43706,
+    "familyName": "Kmiec",
+    "middleName": "",
+    "firstName": "Tom"
   },
-  "\"Green Party\"": {
-    "familyName": "\"MacKenzie\"",
-    "middleName": "\"\"",
-    "firstName": "\"Graham\"",
-    "votes": 1734
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1734,
+    "familyName": "MacKenzie",
+    "middleName": "",
+    "firstName": "Graham"
   }
 }

@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "35079",
-  "englishDistrictName": "\"Ottawa West--Nepean\"",
-  "frenchDistrictName": "\"Ottawa-Ouest--Nepean\"",
-  "\"Conservative\"": {
-    "familyName": "\"Abdi\"",
-    "middleName": "\"\"",
-    "firstName": "\"Abdul\"",
-    "votes": 18893
+  "englishDistrictName": "Ottawa West--Nepean",
+  "frenchDistrictName": "Ottawa-Ouest--Nepean",
+  "Conservative": {
+    "votes": 18893,
+    "familyName": "Abdi",
+    "middleName": "",
+    "firstName": "Abdul"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Brooks\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mark\"",
-    "votes": 1772
+  "Green Party": {
+    "votes": 1772,
+    "familyName": "Brooks",
+    "middleName": "",
+    "firstName": "Mark"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Heaton\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sam\"",
-    "votes": 114
+  "Marxist-Leninist": {
+    "votes": 114,
+    "familyName": "Heaton",
+    "middleName": "",
+    "firstName": "Sam"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Rivier\"",
-    "middleName": "\"\"",
-    "firstName": "\"Marlene\"",
-    "votes": 6195
+  "NDP-New Democratic Party": {
+    "votes": 6195,
+    "familyName": "Rivier",
+    "middleName": "",
+    "firstName": "Marlene"
   },
-  "\"Christian Heritage Party\"": {
-    "familyName": "\"Taylor\"",
-    "middleName": "\"\"",
-    "firstName": "\"Rod\"",
-    "votes": 740
+  "Christian Heritage Party": {
+    "votes": 740,
+    "familyName": "Taylor",
+    "middleName": "",
+    "firstName": "Rod"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Vandenbeld\"",
-    "middleName": "\"\"",
-    "firstName": "\"Anita\"",
-    "votes": 35199
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 35199,
+    "familyName": "Vandenbeld",
+    "middleName": "",
+    "firstName": "Anita"
   }
 }

@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "35008",
-  "englishDistrictName": "\"Brampton Centre\"",
-  "frenchDistrictName": "\"Brampton-Centre\"",
-  "\"Green Party\"": {
-    "familyName": "\"Bottcher\"",
-    "middleName": "\"\"",
-    "firstName": "\"Saul Marquard T.\"",
-    "votes": 844
+  "englishDistrictName": "Brampton Centre",
+  "frenchDistrictName": "Brampton-Centre",
+  "Green Party": {
+    "votes": 844,
+    "familyName": "Bottcher",
+    "middleName": "",
+    "firstName": "Saul Marquard T."
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Chilelli\"",
-    "middleName": "\"\"",
-    "firstName": "\"Frank\"",
-    "votes": 173
+  "Marxist-Leninist": {
+    "votes": 173,
+    "familyName": "Chilelli",
+    "middleName": "",
+    "firstName": "Frank"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Gosal\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bal\"",
-    "votes": 13345
+  "Conservative": {
+    "votes": 13345,
+    "familyName": "Gosal",
+    "middleName": "",
+    "firstName": "Bal"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Keenan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Rosemary\"",
-    "votes": 5993
+  "NDP-New Democratic Party": {
+    "votes": 5993,
+    "familyName": "Keenan",
+    "middleName": "",
+    "firstName": "Rosemary"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Sangha\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ramesh\"",
-    "votes": 19277
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 19277,
+    "familyName": "Sangha",
+    "middleName": "",
+    "firstName": "Ramesh"
   }
 }

@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "48001",
-  "englishDistrictName": "\"Banff--Airdrie\"",
-  "frenchDistrictName": "\"Banff--Airdrie\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Boissonneault\"",
-    "middleName": "\"\"",
-    "firstName": "\"Joanne\"",
-    "votes": 4521
+  "englishDistrictName": "Banff--Airdrie",
+  "frenchDistrictName": "Banff--Airdrie",
+  "NDP-New Democratic Party": {
+    "votes": 4521,
+    "familyName": "Boissonneault",
+    "middleName": "",
+    "firstName": "Joanne"
   },
-  "\"Green Party\"": {
-    "familyName": "\"MacDonald\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mike\"",
-    "votes": 2509
+  "Green Party": {
+    "votes": 2509,
+    "familyName": "MacDonald",
+    "middleName": "",
+    "firstName": "Mike"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Raynolds\"",
-    "middleName": "\"\"",
-    "firstName": "\"Marlo\"",
-    "votes": 17380
+  "Liberal": {
+    "votes": 17380,
+    "familyName": "Raynolds",
+    "middleName": "",
+    "firstName": "Marlo"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Richards\"",
-    "middleName": "\"\"",
-    "firstName": "\"Blake\"",
-    "votes": 42228
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 42228,
+    "familyName": "Richards",
+    "middleName": "",
+    "firstName": "Blake"
   }
 }

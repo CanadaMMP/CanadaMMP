@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "35111",
-  "englishDistrictName": "\"Vaughan--Woodbridge\"",
-  "frenchDistrictName": "\"Vaughan--Woodbridge\"",
-  "\"Green Party\"": {
-    "familyName": "\"Boulanger\"",
-    "middleName": "\"\"",
-    "firstName": "\"Elise\"",
-    "votes": 597
+  "englishDistrictName": "Vaughan--Woodbridge",
+  "frenchDistrictName": "Vaughan--Woodbridge",
+  "Green Party": {
+    "votes": 597,
+    "familyName": "Boulanger",
+    "middleName": "",
+    "firstName": "Elise"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Fantino\"",
-    "middleName": "\"\"",
-    "firstName": "\"Julian\"",
-    "votes": 20746
+  "Conservative": {
+    "votes": 20746,
+    "familyName": "Fantino",
+    "middleName": "",
+    "firstName": "Julian"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Gualtieri\"",
-    "middleName": "\"\"",
-    "firstName": "\"Anthony\"",
-    "votes": 716
+  "Libertarian": {
+    "votes": 716,
+    "familyName": "Gualtieri",
+    "middleName": "",
+    "firstName": "Anthony"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Sorbara\"",
-    "middleName": "\"\"",
-    "firstName": "\"Francesco\"",
-    "votes": 23041
+  "Liberal": {
+    "votes": 23041,
+    "familyName": "Sorbara",
+    "middleName": "",
+    "firstName": "Francesco"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Zichy\"",
-    "middleName": "\"\"",
-    "firstName": "\"Adriana Marie\"",
-    "votes": 2198
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 2198,
+    "familyName": "Zichy",
+    "middleName": "",
+    "firstName": "Adriana Marie"
   }
 }

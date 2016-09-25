@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "11001",
-  "englishDistrictName": "\"Cardigan\"",
-  "frenchDistrictName": "\"Cardigan\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Cann\"",
-    "middleName": "\"\"",
-    "firstName": "\"Billy\"",
-    "votes": 2503
+  "englishDistrictName": "Cardigan",
+  "frenchDistrictName": "Cardigan",
+  "NDP-New Democratic Party": {
+    "votes": 2503,
+    "familyName": "Cann",
+    "middleName": "",
+    "firstName": "Billy"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Doyle\"",
-    "middleName": "\"\"",
-    "firstName": "\"Teresa\"",
-    "votes": 1434
+  "Green Party": {
+    "votes": 1434,
+    "familyName": "Doyle",
+    "middleName": "",
+    "firstName": "Teresa"
   },
-  "\"Liberal\"": {
-    "familyName": "\"MacAulay\"",
-    "middleName": "\"\"",
-    "firstName": "\"Lawrence\"",
-    "votes": 14621
+  "Liberal": {
+    "votes": 14621,
+    "familyName": "MacAulay",
+    "middleName": "",
+    "firstName": "Lawrence"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Patkai\"",
-    "middleName": "\"\"",
-    "firstName": "\"Julius\"",
-    "votes": 3632
+  "Conservative": {
+    "votes": 3632,
+    "familyName": "Patkai",
+    "middleName": "",
+    "firstName": "Julius"
   },
-  "\"Christian Heritage Party\"": {
-    "familyName": "\"Squires\"",
-    "middleName": "\"\"",
-    "firstName": "\"Christene\"",
-    "votes": 295
-  },
-  "undefined": {
-    "votes": null
+  "Christian Heritage Party": {
+    "votes": 295,
+    "familyName": "Squires",
+    "middleName": "",
+    "firstName": "Christene"
   }
 }

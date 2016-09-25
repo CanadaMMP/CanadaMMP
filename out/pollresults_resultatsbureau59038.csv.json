@@ -1,50 +1,47 @@
 {
   "electoralDistrictNumber": "59038",
-  "englishDistrictName": "\"Vancouver Kingsway\"",
-  "frenchDistrictName": "\"Vancouver Kingsway\"",
-  "\"Communist\"": {
-    "familyName": "\"Cariou\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kimball\"",
-    "votes": 445
+  "englishDistrictName": "Vancouver Kingsway",
+  "frenchDistrictName": "Vancouver Kingsway",
+  "Communist": {
+    "votes": 445,
+    "familyName": "Cariou",
+    "middleName": "",
+    "firstName": "Kimball"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Davies\"",
-    "middleName": "\"\"",
-    "firstName": "\"Don\"",
-    "votes": 20763
+  "NDP-New Democratic Party": {
+    "votes": 20763,
+    "familyName": "Davies",
+    "middleName": "",
+    "firstName": "Don"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Kadioglu\"",
-    "middleName": "\"\"",
-    "firstName": "\"Matt\"",
-    "votes": 468
+  "Libertarian": {
+    "votes": 468,
+    "familyName": "Kadioglu",
+    "middleName": "",
+    "firstName": "Matt"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Kou\"",
-    "middleName": "\"\"",
-    "firstName": "\"Steven\"",
-    "votes": 12625
+  "Liberal": {
+    "votes": 12625,
+    "familyName": "Kou",
+    "middleName": "",
+    "firstName": "Steven"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Moore\"",
-    "middleName": "\"\"",
-    "firstName": "\"Catherine\"",
-    "votes": 1476
+  "Green Party": {
+    "votes": 1476,
+    "familyName": "Moore",
+    "middleName": "",
+    "firstName": "Catherine"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Petersen\"",
-    "middleName": "\"\"",
-    "firstName": "\"Donna\"",
-    "votes": 81
+  "Marxist-Leninist": {
+    "votes": 81,
+    "familyName": "Petersen",
+    "middleName": "",
+    "firstName": "Donna"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Quimpo\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jojo\"",
-    "votes": 9538
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 9538,
+    "familyName": "Quimpo",
+    "middleName": "",
+    "firstName": "Jojo"
   }
 }

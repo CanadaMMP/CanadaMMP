@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "35104",
-  "englishDistrictName": "\"Thornhill\"",
-  "frenchDistrictName": "\"Thornhill\"",
-  "\"Libertarian\"": {
-    "familyName": "\"Balfour\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gene\"",
-    "votes": 587
+  "englishDistrictName": "Thornhill",
+  "frenchDistrictName": "Thornhill",
+  "Libertarian": {
+    "votes": 587,
+    "familyName": "Balfour",
+    "middleName": "",
+    "firstName": "Gene"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Cherry\"",
-    "middleName": "\"\"",
-    "firstName": "\"Lorne\"",
-    "votes": 2814
+  "NDP-New Democratic Party": {
+    "votes": 2814,
+    "familyName": "Cherry",
+    "middleName": "",
+    "firstName": "Lorne"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Coldham\"",
-    "middleName": "\"\"",
-    "firstName": "\"Nancy\"",
-    "votes": 18395
+  "Liberal": {
+    "votes": 18395,
+    "familyName": "Coldham",
+    "middleName": "",
+    "firstName": "Nancy"
   },
-  "\"Seniors Party\"": {
-    "familyName": "\"Fairbairn\"",
-    "middleName": "\"\"",
-    "firstName": "\"Margaret Leigh\"",
-    "votes": 157
+  "Seniors Party": {
+    "votes": 157,
+    "familyName": "Fairbairn",
+    "middleName": "",
+    "firstName": "Margaret Leigh"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Kent\"",
-    "middleName": "\"\"",
-    "firstName": "\"Peter\"",
-    "votes": 31911
+  "Conservative": {
+    "votes": 31911,
+    "familyName": "Kent",
+    "middleName": "",
+    "firstName": "Peter"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Rachlis\"",
-    "middleName": "\"\"",
-    "firstName": "\"Josh\"",
-    "votes": 627
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 627,
+    "familyName": "Rachlis",
+    "middleName": "",
+    "firstName": "Josh"
   }
 }

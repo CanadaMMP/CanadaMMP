@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35048",
-  "englishDistrictName": "\"Lambton--Kent--Middlesex\"",
-  "frenchDistrictName": "\"Lambton--Kent--Middlesex\"",
-  "\"Liberal\"": {
-    "familyName": "\"Filson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ken\"",
-    "votes": 16592
+  "englishDistrictName": "Lambton--Kent--Middlesex",
+  "frenchDistrictName": "Lambton--Kent--Middlesex",
+  "Liberal": {
+    "votes": 16592,
+    "familyName": "Filson",
+    "middleName": "",
+    "firstName": "Ken"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Isaac\"",
-    "middleName": "\"\"",
-    "firstName": "\"Rex\"",
-    "votes": 9598
+  "NDP-New Democratic Party": {
+    "votes": 9598,
+    "familyName": "Isaac",
+    "middleName": "",
+    "firstName": "Rex"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Johnston\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jim\"",
-    "votes": 1873
+  "Green Party": {
+    "votes": 1873,
+    "familyName": "Johnston",
+    "middleName": "",
+    "firstName": "Jim"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Shipley\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bev\"",
-    "votes": 28300
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 28300,
+    "familyName": "Shipley",
+    "middleName": "",
+    "firstName": "Bev"
   }
 }

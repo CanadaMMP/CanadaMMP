@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "24040",
-  "englishDistrictName": "\"Laval--Les Îles\"",
-  "frenchDistrictName": "\"Laval--Les Îles\"",
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Breton\"",
-    "middleName": "\"\"",
-    "firstName": "\"Yvon\"",
-    "votes": 175
+  "englishDistrictName": "Laval--Les Îles",
+  "frenchDistrictName": "Laval--Les Îles",
+  "Marxist-Leninist": {
+    "votes": 175,
+    "familyName": "Breton",
+    "middleName": "",
+    "firstName": "Yvon"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Dick\"",
-    "middleName": "\"\"",
-    "firstName": "\"Roland\"",
-    "votes": 9811
+  "Conservative": {
+    "votes": 9811,
+    "familyName": "Dick",
+    "middleName": "",
+    "firstName": "Roland"
   },
-  "\"Liberal\"": {
-    "familyName": "\"El-Khoury\"",
-    "middleName": "\"\"",
-    "firstName": "\"Fayçal\"",
-    "votes": 25857
+  "Liberal": {
+    "votes": 25857,
+    "familyName": "El-Khoury",
+    "middleName": "",
+    "firstName": "Fayçal"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Pilon\"",
-    "middleName": "\"\"",
-    "firstName": "\"François\"",
-    "votes": 10710
+  "NDP-New Democratic Party": {
+    "votes": 10710,
+    "familyName": "Pilon",
+    "middleName": "",
+    "firstName": "François"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Redhead\"",
-    "middleName": "\"\"",
-    "firstName": "\"Nancy\"",
-    "votes": 6731
+  "Bloc Québécois": {
+    "votes": 6731,
+    "familyName": "Redhead",
+    "middleName": "",
+    "firstName": "Nancy"
   },
-  "\"Green Party\"": {
-    "familyName": "\"R'Guiba-Kalogerakis\"",
-    "middleName": "\"\"",
-    "firstName": "\"Faiza\"",
-    "votes": 921
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 921,
+    "familyName": "R'Guiba-Kalogerakis",
+    "middleName": "",
+    "firstName": "Faiza"
   }
 }

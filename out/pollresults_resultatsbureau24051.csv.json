@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "24051",
-  "englishDistrictName": "\"Montmagny--L'Islet--Kamouraska--Rivière-du-Loup\"",
-  "frenchDistrictName": "\"Montmagny--L'Islet--Kamouraska--Rivière-du-Loup\"",
-  "\"Green Party\"": {
-    "familyName": "\"Breton\"",
-    "middleName": "\"\"",
-    "firstName": "\"Chantal\"",
-    "votes": 823
+  "englishDistrictName": "Montmagny--L'Islet--Kamouraska--Rivière-du-Loup",
+  "frenchDistrictName": "Montmagny--L'Islet--Kamouraska--Rivière-du-Loup",
+  "Green Party": {
+    "votes": 823,
+    "familyName": "Breton",
+    "middleName": "",
+    "firstName": "Chantal"
   },
-  "\"Rhinoceros\"": {
-    "familyName": "\"Gagné\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bien Gras\"",
-    "votes": 287
+  "Rhinoceros": {
+    "votes": 287,
+    "familyName": "Gagné",
+    "middleName": "",
+    "firstName": "Bien Gras"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Gagnon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Louis\"",
-    "votes": 7939
+  "Bloc Québécois": {
+    "votes": 7939,
+    "familyName": "Gagnon",
+    "middleName": "",
+    "firstName": "Louis"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Généreux\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bernard\"",
-    "votes": 14274
+  "Conservative": {
+    "votes": 14274,
+    "familyName": "Généreux",
+    "middleName": "",
+    "firstName": "Bernard"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Lapointe\"",
-    "middleName": "\"\"",
-    "firstName": "\"François\"",
-    "votes": 11918
+  "NDP-New Democratic Party": {
+    "votes": 11918,
+    "familyName": "Lapointe",
+    "middleName": "",
+    "firstName": "François"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Normand\"",
-    "middleName": "\"\"",
-    "firstName": "\"Marie-Josée\"",
-    "votes": 14002
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 14002,
+    "familyName": "Normand",
+    "middleName": "",
+    "firstName": "Marie-Josée"
   }
 }

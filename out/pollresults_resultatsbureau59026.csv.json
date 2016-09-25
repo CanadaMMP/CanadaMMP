@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "59026",
-  "englishDistrictName": "\"Esquimalt--Saanich--Sooke\"",
-  "frenchDistrictName": "\"Esquimalt--Saanich--Sooke\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Garrison\"",
-    "middleName": "\"\"",
-    "firstName": "\"Randall\"",
-    "votes": 23836
+  "englishDistrictName": "Esquimalt--Saanich--Sooke",
+  "frenchDistrictName": "Esquimalt--Saanich--Sooke",
+  "NDP-New Democratic Party": {
+    "votes": 23836,
+    "familyName": "Garrison",
+    "middleName": "",
+    "firstName": "Randall"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Litman\"",
-    "middleName": "\"\"",
-    "firstName": "\"Frances\"",
-    "votes": 13575
+  "Green Party": {
+    "votes": 13575,
+    "familyName": "Litman",
+    "middleName": "",
+    "firstName": "Frances"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Lukens\"",
-    "middleName": "\"\"",
-    "firstName": "\"Shari\"",
-    "votes": 11912
+  "Conservative": {
+    "votes": 11912,
+    "familyName": "Lukens",
+    "middleName": "",
+    "firstName": "Shari"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Merner\"",
-    "middleName": "\"\"",
-    "firstName": "\"David\"",
-    "votes": 18622
+  "Liberal": {
+    "votes": 18622,
+    "familyName": "Merner",
+    "middleName": "",
+    "firstName": "David"
   },
-  "\"Communist\"": {
-    "familyName": "\"Strandlund\"",
-    "middleName": "\"\"",
-    "firstName": "\"Tyson\"",
-    "votes": 136
-  },
-  "undefined": {
-    "votes": null
+  "Communist": {
+    "votes": 136,
+    "familyName": "Strandlund",
+    "middleName": "",
+    "firstName": "Tyson"
   }
 }

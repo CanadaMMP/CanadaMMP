@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "24072",
-  "englishDistrictName": "\"Shefford\"",
-  "frenchDistrictName": "\"Shefford\"",
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Beaudoin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jocelyn\"",
-    "votes": 13092
+  "englishDistrictName": "Shefford",
+  "frenchDistrictName": "Shefford",
+  "Bloc Québécois": {
+    "votes": 13092,
+    "familyName": "Beaudoin",
+    "middleName": "",
+    "firstName": "Jocelyn"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Breton\"",
-    "middleName": "\"\"",
-    "firstName": "\"Pierre\"",
-    "votes": 22957
+  "Liberal": {
+    "votes": 22957,
+    "familyName": "Breton",
+    "middleName": "",
+    "firstName": "Pierre"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Fontaine\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sylvie\"",
-    "votes": 7529
+  "Conservative": {
+    "votes": 7529,
+    "familyName": "Fontaine",
+    "middleName": "",
+    "firstName": "Sylvie"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Mailhot\"",
-    "middleName": "\"\"",
-    "firstName": "\"Claire\"",
-    "votes": 13945
+  "NDP-New Democratic Party": {
+    "votes": 13945,
+    "familyName": "Mailhot",
+    "middleName": "",
+    "firstName": "Claire"
   },
-  "\"Green Party\"": {
-    "familyName": "\"McMillan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Simon\"",
-    "votes": 1397
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1397,
+    "familyName": "McMillan",
+    "middleName": "",
+    "firstName": "Simon"
   }
 }

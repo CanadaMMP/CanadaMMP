@@ -1,44 +1,43 @@
 {
   "electoralDistrictNumber": "35013",
-  "englishDistrictName": "\"Brantford--Brant\"",
-  "frenchDistrictName": "\"Brantford--Brant\"",
-  "\"Green Party\"": {
-    "familyName": "\"Brandt\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kevin\"",
-    "votes": 1582
+  "englishDistrictName": "Brantford--Brant",
+  "frenchDistrictName": "Brantford--Brant",
+  "Green Party": {
+    "votes": 1582,
+    "familyName": "Brandt",
+    "middleName": "",
+    "firstName": "Kevin"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Ferguson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Rob\"",
-    "votes": 515
+  "Libertarian": {
+    "votes": 515,
+    "familyName": "Ferguson",
+    "middleName": "",
+    "firstName": "Rob"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Laferriere\"",
-    "middleName": "\"\"",
-    "firstName": "\"Marc\"",
-    "votes": 15715
+  "NDP-New Democratic Party": {
+    "votes": 15715,
+    "familyName": "Laferriere",
+    "middleName": "",
+    "firstName": "Marc"
   },
-  "\"Conservative\"": {
-    "familyName": "\"McColeman\"",
-    "middleName": "\"\"",
-    "firstName": "\"Phil\"",
-    "votes": 25874
+  "Conservative": {
+    "votes": 25874,
+    "familyName": "McColeman",
+    "middleName": "",
+    "firstName": "Phil"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Takacs\"",
-    "middleName": "\"\"",
-    "firstName": "\"Danielle\"",
-    "votes": 19422
+  "Liberal": {
+    "votes": 19422,
+    "familyName": "Takacs",
+    "middleName": "",
+    "firstName": "Danielle"
   },
-  "\"Independent\"": {
-    "familyName": "\"Turmel\"",
-    "middleName": "\"\"",
-    "firstName": "\"The Engineer\"",
-    "votes": 164
-  },
-  "undefined": {
-    "votes": null
+  "Independent": {
+    "Turmel": {
+      "votes": 164,
+      "familyName": "Turmel",
+      "middleName": "",
+      "firstName": "The Engineer"
+    }
   }
 }

@@ -1,44 +1,43 @@
 {
   "electoralDistrictNumber": "48014",
-  "englishDistrictName": "\"Edmonton Centre\"",
-  "frenchDistrictName": "\"Edmonton-Centre\"",
-  "\"Liberal\"": {
-    "familyName": "\"Boissonnault\"",
-    "middleName": "\"\"",
-    "firstName": "\"Randy\"",
-    "votes": 19902
+  "englishDistrictName": "Edmonton Centre",
+  "frenchDistrictName": "Edmonton-Centre",
+  "Liberal": {
+    "votes": 19902,
+    "familyName": "Boissonnault",
+    "middleName": "",
+    "firstName": "Randy"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Cumming\"",
-    "middleName": "\"\"",
-    "firstName": "\"James\"",
-    "votes": 18703
+  "Conservative": {
+    "votes": 18703,
+    "familyName": "Cumming",
+    "middleName": "",
+    "firstName": "James"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"McGowan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gil\"",
-    "votes": 13084
+  "NDP-New Democratic Party": {
+    "votes": 13084,
+    "familyName": "McGowan",
+    "middleName": "",
+    "firstName": "Gil"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Parker\"",
-    "middleName": "\"\"",
-    "firstName": "\"David\"",
-    "votes": 1403
+  "Green Party": {
+    "votes": 1403,
+    "familyName": "Parker",
+    "middleName": "",
+    "firstName": "David"
   },
-  "\"Rhinoceros\"": {
-    "familyName": "\"Stauffer\"",
-    "middleName": "\"\"",
-    "firstName": "\"Steven\"",
-    "votes": 257
+  "Rhinoceros": {
+    "votes": 257,
+    "familyName": "Stauffer",
+    "middleName": "",
+    "firstName": "Steven"
   },
-  "\"Independent\"": {
-    "familyName": "\"Yaki\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kat\"",
-    "votes": 163
-  },
-  "undefined": {
-    "votes": null
+  "Independent": {
+    "Yaki": {
+      "votes": 163,
+      "familyName": "Yaki",
+      "middleName": "",
+      "firstName": "Kat"
+    }
   }
 }

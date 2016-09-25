@@ -1,74 +1,79 @@
 {
   "electoralDistrictNumber": "12003",
-  "englishDistrictName": "\"Cumberland--Colchester\"",
-  "frenchDistrictName": "\"Cumberland--Colchester\"",
-  "\"Conservative\"": {
-    "familyName": "\"Armstrong\"",
-    "middleName": "\"\"",
-    "firstName": "\"Scott\"",
-    "votes": 12198
+  "englishDistrictName": "Cumberland--Colchester",
+  "frenchDistrictName": "Cumberland--Colchester",
+  "Conservative": {
+    "votes": 12198,
+    "familyName": "Armstrong",
+    "middleName": "",
+    "firstName": "Scott"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Blanch\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jason Matthew\"",
-    "votes": 1644
+  "Green Party": {
+    "votes": 1644,
+    "familyName": "Blanch",
+    "middleName": "",
+    "firstName": "Jason Matthew"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Casey\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bill\"",
-    "votes": 29419
+  "Liberal": {
+    "votes": 29419,
+    "familyName": "Casey",
+    "middleName": "",
+    "firstName": "Bill"
   },
-  "\"Independent\"": {
-    "familyName": "\"Jackson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kenneth\"",
-    "votes": 250
+  "Independent": {
+    "Jackson": {
+      "votes": 180,
+      "familyName": "Jackson",
+      "middleName": "",
+      "firstName": "Kenneth"
+    },
+    "Plett": {
+      "votes": 70,
+      "familyName": "Plett",
+      "middleName": "",
+      "firstName": "Richard Trueman"
+    }
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Robinson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Wendy\"",
-    "votes": 2637
+  "NDP-New Democratic Party": {
+    "votes": 2637,
+    "familyName": "Robinson",
+    "middleName": "",
+    "firstName": "Wendy"
   },
-  "\"Scott\"": {
+  "Scott": {
+    "votes": null,
     "familyName": "376",
-    "middleName": "\"Armstrong\"",
-    "firstName": "\"\"",
-    "votes": null
+    "middleName": "Armstrong",
+    "firstName": ""
   },
-  "\"Jason Matthew\"": {
+  "Jason Matthew": {
+    "votes": null,
     "familyName": "376",
-    "middleName": "\"Blanch\"",
-    "firstName": "\"\"",
-    "votes": null
+    "middleName": "Blanch",
+    "firstName": ""
   },
-  "\"Bill\"": {
+  "Bill": {
+    "votes": null,
     "familyName": "376",
-    "middleName": "\"Casey\"",
-    "firstName": "\"\"",
-    "votes": null
+    "middleName": "Casey",
+    "firstName": ""
   },
-  "\"Kenneth\"": {
+  "Kenneth": {
+    "votes": null,
     "familyName": "376",
-    "middleName": "\"Jackson\"",
-    "firstName": "\"\"",
-    "votes": null
+    "middleName": "Jackson",
+    "firstName": ""
   },
-  "\"Richard Trueman\"": {
+  "Richard Trueman": {
+    "votes": null,
     "familyName": "376",
-    "middleName": "\"Plett\"",
-    "firstName": "\"\"",
-    "votes": null
+    "middleName": "Plett",
+    "firstName": ""
   },
-  "\"Wendy\"": {
+  "Wendy": {
+    "votes": null,
     "familyName": "376",
-    "middleName": "\"Robinson\"",
-    "firstName": "\"\"",
-    "votes": null
-  },
-  "undefined": {
-    "votes": null
+    "middleName": "Robinson",
+    "firstName": ""
   }
 }

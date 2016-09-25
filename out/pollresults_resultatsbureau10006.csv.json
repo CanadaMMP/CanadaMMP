@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "10006",
-  "englishDistrictName": "\"St. John's East \"",
-  "frenchDistrictName": "\"St. John's-Est\"",
-  "\"Communist\"": {
-    "familyName": "\"Burton\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sean\"",
-    "votes": 140
+  "englishDistrictName": "St. John's East ",
+  "frenchDistrictName": "St. John's-Est",
+  "Communist": {
+    "votes": 140,
+    "familyName": "Burton",
+    "middleName": "",
+    "firstName": "Sean"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Harris\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jack\"",
-    "votes": 20328
+  "NDP-New Democratic Party": {
+    "votes": 20328,
+    "familyName": "Harris",
+    "middleName": "",
+    "firstName": "Jack"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Peters\"",
-    "middleName": "\"\"",
-    "firstName": "\"David Anthony\"",
-    "votes": 500
+  "Green Party": {
+    "votes": 500,
+    "familyName": "Peters",
+    "middleName": "",
+    "firstName": "David Anthony"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Stapleton\"",
-    "middleName": "\"\"",
-    "firstName": "\"Deanne\"",
-    "votes": 2938
+  "Conservative": {
+    "votes": 2938,
+    "familyName": "Stapleton",
+    "middleName": "",
+    "firstName": "Deanne"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Whalen\"",
-    "middleName": "\"\"",
-    "firstName": "\"Nick\"",
-    "votes": 20974
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 20974,
+    "familyName": "Whalen",
+    "middleName": "",
+    "firstName": "Nick"
   }
 }

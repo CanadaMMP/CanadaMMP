@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35012",
-  "englishDistrictName": "\"Brampton West\"",
-  "frenchDistrictName": "\"Brampton-Ouest\"",
-  "\"Green Party\"": {
-    "familyName": "\"Gobinath\"",
-    "middleName": "\"\"",
-    "firstName": "\"Karthika\"",
-    "votes": 674
+  "englishDistrictName": "Brampton West",
+  "frenchDistrictName": "Brampton-Ouest",
+  "Green Party": {
+    "votes": 674,
+    "familyName": "Gobinath",
+    "middleName": "",
+    "firstName": "Karthika"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Khera\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kamal\"",
-    "votes": 24256
+  "Liberal": {
+    "votes": 24256,
+    "familyName": "Khera",
+    "middleName": "",
+    "firstName": "Kamal"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Patterson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Adaoma\"",
-    "votes": 5400
+  "NDP-New Democratic Party": {
+    "votes": 5400,
+    "familyName": "Patterson",
+    "middleName": "",
+    "firstName": "Adaoma"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Thind\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ninder\"",
-    "votes": 13068
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 13068,
+    "familyName": "Thind",
+    "middleName": "",
+    "firstName": "Ninder"
   }
 }

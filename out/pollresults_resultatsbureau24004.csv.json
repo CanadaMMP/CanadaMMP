@@ -1,44 +1,43 @@
 {
   "electoralDistrictNumber": "24004",
-  "englishDistrictName": "\"Alfred-Pellan\"",
-  "frenchDistrictName": "\"Alfred-Pellan\"",
-  "\"Green Party\"": {
-    "familyName": "\"Briguene\"",
-    "middleName": "\"\"",
-    "firstName": "\"Lynda\"",
-    "votes": 1089
+  "englishDistrictName": "Alfred-Pellan",
+  "frenchDistrictName": "Alfred-Pellan",
+  "Green Party": {
+    "votes": 1089,
+    "familyName": "Briguene",
+    "middleName": "",
+    "firstName": "Lynda"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Doré Lefebvre\"",
-    "middleName": "\"\"",
-    "firstName": "\"Rosane\"",
-    "votes": 13225
+  "NDP-New Democratic Party": {
+    "votes": 13225,
+    "familyName": "Doré Lefebvre",
+    "middleName": "",
+    "firstName": "Rosane"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Iacono\"",
-    "middleName": "\"\"",
-    "firstName": "\"Angelo\"",
-    "votes": 24557
+  "Liberal": {
+    "votes": 24557,
+    "familyName": "Iacono",
+    "middleName": "",
+    "firstName": "Angelo"
   },
-  "\"Independent\"": {
-    "familyName": "\"Isopo\"",
-    "middleName": "\"\"",
-    "firstName": "\"Renata\"",
-    "votes": 203
+  "Independent": {
+    "Isopo": {
+      "votes": 203,
+      "familyName": "Isopo",
+      "middleName": "",
+      "firstName": "Renata"
+    }
   },
-  "\"Conservative\"": {
-    "familyName": "\"Purcarus\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gabriel\"",
-    "votes": 6259
+  "Conservative": {
+    "votes": 6259,
+    "familyName": "Purcarus",
+    "middleName": "",
+    "firstName": "Gabriel"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"St-Hilaire\"",
-    "middleName": "\"\"",
-    "firstName": "\"Daniel\"",
-    "votes": 9836
-  },
-  "undefined": {
-    "votes": null
+  "Bloc Québécois": {
+    "votes": 9836,
+    "familyName": "St-Hilaire",
+    "middleName": "",
+    "firstName": "Daniel"
   }
 }

@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "24025",
-  "englishDistrictName": "\"Drummond\"",
-  "frenchDistrictName": "\"Drummond\"",
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Bourgeois\"",
-    "middleName": "\"\"",
-    "firstName": "\"Diane\"",
-    "votes": 11862
+  "englishDistrictName": "Drummond",
+  "frenchDistrictName": "Drummond",
+  "Bloc Québécois": {
+    "votes": 11862,
+    "familyName": "Bourgeois",
+    "middleName": "",
+    "firstName": "Diane"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Choquette\"",
-    "middleName": "\"\"",
-    "firstName": "\"François\"",
-    "votes": 15833
+  "NDP-New Democratic Party": {
+    "votes": 15833,
+    "familyName": "Choquette",
+    "middleName": "",
+    "firstName": "François"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Coderre\"",
-    "middleName": "\"\"",
-    "firstName": "\"Émile\"",
-    "votes": 1270
+  "Green Party": {
+    "votes": 1270,
+    "familyName": "Coderre",
+    "middleName": "",
+    "firstName": "Émile"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Côté\"",
-    "middleName": "\"\"",
-    "firstName": "\"Pierre\"",
-    "votes": 13793
+  "Liberal": {
+    "votes": 13793,
+    "familyName": "Côté",
+    "middleName": "",
+    "firstName": "Pierre"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Déry\"",
-    "middleName": "\"\"",
-    "firstName": "\"Pascale\"",
-    "votes": 9221
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 9221,
+    "familyName": "Déry",
+    "middleName": "",
+    "firstName": "Pascale"
   }
 }

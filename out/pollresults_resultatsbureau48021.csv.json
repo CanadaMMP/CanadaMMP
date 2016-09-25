@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "48021",
-  "englishDistrictName": "\"Edmonton--Wetaskiwin\"",
-  "frenchDistrictName": "\"Edmonton--Wetaskiwin\"",
-  "\"Liberal\"": {
-    "familyName": "\"Biollo\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jacqueline\"",
-    "votes": 14660
+  "englishDistrictName": "Edmonton--Wetaskiwin",
+  "frenchDistrictName": "Edmonton--Wetaskiwin",
+  "Liberal": {
+    "votes": 14660,
+    "familyName": "Biollo",
+    "middleName": "",
+    "firstName": "Jacqueline"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Bitz\"",
-    "middleName": "\"\"",
-    "firstName": "\"Fritz K.\"",
-    "votes": 6645
+  "NDP-New Democratic Party": {
+    "votes": 6645,
+    "familyName": "Bitz",
+    "middleName": "",
+    "firstName": "Fritz K."
   },
-  "\"Green Party\"": {
-    "familyName": "\"Hut\"",
-    "middleName": "\"\"",
-    "firstName": "\"Joy-Ann\"",
-    "votes": 1595
+  "Green Party": {
+    "votes": 1595,
+    "familyName": "Hut",
+    "middleName": "",
+    "firstName": "Joy-Ann"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Lake\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mike\"",
-    "votes": 44949
+  "Conservative": {
+    "votes": 44949,
+    "familyName": "Lake",
+    "middleName": "",
+    "firstName": "Mike"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Whitlock\"",
-    "middleName": "\"\"",
-    "firstName": "\"Brayden\"",
-    "votes": 495
-  },
-  "undefined": {
-    "votes": null
+  "Libertarian": {
+    "votes": 495,
+    "familyName": "Whitlock",
+    "middleName": "",
+    "firstName": "Brayden"
   }
 }

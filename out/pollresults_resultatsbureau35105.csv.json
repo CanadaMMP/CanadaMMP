@@ -1,56 +1,53 @@
 {
   "electoralDistrictNumber": "35105",
-  "englishDistrictName": "\"Thunder Bay--Rainy River\"",
-  "frenchDistrictName": "\"Thunder Bay--Rainy River\"",
-  "\"Conservative\"": {
-    "familyName": "\"Comuzzi\"",
-    "middleName": "\"\"",
-    "firstName": "\"Moe\"",
-    "votes": 8838
+  "englishDistrictName": "Thunder Bay--Rainy River",
+  "frenchDistrictName": "Thunder Bay--Rainy River",
+  "Conservative": {
+    "votes": 8838,
+    "familyName": "Comuzzi",
+    "middleName": "",
+    "firstName": "Moe"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Radbourne\"",
-    "middleName": "\"\"",
-    "firstName": "\"Christy\"",
-    "votes": 2181
+  "Green Party": {
+    "votes": 2181,
+    "familyName": "Radbourne",
+    "middleName": "",
+    "firstName": "Christy"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Rafferty\"",
-    "middleName": "\"\"",
-    "firstName": "\"John\"",
-    "votes": 12443
+  "NDP-New Democratic Party": {
+    "votes": 12443,
+    "familyName": "Rafferty",
+    "middleName": "",
+    "firstName": "John"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Rusnak\"",
-    "middleName": "\"\"",
-    "firstName": "\"Don\"",
-    "votes": 18447
+  "Liberal": {
+    "votes": 18447,
+    "familyName": "Rusnak",
+    "middleName": "",
+    "firstName": "Don"
   },
-  "\"Moe\"": {
+  "Moe": {
+    "votes": null,
     "familyName": "18",
-    "middleName": "\"Comuzzi\"",
-    "firstName": "\"\"",
-    "votes": null
+    "middleName": "Comuzzi",
+    "firstName": ""
   },
-  "\"Christy\"": {
+  "Christy": {
+    "votes": null,
     "familyName": "18",
-    "middleName": "\"Radbourne\"",
-    "firstName": "\"\"",
-    "votes": null
+    "middleName": "Radbourne",
+    "firstName": ""
   },
-  "\"John\"": {
+  "John": {
+    "votes": null,
     "familyName": "18",
-    "middleName": "\"Rafferty\"",
-    "firstName": "\"\"",
-    "votes": null
+    "middleName": "Rafferty",
+    "firstName": ""
   },
-  "\"Don\"": {
+  "Don": {
+    "votes": null,
     "familyName": "18",
-    "middleName": "\"Rusnak\"",
-    "firstName": "\"\"",
-    "votes": null
-  },
-  "undefined": {
-    "votes": null
+    "middleName": "Rusnak",
+    "firstName": ""
   }
 }

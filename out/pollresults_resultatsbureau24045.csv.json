@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "24045",
-  "englishDistrictName": "\"Louis-Saint-Laurent\"",
-  "frenchDistrictName": "\"Louis-Saint-Laurent\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Caron\"",
-    "middleName": "\"\"",
-    "firstName": "\"G. Daniel\"",
-    "votes": 10296
+  "englishDistrictName": "Louis-Saint-Laurent",
+  "frenchDistrictName": "Louis-Saint-Laurent",
+  "NDP-New Democratic Party": {
+    "votes": 10296,
+    "familyName": "Caron",
+    "middleName": "",
+    "firstName": "G. Daniel"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Deltell\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gérard\"",
-    "votes": 32637
+  "Conservative": {
+    "votes": 32637,
+    "familyName": "Deltell",
+    "middleName": "",
+    "firstName": "Gérard"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Rousseau\"",
-    "middleName": "\"\"",
-    "firstName": "\"Youri\"",
-    "votes": 13852
+  "Liberal": {
+    "votes": 13852,
+    "familyName": "Rousseau",
+    "middleName": "",
+    "firstName": "Youri"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Savard\"",
-    "middleName": "\"\"",
-    "firstName": "\"Michel\"",
-    "votes": 1210
+  "Green Party": {
+    "votes": 1210,
+    "familyName": "Savard",
+    "middleName": "",
+    "firstName": "Michel"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Sirard\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ronald\"",
-    "votes": 6688
-  },
-  "undefined": {
-    "votes": null
+  "Bloc Québécois": {
+    "votes": 6688,
+    "familyName": "Sirard",
+    "middleName": "",
+    "firstName": "Ronald"
   }
 }

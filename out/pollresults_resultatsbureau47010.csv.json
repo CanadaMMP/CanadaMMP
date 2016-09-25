@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "47010",
-  "englishDistrictName": "\"Saskatoon--Grasswood\"",
-  "frenchDistrictName": "\"Saskatoon--Grasswood\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Bell\"",
-    "middleName": "\"\"",
-    "firstName": "\"Scott\"",
-    "votes": 13909
+  "englishDistrictName": "Saskatoon--Grasswood",
+  "frenchDistrictName": "Saskatoon--Grasswood",
+  "NDP-New Democratic Party": {
+    "votes": 13909,
+    "familyName": "Bell",
+    "middleName": "",
+    "firstName": "Scott"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Bigland-Pritchard\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mark\"",
-    "votes": 846
+  "Green Party": {
+    "votes": 846,
+    "familyName": "Bigland-Pritchard",
+    "middleName": "",
+    "firstName": "Mark"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Muggli\"",
-    "middleName": "\"\"",
-    "firstName": "\"Tracy\"",
-    "votes": 12165
+  "Liberal": {
+    "votes": 12165,
+    "familyName": "Muggli",
+    "middleName": "",
+    "firstName": "Tracy"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Waugh\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kevin\"",
-    "votes": 19166
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 19166,
+    "familyName": "Waugh",
+    "middleName": "",
+    "firstName": "Kevin"
   }
 }

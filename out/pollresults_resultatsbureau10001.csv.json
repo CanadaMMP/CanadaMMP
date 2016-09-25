@@ -1,44 +1,43 @@
 {
   "electoralDistrictNumber": "10001",
-  "englishDistrictName": "\"Avalon\"",
-  "frenchDistrictName": "\"Avalon\"",
-  "\"No Affiliation\"": {
-    "familyName": "\"Andrews\"",
-    "middleName": "\"\"",
-    "firstName": "\"Scott\"",
-    "votes": 7501
+  "englishDistrictName": "Avalon",
+  "frenchDistrictName": "Avalon",
+  "Independent": {
+    "Andrews": {
+      "votes": 7501,
+      "familyName": "Andrews",
+      "middleName": "",
+      "firstName": "Scott"
+    }
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Baldwin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jeannie\"",
-    "votes": 6075
+  "NDP-New Democratic Party": {
+    "votes": 6075,
+    "familyName": "Baldwin",
+    "middleName": "",
+    "firstName": "Jeannie"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Barnett\"",
-    "middleName": "\"\"",
-    "firstName": "\"Lorraine E.\"",
-    "votes": 4670
+  "Conservative": {
+    "votes": 4670,
+    "familyName": "Barnett",
+    "middleName": "",
+    "firstName": "Lorraine E."
   },
-  "\"Green Party\"": {
-    "familyName": "\"Byrne-Puumala\"",
-    "middleName": "\"\"",
-    "firstName": "\"Krista\"",
-    "votes": 228
+  "Green Party": {
+    "votes": 228,
+    "familyName": "Byrne-Puumala",
+    "middleName": "",
+    "firstName": "Krista"
   },
-  "\"Forces et Démocratie - Allier les forces de nos régions\"": {
-    "familyName": "\"McCreath\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jennifer\"",
-    "votes": 84
+  "Forces et Démocratie - Allier les forces de nos régions": {
+    "votes": 84,
+    "familyName": "McCreath",
+    "middleName": "",
+    "firstName": "Jennifer"
   },
-  "\"Liberal\"": {
-    "familyName": "\"McDonald\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ken\"",
-    "votes": 23528
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 23528,
+    "familyName": "McDonald",
+    "middleName": "",
+    "firstName": "Ken"
   }
 }

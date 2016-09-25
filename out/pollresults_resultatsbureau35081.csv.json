@@ -1,56 +1,55 @@
 {
   "electoralDistrictNumber": "35081",
-  "englishDistrictName": "\"Parkdale--High Park\"",
-  "frenchDistrictName": "\"Parkdale--High Park\"",
-  "\"Conservative\"": {
-    "familyName": "\"Allen\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ian\"",
-    "votes": 7641
+  "englishDistrictName": "Parkdale--High Park",
+  "frenchDistrictName": "Parkdale--High Park",
+  "Conservative": {
+    "votes": 7641,
+    "familyName": "Allen",
+    "middleName": "",
+    "firstName": "Ian"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Gershuny\"",
-    "middleName": "\"\"",
-    "firstName": "\"Lorne\"",
-    "votes": 100
+  "Marxist-Leninist": {
+    "votes": 100,
+    "familyName": "Gershuny",
+    "middleName": "",
+    "firstName": "Lorne"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Jeftovic\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mark\"",
-    "votes": 610
+  "Libertarian": {
+    "votes": 610,
+    "familyName": "Jeftovic",
+    "middleName": "",
+    "firstName": "Mark"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Nash\"",
-    "middleName": "\"\"",
-    "firstName": "\"Peggy\"",
-    "votes": 23566
+  "NDP-New Democratic Party": {
+    "votes": 23566,
+    "familyName": "Nash",
+    "middleName": "",
+    "firstName": "Peggy"
   },
-  "\"Radical Marijuana\"": {
-    "familyName": "\"Parker\"",
-    "middleName": "\"\"",
-    "firstName": "\"Terry\"",
-    "votes": 191
+  "Radical Marijuana": {
+    "votes": 191,
+    "familyName": "Parker",
+    "middleName": "",
+    "firstName": "Terry"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Phipps\"",
-    "middleName": "\"\"",
-    "firstName": "\"Adam\"",
-    "votes": 1743
+  "Green Party": {
+    "votes": 1743,
+    "familyName": "Phipps",
+    "middleName": "",
+    "firstName": "Adam"
   },
-  "\"Independent\"": {
-    "familyName": "\"Royer\"",
-    "middleName": "\"\"",
-    "firstName": "\"Carol\"",
-    "votes": 93
+  "Independent": {
+    "Royer": {
+      "votes": 93,
+      "familyName": "Royer",
+      "middleName": "",
+      "firstName": "Carol"
+    }
   },
-  "\"Liberal\"": {
-    "familyName": "\"Virani\"",
-    "middleName": "\"\"",
-    "firstName": "\"Arif\"",
-    "votes": 24623
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 24623,
+    "familyName": "Virani",
+    "middleName": "",
+    "firstName": "Arif"
   }
 }

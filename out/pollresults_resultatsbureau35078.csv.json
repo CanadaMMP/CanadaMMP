@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "35078",
-  "englishDistrictName": "\"Ottawa--Vanier\"",
-  "frenchDistrictName": "\"Ottawa--Vanier\"",
-  "\"Liberal\"": {
-    "familyName": "\"Bélanger\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mauril\"",
-    "votes": 36474
+  "englishDistrictName": "Ottawa--Vanier",
+  "frenchDistrictName": "Ottawa--Vanier",
+  "Liberal": {
+    "votes": 36474,
+    "familyName": "Bélanger",
+    "middleName": "",
+    "firstName": "Mauril"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Corcoran\"",
-    "middleName": "\"\"",
-    "firstName": "\"Coreen\"",
-    "votes": 503
+  "Libertarian": {
+    "votes": 503,
+    "familyName": "Corcoran",
+    "middleName": "",
+    "firstName": "Coreen"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Dookeran\"",
-    "middleName": "\"\"",
-    "firstName": "\"Nira\"",
-    "votes": 1947
+  "Green Party": {
+    "votes": 1947,
+    "familyName": "Dookeran",
+    "middleName": "",
+    "firstName": "Nira"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Legeais\"",
-    "middleName": "\"\"",
-    "firstName": "\"Christian\"",
-    "votes": 128
+  "Marxist-Leninist": {
+    "votes": 128,
+    "familyName": "Legeais",
+    "middleName": "",
+    "firstName": "Christian"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Piccini\"",
-    "middleName": "\"\"",
-    "firstName": "\"David\"",
-    "votes": 12109
+  "Conservative": {
+    "votes": 12109,
+    "familyName": "Piccini",
+    "middleName": "",
+    "firstName": "David"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Taman\"",
-    "middleName": "\"\"",
-    "firstName": "\"Emilie\"",
-    "votes": 12194
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 12194,
+    "familyName": "Taman",
+    "middleName": "",
+    "firstName": "Emilie"
   }
 }

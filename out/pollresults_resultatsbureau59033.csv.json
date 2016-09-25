@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "59033",
-  "englishDistrictName": "\"Surrey--Newton\"",
-  "frenchDistrictName": "\"Surrey--Newton\"",
-  "\"Liberal\"": {
-    "familyName": "\"Dhaliwal\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sukh\"",
-    "votes": 24869
+  "englishDistrictName": "Surrey--Newton",
+  "frenchDistrictName": "Surrey--Newton",
+  "Liberal": {
+    "votes": 24869,
+    "familyName": "Dhaliwal",
+    "middleName": "",
+    "firstName": "Sukh"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Sangha\"",
-    "middleName": "\"\"",
-    "firstName": "\"Pamela\"",
-    "votes": 975
+  "Green Party": {
+    "votes": 975,
+    "familyName": "Sangha",
+    "middleName": "",
+    "firstName": "Pamela"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Sims\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jinny\"",
-    "votes": 11602
+  "NDP-New Democratic Party": {
+    "votes": 11602,
+    "familyName": "Sims",
+    "middleName": "",
+    "firstName": "Jinny"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Singh\"",
-    "middleName": "\"\"",
-    "firstName": "\"Harpreet\"",
-    "votes": 6978
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 6978,
+    "familyName": "Singh",
+    "middleName": "",
+    "firstName": "Harpreet"
   }
 }

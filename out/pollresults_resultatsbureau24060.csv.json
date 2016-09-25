@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "24060",
-  "englishDistrictName": "\"Repentigny\"",
-  "frenchDistrictName": "\"Repentigny\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Bellemare\"",
-    "middleName": "\"\"",
-    "firstName": "\"Réjean\"",
-    "votes": 15167
+  "englishDistrictName": "Repentigny",
+  "frenchDistrictName": "Repentigny",
+  "NDP-New Democratic Party": {
+    "votes": 15167,
+    "familyName": "Bellemare",
+    "middleName": "",
+    "firstName": "Réjean"
   },
-  "\"Forces et Démocratie - Allier les forces de nos régions\"": {
-    "familyName": "\"Cloutier\"",
-    "middleName": "\"\"",
-    "firstName": "\"Johnathan\"",
-    "votes": 1333
+  "Forces et Démocratie - Allier les forces de nos régions": {
+    "votes": 1333,
+    "familyName": "Cloutier",
+    "middleName": "",
+    "firstName": "Johnathan"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Dudas\"",
-    "middleName": "\"\"",
-    "firstName": "\"Adriana\"",
-    "votes": 17798
+  "Liberal": {
+    "votes": 17798,
+    "familyName": "Dudas",
+    "middleName": "",
+    "firstName": "Adriana"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Gilbert\"",
-    "middleName": "\"\"",
-    "firstName": "\"Yoland\"",
-    "votes": 1242
+  "Green Party": {
+    "votes": 1242,
+    "familyName": "Gilbert",
+    "middleName": "",
+    "firstName": "Yoland"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Lefebvre\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jonathan\"",
-    "votes": 7053
+  "Conservative": {
+    "votes": 7053,
+    "familyName": "Lefebvre",
+    "middleName": "",
+    "firstName": "Jonathan"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Pauzé\"",
-    "middleName": "\"\"",
-    "firstName": "\"Monique\"",
-    "votes": 22618
-  },
-  "undefined": {
-    "votes": null
+  "Bloc Québécois": {
+    "votes": 22618,
+    "familyName": "Pauzé",
+    "middleName": "",
+    "firstName": "Monique"
   }
 }

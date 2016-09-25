@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "12006",
-  "englishDistrictName": "\"Halifax West\"",
-  "frenchDistrictName": "\"Halifax-Ouest\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Hussey\"",
-    "middleName": "\"\"",
-    "firstName": "\"Joanne\"",
-    "votes": 5894
+  "englishDistrictName": "Halifax West",
+  "frenchDistrictName": "Halifax-Ouest",
+  "NDP-New Democratic Party": {
+    "votes": 5894,
+    "familyName": "Hussey",
+    "middleName": "",
+    "firstName": "Joanne"
   },
-  "\"Conservative\"": {
-    "familyName": "\"McGinnis\"",
-    "middleName": "\"\"",
-    "firstName": "\"Michael\"",
-    "votes": 7837
+  "Conservative": {
+    "votes": 7837,
+    "familyName": "McGinnis",
+    "middleName": "",
+    "firstName": "Michael"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Regan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Geoff\"",
-    "votes": 34377
+  "Liberal": {
+    "votes": 34377,
+    "familyName": "Regan",
+    "middleName": "",
+    "firstName": "Geoff"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Zurawski\"",
-    "middleName": "\"\"",
-    "firstName": "\"Richard Henryk\"",
-    "votes": 1971
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1971,
+    "familyName": "Zurawski",
+    "middleName": "",
+    "firstName": "Richard Henryk"
   }
 }

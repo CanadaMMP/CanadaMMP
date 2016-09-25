@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35040",
-  "englishDistrictName": "\"Huron--Bruce\"",
-  "frenchDistrictName": "\"Huron--Bruce\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Creces\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gerard\"",
-    "votes": 7544
+  "englishDistrictName": "Huron--Bruce",
+  "frenchDistrictName": "Huron--Bruce",
+  "NDP-New Democratic Party": {
+    "votes": 7544,
+    "familyName": "Creces",
+    "middleName": "",
+    "firstName": "Gerard"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Lobb\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ben\"",
-    "votes": 26174
+  "Conservative": {
+    "votes": 26174,
+    "familyName": "Lobb",
+    "middleName": "",
+    "firstName": "Ben"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Splettstoesser\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jutta\"",
-    "votes": 1398
+  "Green Party": {
+    "votes": 1398,
+    "familyName": "Splettstoesser",
+    "middleName": "",
+    "firstName": "Jutta"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Thompson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Allan\"",
-    "votes": 23129
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 23129,
+    "familyName": "Thompson",
+    "middleName": "",
+    "firstName": "Allan"
   }
 }

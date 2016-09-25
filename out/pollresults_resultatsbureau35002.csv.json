@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35002",
-  "englishDistrictName": "\"Algoma--Manitoulin--Kapuskasing\"",
-  "frenchDistrictName": "\"Algoma--Manitoulin--Kapuskasing\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Hughes\"",
-    "middleName": "\"\"",
-    "firstName": "\"Carol\"",
-    "votes": 16516
+  "englishDistrictName": "Algoma--Manitoulin--Kapuskasing",
+  "frenchDistrictName": "Algoma--Manitoulin--Kapuskasing",
+  "NDP-New Democratic Party": {
+    "votes": 16516,
+    "familyName": "Hughes",
+    "middleName": "",
+    "firstName": "Carol"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Orok\"",
-    "middleName": "\"\"",
-    "firstName": "\"Calvin John\"",
-    "votes": 927
+  "Green Party": {
+    "votes": 927,
+    "familyName": "Orok",
+    "middleName": "",
+    "firstName": "Calvin John"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Robichaud\"",
-    "middleName": "\"\"",
-    "firstName": "\"André\"",
-    "votes": 9820
+  "Conservative": {
+    "votes": 9820,
+    "familyName": "Robichaud",
+    "middleName": "",
+    "firstName": "André"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Wilson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Heather\"",
-    "votes": 14111
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 14111,
+    "familyName": "Wilson",
+    "middleName": "",
+    "firstName": "Heather"
   }
 }

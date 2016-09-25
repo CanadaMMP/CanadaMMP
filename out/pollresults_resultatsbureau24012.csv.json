@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "24012",
-  "englishDistrictName": "\"Berthier--Maskinongé\"",
-  "frenchDistrictName": "\"Berthier--Maskinongé\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Brosseau\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ruth Ellen\"",
-    "votes": 22942
+  "englishDistrictName": "Berthier--Maskinongé",
+  "frenchDistrictName": "Berthier--Maskinongé",
+  "NDP-New Democratic Party": {
+    "votes": 22942,
+    "familyName": "Brosseau",
+    "middleName": "",
+    "firstName": "Ruth Ellen"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Burton\"",
-    "middleName": "\"\"",
-    "firstName": "\"Cate\"",
-    "votes": 847
+  "Green Party": {
+    "votes": 847,
+    "familyName": "Burton",
+    "middleName": "",
+    "firstName": "Cate"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Destrempes\"",
-    "middleName": "\"\"",
-    "firstName": "\"Pierre\"",
-    "votes": 11032
+  "Liberal": {
+    "votes": 11032,
+    "familyName": "Destrempes",
+    "middleName": "",
+    "firstName": "Pierre"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Foucrault\"",
-    "middleName": "\"\"",
-    "firstName": "\"Marianne\"",
-    "votes": 5548
+  "Conservative": {
+    "votes": 5548,
+    "familyName": "Foucrault",
+    "middleName": "",
+    "firstName": "Marianne"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Perron\"",
-    "middleName": "\"\"",
-    "firstName": "\"Yves\"",
-    "votes": 14037
-  },
-  "undefined": {
-    "votes": null
+  "Bloc Québécois": {
+    "votes": 14037,
+    "familyName": "Perron",
+    "middleName": "",
+    "firstName": "Yves"
   }
 }

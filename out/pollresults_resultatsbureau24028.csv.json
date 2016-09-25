@@ -1,56 +1,53 @@
 {
   "electoralDistrictNumber": "24028",
-  "englishDistrictName": "\"Hochelaga\"",
-  "frenchDistrictName": "\"Hochelaga\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Boutin-Sweet\"",
-    "middleName": "\"\"",
-    "firstName": "\"Marjolaine\"",
-    "votes": 16034
+  "englishDistrictName": "Hochelaga",
+  "frenchDistrictName": "Hochelaga",
+  "NDP-New Democratic Party": {
+    "votes": 16034,
+    "familyName": "Boutin-Sweet",
+    "middleName": "",
+    "firstName": "Marjolaine"
   },
-  "\"Communist\"": {
-    "familyName": "\"Breton Fontaine\"",
-    "middleName": "\"\"",
-    "firstName": "\"Marianne\"",
-    "votes": 179
+  "Communist": {
+    "votes": 179,
+    "familyName": "Breton Fontaine",
+    "middleName": "",
+    "firstName": "Marianne"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Dandenault\"",
-    "middleName": "\"\"",
-    "firstName": "\"Christine\"",
-    "votes": 148
+  "Marxist-Leninist": {
+    "votes": 148,
+    "familyName": "Dandenault",
+    "middleName": "",
+    "firstName": "Christine"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Dang\"",
-    "middleName": "\"\"",
-    "firstName": "\"Alexandre\"",
-    "votes": 3555
+  "Conservative": {
+    "votes": 3555,
+    "familyName": "Dang",
+    "middleName": "",
+    "firstName": "Alexandre"
   },
-  "\"Rhinoceros\"": {
-    "familyName": "\"Lemay\"",
-    "middleName": "\"\"",
-    "firstName": "\"Nicolas\"",
-    "votes": 411
+  "Rhinoceros": {
+    "votes": 411,
+    "familyName": "Lemay",
+    "middleName": "",
+    "firstName": "Nicolas"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Marchand\"",
-    "middleName": "\"\"",
-    "firstName": "\"Simon\"",
-    "votes": 14389
+  "Bloc Québécois": {
+    "votes": 14389,
+    "familyName": "Marchand",
+    "middleName": "",
+    "firstName": "Simon"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Rizqy\"",
-    "middleName": "\"\"",
-    "firstName": "\"Marwah\"",
-    "votes": 15534
+  "Liberal": {
+    "votes": 15534,
+    "familyName": "Rizqy",
+    "middleName": "",
+    "firstName": "Marwah"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Saint-Cerny\"",
-    "middleName": "\"\"",
-    "firstName": "\"Anne-Marie\"",
-    "votes": 1654
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1654,
+    "familyName": "Saint-Cerny",
+    "middleName": "",
+    "firstName": "Anne-Marie"
   }
 }

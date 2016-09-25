@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "13001",
-  "englishDistrictName": "\"Acadie--Bathurst\"",
-  "frenchDistrictName": "\"Acadie--Bathurst\"",
-  "\"Green Party\"": {
-    "familyName": "\"Breau\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dominique\"",
-    "votes": 1187
+  "englishDistrictName": "Acadie--Bathurst",
+  "frenchDistrictName": "Acadie--Bathurst",
+  "Green Party": {
+    "votes": 1187,
+    "familyName": "Breau",
+    "middleName": "",
+    "firstName": "Dominique"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Cormier\"",
-    "middleName": "\"\"",
-    "firstName": "\"Serge\"",
-    "votes": 25845
+  "Liberal": {
+    "votes": 25845,
+    "familyName": "Cormier",
+    "middleName": "",
+    "firstName": "Serge"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Girouard-Riordon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Riba\"",
-    "votes": 3852
+  "Conservative": {
+    "votes": 3852,
+    "familyName": "Girouard-Riordon",
+    "middleName": "",
+    "firstName": "Riba"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Godin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jason\"",
-    "votes": 20079
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 20079,
+    "familyName": "Godin",
+    "middleName": "",
+    "firstName": "Jason"
   }
 }

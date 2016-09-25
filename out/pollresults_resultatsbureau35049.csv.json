@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "35049",
-  "englishDistrictName": "\"Lanark--Frontenac--Kingston\"",
-  "frenchDistrictName": "\"Lanark--Frontenac--Kingston\"",
-  "\"Liberal\"": {
-    "familyName": "\"Archambault\"",
-    "middleName": "\"\"",
-    "firstName": "\"Phil\"",
-    "votes": 19325
+  "englishDistrictName": "Lanark--Frontenac--Kingston",
+  "frenchDistrictName": "Lanark--Frontenac--Kingston",
+  "Liberal": {
+    "votes": 19325,
+    "familyName": "Archambault",
+    "middleName": "",
+    "firstName": "Phil"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Budd\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mark\"",
-    "votes": 418
+  "Libertarian": {
+    "votes": 418,
+    "familyName": "Budd",
+    "middleName": "",
+    "firstName": "Mark"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Fenik\"",
-    "middleName": "\"\"",
-    "firstName": "\"John\"",
-    "votes": 8073
+  "NDP-New Democratic Party": {
+    "votes": 8073,
+    "familyName": "Fenik",
+    "middleName": "",
+    "firstName": "John"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Payne\"",
-    "middleName": "\"\"",
-    "firstName": "\"Anita\"",
-    "votes": 2025
+  "Green Party": {
+    "votes": 2025,
+    "familyName": "Payne",
+    "middleName": "",
+    "firstName": "Anita"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Reid\"",
-    "middleName": "\"\"",
-    "firstName": "\"Scott\"",
-    "votes": 27399
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 27399,
+    "familyName": "Reid",
+    "middleName": "",
+    "firstName": "Scott"
   }
 }

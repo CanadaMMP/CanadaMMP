@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "48002",
-  "englishDistrictName": "\"Battle River--Crowfoot\"",
-  "frenchDistrictName": "\"Battle River--Crowfoot\"",
-  "\"Green Party\"": {
-    "familyName": "\"Kelly\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gary\"",
-    "votes": 1868
+  "englishDistrictName": "Battle River--Crowfoot",
+  "frenchDistrictName": "Battle River--Crowfoot",
+  "Green Party": {
+    "votes": 1868,
+    "familyName": "Kelly",
+    "middleName": "",
+    "firstName": "Gary"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Kowalski\"",
-    "middleName": "\"\"",
-    "firstName": "\"Andy\"",
-    "votes": 5505
+  "Liberal": {
+    "votes": 5505,
+    "familyName": "Kowalski",
+    "middleName": "",
+    "firstName": "Andy"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Sorenson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kevin\"",
-    "votes": 47552
+  "Conservative": {
+    "votes": 47552,
+    "familyName": "Sorenson",
+    "middleName": "",
+    "firstName": "Kevin"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Swampy\"",
-    "middleName": "\"\"",
-    "firstName": "\"Katherine\"",
-    "votes": 3844
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 3844,
+    "familyName": "Swampy",
+    "middleName": "",
+    "firstName": "Katherine"
   }
 }

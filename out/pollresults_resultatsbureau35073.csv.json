@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "35073",
-  "englishDistrictName": "\"Oakville North--Burlington\"",
-  "frenchDistrictName": "\"Oakville-Nord--Burlington\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Best\"",
-    "middleName": "\"\"",
-    "firstName": "\"Janice\"",
-    "votes": 4405
+  "englishDistrictName": "Oakville North--Burlington",
+  "frenchDistrictName": "Oakville-Nord--Burlington",
+  "NDP-New Democratic Party": {
+    "votes": 4405,
+    "familyName": "Best",
+    "middleName": "",
+    "firstName": "Janice"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Clement\"",
-    "middleName": "\"\"",
-    "firstName": "\"David\"",
-    "votes": 666
+  "Libertarian": {
+    "votes": 666,
+    "familyName": "Clement",
+    "middleName": "",
+    "firstName": "David"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Damoff\"",
-    "middleName": "\"\"",
-    "firstName": "\"Pam\"",
-    "votes": 28415
+  "Liberal": {
+    "votes": 28415,
+    "familyName": "Damoff",
+    "middleName": "",
+    "firstName": "Pam"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Shahbaz\"",
-    "middleName": "\"\"",
-    "firstName": "\"Adnan\"",
-    "votes": 968
+  "Green Party": {
+    "votes": 968,
+    "familyName": "Shahbaz",
+    "middleName": "",
+    "firstName": "Adnan"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Triantafilopoulos\"",
-    "middleName": "\"\"",
-    "firstName": "\"Effie\"",
-    "votes": 26342
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 26342,
+    "familyName": "Triantafilopoulos",
+    "middleName": "",
+    "firstName": "Effie"
   }
 }

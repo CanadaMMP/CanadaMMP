@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "24019",
-  "englishDistrictName": "\"Charlesbourg--Haute-Saint-Charles\"",
-  "frenchDistrictName": "\"Charlesbourg--Haute-Saint-Charles\"",
-  "\"Green Party\"": {
-    "familyName": "\"Baudet\"",
-    "middleName": "\"\"",
-    "firstName": "\"Nathalie\"",
-    "votes": 1256
+  "englishDistrictName": "Charlesbourg--Haute-Saint-Charles",
+  "frenchDistrictName": "Charlesbourg--Haute-Saint-Charles",
+  "Green Party": {
+    "votes": 1256,
+    "familyName": "Baudet",
+    "middleName": "",
+    "firstName": "Nathalie"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Côté\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jean\"",
-    "votes": 13525
+  "Liberal": {
+    "votes": 13525,
+    "familyName": "Côté",
+    "middleName": "",
+    "firstName": "Jean"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Day\"",
-    "middleName": "\"\"",
-    "firstName": "\"Anne-Marie\"",
-    "votes": 11690
+  "NDP-New Democratic Party": {
+    "votes": 11690,
+    "familyName": "Day",
+    "middleName": "",
+    "firstName": "Anne-Marie"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Paul-Hus\"",
-    "middleName": "\"\"",
-    "firstName": "\"Pierre\"",
-    "votes": 24608
+  "Conservative": {
+    "votes": 24608,
+    "familyName": "Paul-Hus",
+    "middleName": "",
+    "firstName": "Pierre"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Turmel\"",
-    "middleName": "\"\"",
-    "firstName": "\"Marc Antoine\"",
-    "votes": 7177
-  },
-  "undefined": {
-    "votes": null
+  "Bloc Québécois": {
+    "votes": 7177,
+    "familyName": "Turmel",
+    "middleName": "",
+    "firstName": "Marc Antoine"
   }
 }

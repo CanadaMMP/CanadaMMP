@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "35003",
-  "englishDistrictName": "\"Aurora--Oak Ridges--Richmond Hill\"",
-  "frenchDistrictName": "\"Aurora--Oak Ridges--Richmond Hill\"",
-  "\"Liberal\"": {
-    "familyName": "\"Alleslev\"",
-    "middleName": "\"\"",
-    "firstName": "\"Leona\"",
-    "votes": 24132
+  "englishDistrictName": "Aurora--Oak Ridges--Richmond Hill",
+  "frenchDistrictName": "Aurora--Oak Ridges--Richmond Hill",
+  "Liberal": {
+    "votes": 24132,
+    "familyName": "Alleslev",
+    "middleName": "",
+    "firstName": "Leona"
   },
-  "\"Animal Alliance/Environment Voters\"": {
-    "familyName": "\"Bowles\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kyle\"",
-    "votes": 243
+  "Animal Alliance/Environment Voters": {
+    "votes": 243,
+    "familyName": "Bowles",
+    "middleName": "",
+    "firstName": "Kyle"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Menegakis\"",
-    "middleName": "\"\"",
-    "firstName": "\"Costas\"",
-    "votes": 23039
+  "Conservative": {
+    "votes": 23039,
+    "familyName": "Menegakis",
+    "middleName": "",
+    "firstName": "Costas"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Power\"",
-    "middleName": "\"\"",
-    "firstName": "\"Brenda\"",
-    "votes": 2912
+  "NDP-New Democratic Party": {
+    "votes": 2912,
+    "familyName": "Power",
+    "middleName": "",
+    "firstName": "Brenda"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Ramdeen\"",
-    "middleName": "\"\"",
-    "firstName": "\"Randi\"",
-    "votes": 654
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 654,
+    "familyName": "Ramdeen",
+    "middleName": "",
+    "firstName": "Randi"
   }
 }

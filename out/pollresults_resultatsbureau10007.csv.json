@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "10007",
-  "englishDistrictName": "\"St. John's South--Mount Pearl\"",
-  "frenchDistrictName": "\"St. John's-Sud--Mount Pearl\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Cleary\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ryan\"",
-    "votes": 16467
+  "englishDistrictName": "St. John's South--Mount Pearl",
+  "frenchDistrictName": "St. John's-Sud--Mount Pearl",
+  "NDP-New Democratic Party": {
+    "votes": 16467,
+    "familyName": "Cleary",
+    "middleName": "",
+    "firstName": "Ryan"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Krol\"",
-    "middleName": "\"\"",
-    "firstName": "\"Marek\"",
-    "votes": 2047
+  "Conservative": {
+    "votes": 2047,
+    "familyName": "Krol",
+    "middleName": "",
+    "firstName": "Marek"
   },
-  "\"Green Party\"": {
-    "familyName": "\"McLean\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jackson\"",
-    "votes": 365
+  "Green Party": {
+    "votes": 365,
+    "familyName": "McLean",
+    "middleName": "",
+    "firstName": "Jackson"
   },
-  "\"Liberal\"": {
-    "familyName": "\"O'Regan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Seamus\"",
-    "votes": 25922
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 25922,
+    "familyName": "O'Regan",
+    "middleName": "",
+    "firstName": "Seamus"
   }
 }

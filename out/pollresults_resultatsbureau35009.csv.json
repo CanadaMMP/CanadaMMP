@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35009",
-  "englishDistrictName": "\"Brampton East\"",
-  "frenchDistrictName": "\"Brampton-Est\"",
-  "\"Conservative\"": {
-    "familyName": "\"Bajaj\"",
-    "middleName": "\"\"",
-    "firstName": "\"Naval\"",
-    "votes": 10642
+  "englishDistrictName": "Brampton East",
+  "frenchDistrictName": "Brampton-Est",
+  "Conservative": {
+    "votes": 10642,
+    "familyName": "Bajaj",
+    "middleName": "",
+    "firstName": "Naval"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Grewal\"",
-    "middleName": "\"\"",
-    "firstName": "\"Raj\"",
-    "votes": 23652
+  "Liberal": {
+    "votes": 23652,
+    "familyName": "Grewal",
+    "middleName": "",
+    "firstName": "Raj"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Kahlon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Harbaljit Singh\"",
-    "votes": 10400
+  "NDP-New Democratic Party": {
+    "votes": 10400,
+    "familyName": "Kahlon",
+    "middleName": "",
+    "firstName": "Harbaljit Singh"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Lacroix\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kyle\"",
-    "votes": 512
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 512,
+    "familyName": "Lacroix",
+    "middleName": "",
+    "firstName": "Kyle"
   }
 }

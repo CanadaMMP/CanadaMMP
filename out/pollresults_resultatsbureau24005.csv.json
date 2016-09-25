@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "24005",
-  "englishDistrictName": "\"Argenteuil--La Petite-Nation\"",
-  "frenchDistrictName": "\"Argenteuil--La Petite-Nation\"",
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Beauchamp\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jonathan\"",
-    "votes": 9525
+  "englishDistrictName": "Argenteuil--La Petite-Nation",
+  "frenchDistrictName": "Argenteuil--La Petite-Nation",
+  "Bloc Québécois": {
+    "votes": 9525,
+    "familyName": "Beauchamp",
+    "middleName": "",
+    "firstName": "Jonathan"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Crête\"",
-    "middleName": "\"\"",
-    "firstName": "\"Chantal\"",
-    "votes": 12650
+  "NDP-New Democratic Party": {
+    "votes": 12650,
+    "familyName": "Crête",
+    "middleName": "",
+    "firstName": "Chantal"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Hupé-Labelle\"",
-    "middleName": "\"\"",
-    "firstName": "\"Maxime\"",
-    "votes": 5680
+  "Conservative": {
+    "votes": 5680,
+    "familyName": "Hupé-Labelle",
+    "middleName": "",
+    "firstName": "Maxime"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Lamarche\"",
-    "middleName": "\"\"",
-    "firstName": "\"Audrey\"",
-    "votes": 1118
+  "Green Party": {
+    "votes": 1118,
+    "familyName": "Lamarche",
+    "middleName": "",
+    "firstName": "Audrey"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Lauzon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Stéphane\"",
-    "votes": 22093
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 22093,
+    "familyName": "Lauzon",
+    "middleName": "",
+    "firstName": "Stéphane"
   }
 }

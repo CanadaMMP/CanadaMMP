@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "13008",
-  "englishDistrictName": "\"New Brunswick Southwest\"",
-  "frenchDistrictName": "\"Nouveau-Brunswick-Sud-Ouest\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Graham\"",
-    "middleName": "\"\"",
-    "firstName": "\"Andrew\"",
-    "votes": 4768
+  "englishDistrictName": "New Brunswick Southwest",
+  "frenchDistrictName": "Nouveau-Brunswick-Sud-Ouest",
+  "NDP-New Democratic Party": {
+    "votes": 4768,
+    "familyName": "Graham",
+    "middleName": "",
+    "firstName": "Andrew"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Ludwig\"",
-    "middleName": "\"\"",
-    "firstName": "\"Karen\"",
-    "votes": 16656
+  "Liberal": {
+    "votes": 16656,
+    "familyName": "Ludwig",
+    "middleName": "",
+    "firstName": "Karen"
   },
-  "\"Green Party\"": {
-    "familyName": "\"MacIntosh\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gayla\"",
-    "votes": 1877
+  "Green Party": {
+    "votes": 1877,
+    "familyName": "MacIntosh",
+    "middleName": "",
+    "firstName": "Gayla"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Williamson\"",
-    "middleName": "\"\"",
-    "firstName": "\"John\"",
-    "votes": 14625
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 14625,
+    "familyName": "Williamson",
+    "middleName": "",
+    "firstName": "John"
   }
 }

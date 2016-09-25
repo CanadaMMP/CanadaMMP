@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "47006",
-  "englishDistrictName": "\"Prince Albert \"",
-  "frenchDistrictName": "\"Prince Albert \"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Borgerson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Lon\"",
-    "votes": 11244
+  "englishDistrictName": "Prince Albert ",
+  "frenchDistrictName": "Prince Albert ",
+  "NDP-New Democratic Party": {
+    "votes": 11244,
+    "familyName": "Borgerson",
+    "middleName": "",
+    "firstName": "Lon"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Hoback\"",
-    "middleName": "\"\"",
-    "firstName": "\"Randy\"",
-    "votes": 19673
+  "Conservative": {
+    "votes": 19673,
+    "familyName": "Hoback",
+    "middleName": "",
+    "firstName": "Randy"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Kirkby\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gordon\"",
-    "votes": 7832
+  "Liberal": {
+    "votes": 7832,
+    "familyName": "Kirkby",
+    "middleName": "",
+    "firstName": "Gordon"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Tenkink\"",
-    "middleName": "\"\"",
-    "firstName": "\"Byron\"",
-    "votes": 761
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 761,
+    "familyName": "Tenkink",
+    "middleName": "",
+    "firstName": "Byron"
   }
 }

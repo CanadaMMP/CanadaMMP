@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "35044",
-  "englishDistrictName": "\"Kingston and the Islands\"",
-  "frenchDistrictName": "\"Kingston et les Îles\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Beals\"",
-    "middleName": "\"\"",
-    "firstName": "\"Daniel\"",
-    "votes": 11185
+  "englishDistrictName": "Kingston and the Islands",
+  "frenchDistrictName": "Kingston et les Îles",
+  "NDP-New Democratic Party": {
+    "votes": 11185,
+    "familyName": "Beals",
+    "middleName": "",
+    "firstName": "Daniel"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Brooke\"",
-    "middleName": "\"\"",
-    "firstName": "\"Andy\"",
-    "votes": 14928
+  "Conservative": {
+    "votes": 14928,
+    "familyName": "Brooke",
+    "middleName": "",
+    "firstName": "Andy"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Gerretsen\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mark\"",
-    "votes": 36421
+  "Liberal": {
+    "votes": 36421,
+    "familyName": "Gerretsen",
+    "middleName": "",
+    "firstName": "Mark"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"McAllister\"",
-    "middleName": "\"\"",
-    "firstName": "\"Luke\"",
-    "votes": 305
+  "Libertarian": {
+    "votes": 305,
+    "familyName": "McAllister",
+    "middleName": "",
+    "firstName": "Luke"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Townend\"",
-    "middleName": "\"\"",
-    "firstName": "\"Nathan\"",
-    "votes": 2933
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 2933,
+    "familyName": "Townend",
+    "middleName": "",
+    "firstName": "Nathan"
   }
 }

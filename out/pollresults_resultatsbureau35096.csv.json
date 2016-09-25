@@ -1,38 +1,43 @@
 {
   "electoralDistrictNumber": "35096",
-  "englishDistrictName": "\"Scarborough North\"",
-  "frenchDistrictName": "\"Scarborough-Nord\"",
-  "\"Liberal\"": {
-    "familyName": "\"Chen\"",
-    "middleName": "\"\"",
-    "firstName": "\"Shaun\"",
-    "votes": 18904
+  "englishDistrictName": "Scarborough North",
+  "frenchDistrictName": "Scarborough-Nord",
+  "Liberal": {
+    "votes": 18904,
+    "familyName": "Chen",
+    "middleName": "",
+    "firstName": "Shaun"
   },
-  "\"Independent\"": {
-    "familyName": "\"Khatoon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Aasia\"",
-    "votes": 320
+  "Independent": {
+    "Khatoon": {
+      "votes": 156,
+      "familyName": "Khatoon",
+      "middleName": "",
+      "firstName": "Aasia"
+    },
+    "Rosch": {
+      "votes": 164,
+      "familyName": "Rosch",
+      "middleName": "",
+      "firstName": "Raphael"
+    }
   },
-  "\"Green Party\"": {
-    "familyName": "\"MacDonald\"",
-    "middleName": "\"\"",
-    "firstName": "\"Eleni\"",
-    "votes": 579
+  "Green Party": {
+    "votes": 579,
+    "familyName": "MacDonald",
+    "middleName": "",
+    "firstName": "Eleni"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Malhi\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ravinder\"",
-    "votes": 10737
+  "Conservative": {
+    "votes": 10737,
+    "familyName": "Malhi",
+    "middleName": "",
+    "firstName": "Ravinder"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Sitsabaiesan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Rathika\"",
-    "votes": 8648
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 8648,
+    "familyName": "Sitsabaiesan",
+    "middleName": "",
+    "firstName": "Rathika"
   }
 }

@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "24058",
-  "englishDistrictName": "\"Portneuf--Jacques-Cartier\"",
-  "frenchDistrictName": "\"Portneuf--Jacques-Cartier\"",
-  "\"Liberal\"": {
-    "familyName": "\"Gauvin\"",
-    "middleName": "\"\"",
-    "firstName": "\"David\"",
-    "votes": 13322
+  "englishDistrictName": "Portneuf--Jacques-Cartier",
+  "frenchDistrictName": "Portneuf--Jacques-Cartier",
+  "Liberal": {
+    "votes": 13322,
+    "familyName": "Gauvin",
+    "middleName": "",
+    "firstName": "David"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Godin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Joël\"",
-    "votes": 27290
+  "Conservative": {
+    "votes": 27290,
+    "familyName": "Godin",
+    "middleName": "",
+    "firstName": "Joël"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Harvey\"",
-    "middleName": "\"\"",
-    "firstName": "\"Raymond\"",
-    "votes": 6665
+  "Bloc Québécois": {
+    "votes": 6665,
+    "familyName": "Harvey",
+    "middleName": "",
+    "firstName": "Raymond"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Michaud\"",
-    "middleName": "\"\"",
-    "firstName": "\"Élaine\"",
-    "votes": 13686
+  "NDP-New Democratic Party": {
+    "votes": 13686,
+    "familyName": "Michaud",
+    "middleName": "",
+    "firstName": "Élaine"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Morin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Johanne\"",
-    "votes": 1096
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1096,
+    "familyName": "Morin",
+    "middleName": "",
+    "firstName": "Johanne"
   }
 }

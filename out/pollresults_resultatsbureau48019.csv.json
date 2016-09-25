@@ -1,62 +1,67 @@
 {
   "electoralDistrictNumber": "48019",
-  "englishDistrictName": "\"Edmonton Strathcona\"",
-  "frenchDistrictName": "\"Edmonton Strathcona\"",
-  "\"Green Party\"": {
-    "familyName": "\"Binnema\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jacob K.\"",
-    "votes": 1278
+  "englishDistrictName": "Edmonton Strathcona",
+  "frenchDistrictName": "Edmonton Strathcona",
+  "Green Party": {
+    "votes": 1278,
+    "familyName": "Binnema",
+    "middleName": "",
+    "firstName": "Jacob K."
   },
-  "\"Pirate\"": {
-    "familyName": "\"Bromsgrove\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ryan\"",
-    "votes": 201
+  "Pirate": {
+    "votes": 201,
+    "familyName": "Bromsgrove",
+    "middleName": "",
+    "firstName": "Ryan"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Duncan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Linda\"",
-    "votes": 24446
+  "NDP-New Democratic Party": {
+    "votes": 24446,
+    "familyName": "Duncan",
+    "middleName": "",
+    "firstName": "Linda"
   },
-  "\"Rhinoceros\"": {
-    "familyName": "\"Eckstrom\"",
-    "middleName": "\"\"",
-    "firstName": "\"Donovan\"",
-    "votes": 133
+  "Rhinoceros": {
+    "votes": 133,
+    "familyName": "Eckstrom",
+    "middleName": "",
+    "firstName": "Donovan"
   },
-  "\"Independent\"": {
-    "familyName": "\"Jones\"",
-    "middleName": "\"\"",
-    "firstName": "\"Chris\"",
-    "votes": 223
+  "Independent": {
+    "Jones": {
+      "votes": 116,
+      "familyName": "Jones",
+      "middleName": "",
+      "firstName": "Chris"
+    },
+    "Schurman": {
+      "votes": 107,
+      "familyName": "Schurman",
+      "middleName": "",
+      "firstName": "Andrew"
+    }
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"MacDonald\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dougal\"",
-    "votes": 93
+  "Marxist-Leninist": {
+    "votes": 93,
+    "familyName": "MacDonald",
+    "middleName": "",
+    "firstName": "Dougal"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Olszewski\"",
-    "middleName": "\"\"",
-    "firstName": "\"Eleanor\"",
-    "votes": 11524
+  "Liberal": {
+    "votes": 11524,
+    "familyName": "Olszewski",
+    "middleName": "",
+    "firstName": "Eleanor"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Stinson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Malcolm\"",
-    "votes": 311
+  "Libertarian": {
+    "votes": 311,
+    "familyName": "Stinson",
+    "middleName": "",
+    "firstName": "Malcolm"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Thom\"",
-    "middleName": "\"\"",
-    "firstName": "\"Len\"",
-    "votes": 17395
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 17395,
+    "familyName": "Thom",
+    "middleName": "",
+    "firstName": "Len"
   }
 }

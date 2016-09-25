@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "35093",
-  "englishDistrictName": "\"Scarborough--Agincourt\"",
-  "frenchDistrictName": "\"Scarborough--Agincourt\"",
-  "\"Liberal\"": {
-    "familyName": "\"Chan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Arnold\"",
-    "votes": 21587
+  "englishDistrictName": "Scarborough--Agincourt",
+  "frenchDistrictName": "Scarborough--Agincourt",
+  "Liberal": {
+    "votes": 21587,
+    "familyName": "Chan",
+    "middleName": "",
+    "firstName": "Arnold"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Chang\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bin\"",
-    "votes": 15802
+  "Conservative": {
+    "votes": 15802,
+    "familyName": "Chang",
+    "middleName": "",
+    "firstName": "Bin"
   },
-  "\"Christian Heritage Party\"": {
-    "familyName": "\"Coutinho\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jude\"",
-    "votes": 334
+  "Christian Heritage Party": {
+    "votes": 334,
+    "familyName": "Coutinho",
+    "middleName": "",
+    "firstName": "Jude"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Patrick\"",
-    "middleName": "\"\"",
-    "firstName": "\"Laura\"",
-    "votes": 3263
+  "NDP-New Democratic Party": {
+    "votes": 3263,
+    "familyName": "Patrick",
+    "middleName": "",
+    "firstName": "Laura"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Scott\"",
-    "middleName": "\"\"",
-    "firstName": "\"Debra\"",
-    "votes": 570
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 570,
+    "familyName": "Scott",
+    "middleName": "",
+    "firstName": "Debra"
   }
 }

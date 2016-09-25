@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "46011",
-  "englishDistrictName": "\"Winnipeg Centre\"",
-  "frenchDistrictName": "\"Winnipeg-Centre\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Martin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Pat\"",
-    "votes": 9490
+  "englishDistrictName": "Winnipeg Centre",
+  "frenchDistrictName": "Winnipeg-Centre",
+  "NDP-New Democratic Party": {
+    "votes": 9490,
+    "familyName": "Martin",
+    "middleName": "",
+    "firstName": "Pat"
   },
-  "\"Christian Heritage Party\"": {
-    "familyName": "\"Miller\"",
-    "middleName": "\"\"",
-    "firstName": "\"Scott\"",
-    "votes": 221
+  "Christian Heritage Party": {
+    "votes": 221,
+    "familyName": "Miller",
+    "middleName": "",
+    "firstName": "Scott"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Ouellette\"",
-    "middleName": "\"\"",
-    "firstName": "\"Robert-Falcon\"",
-    "votes": 18471
+  "Liberal": {
+    "votes": 18471,
+    "familyName": "Ouellette",
+    "middleName": "",
+    "firstName": "Robert-Falcon"
   },
-  "\"Communist\"": {
-    "familyName": "\"Rankin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Darrell\"",
-    "votes": 135
+  "Communist": {
+    "votes": 135,
+    "familyName": "Rankin",
+    "middleName": "",
+    "firstName": "Darrell"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Szarkiewicz\"",
-    "middleName": "\"\"",
-    "firstName": "\"Allie\"",
-    "votes": 4189
+  "Conservative": {
+    "votes": 4189,
+    "familyName": "Szarkiewicz",
+    "middleName": "",
+    "firstName": "Allie"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Woodstock\"",
-    "middleName": "\"\"",
-    "firstName": "\"Don\"",
-    "votes": 1379
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1379,
+    "familyName": "Woodstock",
+    "middleName": "",
+    "firstName": "Don"
   }
 }

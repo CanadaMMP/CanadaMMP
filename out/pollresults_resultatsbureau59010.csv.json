@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "59010",
-  "englishDistrictName": "\"Cowichan--Malahat--Langford\"",
-  "frenchDistrictName": "\"Cowichan--Malahat--Langford\"",
-  "\"Conservative\"": {
-    "familyName": "\"Barker\"",
-    "middleName": "\"\"",
-    "firstName": "\"Martin\"",
-    "votes": 14091
+  "englishDistrictName": "Cowichan--Malahat--Langford",
+  "frenchDistrictName": "Cowichan--Malahat--Langford",
+  "Conservative": {
+    "votes": 14091,
+    "familyName": "Barker",
+    "middleName": "",
+    "firstName": "Martin"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Haythornthwaite\"",
-    "middleName": "\"\"",
-    "firstName": "\"Alastair\"",
-    "votes": 340
+  "Marxist-Leninist": {
+    "votes": 340,
+    "familyName": "Haythornthwaite",
+    "middleName": "",
+    "firstName": "Alastair"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Hunt-Jinnouchi\"",
-    "middleName": "\"\"",
-    "firstName": "\"Fran\"",
-    "votes": 10462
+  "Green Party": {
+    "votes": 10462,
+    "familyName": "Hunt-Jinnouchi",
+    "middleName": "",
+    "firstName": "Fran"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Krayenhoff\"",
-    "middleName": "\"\"",
-    "firstName": "\"Luke\"",
-    "votes": 14685
+  "Liberal": {
+    "votes": 14685,
+    "familyName": "Krayenhoff",
+    "middleName": "",
+    "firstName": "Luke"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"MacGregor\"",
-    "middleName": "\"\"",
-    "firstName": "\"Alistair\"",
-    "votes": 22200
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 22200,
+    "familyName": "MacGregor",
+    "middleName": "",
+    "firstName": "Alistair"
   }
 }

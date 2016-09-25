@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "48023",
-  "englishDistrictName": "\"Fort McMurray--Cold Lake\"",
-  "frenchDistrictName": "\"Fort McMurray--Cold Lake\"",
-  "\"Libertarian\"": {
-    "familyName": "\"Berry\"",
-    "middleName": "\"\"",
-    "firstName": "\"Scott\"",
-    "votes": 552
+  "englishDistrictName": "Fort McMurray--Cold Lake",
+  "frenchDistrictName": "Fort McMurray--Cold Lake",
+  "Libertarian": {
+    "votes": 552,
+    "familyName": "Berry",
+    "middleName": "",
+    "firstName": "Scott"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Deheer\"",
-    "middleName": "\"\"",
-    "firstName": "\"Brian\"",
-    "votes": 743
+  "Green Party": {
+    "votes": 743,
+    "familyName": "Deheer",
+    "middleName": "",
+    "firstName": "Brian"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Harrietha\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kyle\"",
-    "votes": 13403
+  "Liberal": {
+    "votes": 13403,
+    "familyName": "Harrietha",
+    "middleName": "",
+    "firstName": "Kyle"
   },
-  "\"Christian Heritage Party\"": {
-    "familyName": "\"Janssen\"",
-    "middleName": "\"\"",
-    "firstName": "\"Roelof\"",
-    "votes": 280
+  "Christian Heritage Party": {
+    "votes": 280,
+    "familyName": "Janssen",
+    "middleName": "",
+    "firstName": "Roelof"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Lepine\"",
-    "middleName": "\"\"",
-    "firstName": "\"Melody\"",
-    "votes": 3663
+  "NDP-New Democratic Party": {
+    "votes": 3663,
+    "familyName": "Lepine",
+    "middleName": "",
+    "firstName": "Melody"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Yurdiga\"",
-    "middleName": "\"\"",
-    "firstName": "\"David\"",
-    "votes": 28625
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 28625,
+    "familyName": "Yurdiga",
+    "middleName": "",
+    "firstName": "David"
   }
 }

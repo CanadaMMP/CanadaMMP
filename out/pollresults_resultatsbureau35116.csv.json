@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "35116",
-  "englishDistrictName": "\"Windsor--Tecumseh\"",
-  "frenchDistrictName": "\"Windsor--Tecumseh\"",
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Chesnik\"",
-    "middleName": "\"\"",
-    "firstName": "\"Laura\"",
-    "votes": 249
+  "englishDistrictName": "Windsor--Tecumseh",
+  "frenchDistrictName": "Windsor--Tecumseh",
+  "Marxist-Leninist": {
+    "votes": 249,
+    "familyName": "Chesnik",
+    "middleName": "",
+    "firstName": "Laura"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Gignac\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jo-Anne\"",
-    "votes": 14656
+  "Conservative": {
+    "votes": 14656,
+    "familyName": "Gignac",
+    "middleName": "",
+    "firstName": "Jo-Anne"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Hardcastle\"",
-    "middleName": "\"\"",
-    "firstName": "\"Cheryl\"",
-    "votes": 23215
+  "NDP-New Democratic Party": {
+    "votes": 23215,
+    "familyName": "Hardcastle",
+    "middleName": "",
+    "firstName": "Cheryl"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Momotiuk\"",
-    "middleName": "\"\"",
-    "firstName": "\"David\"",
-    "votes": 1047
+  "Green Party": {
+    "votes": 1047,
+    "familyName": "Momotiuk",
+    "middleName": "",
+    "firstName": "David"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Schiller\"",
-    "middleName": "\"\"",
-    "firstName": "\"Frank\"",
-    "votes": 14177
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 14177,
+    "familyName": "Schiller",
+    "middleName": "",
+    "firstName": "Frank"
   }
 }

@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "35001",
-  "englishDistrictName": "\"Ajax\"",
-  "frenchDistrictName": "\"Ajax\"",
-  "\"Conservative\"": {
-    "familyName": "\"Alexander\"",
-    "middleName": "\"\"",
-    "firstName": "\"Chris\"",
-    "votes": 19374
+  "englishDistrictName": "Ajax",
+  "frenchDistrictName": "Ajax",
+  "Conservative": {
+    "votes": 19374,
+    "familyName": "Alexander",
+    "middleName": "",
+    "firstName": "Chris"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Brown\"",
-    "middleName": "\"\"",
-    "firstName": "\"Stephanie\"",
-    "votes": 4630
+  "NDP-New Democratic Party": {
+    "votes": 4630,
+    "familyName": "Brown",
+    "middleName": "",
+    "firstName": "Stephanie"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Hill\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jeff\"",
-    "votes": 788
+  "Green Party": {
+    "votes": 788,
+    "familyName": "Hill",
+    "middleName": "",
+    "firstName": "Jeff"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Holland\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mark\"",
-    "votes": 31458
+  "Liberal": {
+    "votes": 31458,
+    "familyName": "Holland",
+    "middleName": "",
+    "firstName": "Mark"
   },
-  "\"United Party\"": {
-    "familyName": "\"Kesic\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bob\"",
-    "votes": 57
-  },
-  "undefined": {
-    "votes": null
+  "United Party": {
+    "votes": 57,
+    "familyName": "Kesic",
+    "middleName": "",
+    "firstName": "Bob"
   }
 }

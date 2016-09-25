@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35087",
-  "englishDistrictName": "\"Richmond Hill\"",
-  "frenchDistrictName": "\"Richmond Hill\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"DeVita\"",
-    "middleName": "\"\"",
-    "firstName": "\"Adam\"",
-    "votes": 3950
+  "englishDistrictName": "Richmond Hill",
+  "frenchDistrictName": "Richmond Hill",
+  "NDP-New Democratic Party": {
+    "votes": 3950,
+    "familyName": "DeVita",
+    "middleName": "",
+    "firstName": "Adam"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Jowhari\"",
-    "middleName": "\"\"",
-    "firstName": "\"Majid\"",
-    "votes": 23032
+  "Liberal": {
+    "votes": 23032,
+    "familyName": "Jowhari",
+    "middleName": "",
+    "firstName": "Majid"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Parsa\"",
-    "middleName": "\"\"",
-    "firstName": "\"Michael\"",
-    "votes": 21275
+  "Conservative": {
+    "votes": 21275,
+    "familyName": "Parsa",
+    "middleName": "",
+    "firstName": "Michael"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Veenema\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gwendolyn\"",
-    "votes": 856
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 856,
+    "familyName": "Veenema",
+    "middleName": "",
+    "firstName": "Gwendolyn"
   }
 }

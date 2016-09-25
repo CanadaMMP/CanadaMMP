@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "35117",
-  "englishDistrictName": "\"Windsor West\"",
-  "frenchDistrictName": "\"Windsor-Ouest\"",
-  "\"Green Party\"": {
-    "familyName": "\"LaRussa\"",
-    "middleName": "\"\"",
-    "firstName": "\"Cora\"",
-    "votes": 1083
+  "englishDistrictName": "Windsor West",
+  "frenchDistrictName": "Windsor-Ouest",
+  "Green Party": {
+    "votes": 1083,
+    "familyName": "LaRussa",
+    "middleName": "",
+    "firstName": "Cora"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Lau\"",
-    "middleName": "\"\"",
-    "firstName": "\"Henry\"",
-    "votes": 9734
+  "Conservative": {
+    "votes": 9734,
+    "familyName": "Lau",
+    "middleName": "",
+    "firstName": "Henry"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Masse\"",
-    "middleName": "\"\"",
-    "firstName": "\"Brian\"",
-    "votes": 24085
+  "NDP-New Democratic Party": {
+    "votes": 24085,
+    "familyName": "Masse",
+    "middleName": "",
+    "firstName": "Brian"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Sundin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dave\"",
-    "votes": 11842
+  "Liberal": {
+    "votes": 11842,
+    "familyName": "Sundin",
+    "middleName": "",
+    "firstName": "Dave"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Villamizar\"",
-    "middleName": "\"\"",
-    "firstName": "\"Margaret\"",
-    "votes": 161
-  },
-  "undefined": {
-    "votes": null
+  "Marxist-Leninist": {
+    "votes": 161,
+    "familyName": "Villamizar",
+    "middleName": "",
+    "firstName": "Margaret"
   }
 }

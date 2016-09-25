@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "48018",
-  "englishDistrictName": "\"Edmonton Riverbend\"",
-  "frenchDistrictName": "\"Edmonton Riverbend\"",
-  "\"Liberal\"": {
-    "familyName": "\"Chaudary\"",
-    "middleName": "\"\"",
-    "firstName": "\"Tariq\"",
-    "votes": 17428
+  "englishDistrictName": "Edmonton Riverbend",
+  "frenchDistrictName": "Edmonton Riverbend",
+  "Liberal": {
+    "votes": 17428,
+    "familyName": "Chaudary",
+    "middleName": "",
+    "firstName": "Tariq"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Fleck\"",
-    "middleName": "\"\"",
-    "firstName": "\"Brian\"",
-    "votes": 9846
+  "NDP-New Democratic Party": {
+    "votes": 9846,
+    "familyName": "Fleck",
+    "middleName": "",
+    "firstName": "Brian"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Jeneroux\"",
-    "middleName": "\"\"",
-    "firstName": "\"Matt\"",
-    "votes": 28805
+  "Conservative": {
+    "votes": 28805,
+    "familyName": "Jeneroux",
+    "middleName": "",
+    "firstName": "Matt"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Kennedy\"",
-    "middleName": "\"\"",
-    "firstName": "\"Valerie\"",
-    "votes": 1275
+  "Green Party": {
+    "votes": 1275,
+    "familyName": "Kennedy",
+    "middleName": "",
+    "firstName": "Valerie"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Lack\"",
-    "middleName": "\"\"",
-    "firstName": "\"Steven\"",
-    "votes": 386
-  },
-  "undefined": {
-    "votes": null
+  "Libertarian": {
+    "votes": 386,
+    "familyName": "Lack",
+    "middleName": "",
+    "firstName": "Steven"
   }
 }

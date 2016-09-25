@@ -1,38 +1,37 @@
 {
   "electoralDistrictNumber": "48027",
-  "englishDistrictName": "\"Medicine Hat--Cardston--Warner\"",
-  "frenchDistrictName": "\"Medicine Hat--Cardston--Warner\"",
-  "\"Liberal\"": {
-    "familyName": "\"Allan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Glen\"",
-    "votes": 9085
+  "englishDistrictName": "Medicine Hat--Cardston--Warner",
+  "frenchDistrictName": "Medicine Hat--Cardston--Warner",
+  "Liberal": {
+    "votes": 9085,
+    "familyName": "Allan",
+    "middleName": "",
+    "firstName": "Glen"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Hillyer\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jim\"",
-    "votes": 34849
+  "Conservative": {
+    "votes": 34849,
+    "familyName": "Hillyer",
+    "middleName": "",
+    "firstName": "Jim"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Smith\"",
-    "middleName": "\"\"",
-    "firstName": "\"Brent\"",
-    "votes": 1319
+  "Green Party": {
+    "votes": 1319,
+    "familyName": "Smith",
+    "middleName": "",
+    "firstName": "Brent"
   },
-  "\"Independent\"": {
-    "familyName": "\"Turner\"",
-    "middleName": "\"\"",
-    "firstName": "\"John Clayton\"",
-    "votes": 500
+  "Independent": {
+    "Turner": {
+      "votes": 500,
+      "familyName": "Turner",
+      "middleName": "",
+      "firstName": "John Clayton"
+    }
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Weir\"",
-    "middleName": "\"\"",
-    "firstName": "\"Erin\"",
-    "votes": 4897
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 4897,
+    "familyName": "Weir",
+    "middleName": "",
+    "firstName": "Erin"
   }
 }

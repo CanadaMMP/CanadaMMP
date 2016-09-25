@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "59019",
-  "englishDistrictName": "\"New Westminster--Burnaby\"",
-  "frenchDistrictName": "\"New Westminster--Burnaby\"",
-  "\"Libertarian\"": {
-    "familyName": "\"Brocki\"",
-    "middleName": "\"\"",
-    "firstName": "\"Rex\"",
-    "votes": 1368
+  "englishDistrictName": "New Westminster--Burnaby",
+  "frenchDistrictName": "New Westminster--Burnaby",
+  "Libertarian": {
+    "votes": 1368,
+    "familyName": "Brocki",
+    "middleName": "",
+    "firstName": "Rex"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Ellis\"",
-    "middleName": "\"\"",
-    "firstName": "\"Chloé\"",
-    "votes": 10512
+  "Conservative": {
+    "votes": 10512,
+    "familyName": "Ellis",
+    "middleName": "",
+    "firstName": "Chloé"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Julian\"",
-    "middleName": "\"\"",
-    "firstName": "\"Peter\"",
-    "votes": 22876
+  "NDP-New Democratic Party": {
+    "votes": 22876,
+    "familyName": "Julian",
+    "middleName": "",
+    "firstName": "Peter"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Ramnarine\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sasha\"",
-    "votes": 15253
+  "Liberal": {
+    "votes": 15253,
+    "familyName": "Ramnarine",
+    "middleName": "",
+    "firstName": "Sasha"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Routledge\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kyle\"",
-    "votes": 2487
+  "Green Party": {
+    "votes": 2487,
+    "familyName": "Routledge",
+    "middleName": "",
+    "firstName": "Kyle"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Theriault\"",
-    "middleName": "\"\"",
-    "firstName": "\"Joseph\"",
-    "votes": 146
-  },
-  "undefined": {
-    "votes": null
+  "Marxist-Leninist": {
+    "votes": 146,
+    "familyName": "Theriault",
+    "middleName": "",
+    "firstName": "Joseph"
   }
 }

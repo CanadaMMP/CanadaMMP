@@ -1,50 +1,47 @@
 {
   "electoralDistrictNumber": "24029",
-  "englishDistrictName": "\"Honoré-Mercier\"",
-  "frenchDistrictName": "\"Honoré-Mercier\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Ayala\"",
-    "middleName": "\"\"",
-    "firstName": "\"Paulina\"",
-    "votes": 8478
+  "englishDistrictName": "Honoré-Mercier",
+  "frenchDistrictName": "Honoré-Mercier",
+  "NDP-New Democratic Party": {
+    "votes": 8478,
+    "familyName": "Ayala",
+    "middleName": "",
+    "firstName": "Paulina"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Beauséjour\"",
-    "middleName": "\"\"",
-    "firstName": "\"Audrey\"",
-    "votes": 6680
+  "Bloc Québécois": {
+    "votes": 6680,
+    "familyName": "Beauséjour",
+    "middleName": "",
+    "firstName": "Audrey"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Budilean\"",
-    "middleName": "\"\"",
-    "firstName": "\"Angela\"",
-    "votes": 814
+  "Green Party": {
+    "votes": 814,
+    "familyName": "Budilean",
+    "middleName": "",
+    "firstName": "Angela"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Croteau\"",
-    "middleName": "\"\"",
-    "firstName": "\"Guy\"",
-    "votes": 6226
+  "Conservative": {
+    "votes": 6226,
+    "familyName": "Croteau",
+    "middleName": "",
+    "firstName": "Guy"
   },
-  "\"Forces et Démocratie - Allier les forces de nos régions\"": {
-    "familyName": "\"Dejean\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dayana\"",
-    "votes": 168
+  "Forces et Démocratie - Allier les forces de nos régions": {
+    "votes": 168,
+    "familyName": "Dejean",
+    "middleName": "",
+    "firstName": "Dayana"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Le Seigle\"",
-    "middleName": "\"\"",
-    "firstName": "\"Yves\"",
-    "votes": 81
+  "Marxist-Leninist": {
+    "votes": 81,
+    "familyName": "Le Seigle",
+    "middleName": "",
+    "firstName": "Yves"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Rodriguez\"",
-    "middleName": "\"\"",
-    "firstName": "\"Pablo\"",
-    "votes": 29211
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 29211,
+    "familyName": "Rodriguez",
+    "middleName": "",
+    "firstName": "Pablo"
   }
 }

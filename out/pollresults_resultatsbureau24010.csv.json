@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "24010",
-  "englishDistrictName": "\"Bellechasse--Les Etchemins--Lévis\"",
-  "frenchDistrictName": "\"Bellechasse--Les Etchemins--Lévis\"",
-  "\"Green Party\"": {
-    "familyName": "\"Bélisle\"",
-    "middleName": "\"\"",
-    "firstName": "\"André\"",
-    "votes": 2032
+  "englishDistrictName": "Bellechasse--Les Etchemins--Lévis",
+  "frenchDistrictName": "Bellechasse--Les Etchemins--Lévis",
+  "Green Party": {
+    "votes": 2032,
+    "familyName": "Bélisle",
+    "middleName": "",
+    "firstName": "André"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Blaney\"",
-    "middleName": "\"\"",
-    "firstName": "\"Steven\"",
-    "votes": 31872
+  "Conservative": {
+    "votes": 31872,
+    "familyName": "Blaney",
+    "middleName": "",
+    "firstName": "Steven"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Daigle\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jean-Luc\"",
-    "votes": 8516
+  "NDP-New Democratic Party": {
+    "votes": 8516,
+    "familyName": "Daigle",
+    "middleName": "",
+    "firstName": "Jean-Luc"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Dubé\"",
-    "middleName": "\"\"",
-    "firstName": "\"Antoine\"",
-    "votes": 7217
+  "Bloc Québécois": {
+    "votes": 7217,
+    "familyName": "Dubé",
+    "middleName": "",
+    "firstName": "Antoine"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Turgeon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jacques\"",
-    "votes": 12961
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 12961,
+    "familyName": "Turgeon",
+    "middleName": "",
+    "firstName": "Jacques"
   }
 }

@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35039",
-  "englishDistrictName": "\"Hastings--Lennox and Addington\"",
-  "frenchDistrictName": "\"Hastings--Lennox and Addington\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Bannon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Betty\"",
-    "votes": 6348
+  "englishDistrictName": "Hastings--Lennox and Addington",
+  "frenchDistrictName": "Hastings--Lennox and Addington",
+  "NDP-New Democratic Party": {
+    "votes": 6348,
+    "familyName": "Bannon",
+    "middleName": "",
+    "firstName": "Betty"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Bossio\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mike\"",
-    "votes": 21104
+  "Liberal": {
+    "votes": 21104,
+    "familyName": "Bossio",
+    "middleName": "",
+    "firstName": "Mike"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Kramp\"",
-    "middleName": "\"\"",
-    "firstName": "\"Daryl\"",
-    "votes": 20879
+  "Conservative": {
+    "votes": 20879,
+    "familyName": "Kramp",
+    "middleName": "",
+    "firstName": "Daryl"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Mather\"",
-    "middleName": "\"\"",
-    "firstName": "\"Cam\"",
-    "votes": 1466
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1466,
+    "familyName": "Mather",
+    "middleName": "",
+    "firstName": "Cam"
   }
 }

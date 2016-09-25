@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "59012",
-  "englishDistrictName": "\"Fleetwood--Port Kells\"",
-  "frenchDistrictName": "\"Fleetwood--Port Kells\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Begg\"",
-    "middleName": "\"\"",
-    "firstName": "\"Garry\"",
-    "votes": 10463
+  "englishDistrictName": "Fleetwood--Port Kells",
+  "frenchDistrictName": "Fleetwood--Port Kells",
+  "NDP-New Democratic Party": {
+    "votes": 10463,
+    "familyName": "Begg",
+    "middleName": "",
+    "firstName": "Garry"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Grewal\"",
-    "middleName": "\"\"",
-    "firstName": "\"Nina\"",
-    "votes": 14275
+  "Conservative": {
+    "votes": 14275,
+    "familyName": "Grewal",
+    "middleName": "",
+    "firstName": "Nina"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Hardie\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ken\"",
-    "votes": 22871
+  "Liberal": {
+    "votes": 22871,
+    "familyName": "Hardie",
+    "middleName": "",
+    "firstName": "Ken"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Hosein\"",
-    "middleName": "\"\"",
-    "firstName": "\"Richard\"",
-    "votes": 1154
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1154,
+    "familyName": "Hosein",
+    "middleName": "",
+    "firstName": "Richard"
   }
 }

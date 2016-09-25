@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "24026",
-  "englishDistrictName": "\"Gaspésie--Les Îles-de-la-Madeleine\"",
-  "frenchDistrictName": "\"Gaspésie--Les Îles-de-la-Madeleine\"",
-  "\"Rhinoceros\"": {
-    "familyName": "\"Boudreau\"",
-    "middleName": "\"\"",
-    "firstName": "\"Max\"",
-    "votes": 300
+  "englishDistrictName": "Gaspésie--Les Îles-de-la-Madeleine",
+  "frenchDistrictName": "Gaspésie--Les Îles-de-la-Madeleine",
+  "Rhinoceros": {
+    "votes": 300,
+    "familyName": "Boudreau",
+    "middleName": "",
+    "firstName": "Max"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Lebouthillier\"",
-    "middleName": "\"\"",
-    "firstName": "\"Diane\"",
-    "votes": 15345
+  "Liberal": {
+    "votes": 15345,
+    "familyName": "Lebouthillier",
+    "middleName": "",
+    "firstName": "Diane"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Morrison\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jim\"",
-    "votes": 400
+  "Green Party": {
+    "votes": 400,
+    "familyName": "Morrison",
+    "middleName": "",
+    "firstName": "Jim"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Pigeon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jean-Pierre\"",
-    "votes": 2398
+  "Conservative": {
+    "votes": 2398,
+    "familyName": "Pigeon",
+    "middleName": "",
+    "firstName": "Jean-Pierre"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Roussy\"",
-    "middleName": "\"\"",
-    "firstName": "\"Nicolas\"",
-    "votes": 8289
+  "Bloc Québécois": {
+    "votes": 8289,
+    "familyName": "Roussy",
+    "middleName": "",
+    "firstName": "Nicolas"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Toone\"",
-    "middleName": "\"\"",
-    "firstName": "\"Philip\"",
-    "votes": 12885
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 12885,
+    "familyName": "Toone",
+    "middleName": "",
+    "firstName": "Philip"
   }
 }

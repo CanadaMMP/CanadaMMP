@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35043",
-  "englishDistrictName": "\"King--Vaughan\"",
-  "frenchDistrictName": "\"King--Vaughan\"",
-  "\"Green Party\"": {
-    "familyName": "\"Raney\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ann\"",
-    "votes": 1037
+  "englishDistrictName": "King--Vaughan",
+  "frenchDistrictName": "King--Vaughan",
+  "Green Party": {
+    "votes": 1037,
+    "familyName": "Raney",
+    "middleName": "",
+    "firstName": "Ann"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Rizzo\"",
-    "middleName": "\"\"",
-    "firstName": "\"Natalie\"",
-    "votes": 3571
+  "NDP-New Democratic Party": {
+    "votes": 3571,
+    "familyName": "Rizzo",
+    "middleName": "",
+    "firstName": "Natalie"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Schulte\"",
-    "middleName": "\"\"",
-    "firstName": "\"Deb\"",
-    "votes": 25908
+  "Liberal": {
+    "votes": 25908,
+    "familyName": "Schulte",
+    "middleName": "",
+    "firstName": "Deb"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Toubis\"",
-    "middleName": "\"\"",
-    "firstName": "\"Konstantin\"",
-    "votes": 24170
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 24170,
+    "familyName": "Toubis",
+    "middleName": "",
+    "firstName": "Konstantin"
   }
 }

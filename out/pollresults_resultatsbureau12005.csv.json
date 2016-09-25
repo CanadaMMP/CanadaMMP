@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "12005",
-  "englishDistrictName": "\"Halifax\"",
-  "frenchDistrictName": "\"Halifax\"",
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Bezanson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Allan\"",
-    "votes": 130
+  "englishDistrictName": "Halifax",
+  "frenchDistrictName": "Halifax",
+  "Marxist-Leninist": {
+    "votes": 130,
+    "familyName": "Bezanson",
+    "middleName": "",
+    "firstName": "Allan"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Carvery\"",
-    "middleName": "\"\"",
-    "firstName": "\"Irvine\"",
-    "votes": 4564
+  "Conservative": {
+    "votes": 4564,
+    "familyName": "Carvery",
+    "middleName": "",
+    "firstName": "Irvine"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Fillmore\"",
-    "middleName": "\"\"",
-    "firstName": "\"Andy\"",
-    "votes": 27431
+  "Liberal": {
+    "votes": 27431,
+    "familyName": "Fillmore",
+    "middleName": "",
+    "firstName": "Andy"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Leslie\"",
-    "middleName": "\"\"",
-    "firstName": "\"Megan\"",
-    "votes": 19162
+  "NDP-New Democratic Party": {
+    "votes": 19162,
+    "familyName": "Leslie",
+    "middleName": "",
+    "firstName": "Megan"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Trappenberg\"",
-    "middleName": "\"\"",
-    "firstName": "\"Thomas\"",
-    "votes": 1745
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1745,
+    "familyName": "Trappenberg",
+    "middleName": "",
+    "firstName": "Thomas"
   }
 }

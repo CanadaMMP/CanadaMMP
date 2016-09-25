@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "35004",
-  "englishDistrictName": "\"Barrie--Innisfil\"",
-  "frenchDistrictName": "\"Barrie--Innisfil\"",
-  "\"Conservative\"": {
-    "familyName": "\"Brassard\"",
-    "middleName": "\"\"",
-    "firstName": "\"John\"",
-    "votes": 22901
+  "englishDistrictName": "Barrie--Innisfil",
+  "frenchDistrictName": "Barrie--Innisfil",
+  "Conservative": {
+    "votes": 22901,
+    "familyName": "Brassard",
+    "middleName": "",
+    "firstName": "John"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Clark\"",
-    "middleName": "\"\"",
-    "firstName": "\"Myrna\"",
-    "votes": 5812
+  "NDP-New Democratic Party": {
+    "votes": 5812,
+    "familyName": "Clark",
+    "middleName": "",
+    "firstName": "Myrna"
   },
-  "\"Christian Heritage Party\"": {
-    "familyName": "\"Nail\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gary\"",
-    "votes": 199
+  "Christian Heritage Party": {
+    "votes": 199,
+    "familyName": "Nail",
+    "middleName": "",
+    "firstName": "Gary"
   },
-  "\"Green Party\"": {
-    "familyName": "\"North\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bonnie\"",
-    "votes": 1991
+  "Green Party": {
+    "votes": 1991,
+    "familyName": "North",
+    "middleName": "",
+    "firstName": "Bonnie"
   },
-  "\"CAP\"": {
-    "familyName": "\"Sakula\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jeff\"",
-    "votes": 130
+  "CAP": {
+    "votes": 130,
+    "familyName": "Sakula",
+    "middleName": "",
+    "firstName": "Jeff"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Wilson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Colin\"",
-    "votes": 18308
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 18308,
+    "familyName": "Wilson",
+    "middleName": "",
+    "firstName": "Colin"
   }
 }

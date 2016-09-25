@@ -1,38 +1,37 @@
 {
   "electoralDistrictNumber": "35106",
-  "englishDistrictName": "\"Thunder Bay--Superior North\"",
-  "frenchDistrictName": "\"Thunder Bay--Supérieur-Nord\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Foulds\"",
-    "middleName": "\"\"",
-    "firstName": "\"Andrew\"",
-    "votes": 10339
+  "englishDistrictName": "Thunder Bay--Superior North",
+  "frenchDistrictName": "Thunder Bay--Supérieur-Nord",
+  "NDP-New Democratic Party": {
+    "votes": 10339,
+    "familyName": "Foulds",
+    "middleName": "",
+    "firstName": "Andrew"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Hajdu\"",
-    "middleName": "\"\"",
-    "firstName": "\"Patty\"",
-    "votes": 20069
+  "Liberal": {
+    "votes": 20069,
+    "familyName": "Hajdu",
+    "middleName": "",
+    "firstName": "Patty"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Harvey\"",
-    "middleName": "\"\"",
-    "firstName": "\"Richard\"",
-    "votes": 7775
+  "Conservative": {
+    "votes": 7775,
+    "familyName": "Harvey",
+    "middleName": "",
+    "firstName": "Richard"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Hyer\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bruce\"",
-    "votes": 6155
+  "Green Party": {
+    "votes": 6155,
+    "familyName": "Hyer",
+    "middleName": "",
+    "firstName": "Bruce"
   },
-  "\"Independent\"": {
-    "familyName": "\"Skaf\"",
-    "middleName": "\"\"",
-    "firstName": "\"Robert\"",
-    "votes": 270
-  },
-  "undefined": {
-    "votes": null
+  "Independent": {
+    "Skaf": {
+      "votes": 270,
+      "familyName": "Skaf",
+      "middleName": "",
+      "firstName": "Robert"
+    }
   }
 }

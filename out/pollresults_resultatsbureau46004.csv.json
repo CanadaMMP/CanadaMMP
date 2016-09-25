@@ -1,38 +1,37 @@
 {
   "electoralDistrictNumber": "46004",
-  "englishDistrictName": "\"Dauphin--Swan River--Neepawa\"",
-  "frenchDistrictName": "\"Dauphin--Swan River--Neepawa\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Lewycky\"",
-    "middleName": "\"\"",
-    "firstName": "\"Laverne M.\"",
-    "votes": 5097
+  "englishDistrictName": "Dauphin--Swan River--Neepawa",
+  "frenchDistrictName": "Dauphin--Swan River--Neepawa",
+  "NDP-New Democratic Party": {
+    "votes": 5097,
+    "familyName": "Lewycky",
+    "middleName": "",
+    "firstName": "Laverne M."
   },
-  "\"Independent\"": {
-    "familyName": "\"Mark\"",
-    "middleName": "\"\"",
-    "firstName": "\"Inky\"",
-    "votes": 3357
+  "Independent": {
+    "Mark": {
+      "votes": 3357,
+      "familyName": "Mark",
+      "middleName": "",
+      "firstName": "Inky"
+    }
   },
-  "\"Liberal\"": {
-    "familyName": "\"Piché\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ray\"",
-    "votes": 12276
+  "Liberal": {
+    "votes": 12276,
+    "familyName": "Piché",
+    "middleName": "",
+    "firstName": "Ray"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Sopuck\"",
-    "middleName": "\"\"",
-    "firstName": "\"Robert\"",
-    "votes": 19276
+  "Conservative": {
+    "votes": 19276,
+    "familyName": "Sopuck",
+    "middleName": "",
+    "firstName": "Robert"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Storey\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kate\"",
-    "votes": 1592
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1592,
+    "familyName": "Storey",
+    "middleName": "",
+    "firstName": "Kate"
   }
 }

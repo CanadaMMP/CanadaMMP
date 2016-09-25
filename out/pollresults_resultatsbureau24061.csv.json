@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "24061",
-  "englishDistrictName": "\"Richmond--Arthabaska\"",
-  "frenchDistrictName": "\"Richmond--Arthabaska\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Beaulieu\"",
-    "middleName": "\"\"",
-    "firstName": "\"Myriam\"",
-    "votes": 14213
+  "englishDistrictName": "Richmond--Arthabaska",
+  "frenchDistrictName": "Richmond--Arthabaska",
+  "NDP-New Democratic Party": {
+    "votes": 14213,
+    "familyName": "Beaulieu",
+    "middleName": "",
+    "firstName": "Myriam"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Busque\"",
-    "middleName": "\"\"",
-    "firstName": "\"Laurier\"",
-    "votes": 984
+  "Green Party": {
+    "votes": 984,
+    "familyName": "Busque",
+    "middleName": "",
+    "firstName": "Laurier"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Desmarais\"",
-    "middleName": "\"\"",
-    "firstName": "\"Marc\"",
-    "votes": 14463
+  "Liberal": {
+    "votes": 14463,
+    "familyName": "Desmarais",
+    "middleName": "",
+    "firstName": "Marc"
   },
-  "\"Rhinoceros\"": {
-    "familyName": "\"Dubois\"",
-    "middleName": "\"\"",
-    "firstName": "\"Antoine\"",
-    "votes": 384
+  "Rhinoceros": {
+    "votes": 384,
+    "familyName": "Dubois",
+    "middleName": "",
+    "firstName": "Antoine"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Nolin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Olivier\"",
-    "votes": 10068
+  "Bloc Québécois": {
+    "votes": 10068,
+    "familyName": "Nolin",
+    "middleName": "",
+    "firstName": "Olivier"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Rayes\"",
-    "middleName": "\"\"",
-    "firstName": "\"Alain\"",
-    "votes": 18505
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 18505,
+    "familyName": "Rayes",
+    "middleName": "",
+    "firstName": "Alain"
   }
 }

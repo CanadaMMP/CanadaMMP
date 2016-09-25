@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "35063",
-  "englishDistrictName": "\"Mississauga--Streetsville\"",
-  "frenchDistrictName": "\"Mississauga--Streetsville\"",
-  "\"Conservative\"": {
-    "familyName": "\"Butt\"",
-    "middleName": "\"\"",
-    "firstName": "\"Brad\"",
-    "votes": 22621
+  "englishDistrictName": "Mississauga--Streetsville",
+  "frenchDistrictName": "Mississauga--Streetsville",
+  "Conservative": {
+    "votes": 22621,
+    "familyName": "Butt",
+    "middleName": "",
+    "firstName": "Brad"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Hill\"",
-    "middleName": "\"\"",
-    "firstName": "\"Chris\"",
-    "votes": 1293
+  "Green Party": {
+    "votes": 1293,
+    "familyName": "Hill",
+    "middleName": "",
+    "firstName": "Chris"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Karim\"",
-    "middleName": "\"\"",
-    "firstName": "\"Fayaz\"",
-    "votes": 5040
+  "NDP-New Democratic Party": {
+    "votes": 5040,
+    "familyName": "Karim",
+    "middleName": "",
+    "firstName": "Fayaz"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Sikand\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gagan\"",
-    "votes": 26792
+  "Liberal": {
+    "votes": 26792,
+    "familyName": "Sikand",
+    "middleName": "",
+    "firstName": "Gagan"
   },
-  "\"Christian Heritage Party\"": {
-    "familyName": "\"Tarazevich\"",
-    "middleName": "\"\"",
-    "firstName": "\"Yegor\"",
-    "votes": 253
-  },
-  "undefined": {
-    "votes": null
+  "Christian Heritage Party": {
+    "votes": 253,
+    "familyName": "Tarazevich",
+    "middleName": "",
+    "firstName": "Yegor"
   }
 }

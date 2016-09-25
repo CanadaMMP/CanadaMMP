@@ -1,50 +1,49 @@
 {
   "electoralDistrictNumber": "59039",
-  "englishDistrictName": "\"Vancouver Quadra\"",
-  "frenchDistrictName": "\"Vancouver Quadra\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Andrews\"",
-    "middleName": "\"\"",
-    "firstName": "\"Scott\"",
-    "votes": 5748
+  "englishDistrictName": "Vancouver Quadra",
+  "frenchDistrictName": "Vancouver Quadra",
+  "NDP-New Democratic Party": {
+    "votes": 5748,
+    "familyName": "Andrews",
+    "middleName": "",
+    "firstName": "Scott"
   },
-  "\"Radical Marijuana\"": {
-    "familyName": "\"Boyer\"",
-    "middleName": "\"\"",
-    "firstName": "\"Marc\"",
-    "votes": 65
+  "Radical Marijuana": {
+    "votes": 65,
+    "familyName": "Boyer",
+    "middleName": "",
+    "firstName": "Marc"
   },
-  "\"Independent\"": {
-    "familyName": "\"Caron\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jean-François\"",
-    "votes": 59
+  "Independent": {
+    "Caron": {
+      "votes": 59,
+      "familyName": "Caron",
+      "middleName": "",
+      "firstName": "Jean-François"
+    }
   },
-  "\"Green Party\"": {
-    "familyName": "\"Constable\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kris\"",
-    "votes": 2229
+  "Green Party": {
+    "votes": 2229,
+    "familyName": "Constable",
+    "middleName": "",
+    "firstName": "Kris"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Lockhart\"",
-    "middleName": "\"\"",
-    "firstName": "\"Blair\"",
-    "votes": 13683
+  "Conservative": {
+    "votes": 13683,
+    "familyName": "Lockhart",
+    "middleName": "",
+    "firstName": "Blair"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Murray\"",
-    "middleName": "\"\"",
-    "firstName": "\"Joyce\"",
-    "votes": 31102
+  "Liberal": {
+    "votes": 31102,
+    "familyName": "Murray",
+    "middleName": "",
+    "firstName": "Joyce"
   },
-  "\"Pirate\"": {
-    "familyName": "\"Walper\"",
-    "middleName": "\"\"",
-    "firstName": "\"Trevor Clinton\"",
-    "votes": 86
-  },
-  "undefined": {
-    "votes": null
+  "Pirate": {
+    "votes": 86,
+    "familyName": "Walper",
+    "middleName": "",
+    "firstName": "Trevor Clinton"
   }
 }

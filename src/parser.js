@@ -2,8 +2,7 @@ import fs from 'fs';
 import _ from 'lodash';
 
 const parseCSV = (document) => {
-    let lines = document.split('\n')
-    //let headers = lines[0].split(',');
+    let lines = _.reject(document.split('\n'), (line) => (line.length < 3));
     let headers = [
       "electoralDistrictNumber",
       "englishDistrictName",
@@ -29,18 +28,28 @@ const parseCSV = (document) => {
         let data = {}
         for (let n = 0; n < result.length; n++) {
           if(headers[n] !== "skip"){
-            data[headers[n]] = result[n];
+            const removeQuote = /\"/gi
+            data[headers[n]] = result[n].replace(removeQuote, "")
           }
         }
         return data;
     })
     let out = _.pick(firstMap[0], ["electoralDistrictNumber", "englishDistrictName", "frenchDistrictName"])
     return firstMap.reduce((pv, cv) => {
-      if(!pv.hasOwnProperty(cv.partyEnglish)){
-        pv[cv.partyEnglish] = _.pick(cv, ["familyName", "middleName", "firstName"])
-        pv[cv.partyEnglish].votes = 0;
+      if(cv.partyEnglish === "No Affiliation" || cv.partyEnglish === "Independent"){
+        pv.Independent = pv.Independent || {}
+        pv.Independent[cv.familyName] = pv.Independent[cv.familyName] || Object.assign({votes: 0}, _.pick(cv, ["familyName", "middleName", "firstName"]))
+        pv.Independent[cv.familyName].votes += parseInt(cv.votes);
+        if(pv.Independent[cv.familyName].votes === null){
+          console.log("INDIE\n", cv);
+        }
+        return pv;
       }
+      pv[cv.partyEnglish] = pv[cv.partyEnglish] || Object.assign({votes: 0}, _.pick(cv, ["familyName", "middleName", "firstName"]))
       pv[cv.partyEnglish].votes += parseInt(cv.votes)
+      if(pv[cv.partyEnglish].votes === null){
+        console.log("AS PARTY\n", cv);
+      }
       return pv;
     }, out)
 }
@@ -52,12 +61,12 @@ const readFile = (dirname, filename) => new Promise(function(resolve, reject) {
             return;
         }
         resolve({
-            filename: filename,
+            file: filename,
             content: content,
         })
     });
 });
-const writeFile = ({filename, content}) => new Promise(function(resolve, reject) {
+const writeFile = (filename, content) => new Promise(function(resolve, reject) {
     fs.appendFile("./out/" + filename + ".json", JSON.stringify(
         parseCSV(content), null, 2), (err) => {
         if (err) {
@@ -70,7 +79,7 @@ const writeFile = ({filename, content}) => new Promise(function(resolve, reject)
 
 const readNWrite = ({dirname, filename}) => new Promise(function(resolve, reject) {
     readFile(dirname, filename)
-      .then(({filename, content}) => writeFile({filename, content}))
+      .then(({file, content}) => writeFile(file, content))
       .then(resolve).catch((x) => reject(x))
 });
 
@@ -102,10 +111,10 @@ const stagger = (arrayOfArgs, thenable) => new Promise(function(resolve, reject)
 const getAllFiles = (dirname) => new Promise(function(resolve, reject) {
     getFileNames(dirname)
       .then((filenames) => stagger(filenames.map((filename) => ({dirname, filename})), readNWrite))
-      .then((x) => console.log(x))
-      .catch((e) => console.log("e:", e))
+      .then((x) => resolve(x))
+      .catch((e) => reject(e))
 })
 
-
-
 getAllFiles('./src/data/byDistrict/')
+  .then((x) => console.log(x))
+  .catch((e) => console.log(e))

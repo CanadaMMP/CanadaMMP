@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "46014",
-  "englishDistrictName": "\"Winnipeg South Centre\"",
-  "frenchDistrictName": "\"Winnipeg-Centre-Sud\"",
-  "\"Conservative\"": {
-    "familyName": "\"Bateman\"",
-    "middleName": "\"\"",
-    "firstName": "\"Joyce\"",
-    "votes": 15102
+  "englishDistrictName": "Winnipeg South Centre",
+  "frenchDistrictName": "Winnipeg-Centre-Sud",
+  "Conservative": {
+    "votes": 15102,
+    "familyName": "Bateman",
+    "middleName": "",
+    "firstName": "Joyce"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Carr\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jim\"",
-    "votes": 31993
+  "Liberal": {
+    "votes": 31993,
+    "familyName": "Carr",
+    "middleName": "",
+    "firstName": "Jim"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Henderson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Matt\"",
-    "votes": 4799
+  "NDP-New Democratic Party": {
+    "votes": 4799,
+    "familyName": "Henderson",
+    "middleName": "",
+    "firstName": "Matt"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Park\"",
-    "middleName": "\"\"",
-    "firstName": "\"Andrew\"",
-    "votes": 1677
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1677,
+    "familyName": "Park",
+    "middleName": "",
+    "firstName": "Andrew"
   }
 }

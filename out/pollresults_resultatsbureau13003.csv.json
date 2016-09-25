@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "13003",
-  "englishDistrictName": "\"Fredericton\"",
-  "frenchDistrictName": "\"Fredericton\"",
-  "\"Conservative\"": {
-    "familyName": "\"Ashfield\"",
-    "middleName": "\"\"",
-    "firstName": "\"Keith\"",
-    "votes": 13280
+  "englishDistrictName": "Fredericton",
+  "frenchDistrictName": "Fredericton",
+  "Conservative": {
+    "votes": 13280,
+    "familyName": "Ashfield",
+    "middleName": "",
+    "firstName": "Keith"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Babineau\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mary Lou\"",
-    "votes": 5804
+  "Green Party": {
+    "votes": 5804,
+    "familyName": "Babineau",
+    "middleName": "",
+    "firstName": "Mary Lou"
   },
-  "\"Liberal\"": {
-    "familyName": "\"DeCourcey\"",
-    "middleName": "\"\"",
-    "firstName": "\"Matt\"",
-    "votes": 23016
+  "Liberal": {
+    "votes": 23016,
+    "familyName": "DeCourcey",
+    "middleName": "",
+    "firstName": "Matt"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Scott-Levesque\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sharon\"",
-    "votes": 4622
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 4622,
+    "familyName": "Scott-Levesque",
+    "middleName": "",
+    "firstName": "Sharon"
   }
 }

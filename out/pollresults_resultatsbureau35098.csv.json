@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35098",
-  "englishDistrictName": "\"Scarborough Southwest\"",
-  "frenchDistrictName": "\"Scarborough-Sud-Ouest\"",
-  "\"Liberal\"": {
-    "familyName": "\"Blair\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bill\"",
-    "votes": 25586
+  "englishDistrictName": "Scarborough Southwest",
+  "frenchDistrictName": "Scarborough-Sud-Ouest",
+  "Liberal": {
+    "votes": 25586,
+    "familyName": "Blair",
+    "middleName": "",
+    "firstName": "Bill"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Harris\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dan\"",
-    "votes": 11574
+  "NDP-New Democratic Party": {
+    "votes": 11574,
+    "familyName": "Harris",
+    "middleName": "",
+    "firstName": "Dan"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Nallaratnam\"",
-    "middleName": "\"\"",
-    "firstName": "\"Roshan\"",
-    "votes": 10347
+  "Conservative": {
+    "votes": 10347,
+    "familyName": "Nallaratnam",
+    "middleName": "",
+    "firstName": "Roshan"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Taylor\"",
-    "middleName": "\"\"",
-    "firstName": "\"Tommy\"",
-    "votes": 1259
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1259,
+    "familyName": "Taylor",
+    "middleName": "",
+    "firstName": "Tommy"
   }
 }

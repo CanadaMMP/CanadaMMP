@@ -1,38 +1,37 @@
 {
   "electoralDistrictNumber": "13004",
-  "englishDistrictName": "\"Fundy Royal\"",
-  "frenchDistrictName": "\"Fundy Royal\"",
-  "\"Independent\"": {
-    "familyName": "\"Amos\"",
-    "middleName": "\"\"",
-    "firstName": "\"David Raymond\"",
-    "votes": 296
+  "englishDistrictName": "Fundy Royal",
+  "frenchDistrictName": "Fundy Royal",
+  "Independent": {
+    "Amos": {
+      "votes": 296,
+      "familyName": "Amos",
+      "middleName": "",
+      "firstName": "David Raymond"
+    }
   },
-  "\"Green Party\"": {
-    "familyName": "\"Coburn\"",
-    "middleName": "\"\"",
-    "firstName": "\"Stephanie\"",
-    "votes": 1823
+  "Green Party": {
+    "votes": 1823,
+    "familyName": "Coburn",
+    "middleName": "",
+    "firstName": "Stephanie"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Lockhart\"",
-    "middleName": "\"\"",
-    "firstName": "\"Alaina\"",
-    "votes": 19136
+  "Liberal": {
+    "votes": 19136,
+    "familyName": "Lockhart",
+    "middleName": "",
+    "firstName": "Alaina"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"McKenzie\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jennifer\"",
-    "votes": 8204
+  "NDP-New Democratic Party": {
+    "votes": 8204,
+    "familyName": "McKenzie",
+    "middleName": "",
+    "firstName": "Jennifer"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Moore\"",
-    "middleName": "\"\"",
-    "firstName": "\"Rob\"",
-    "votes": 17361
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 17361,
+    "familyName": "Moore",
+    "middleName": "",
+    "firstName": "Rob"
   }
 }

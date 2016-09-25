@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "24009",
-  "englishDistrictName": "\"Bécancour--Nicolet--Saurel\"",
-  "frenchDistrictName": "\"Bécancour--Nicolet--Saurel\"",
-  "\"Green Party\"": {
-    "familyName": "\"Bastiani\"",
-    "middleName": "\"\"",
-    "firstName": "\"Corina\"",
-    "votes": 1182
+  "englishDistrictName": "Bécancour--Nicolet--Saurel",
+  "frenchDistrictName": "Bécancour--Nicolet--Saurel",
+  "Green Party": {
+    "votes": 1182,
+    "familyName": "Bastiani",
+    "middleName": "",
+    "firstName": "Corina"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Carpentier\"",
-    "middleName": "\"\"",
-    "firstName": "\"Claude\"",
-    "votes": 12666
+  "Liberal": {
+    "votes": 12666,
+    "familyName": "Carpentier",
+    "middleName": "",
+    "firstName": "Claude"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Laberge\"",
-    "middleName": "\"\"",
-    "firstName": "\"Yves\"",
-    "votes": 5955
+  "Conservative": {
+    "votes": 5955,
+    "familyName": "Laberge",
+    "middleName": "",
+    "firstName": "Yves"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Plamondon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Louis\"",
-    "votes": 20871
+  "Bloc Québécois": {
+    "votes": 20871,
+    "familyName": "Plamondon",
+    "middleName": "",
+    "firstName": "Louis"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Tabah\"",
-    "middleName": "\"\"",
-    "firstName": "\"Nicolas\"",
-    "votes": 11531
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 11531,
+    "familyName": "Tabah",
+    "middleName": "",
+    "firstName": "Nicolas"
   }
 }

@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35076",
-  "englishDistrictName": "\"Orléans\"",
-  "frenchDistrictName": "\"Orléans\"",
-  "\"Conservative\"": {
-    "familyName": "\"Galipeau\"",
-    "middleName": "\"\"",
-    "firstName": "\"Royal\"",
-    "votes": 23821
+  "englishDistrictName": "Orléans",
+  "frenchDistrictName": "Orléans",
+  "Conservative": {
+    "votes": 23821,
+    "familyName": "Galipeau",
+    "middleName": "",
+    "firstName": "Royal"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Leslie\"",
-    "middleName": "\"\"",
-    "firstName": "\"Andrew\"",
-    "votes": 46542
+  "Liberal": {
+    "votes": 46542,
+    "familyName": "Leslie",
+    "middleName": "",
+    "firstName": "Andrew"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Morin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Raphaël\"",
-    "votes": 1410
+  "Green Party": {
+    "votes": 1410,
+    "familyName": "Morin",
+    "middleName": "",
+    "firstName": "Raphaël"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Tremblay\"",
-    "middleName": "\"\"",
-    "firstName": "\"Nancy\"",
-    "votes": 6215
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 6215,
+    "familyName": "Tremblay",
+    "middleName": "",
+    "firstName": "Nancy"
   }
 }

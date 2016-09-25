@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "24042",
-  "englishDistrictName": "\"Lévis--Lotbinière\"",
-  "frenchDistrictName": "\"Lévis--Lotbinière\"",
-  "\"ATN\"": {
-    "familyName": "\"Belanger\"",
-    "middleName": "\"\"",
-    "firstName": "\"François\"",
-    "votes": 136
+  "englishDistrictName": "Lévis--Lotbinière",
+  "frenchDistrictName": "Lévis--Lotbinière",
+  "ATN": {
+    "votes": 136,
+    "familyName": "Belanger",
+    "middleName": "",
+    "firstName": "François"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Biello\"",
-    "middleName": "\"\"",
-    "firstName": "\"Tina\"",
-    "votes": 1124
+  "Green Party": {
+    "votes": 1124,
+    "familyName": "Biello",
+    "middleName": "",
+    "firstName": "Tina"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Bilodeau\"",
-    "middleName": "\"\"",
-    "firstName": "\"Hélène\"",
-    "votes": 9246
+  "NDP-New Democratic Party": {
+    "votes": 9246,
+    "familyName": "Bilodeau",
+    "middleName": "",
+    "firstName": "Hélène"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Boucher\"",
-    "middleName": "\"\"",
-    "firstName": "\"Claude\"",
-    "votes": 13562
+  "Liberal": {
+    "votes": 13562,
+    "familyName": "Boucher",
+    "middleName": "",
+    "firstName": "Claude"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Gagné\"",
-    "middleName": "\"\"",
-    "firstName": "\"Steve\"",
-    "votes": 7163
+  "Bloc Québécois": {
+    "votes": 7163,
+    "familyName": "Gagné",
+    "middleName": "",
+    "firstName": "Steve"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Gourde\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jacques\"",
-    "votes": 31357
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 31357,
+    "familyName": "Gourde",
+    "middleName": "",
+    "firstName": "Jacques"
   }
 }

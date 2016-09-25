@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "35092",
-  "englishDistrictName": "\"Sault Ste. Marie\"",
-  "frenchDistrictName": "\"Sault Ste. Marie\"",
-  "\"Green Party\"": {
-    "familyName": "\"Flannigan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kara\"",
-    "votes": 934
+  "englishDistrictName": "Sault Ste. Marie",
+  "frenchDistrictName": "Sault Ste. Marie",
+  "Green Party": {
+    "votes": 934,
+    "familyName": "Flannigan",
+    "middleName": "",
+    "firstName": "Kara"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Hayes\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bryan\"",
-    "votes": 13615
+  "Conservative": {
+    "votes": 13615,
+    "familyName": "Hayes",
+    "middleName": "",
+    "firstName": "Bryan"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Morrison\"",
-    "middleName": "\"\"",
-    "firstName": "\"Skip\"",
-    "votes": 9543
+  "NDP-New Democratic Party": {
+    "votes": 9543,
+    "familyName": "Morrison",
+    "middleName": "",
+    "firstName": "Skip"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Sheehan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Terry\"",
-    "votes": 19582
+  "Liberal": {
+    "votes": 19582,
+    "familyName": "Sheehan",
+    "middleName": "",
+    "firstName": "Terry"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Taffarel\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mike\"",
-    "votes": 83
-  },
-  "undefined": {
-    "votes": null
+  "Marxist-Leninist": {
+    "votes": 83,
+    "familyName": "Taffarel",
+    "middleName": "",
+    "firstName": "Mike"
   }
 }

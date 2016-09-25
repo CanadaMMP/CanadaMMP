@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "59032",
-  "englishDistrictName": "\"Surrey Centre\"",
-  "frenchDistrictName": "\"Surrey-Centre\"",
-  "\"Green Party\"": {
-    "familyName": "\"Deneault\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jeremiah\"",
-    "votes": 1493
+  "englishDistrictName": "Surrey Centre",
+  "frenchDistrictName": "Surrey-Centre",
+  "Green Party": {
+    "votes": 1493,
+    "familyName": "Deneault",
+    "middleName": "",
+    "firstName": "Jeremiah"
   },
-  "\"Communist\"": {
-    "familyName": "\"Kahlon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Iqbal\"",
-    "votes": 133
+  "Communist": {
+    "votes": 133,
+    "familyName": "Kahlon",
+    "middleName": "",
+    "firstName": "Iqbal"
   },
-  "\"Christian Heritage Party\"": {
-    "familyName": "\"Pielak\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kevin\"",
-    "votes": 553
+  "Christian Heritage Party": {
+    "votes": 553,
+    "familyName": "Pielak",
+    "middleName": "",
+    "firstName": "Kevin"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Sandhu\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jasbir\"",
-    "votes": 12992
+  "NDP-New Democratic Party": {
+    "votes": 12992,
+    "familyName": "Sandhu",
+    "middleName": "",
+    "firstName": "Jasbir"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Sarai\"",
-    "middleName": "\"\"",
-    "firstName": "\"Randeep\"",
-    "votes": 19471
+  "Liberal": {
+    "votes": 19471,
+    "familyName": "Sarai",
+    "middleName": "",
+    "firstName": "Randeep"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Thind\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sucha\"",
-    "votes": 8556
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 8556,
+    "familyName": "Thind",
+    "middleName": "",
+    "firstName": "Sucha"
   }
 }

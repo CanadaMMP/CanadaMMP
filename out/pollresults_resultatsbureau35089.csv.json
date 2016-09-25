@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "35089",
-  "englishDistrictName": "\"St. Catharines\"",
-  "frenchDistrictName": "\"St. Catharines\"",
-  "\"Liberal\"": {
-    "familyName": "\"Bittle\"",
-    "middleName": "\"\"",
-    "firstName": "\"Chris\"",
-    "votes": 24870
+  "englishDistrictName": "St. Catharines",
+  "frenchDistrictName": "St. Catharines",
+  "Liberal": {
+    "votes": 24870,
+    "familyName": "Bittle",
+    "middleName": "",
+    "firstName": "Chris"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Dykstra\"",
-    "middleName": "\"\"",
-    "firstName": "\"Rick\"",
-    "votes": 21637
+  "Conservative": {
+    "votes": 21637,
+    "familyName": "Dykstra",
+    "middleName": "",
+    "firstName": "Rick"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Erskine-Fournier\"",
-    "middleName": "\"\"",
-    "firstName": "\"Susan\"",
-    "votes": 9511
+  "NDP-New Democratic Party": {
+    "votes": 9511,
+    "familyName": "Erskine-Fournier",
+    "middleName": "",
+    "firstName": "Susan"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Fannon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jim\"",
-    "votes": 1488
+  "Green Party": {
+    "votes": 1488,
+    "familyName": "Fannon",
+    "middleName": "",
+    "firstName": "Jim"
   },
-  "\"Communist\"": {
-    "familyName": "\"Waziruddin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Saleh\"",
-    "votes": 85
-  },
-  "undefined": {
-    "votes": null
+  "Communist": {
+    "votes": 85,
+    "familyName": "Waziruddin",
+    "middleName": "",
+    "firstName": "Saleh"
   }
 }

@@ -1,56 +1,53 @@
 {
   "electoralDistrictNumber": "35050",
-  "englishDistrictName": "\"Leeds-Grenville-Thousand Islands and Rideau Lakes\"",
-  "frenchDistrictName": "\"Leeds-Grenville-Thousand Islands et Rideau Lakes\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Andrade\"",
-    "middleName": "\"\"",
-    "firstName": "\"Margaret\"",
-    "votes": 4690
+  "englishDistrictName": "Leeds-Grenville-Thousand Islands and Rideau Lakes",
+  "frenchDistrictName": "Leeds-Grenville-Thousand Islands et Rideau Lakes",
+  "NDP-New Democratic Party": {
+    "votes": 4690,
+    "familyName": "Andrade",
+    "middleName": "",
+    "firstName": "Margaret"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Brown\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gord\"",
-    "votes": 26563
+  "Conservative": {
+    "votes": 26563,
+    "familyName": "Brown",
+    "middleName": "",
+    "firstName": "Gord"
   },
-  "\"Liberal\"": {
-    "familyName": "\"McFall\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mary Jean\"",
-    "votes": 22713
+  "Liberal": {
+    "votes": 22713,
+    "familyName": "McFall",
+    "middleName": "",
+    "firstName": "Mary Jean"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Rekmans\"",
-    "middleName": "\"\"",
-    "firstName": "\"Lorraine A.\"",
-    "votes": 2065
+  "Green Party": {
+    "votes": 2065,
+    "familyName": "Rekmans",
+    "middleName": "",
+    "firstName": "Lorraine A."
   },
-  "\"Margaret\"": {
+  "Margaret": {
+    "votes": null,
     "familyName": "0",
-    "middleName": "\"Andrade\"",
-    "firstName": "\"\"",
-    "votes": null
+    "middleName": "Andrade",
+    "firstName": ""
   },
-  "\"Gord\"": {
+  "Gord": {
+    "votes": null,
     "familyName": "0",
-    "middleName": "\"Brown\"",
-    "firstName": "\"\"",
-    "votes": null
+    "middleName": "Brown",
+    "firstName": ""
   },
-  "\"Mary Jean\"": {
+  "Mary Jean": {
+    "votes": null,
     "familyName": "0",
-    "middleName": "\"McFall\"",
-    "firstName": "\"\"",
-    "votes": null
+    "middleName": "McFall",
+    "firstName": ""
   },
-  "\"Lorraine A.\"": {
+  "Lorraine A.": {
+    "votes": null,
     "familyName": "0",
-    "middleName": "\"Rekmans\"",
-    "firstName": "\"\"",
-    "votes": null
-  },
-  "undefined": {
-    "votes": null
+    "middleName": "Rekmans",
+    "firstName": ""
   }
 }

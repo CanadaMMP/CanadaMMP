@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "46005",
-  "englishDistrictName": "\"Elmwood--Transcona\"",
-  "frenchDistrictName": "\"Elmwood--Transcona\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Blaikie\"",
-    "middleName": "\"\"",
-    "firstName": "\"Daniel\"",
-    "votes": 14709
+  "englishDistrictName": "Elmwood--Transcona",
+  "frenchDistrictName": "Elmwood--Transcona",
+  "NDP-New Democratic Party": {
+    "votes": 14709,
+    "familyName": "Blaikie",
+    "middleName": "",
+    "firstName": "Daniel"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Parke\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kim\"",
-    "votes": 1016
+  "Green Party": {
+    "votes": 1016,
+    "familyName": "Parke",
+    "middleName": "",
+    "firstName": "Kim"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Richardson-Lipon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Andrea\"",
-    "votes": 12713
+  "Liberal": {
+    "votes": 12713,
+    "familyName": "Richardson-Lipon",
+    "middleName": "",
+    "firstName": "Andrea"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Toet\"",
-    "middleName": "\"\"",
-    "firstName": "\"Lawrence\"",
-    "votes": 14648
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 14648,
+    "familyName": "Toet",
+    "middleName": "",
+    "firstName": "Lawrence"
   }
 }

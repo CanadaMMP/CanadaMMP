@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35097",
-  "englishDistrictName": "\"Scarborough--Rouge Park\"",
-  "frenchDistrictName": "\"Scarborough--Rouge Park\"",
-  "\"Liberal\"": {
-    "familyName": "\"Anandasangaree\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gary\"",
-    "votes": 29913
+  "englishDistrictName": "Scarborough--Rouge Park",
+  "frenchDistrictName": "Scarborough--Rouge Park",
+  "Liberal": {
+    "votes": 29913,
+    "familyName": "Anandasangaree",
+    "middleName": "",
+    "firstName": "Gary"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Lewis\"",
-    "middleName": "\"\"",
-    "firstName": "\"Leslyn\"",
-    "votes": 13587
+  "Conservative": {
+    "votes": 13587,
+    "familyName": "Lewis",
+    "middleName": "",
+    "firstName": "Leslyn"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Shanthikumar\"",
-    "middleName": "\"\"",
-    "firstName": "\"KM\"",
-    "votes": 5145
+  "NDP-New Democratic Party": {
+    "votes": 5145,
+    "familyName": "Shanthikumar",
+    "middleName": "",
+    "firstName": "KM"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Winter\"",
-    "middleName": "\"\"",
-    "firstName": "\"Calvin\"",
-    "votes": 1010
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1010,
+    "familyName": "Winter",
+    "middleName": "",
+    "firstName": "Calvin"
   }
 }

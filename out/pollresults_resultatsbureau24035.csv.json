@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "24035",
-  "englishDistrictName": "\"Lac-Saint-Jean\"",
-  "frenchDistrictName": "\"Lac-Saint-Jean\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Dallaire\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gisèle\"",
-    "votes": 15735
+  "englishDistrictName": "Lac-Saint-Jean",
+  "frenchDistrictName": "Lac-Saint-Jean",
+  "NDP-New Democratic Party": {
+    "votes": 15735,
+    "familyName": "Dallaire",
+    "middleName": "",
+    "firstName": "Gisèle"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Gaudreault\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sabin\"",
-    "votes": 10152
+  "Bloc Québécois": {
+    "votes": 10152,
+    "familyName": "Gaudreault",
+    "middleName": "",
+    "firstName": "Sabin"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Lebel\"",
-    "middleName": "\"\"",
-    "firstName": "\"Denis\"",
-    "votes": 18393
+  "Conservative": {
+    "votes": 18393,
+    "familyName": "Lebel",
+    "middleName": "",
+    "firstName": "Denis"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Requilé\"",
-    "middleName": "\"\"",
-    "firstName": "\"Laurence\"",
-    "votes": 806
+  "Green Party": {
+    "votes": 806,
+    "familyName": "Requilé",
+    "middleName": "",
+    "firstName": "Laurence"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Simard\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sabin\"",
-    "votes": 10193
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 10193,
+    "familyName": "Simard",
+    "middleName": "",
+    "firstName": "Sabin"
   }
 }

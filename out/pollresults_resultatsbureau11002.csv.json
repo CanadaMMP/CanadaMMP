@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "11002",
-  "englishDistrictName": "\"Charlottetown\"",
-  "frenchDistrictName": "\"Charlottetown\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Byrne\"",
-    "middleName": "\"\"",
-    "firstName": "\"Joe\"",
-    "votes": 4897
+  "englishDistrictName": "Charlottetown",
+  "frenchDistrictName": "Charlottetown",
+  "NDP-New Democratic Party": {
+    "votes": 4897,
+    "familyName": "Byrne",
+    "middleName": "",
+    "firstName": "Joe"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Casey\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sean\"",
-    "votes": 11910
+  "Liberal": {
+    "votes": 11910,
+    "familyName": "Casey",
+    "middleName": "",
+    "firstName": "Sean"
   },
-  "\"Conservative\"": {
-    "familyName": "\"MacMillan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ron\"",
-    "votes": 3136
+  "Conservative": {
+    "votes": 3136,
+    "familyName": "MacMillan",
+    "middleName": "",
+    "firstName": "Ron"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Viau\"",
-    "middleName": "\"\"",
-    "firstName": "\"Becka\"",
-    "votes": 1222
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1222,
+    "familyName": "Viau",
+    "middleName": "",
+    "firstName": "Becka"
   }
 }

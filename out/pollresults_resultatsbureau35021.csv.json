@@ -1,50 +1,49 @@
 {
   "electoralDistrictNumber": "35021",
-  "englishDistrictName": "\"Don Valley West\"",
-  "frenchDistrictName": "\"Don Valley-Ouest\"",
-  "\"Conservative\"": {
-    "familyName": "\"Carmichael\"",
-    "middleName": "\"\"",
-    "firstName": "\"John\"",
-    "votes": 19206
+  "englishDistrictName": "Don Valley West",
+  "frenchDistrictName": "Don Valley-Ouest",
+  "Conservative": {
+    "votes": 19206,
+    "familyName": "Carmichael",
+    "middleName": "",
+    "firstName": "John"
   },
-  "\"Independent\"": {
-    "familyName": "\"Cromwell\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sharon\"",
-    "votes": 75
+  "Independent": {
+    "Cromwell": {
+      "votes": 75,
+      "familyName": "Cromwell",
+      "middleName": "",
+      "firstName": "Sharon"
+    }
   },
-  "\"Communist\"": {
-    "familyName": "\"Hill\"",
-    "middleName": "\"\"",
-    "firstName": "\"Elizabeth\"",
-    "votes": 84
+  "Communist": {
+    "votes": 84,
+    "familyName": "Hill",
+    "middleName": "",
+    "firstName": "Elizabeth"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Hunt\"",
-    "middleName": "\"\"",
-    "firstName": "\"Natalie\"",
-    "votes": 848
+  "Green Party": {
+    "votes": 848,
+    "familyName": "Hunt",
+    "middleName": "",
+    "firstName": "Natalie"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Kittredge\"",
-    "middleName": "\"\"",
-    "firstName": "\"John\"",
-    "votes": 325
+  "Libertarian": {
+    "votes": 325,
+    "familyName": "Kittredge",
+    "middleName": "",
+    "firstName": "John"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Oliphant\"",
-    "middleName": "\"\"",
-    "firstName": "\"Rob\"",
-    "votes": 27472
+  "Liberal": {
+    "votes": 27472,
+    "familyName": "Oliphant",
+    "middleName": "",
+    "firstName": "Rob"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Riaz\"",
-    "middleName": "\"\"",
-    "firstName": "\"Syeda\"",
-    "votes": 3076
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 3076,
+    "familyName": "Riaz",
+    "middleName": "",
+    "firstName": "Syeda"
   }
 }

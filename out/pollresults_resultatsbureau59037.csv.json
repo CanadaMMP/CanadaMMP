@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "59037",
-  "englishDistrictName": "\"North Island--Powell River\"",
-  "frenchDistrictName": "\"North Island--Powell River\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Blaney\"",
-    "middleName": "\"\"",
-    "firstName": "\"Rachel\"",
-    "votes": 24340
+  "englishDistrictName": "North Island--Powell River",
+  "frenchDistrictName": "North Island--Powell River",
+  "NDP-New Democratic Party": {
+    "votes": 24340,
+    "familyName": "Blaney",
+    "middleName": "",
+    "firstName": "Rachel"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Sayers\"",
-    "middleName": "\"\"",
-    "firstName": "\"Brenda\"",
-    "votes": 4940
+  "Green Party": {
+    "votes": 4940,
+    "familyName": "Sayers",
+    "middleName": "",
+    "firstName": "Brenda"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Schwarzhoff\"",
-    "middleName": "\"\"",
-    "firstName": "\"Peter\"",
-    "votes": 15416
+  "Liberal": {
+    "votes": 15416,
+    "familyName": "Schwarzhoff",
+    "middleName": "",
+    "firstName": "Peter"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Smith\"",
-    "middleName": "\"\"",
-    "firstName": "\"Laura\"",
-    "votes": 15840
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 15840,
+    "familyName": "Smith",
+    "middleName": "",
+    "firstName": "Laura"
   }
 }

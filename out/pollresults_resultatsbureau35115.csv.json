@@ -1,38 +1,37 @@
 {
   "electoralDistrictNumber": "35115",
-  "englishDistrictName": "\"Willowdale\"",
-  "frenchDistrictName": "\"Willowdale\"",
-  "\"Independent\"": {
-    "familyName": "\"Ahluwalia\"",
-    "middleName": "\"\"",
-    "firstName": "\"Birinder Singh\"",
-    "votes": 216
+  "englishDistrictName": "Willowdale",
+  "frenchDistrictName": "Willowdale",
+  "Independent": {
+    "Ahluwalia": {
+      "votes": 216,
+      "familyName": "Ahluwalia",
+      "middleName": "",
+      "firstName": "Birinder Singh"
+    }
   },
-  "\"Green Party\"": {
-    "familyName": "\"Arruda\"",
-    "middleName": "\"\"",
-    "firstName": "\"James\"",
-    "votes": 1025
+  "Green Party": {
+    "votes": 1025,
+    "familyName": "Arruda",
+    "middleName": "",
+    "firstName": "James"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Ehsassi\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ali\"",
-    "votes": 24519
+  "Liberal": {
+    "votes": 24519,
+    "familyName": "Ehsassi",
+    "middleName": "",
+    "firstName": "Ali"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Leung\"",
-    "middleName": "\"\"",
-    "firstName": "\"Chungsen\"",
-    "votes": 16990
+  "Conservative": {
+    "votes": 16990,
+    "familyName": "Leung",
+    "middleName": "",
+    "firstName": "Chungsen"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Tabasinejad\"",
-    "middleName": "\"\"",
-    "firstName": "\"Pouyan\"",
-    "votes": 3203
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 3203,
+    "familyName": "Tabasinejad",
+    "middleName": "",
+    "firstName": "Pouyan"
   }
 }

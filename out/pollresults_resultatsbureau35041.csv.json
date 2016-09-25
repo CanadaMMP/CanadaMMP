@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35041",
-  "englishDistrictName": "\"Kanata--Carleton\"",
-  "frenchDistrictName": "\"Kanata--Carleton\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Hansen\"",
-    "middleName": "\"\"",
-    "firstName": "\"John\"",
-    "votes": 4313
+  "englishDistrictName": "Kanata--Carleton",
+  "frenchDistrictName": "Kanata--Carleton",
+  "NDP-New Democratic Party": {
+    "votes": 4313,
+    "familyName": "Hansen",
+    "middleName": "",
+    "firstName": "John"
   },
-  "\"Liberal\"": {
-    "familyName": "\"McCrimmon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Karen\"",
-    "votes": 32477
+  "Liberal": {
+    "votes": 32477,
+    "familyName": "McCrimmon",
+    "middleName": "",
+    "firstName": "Karen"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Pamic\"",
-    "middleName": "\"\"",
-    "firstName": "\"Walter\"",
-    "votes": 24829
+  "Conservative": {
+    "votes": 24829,
+    "familyName": "Pamic",
+    "middleName": "",
+    "firstName": "Walter"
   },
-  "\"Green Party\"": {
-    "familyName": "\"West\"",
-    "middleName": "\"\"",
-    "firstName": "\"Andrew\"",
-    "votes": 1704
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1704,
+    "familyName": "West",
+    "middleName": "",
+    "firstName": "Andrew"
   }
 }

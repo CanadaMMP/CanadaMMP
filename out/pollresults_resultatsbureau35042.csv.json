@@ -1,68 +1,67 @@
 {
   "electoralDistrictNumber": "35042",
-  "englishDistrictName": "\"Kenora\"",
-  "frenchDistrictName": "\"Kenora\"",
-  "\"Independent\"": {
-    "familyName": "\"Boucher-Chicago\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kelvin\"",
-    "votes": 159
+  "englishDistrictName": "Kenora",
+  "frenchDistrictName": "Kenora",
+  "Independent": {
+    "Boucher-Chicago": {
+      "votes": 159,
+      "familyName": "Boucher-Chicago",
+      "middleName": "",
+      "firstName": "Kelvin"
+    }
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Hampton\"",
-    "middleName": "\"\"",
-    "firstName": "\"Howard\"",
-    "votes": 10317
+  "NDP-New Democratic Party": {
+    "votes": 10317,
+    "familyName": "Hampton",
+    "middleName": "",
+    "firstName": "Howard"
   },
-  "\"Green Party\"": {
-    "familyName": "\"McKillop\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ember C.\"",
-    "votes": 489
+  "Green Party": {
+    "votes": 489,
+    "familyName": "McKillop",
+    "middleName": "",
+    "firstName": "Ember C."
   },
-  "\"Liberal\"": {
-    "familyName": "\"Nault\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bob\"",
-    "votes": 10749
+  "Liberal": {
+    "votes": 10749,
+    "familyName": "Nault",
+    "middleName": "",
+    "firstName": "Bob"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Rickford\"",
-    "middleName": "\"\"",
-    "firstName": "\"Greg\"",
-    "votes": 8562
+  "Conservative": {
+    "votes": 8562,
+    "familyName": "Rickford",
+    "middleName": "",
+    "firstName": "Greg"
   },
-  "\"Kelvin\"": {
+  "Kelvin": {
+    "votes": null,
     "familyName": "295",
-    "middleName": "\"Boucher-Chicago\"",
-    "firstName": "\"\"",
-    "votes": null
+    "middleName": "Boucher-Chicago",
+    "firstName": ""
   },
-  "\"Howard\"": {
+  "Howard": {
+    "votes": null,
     "familyName": "295",
-    "middleName": "\"Hampton\"",
-    "firstName": "\"\"",
-    "votes": null
+    "middleName": "Hampton",
+    "firstName": ""
   },
-  "\"Ember C.\"": {
+  "Ember C.": {
+    "votes": null,
     "familyName": "295",
-    "middleName": "\"McKillop\"",
-    "firstName": "\"\"",
-    "votes": null
+    "middleName": "McKillop",
+    "firstName": ""
   },
-  "\"Bob\"": {
+  "Bob": {
+    "votes": null,
     "familyName": "295",
-    "middleName": "\"Nault\"",
-    "firstName": "\"\"",
-    "votes": null
+    "middleName": "Nault",
+    "firstName": ""
   },
-  "\"Greg\"": {
+  "Greg": {
+    "votes": null,
     "familyName": "295",
-    "middleName": "\"Rickford\"",
-    "firstName": "\"\"",
-    "votes": null
-  },
-  "undefined": {
-    "votes": null
+    "middleName": "Rickford",
+    "firstName": ""
   }
 }

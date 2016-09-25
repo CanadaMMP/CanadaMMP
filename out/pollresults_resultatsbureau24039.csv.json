@@ -1,62 +1,61 @@
 {
   "electoralDistrictNumber": "24039",
-  "englishDistrictName": "\"Laurier--Sainte-Marie\"",
-  "frenchDistrictName": "\"Laurier--Sainte-Marie\"",
-  "\"Libertarian\"": {
-    "familyName": "\"Beaulieu\"",
-    "middleName": "\"\"",
-    "firstName": "\"Stéphane\"",
-    "votes": 604
+  "englishDistrictName": "Laurier--Sainte-Marie",
+  "frenchDistrictName": "Laurier--Sainte-Marie",
+  "Libertarian": {
+    "votes": 604,
+    "familyName": "Beaulieu",
+    "middleName": "",
+    "firstName": "Stéphane"
   },
-  "\"Independent\"": {
-    "familyName": "\"Bernatchez\"",
-    "middleName": "\"\"",
-    "firstName": "\"Julien\"",
-    "votes": 160
+  "Independent": {
+    "Bernatchez": {
+      "votes": 160,
+      "familyName": "Bernatchez",
+      "middleName": "",
+      "firstName": "Julien"
+    }
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Duceppe\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gilles\"",
-    "votes": 15699
+  "Bloc Québécois": {
+    "votes": 15699,
+    "familyName": "Duceppe",
+    "middleName": "",
+    "firstName": "Gilles"
   },
-  "\"Communist\"": {
-    "familyName": "\"Fontaine\"",
-    "middleName": "\"\"",
-    "firstName": "\"Pierre\"",
-    "votes": 102
+  "Communist": {
+    "votes": 102,
+    "familyName": "Fontaine",
+    "middleName": "",
+    "firstName": "Pierre"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Gaudreau\"",
-    "middleName": "\"\"",
-    "firstName": "\"Daniel\"",
-    "votes": 2242
+  "Conservative": {
+    "votes": 2242,
+    "familyName": "Gaudreau",
+    "middleName": "",
+    "firstName": "Daniel"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Giraud\"",
-    "middleName": "\"\"",
-    "firstName": "\"Cyrille\"",
-    "votes": 1904
+  "Green Party": {
+    "votes": 1904,
+    "familyName": "Giraud",
+    "middleName": "",
+    "firstName": "Cyrille"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Lachapelle\"",
-    "middleName": "\"\"",
-    "firstName": "\"Serge\"",
-    "votes": 103
+  "Marxist-Leninist": {
+    "votes": 103,
+    "familyName": "Lachapelle",
+    "middleName": "",
+    "firstName": "Serge"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Laverdière\"",
-    "middleName": "\"\"",
-    "firstName": "\"Hélène\"",
-    "votes": 20929
+  "NDP-New Democratic Party": {
+    "votes": 20929,
+    "familyName": "Laverdière",
+    "middleName": "",
+    "firstName": "Hélène"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Poirier\"",
-    "middleName": "\"\"",
-    "firstName": "\"Christine\"",
-    "votes": 12938
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 12938,
+    "familyName": "Poirier",
+    "middleName": "",
+    "firstName": "Christine"
   }
 }

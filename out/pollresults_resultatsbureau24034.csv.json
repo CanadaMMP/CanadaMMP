@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "24034",
-  "englishDistrictName": "\"La Prairie\"",
-  "frenchDistrictName": "\"La Prairie\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Chicoine\"",
-    "middleName": "\"\"",
-    "firstName": "\"Pierre\"",
-    "votes": 13174
+  "englishDistrictName": "La Prairie",
+  "frenchDistrictName": "La Prairie",
+  "NDP-New Democratic Party": {
+    "votes": 13174,
+    "familyName": "Chicoine",
+    "middleName": "",
+    "firstName": "Pierre"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Chouinard\"",
-    "middleName": "\"\"",
-    "firstName": "\"Normand\"",
-    "votes": 204
+  "Marxist-Leninist": {
+    "votes": 204,
+    "familyName": "Chouinard",
+    "middleName": "",
+    "firstName": "Normand"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Perras\"",
-    "middleName": "\"\"",
-    "firstName": "\"Yves\"",
-    "votes": 6859
+  "Conservative": {
+    "votes": 6859,
+    "familyName": "Perras",
+    "middleName": "",
+    "firstName": "Yves"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Picard\"",
-    "middleName": "\"\"",
-    "firstName": "\"Christian\"",
-    "votes": 15107
+  "Bloc Québécois": {
+    "votes": 15107,
+    "familyName": "Picard",
+    "middleName": "",
+    "firstName": "Christian"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Poissant\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jean-Claude\"",
-    "votes": 20993
+  "Liberal": {
+    "votes": 20993,
+    "familyName": "Poissant",
+    "middleName": "",
+    "firstName": "Jean-Claude"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Tomas\"",
-    "middleName": "\"\"",
-    "firstName": "\"Joanne\"",
-    "votes": 1235
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1235,
+    "familyName": "Tomas",
+    "middleName": "",
+    "firstName": "Joanne"
   }
 }

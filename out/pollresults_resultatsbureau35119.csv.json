@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35119",
-  "englishDistrictName": "\"York--Simcoe\"",
-  "frenchDistrictName": "\"York--Simcoe\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Gerl\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sylvia\"",
-    "votes": 4255
+  "englishDistrictName": "York--Simcoe",
+  "frenchDistrictName": "York--Simcoe",
+  "NDP-New Democratic Party": {
+    "votes": 4255,
+    "familyName": "Gerl",
+    "middleName": "",
+    "firstName": "Sylvia"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Tanaka\"",
-    "middleName": "\"\"",
-    "firstName": "\"Shaun\"",
-    "votes": 18083
+  "Liberal": {
+    "votes": 18083,
+    "familyName": "Tanaka",
+    "middleName": "",
+    "firstName": "Shaun"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Van Loan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Peter\"",
-    "votes": 24058
+  "Conservative": {
+    "votes": 24058,
+    "familyName": "Van Loan",
+    "middleName": "",
+    "firstName": "Peter"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Viitala\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mark\"",
-    "votes": 1483
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1483,
+    "familyName": "Viitala",
+    "middleName": "",
+    "firstName": "Mark"
   }
 }

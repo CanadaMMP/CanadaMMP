@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "59011",
-  "englishDistrictName": "\"Delta\"",
-  "frenchDistrictName": "\"Delta\"",
-  "\"Green Party\"": {
-    "familyName": "\"Devellano\"",
-    "middleName": "\"\"",
-    "firstName": "\"Anthony Edward\"",
-    "votes": 1768
+  "englishDistrictName": "Delta",
+  "frenchDistrictName": "Delta",
+  "Green Party": {
+    "votes": 1768,
+    "familyName": "Devellano",
+    "middleName": "",
+    "firstName": "Anthony Edward"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Findlay\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kerry-Lynne\"",
-    "votes": 18255
+  "Conservative": {
+    "votes": 18255,
+    "familyName": "Findlay",
+    "middleName": "",
+    "firstName": "Kerry-Lynne"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Leveque\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jeremy\"",
-    "votes": 8311
+  "NDP-New Democratic Party": {
+    "votes": 8311,
+    "familyName": "Leveque",
+    "middleName": "",
+    "firstName": "Jeremy"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Qualtrough\"",
-    "middleName": "\"\"",
-    "firstName": "\"Carla\"",
-    "votes": 27355
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 27355,
+    "familyName": "Qualtrough",
+    "middleName": "",
+    "firstName": "Carla"
   }
 }

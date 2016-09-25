@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "12010",
-  "englishDistrictName": "\"Sydney--Victoria\"",
-  "frenchDistrictName": "\"Sydney--Victoria\"",
-  "\"Conservative\"": {
-    "familyName": "\"Chiasson\"",
-    "middleName": "\"\"",
-    "firstName": "\"John Douglas\"",
-    "votes": 4360
+  "englishDistrictName": "Sydney--Victoria",
+  "frenchDistrictName": "Sydney--Victoria",
+  "Conservative": {
+    "votes": 4360,
+    "familyName": "Chiasson",
+    "middleName": "",
+    "firstName": "John Douglas"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Dutt\"",
-    "middleName": "\"\"",
-    "firstName": "\"Monika\"",
-    "votes": 5351
+  "NDP-New Democratic Party": {
+    "votes": 5351,
+    "familyName": "Dutt",
+    "middleName": "",
+    "firstName": "Monika"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Eyking\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mark\"",
-    "votes": 29995
+  "Liberal": {
+    "votes": 29995,
+    "familyName": "Eyking",
+    "middleName": "",
+    "firstName": "Mark"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Hiscock\"",
-    "middleName": "\"\"",
-    "firstName": "\"Wayne James\"",
-    "votes": 242
+  "Libertarian": {
+    "votes": 242,
+    "familyName": "Hiscock",
+    "middleName": "",
+    "firstName": "Wayne James"
   },
-  "\"Green Party\"": {
-    "familyName": "\"MacKinnon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Adrianna\"",
-    "votes": 1026
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1026,
+    "familyName": "MacKinnon",
+    "middleName": "",
+    "firstName": "Adrianna"
   }
 }

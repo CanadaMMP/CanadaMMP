@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "47002",
-  "englishDistrictName": "\"Cypress Hills--Grasslands\"",
-  "frenchDistrictName": "\"Cypress Hills--Grasslands\"",
-  "\"Conservative\"": {
-    "familyName": "\"Anderson\"",
-    "middleName": "\"\"",
-    "firstName": "\"David\"",
-    "votes": 25050
+  "englishDistrictName": "Cypress Hills--Grasslands",
+  "frenchDistrictName": "Cypress Hills--Grasslands",
+  "Conservative": {
+    "votes": 25050,
+    "familyName": "Anderson",
+    "middleName": "",
+    "firstName": "David"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Caton\"",
-    "middleName": "\"\"",
-    "firstName": "\"William\"",
-    "votes": 993
+  "Green Party": {
+    "votes": 993,
+    "familyName": "Caton",
+    "middleName": "",
+    "firstName": "William"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Peterson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Trevor\"",
-    "votes": 4783
+  "NDP-New Democratic Party": {
+    "votes": 4783,
+    "familyName": "Peterson",
+    "middleName": "",
+    "firstName": "Trevor"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Wiens\"",
-    "middleName": "\"\"",
-    "firstName": "\"Marvin\"",
-    "votes": 5381
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 5381,
+    "familyName": "Wiens",
+    "middleName": "",
+    "firstName": "Marvin"
   }
 }

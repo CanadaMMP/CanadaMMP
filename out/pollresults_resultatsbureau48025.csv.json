@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "48025",
-  "englishDistrictName": "\"Lakeland\"",
-  "frenchDistrictName": "\"Lakeland\"",
-  "\"Libertarian\"": {
-    "familyName": "\"McFadzean\"",
-    "middleName": "\"\"",
-    "firstName": "\"Robert George\"",
-    "votes": 601
+  "englishDistrictName": "Lakeland",
+  "frenchDistrictName": "Lakeland",
+  "Libertarian": {
+    "votes": 601,
+    "familyName": "McFadzean",
+    "middleName": "",
+    "firstName": "Robert George"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Montgomery\"",
-    "middleName": "\"\"",
-    "firstName": "\"Danielle\"",
-    "votes": 1283
+  "Green Party": {
+    "votes": 1283,
+    "familyName": "Montgomery",
+    "middleName": "",
+    "firstName": "Danielle"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Parenteau\"",
-    "middleName": "\"\"",
-    "firstName": "\"Garry\"",
-    "votes": 7500
+  "Liberal": {
+    "votes": 7500,
+    "familyName": "Parenteau",
+    "middleName": "",
+    "firstName": "Garry"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Stubbs\"",
-    "middleName": "\"\"",
-    "firstName": "\"Shannon\"",
-    "votes": 39882
+  "Conservative": {
+    "votes": 39882,
+    "familyName": "Stubbs",
+    "middleName": "",
+    "firstName": "Shannon"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Zaraska\"",
-    "middleName": "\"\"",
-    "firstName": "\"Duane\"",
-    "votes": 5513
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 5513,
+    "familyName": "Zaraska",
+    "middleName": "",
+    "firstName": "Duane"
   }
 }

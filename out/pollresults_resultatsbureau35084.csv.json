@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "35084",
-  "englishDistrictName": "\"Peterborough--Kawartha\"",
-  "frenchDistrictName": "\"Peterborough--Kawartha\"",
-  "\"Forces et Démocratie - Allier les forces de nos régions\"": {
-    "familyName": "\"Leckie\"",
-    "middleName": "\"\"",
-    "firstName": "\"Toban\"",
-    "votes": 131
+  "englishDistrictName": "Peterborough--Kawartha",
+  "frenchDistrictName": "Peterborough--Kawartha",
+  "Forces et Démocratie - Allier les forces de nos régions": {
+    "votes": 131,
+    "familyName": "Leckie",
+    "middleName": "",
+    "firstName": "Toban"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Mason\"",
-    "middleName": "\"\"",
-    "firstName": "\"Doug\"",
-    "votes": 1480
+  "Green Party": {
+    "votes": 1480,
+    "familyName": "Mason",
+    "middleName": "",
+    "firstName": "Doug"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Monsef\"",
-    "middleName": "\"\"",
-    "firstName": "\"Maryam\"",
-    "votes": 29159
+  "Liberal": {
+    "votes": 29159,
+    "familyName": "Monsef",
+    "middleName": "",
+    "firstName": "Maryam"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Nickle\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dave\"",
-    "votes": 12437
+  "NDP-New Democratic Party": {
+    "votes": 12437,
+    "familyName": "Nickle",
+    "middleName": "",
+    "firstName": "Dave"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Skinner\"",
-    "middleName": "\"\"",
-    "firstName": "\"Michael\"",
-    "votes": 23335
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 23335,
+    "familyName": "Skinner",
+    "middleName": "",
+    "firstName": "Michael"
   }
 }

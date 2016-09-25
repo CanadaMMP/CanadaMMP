@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "59015",
-  "englishDistrictName": "\"Kootenay--Columbia\"",
-  "frenchDistrictName": "\"Kootenay--Columbia\"",
-  "\"Green Party\"": {
-    "familyName": "\"Green\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bill\"",
-    "votes": 4115
+  "englishDistrictName": "Kootenay--Columbia",
+  "frenchDistrictName": "Kootenay--Columbia",
+  "Green Party": {
+    "votes": 4115,
+    "familyName": "Green",
+    "middleName": "",
+    "firstName": "Bill"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Johnston\"",
-    "middleName": "\"\"",
-    "firstName": "\"Don\"",
-    "votes": 12315
+  "Liberal": {
+    "votes": 12315,
+    "familyName": "Johnston",
+    "middleName": "",
+    "firstName": "Don"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Stetski\"",
-    "middleName": "\"\"",
-    "firstName": "\"Wayne\"",
-    "votes": 23529
+  "NDP-New Democratic Party": {
+    "votes": 23529,
+    "familyName": "Stetski",
+    "middleName": "",
+    "firstName": "Wayne"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Wilks\"",
-    "middleName": "\"\"",
-    "firstName": "\"David\"",
-    "votes": 23247
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 23247,
+    "familyName": "Wilks",
+    "middleName": "",
+    "firstName": "David"
   }
 }

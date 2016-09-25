@@ -1,38 +1,37 @@
 {
   "electoralDistrictNumber": "35051",
-  "englishDistrictName": "\"London--Fanshawe\"",
-  "frenchDistrictName": "\"London--Fanshawe\"",
-  "\"Conservative\"": {
-    "familyName": "\"Dieleman\"",
-    "middleName": "\"\"",
-    "firstName": "\"Suzanna\"",
-    "votes": 14891
+  "englishDistrictName": "London--Fanshawe",
+  "frenchDistrictName": "London--Fanshawe",
+  "Conservative": {
+    "votes": 14891,
+    "familyName": "Dieleman",
+    "middleName": "",
+    "firstName": "Suzanna"
   },
-  "\"Independent\"": {
-    "familyName": "\"Hamadi\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ali\"",
-    "votes": 352
+  "Independent": {
+    "Hamadi": {
+      "votes": 352,
+      "familyName": "Hamadi",
+      "middleName": "",
+      "firstName": "Ali"
+    }
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Mathyssen\"",
-    "middleName": "\"\"",
-    "firstName": "\"Irene\"",
-    "votes": 20684
+  "NDP-New Democratic Party": {
+    "votes": 20684,
+    "familyName": "Mathyssen",
+    "middleName": "",
+    "firstName": "Irene"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Peloza\"",
-    "middleName": "\"\"",
-    "firstName": "\"Matthew\"",
-    "votes": 1604
+  "Green Party": {
+    "votes": 1604,
+    "familyName": "Peloza",
+    "middleName": "",
+    "firstName": "Matthew"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Ramal\"",
-    "middleName": "\"\"",
-    "firstName": "\"Khalil\"",
-    "votes": 17214
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 17214,
+    "familyName": "Ramal",
+    "middleName": "",
+    "firstName": "Khalil"
   }
 }

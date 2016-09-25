@@ -1,50 +1,49 @@
 {
   "electoralDistrictNumber": "24027",
-  "englishDistrictName": "\"Gatineau\"",
-  "frenchDistrictName": "\"Gatineau\"",
-  "\"Conservative\"": {
-    "familyName": "\"Angers\"",
-    "middleName": "\"\"",
-    "firstName": "\"Luc\"",
-    "votes": 4733
+  "englishDistrictName": "Gatineau",
+  "frenchDistrictName": "Gatineau",
+  "Conservative": {
+    "votes": 4733,
+    "familyName": "Angers",
+    "middleName": "",
+    "firstName": "Luc"
   },
-  "\"Independent\"": {
-    "familyName": "\"Bellavance\"",
-    "middleName": "\"\"",
-    "firstName": "\"Guy J.\"",
-    "votes": 148
+  "Independent": {
+    "Bellavance": {
+      "votes": 148,
+      "familyName": "Bellavance",
+      "middleName": "",
+      "firstName": "Guy J."
+    }
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Boily\"",
-    "middleName": "\"\"",
-    "firstName": "\"Philippe\"",
-    "votes": 5455
+  "Bloc Québécois": {
+    "votes": 5455,
+    "familyName": "Boily",
+    "middleName": "",
+    "firstName": "Philippe"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Boivin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Françoise\"",
-    "votes": 15352
+  "NDP-New Democratic Party": {
+    "votes": 15352,
+    "familyName": "Boivin",
+    "middleName": "",
+    "firstName": "Françoise"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Dostaler\"",
-    "middleName": "\"\"",
-    "firstName": "\"Guy\"",
-    "votes": 942
+  "Green Party": {
+    "votes": 942,
+    "familyName": "Dostaler",
+    "middleName": "",
+    "firstName": "Guy"
   },
-  "\"Liberal\"": {
-    "familyName": "\"MacKinnon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Steven\"",
-    "votes": 31076
+  "Liberal": {
+    "votes": 31076,
+    "familyName": "MacKinnon",
+    "middleName": "",
+    "firstName": "Steven"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Soublière\"",
-    "middleName": "\"\"",
-    "firstName": "\"Pierre\"",
-    "votes": 94
-  },
-  "undefined": {
-    "votes": null
+  "Marxist-Leninist": {
+    "votes": 94,
+    "familyName": "Soublière",
+    "middleName": "",
+    "firstName": "Pierre"
   }
 }

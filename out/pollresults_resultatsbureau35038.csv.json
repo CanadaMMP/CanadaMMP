@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35038",
-  "englishDistrictName": "\"Hamilton West--Ancaster--Dundas\"",
-  "frenchDistrictName": "\"Hamilton-Ouest--Ancaster--Dundas\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Johnstone\"",
-    "middleName": "\"\"",
-    "firstName": "\"Alex\"",
-    "votes": 10131
+  "englishDistrictName": "Hamilton West--Ancaster--Dundas",
+  "frenchDistrictName": "Hamilton-Ouest--Ancaster--Dundas",
+  "NDP-New Democratic Party": {
+    "votes": 10131,
+    "familyName": "Johnstone",
+    "middleName": "",
+    "firstName": "Alex"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Ormond\"",
-    "middleName": "\"\"",
-    "firstName": "\"Peter\"",
-    "votes": 2633
+  "Green Party": {
+    "votes": 2633,
+    "familyName": "Ormond",
+    "middleName": "",
+    "firstName": "Peter"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Samuel\"",
-    "middleName": "\"\"",
-    "firstName": "\"Vincent\"",
-    "votes": 19821
+  "Conservative": {
+    "votes": 19821,
+    "familyName": "Samuel",
+    "middleName": "",
+    "firstName": "Vincent"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Tassi\"",
-    "middleName": "\"\"",
-    "firstName": "\"Filomena\"",
-    "votes": 29694
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 29694,
+    "familyName": "Tassi",
+    "middleName": "",
+    "firstName": "Filomena"
   }
 }

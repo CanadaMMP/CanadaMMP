@@ -1,44 +1,43 @@
 {
   "electoralDistrictNumber": "48016",
-  "englishDistrictName": "\"Edmonton Manning\"",
-  "frenchDistrictName": "\"Edmonton Manning\"",
-  "\"Conservative\"": {
-    "familyName": "\"Aboultaif\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ziad\"",
-    "votes": 22166
+  "englishDistrictName": "Edmonton Manning",
+  "frenchDistrictName": "Edmonton Manning",
+  "Conservative": {
+    "votes": 22166,
+    "familyName": "Aboultaif",
+    "middleName": "",
+    "firstName": "Ziad"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Aujla\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sukhdev\"",
-    "votes": 13509
+  "Liberal": {
+    "votes": 13509,
+    "familyName": "Aujla",
+    "middleName": "",
+    "firstName": "Sukhdev"
   },
-  "\"Independent\"": {
-    "familyName": "\"Deres\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mebreate\"",
-    "votes": 540
+  "Independent": {
+    "Deres": {
+      "votes": 540,
+      "familyName": "Deres",
+      "middleName": "",
+      "firstName": "Mebreate"
+    }
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Paquette\"",
-    "middleName": "\"\"",
-    "firstName": "\"Aaron\"",
-    "votes": 11582
+  "NDP-New Democratic Party": {
+    "votes": 11582,
+    "familyName": "Paquette",
+    "middleName": "",
+    "firstName": "Aaron"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Vachon\"",
-    "middleName": "\"\"",
-    "firstName": "\"André\"",
-    "votes": 125
+  "Marxist-Leninist": {
+    "votes": 125,
+    "familyName": "Vachon",
+    "middleName": "",
+    "firstName": "André"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Vallee\"",
-    "middleName": "\"\"",
-    "firstName": "\"Chris\"",
-    "votes": 1079
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1079,
+    "familyName": "Vallee",
+    "middleName": "",
+    "firstName": "Chris"
   }
 }

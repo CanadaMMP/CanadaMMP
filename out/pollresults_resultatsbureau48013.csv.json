@@ -1,56 +1,55 @@
 {
   "electoralDistrictNumber": "48013",
-  "englishDistrictName": "\"Calgary Skyview\"",
-  "frenchDistrictName": "\"Calgary Skyview\"",
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Blanchard\"",
-    "middleName": "\"\"",
-    "firstName": "\"Daniel\"",
-    "votes": 88
+  "englishDistrictName": "Calgary Skyview",
+  "frenchDistrictName": "Calgary Skyview",
+  "Marxist-Leninist": {
+    "votes": 88,
+    "familyName": "Blanchard",
+    "middleName": "",
+    "firstName": "Daniel"
   },
-  "\"PC Party\"": {
-    "familyName": "\"Butt\"",
-    "middleName": "\"\"",
-    "firstName": "\"Najeeb\"",
-    "votes": 957
+  "PC Party": {
+    "votes": 957,
+    "familyName": "Butt",
+    "middleName": "",
+    "firstName": "Najeeb"
   },
-  "\"Democratic Advancement\"": {
-    "familyName": "\"Garvey\"",
-    "middleName": "\"\"",
-    "firstName": "\"Stephen\"",
-    "votes": 786
+  "Democratic Advancement": {
+    "votes": 786,
+    "familyName": "Garvey",
+    "middleName": "",
+    "firstName": "Stephen"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Kang\"",
-    "middleName": "\"\"",
-    "firstName": "\"Darshan Singh\"",
-    "votes": 20644
+  "Liberal": {
+    "votes": 20644,
+    "familyName": "Kang",
+    "middleName": "",
+    "firstName": "Darshan Singh"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Reddy\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ed\"",
-    "votes": 846
+  "Green Party": {
+    "votes": 846,
+    "familyName": "Reddy",
+    "middleName": "",
+    "firstName": "Ed"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Shory\"",
-    "middleName": "\"\"",
-    "firstName": "\"Devinder\"",
-    "votes": 17885
+  "Conservative": {
+    "votes": 17885,
+    "familyName": "Shory",
+    "middleName": "",
+    "firstName": "Devinder"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Singh\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sahajvir\"",
-    "votes": 3605
+  "NDP-New Democratic Party": {
+    "votes": 3605,
+    "familyName": "Singh",
+    "middleName": "",
+    "firstName": "Sahajvir"
   },
-  "\"Independent\"": {
-    "familyName": "\"Young\"",
-    "middleName": "\"\"",
-    "firstName": "\"Joseph\"",
-    "votes": 182
-  },
-  "undefined": {
-    "votes": null
+  "Independent": {
+    "Young": {
+      "votes": 182,
+      "familyName": "Young",
+      "middleName": "",
+      "firstName": "Joseph"
+    }
   }
 }

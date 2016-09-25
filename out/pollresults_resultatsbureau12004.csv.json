@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "12004",
-  "englishDistrictName": "\"Dartmouth--Cole Harbour\"",
-  "frenchDistrictName": "\"Dartmouth--Cole Harbour\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Chisholm\"",
-    "middleName": "\"\"",
-    "firstName": "\"Robert\"",
-    "votes": 12757
+  "englishDistrictName": "Dartmouth--Cole Harbour",
+  "frenchDistrictName": "Dartmouth--Cole Harbour",
+  "NDP-New Democratic Party": {
+    "votes": 12757,
+    "familyName": "Chisholm",
+    "middleName": "",
+    "firstName": "Robert"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Cole\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jason\"",
-    "votes": 7331
+  "Conservative": {
+    "votes": 7331,
+    "familyName": "Cole",
+    "middleName": "",
+    "firstName": "Jason"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Fisher\"",
-    "middleName": "\"\"",
-    "firstName": "\"Darren\"",
-    "votes": 30407
+  "Liberal": {
+    "votes": 30407,
+    "familyName": "Fisher",
+    "middleName": "",
+    "firstName": "Darren"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Nheiley\"",
-    "middleName": "\"\"",
-    "firstName": "\"Brynn\"",
-    "votes": 1775
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1775,
+    "familyName": "Nheiley",
+    "middleName": "",
+    "firstName": "Brynn"
   }
 }

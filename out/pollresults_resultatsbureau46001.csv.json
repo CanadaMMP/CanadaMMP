@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "46001",
-  "englishDistrictName": "\"Brandon--Souris\"",
-  "frenchDistrictName": "\"Brandon--Souris\"",
-  "\"Conservative\"": {
-    "familyName": "\"Maguire\"",
-    "middleName": "\"\"",
-    "firstName": "\"Larry\"",
-    "votes": 20666
+  "englishDistrictName": "Brandon--Souris",
+  "frenchDistrictName": "Brandon--Souris",
+  "Conservative": {
+    "votes": 20666,
+    "familyName": "Maguire",
+    "middleName": "",
+    "firstName": "Larry"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Neufeld\"",
-    "middleName": "\"\"",
-    "firstName": "\"David\"",
-    "votes": 2526
+  "Green Party": {
+    "votes": 2526,
+    "familyName": "Neufeld",
+    "middleName": "",
+    "firstName": "David"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Wastasecoot\"",
-    "middleName": "\"\"",
-    "firstName": "\"Melissa Joy\"",
-    "votes": 2576
+  "NDP-New Democratic Party": {
+    "votes": 2576,
+    "familyName": "Wastasecoot",
+    "middleName": "",
+    "firstName": "Melissa Joy"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Wyman\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jodi\"",
-    "votes": 15338
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 15338,
+    "familyName": "Wyman",
+    "middleName": "",
+    "firstName": "Jodi"
   }
 }

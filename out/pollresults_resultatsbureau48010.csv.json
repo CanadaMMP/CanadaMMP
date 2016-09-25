@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "48010",
-  "englishDistrictName": "\"Calgary Rocky Ridge\"",
-  "frenchDistrictName": "\"Calgary Rocky Ridge\"",
-  "\"Conservative\"": {
-    "familyName": "\"Kelly\"",
-    "middleName": "\"\"",
-    "firstName": "\"Pat\"",
-    "votes": 38229
+  "englishDistrictName": "Calgary Rocky Ridge",
+  "frenchDistrictName": "Calgary Rocky Ridge",
+  "Conservative": {
+    "votes": 38229,
+    "familyName": "Kelly",
+    "middleName": "",
+    "firstName": "Pat"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Kot\"",
-    "middleName": "\"\"",
-    "firstName": "\"Stephanie\"",
-    "votes": 3665
+  "NDP-New Democratic Party": {
+    "votes": 3665,
+    "familyName": "Kot",
+    "middleName": "",
+    "firstName": "Stephanie"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Naidoo\"",
-    "middleName": "\"\"",
-    "firstName": "\"Nirmala\"",
-    "votes": 20038
+  "Liberal": {
+    "votes": 20038,
+    "familyName": "Naidoo",
+    "middleName": "",
+    "firstName": "Nirmala"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Wright\"",
-    "middleName": "\"\"",
-    "firstName": "\"Catriona\"",
-    "votes": 1360
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1360,
+    "familyName": "Wright",
+    "middleName": "",
+    "firstName": "Catriona"
   }
 }

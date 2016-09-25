@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "35112",
-  "englishDistrictName": "\"Waterloo\"",
-  "frenchDistrictName": "\"Waterloo\"",
-  "\"Conservative\"": {
-    "familyName": "\"Braid\"",
-    "middleName": "\"\"",
-    "firstName": "\"Peter\"",
-    "votes": 19318
+  "englishDistrictName": "Waterloo",
+  "frenchDistrictName": "Waterloo",
+  "Conservative": {
+    "votes": 19318,
+    "familyName": "Braid",
+    "middleName": "",
+    "firstName": "Peter"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Chagger\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bardish\"",
-    "votes": 29752
+  "Liberal": {
+    "votes": 29752,
+    "familyName": "Chagger",
+    "middleName": "",
+    "firstName": "Bardish"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Freeman\"",
-    "middleName": "\"\"",
-    "firstName": "\"Diane\"",
-    "votes": 8928
+  "NDP-New Democratic Party": {
+    "votes": 8928,
+    "familyName": "Freeman",
+    "middleName": "",
+    "firstName": "Diane"
   },
-  "\"Animal Alliance/Environment Voters\"": {
-    "familyName": "\"Hawley-Yan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Emma\"",
-    "votes": 138
+  "Animal Alliance/Environment Voters": {
+    "votes": 138,
+    "familyName": "Hawley-Yan",
+    "middleName": "",
+    "firstName": "Emma"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Walsh\"",
-    "middleName": "\"\"",
-    "firstName": "\"Richard\"",
-    "votes": 1713
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1713,
+    "familyName": "Walsh",
+    "middleName": "",
+    "firstName": "Richard"
   }
 }

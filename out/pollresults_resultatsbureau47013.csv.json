@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "47013",
-  "englishDistrictName": "\"Souris--Moose Mountain \"",
-  "frenchDistrictName": "\"Souris--Moose Mountain \"",
-  "\"Liberal\"": {
-    "familyName": "\"Bebbington\"",
-    "middleName": "\"\"",
-    "firstName": "\"Steven\"",
-    "votes": 5076
+  "englishDistrictName": "Souris--Moose Mountain ",
+  "frenchDistrictName": "Souris--Moose Mountain ",
+  "Liberal": {
+    "votes": 5076,
+    "familyName": "Bebbington",
+    "middleName": "",
+    "firstName": "Steven"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Deptuck\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bob\"",
-    "votes": 994
+  "Green Party": {
+    "votes": 994,
+    "familyName": "Deptuck",
+    "middleName": "",
+    "firstName": "Bob"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Kitchen\"",
-    "middleName": "\"\"",
-    "firstName": "\"Robert Gordon\"",
-    "votes": 26315
+  "Conservative": {
+    "votes": 26315,
+    "familyName": "Kitchen",
+    "middleName": "",
+    "firstName": "Robert Gordon"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"O'Dell\"",
-    "middleName": "\"\"",
-    "firstName": "\"Vicky\"",
-    "votes": 5131
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 5131,
+    "familyName": "O'Dell",
+    "middleName": "",
+    "firstName": "Vicky"
   }
 }

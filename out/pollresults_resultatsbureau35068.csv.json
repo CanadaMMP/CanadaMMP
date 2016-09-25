@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "35068",
-  "englishDistrictName": "\"Niagara West\"",
-  "frenchDistrictName": "\"Niagara-Ouest\"",
-  "\"Conservative\"": {
-    "familyName": "\"Allison\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dean\"",
-    "votes": 24732
+  "englishDistrictName": "Niagara West",
+  "frenchDistrictName": "Niagara-Ouest",
+  "Conservative": {
+    "votes": 24732,
+    "familyName": "Allison",
+    "middleName": "",
+    "firstName": "Dean"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"de Roo\"",
-    "middleName": "\"\"",
-    "firstName": "\"Allan\"",
-    "votes": 797
+  "Libertarian": {
+    "votes": 797,
+    "familyName": "de Roo",
+    "middleName": "",
+    "firstName": "Allan"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Frere\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sid\"",
-    "votes": 1511
+  "Green Party": {
+    "votes": 1511,
+    "familyName": "Frere",
+    "middleName": "",
+    "firstName": "Sid"
   },
-  "\"Christian Heritage Party\"": {
-    "familyName": "\"Jonker\"",
-    "middleName": "\"\"",
-    "firstName": "\"Harold\"",
-    "votes": 1234
+  "Christian Heritage Party": {
+    "votes": 1234,
+    "familyName": "Jonker",
+    "middleName": "",
+    "firstName": "Harold"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Rahman\"",
-    "middleName": "\"\"",
-    "firstName": "\"Nameer\"",
-    "votes": 5802
+  "NDP-New Democratic Party": {
+    "votes": 5802,
+    "familyName": "Rahman",
+    "middleName": "",
+    "firstName": "Nameer"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Rose\"",
-    "middleName": "\"\"",
-    "firstName": "\"Phil\"",
-    "votes": 16581
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 16581,
+    "familyName": "Rose",
+    "middleName": "",
+    "firstName": "Phil"
   }
 }

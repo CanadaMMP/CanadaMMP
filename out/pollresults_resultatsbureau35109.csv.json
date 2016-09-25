@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "35109",
-  "englishDistrictName": "\"Toronto--Danforth\"",
-  "frenchDistrictName": "\"Toronto--Danforth\"",
-  "\"Animal Alliance/Environment Voters\"": {
-    "familyName": "\"Abbott\"",
-    "middleName": "\"\"",
-    "firstName": "\"Elizabeth\"",
-    "votes": 354
+  "englishDistrictName": "Toronto--Danforth",
+  "frenchDistrictName": "Toronto--Danforth",
+  "Animal Alliance/Environment Voters": {
+    "votes": 354,
+    "familyName": "Abbott",
+    "middleName": "",
+    "firstName": "Elizabeth"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Dabrusin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Julie\"",
-    "votes": 23531
+  "Liberal": {
+    "votes": 23531,
+    "familyName": "Dabrusin",
+    "middleName": "",
+    "firstName": "Julie"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Dichter\"",
-    "middleName": "\"\"",
-    "firstName": "\"Benjamin\"",
-    "votes": 5478
+  "Conservative": {
+    "votes": 5478,
+    "familyName": "Dichter",
+    "middleName": "",
+    "firstName": "Benjamin"
   },
-  "\"PC Party\"": {
-    "familyName": "\"Richardson\"",
-    "middleName": "\"\"",
-    "firstName": "\"John\"",
-    "votes": 1275
+  "PC Party": {
+    "votes": 1275,
+    "familyName": "Richardson",
+    "middleName": "",
+    "firstName": "John"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Scott\"",
-    "middleName": "\"\"",
-    "firstName": "\"Craig\"",
-    "votes": 22325
+  "NDP-New Democratic Party": {
+    "votes": 22325,
+    "familyName": "Scott",
+    "middleName": "",
+    "firstName": "Craig"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Tolley\"",
-    "middleName": "\"\"",
-    "firstName": "\"Chris\"",
-    "votes": 2618
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 2618,
+    "familyName": "Tolley",
+    "middleName": "",
+    "firstName": "Chris"
   }
 }

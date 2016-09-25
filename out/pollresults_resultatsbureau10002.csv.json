@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "10002",
-  "englishDistrictName": "\"Bonavista--Burin--Trinity\"",
-  "frenchDistrictName": "\"Bonavista--Burin--Trinity\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Brown\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jenn\"",
-    "votes": 2557
+  "englishDistrictName": "Bonavista--Burin--Trinity",
+  "frenchDistrictName": "Bonavista--Burin--Trinity",
+  "NDP-New Democratic Party": {
+    "votes": 2557,
+    "familyName": "Brown",
+    "middleName": "",
+    "firstName": "Jenn"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Colbourne\"",
-    "middleName": "\"\"",
-    "firstName": "\"Tyler John\"",
-    "votes": 297
+  "Green Party": {
+    "votes": 297,
+    "familyName": "Colbourne",
+    "middleName": "",
+    "firstName": "Tyler John"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Foote\"",
-    "middleName": "\"\"",
-    "firstName": "\"Judy M.\"",
-    "votes": 28704
+  "Liberal": {
+    "votes": 28704,
+    "familyName": "Foote",
+    "middleName": "",
+    "firstName": "Judy M."
   },
-  "\"Conservative\"": {
-    "familyName": "\"Windsor\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mike\"",
-    "votes": 3534
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 3534,
+    "familyName": "Windsor",
+    "middleName": "",
+    "firstName": "Mike"
   }
 }

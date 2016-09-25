@@ -1,50 +1,47 @@
 {
   "electoralDistrictNumber": "24057",
-  "englishDistrictName": "\"Pontiac\"",
-  "frenchDistrictName": "\"Pontiac\"",
-  "\"Liberal\"": {
-    "familyName": "\"Amos\"",
-    "middleName": "\"\"",
-    "firstName": "\"William\"",
-    "votes": 34154
+  "englishDistrictName": "Pontiac",
+  "frenchDistrictName": "Pontiac",
+  "Liberal": {
+    "votes": 34154,
+    "familyName": "Amos",
+    "middleName": "",
+    "firstName": "William"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Griffiths\"",
-    "middleName": "\"\"",
-    "firstName": "\"Colin\"",
-    "votes": 1089
+  "Green Party": {
+    "votes": 1089,
+    "familyName": "Griffiths",
+    "middleName": "",
+    "firstName": "Colin"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Lang\"",
-    "middleName": "\"\"",
-    "firstName": "\"Louis\"",
-    "votes": 108
+  "Marxist-Leninist": {
+    "votes": 108,
+    "familyName": "Lang",
+    "middleName": "",
+    "firstName": "Louis"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Lepage\"",
-    "middleName": "\"\"",
-    "firstName": "\"Nicolas\"",
-    "votes": 4337
+  "Bloc Québécois": {
+    "votes": 4337,
+    "familyName": "Lepage",
+    "middleName": "",
+    "firstName": "Nicolas"
   },
-  "\"Forces et Démocratie - Allier les forces de nos régions\"": {
-    "familyName": "\"Médieu\"",
-    "middleName": "\"\"",
-    "firstName": "\"Pascal\"",
-    "votes": 131
+  "Forces et Démocratie - Allier les forces de nos régions": {
+    "votes": 131,
+    "familyName": "Médieu",
+    "middleName": "",
+    "firstName": "Pascal"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Ravignat\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mathieu\"",
-    "votes": 14090
+  "NDP-New Democratic Party": {
+    "votes": 14090,
+    "familyName": "Ravignat",
+    "middleName": "",
+    "firstName": "Mathieu"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Woodman\"",
-    "middleName": "\"\"",
-    "firstName": "\"Benjamin\"",
-    "votes": 8716
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 8716,
+    "familyName": "Woodman",
+    "middleName": "",
+    "firstName": "Benjamin"
   }
 }

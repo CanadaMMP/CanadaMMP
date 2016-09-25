@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "24048",
-  "englishDistrictName": "\"Mirabel\"",
-  "frenchDistrictName": "\"Mirabel\"",
-  "\"Conservative\"": {
-    "familyName": "\"Ferguson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gordon\"",
-    "votes": 6020
+  "englishDistrictName": "Mirabel",
+  "frenchDistrictName": "Mirabel",
+  "Conservative": {
+    "votes": 6020,
+    "familyName": "Ferguson",
+    "middleName": "",
+    "firstName": "Gordon"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Freeman\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mylène\"",
-    "votes": 17873
+  "NDP-New Democratic Party": {
+    "votes": 17873,
+    "familyName": "Freeman",
+    "middleName": "",
+    "firstName": "Mylène"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Gifford\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jocelyn\"",
-    "votes": 1301
+  "Green Party": {
+    "votes": 1301,
+    "familyName": "Gifford",
+    "middleName": "",
+    "firstName": "Jocelyn"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Marcil\"",
-    "middleName": "\"\"",
-    "firstName": "\"Simon\"",
-    "votes": 18710
+  "Bloc Québécois": {
+    "votes": 18710,
+    "familyName": "Marcil",
+    "middleName": "",
+    "firstName": "Simon"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Trudel\"",
-    "middleName": "\"\"",
-    "firstName": "\"Karl\"",
-    "votes": 15514
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 15514,
+    "familyName": "Trudel",
+    "middleName": "",
+    "firstName": "Karl"
   }
 }

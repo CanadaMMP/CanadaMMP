@@ -1,56 +1,53 @@
 {
   "electoralDistrictNumber": "48015",
-  "englishDistrictName": "\"Edmonton Griesbach\"",
-  "frenchDistrictName": "\"Edmonton Griesbach\"",
-  "\"Conservative\"": {
-    "familyName": "\"Diotte\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kerry\"",
-    "votes": 19157
+  "englishDistrictName": "Edmonton Griesbach",
+  "frenchDistrictName": "Edmonton Griesbach",
+  "Conservative": {
+    "votes": 19157,
+    "familyName": "Diotte",
+    "middleName": "",
+    "firstName": "Kerry"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Gold\"",
-    "middleName": "\"\"",
-    "firstName": "\"Brian\"",
-    "votes": 10397
+  "Liberal": {
+    "votes": 10397,
+    "familyName": "Gold",
+    "middleName": "",
+    "firstName": "Brian"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Goncharenko\"",
-    "middleName": "\"\"",
-    "firstName": "\"Maryna\"",
-    "votes": 415
+  "Libertarian": {
+    "votes": 415,
+    "familyName": "Goncharenko",
+    "middleName": "",
+    "firstName": "Maryna"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Irwin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Janis\"",
-    "votes": 16309
+  "NDP-New Democratic Party": {
+    "votes": 16309,
+    "familyName": "Irwin",
+    "middleName": "",
+    "firstName": "Janis"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Joyce\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mary\"",
-    "votes": 112
+  "Marxist-Leninist": {
+    "votes": 112,
+    "familyName": "Joyce",
+    "middleName": "",
+    "firstName": "Mary"
   },
-  "\"Radical Marijuana\"": {
-    "familyName": "\"Northcott\"",
-    "middleName": "\"\"",
-    "firstName": "\"Linda\"",
-    "votes": 279
+  "Radical Marijuana": {
+    "votes": 279,
+    "familyName": "Northcott",
+    "middleName": "",
+    "firstName": "Linda"
   },
-  "\"Rhinoceros\"": {
-    "familyName": "\"Thompson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bun Bun\"",
-    "votes": 144
+  "Rhinoceros": {
+    "votes": 144,
+    "familyName": "Thompson",
+    "middleName": "",
+    "firstName": "Bun Bun"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Workman\"",
-    "middleName": "\"\"",
-    "firstName": "\"Heather\"",
-    "votes": 1129
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1129,
+    "familyName": "Workman",
+    "middleName": "",
+    "firstName": "Heather"
   }
 }

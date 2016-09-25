@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "46009",
-  "englishDistrictName": "\"Saint Boniface--Saint Vital\"",
-  "frenchDistrictName": "\"Saint-Boniface--Saint-Vital\"",
-  "\"Conservative\"": {
-    "familyName": "\"Catellier\"",
-    "middleName": "\"\"",
-    "firstName": "\"François\"",
-    "votes": 14005
+  "englishDistrictName": "Saint Boniface--Saint Vital",
+  "frenchDistrictName": "Saint-Boniface--Saint-Vital",
+  "Conservative": {
+    "votes": 14005,
+    "familyName": "Catellier",
+    "middleName": "",
+    "firstName": "François"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Selby\"",
-    "middleName": "\"\"",
-    "firstName": "\"Erin\"",
-    "votes": 5169
+  "NDP-New Democratic Party": {
+    "votes": 5169,
+    "familyName": "Selby",
+    "middleName": "",
+    "firstName": "Erin"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Vandal\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dan\"",
-    "votes": 28530
+  "Liberal": {
+    "votes": 28530,
+    "familyName": "Vandal",
+    "middleName": "",
+    "firstName": "Dan"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Zaretski\"",
-    "middleName": "\"\"",
-    "firstName": "\"Glenn\"",
-    "votes": 1119
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1119,
+    "familyName": "Zaretski",
+    "middleName": "",
+    "firstName": "Glenn"
   }
 }

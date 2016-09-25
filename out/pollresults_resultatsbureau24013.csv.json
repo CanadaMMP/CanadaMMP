@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "24013",
-  "englishDistrictName": "\"Thérèse-De Blainville\"",
-  "frenchDistrictName": "\"Thérèse-De Blainville\"",
-  "\"Liberal\"": {
-    "familyName": "\"Ayoub\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ramez\"",
-    "votes": 18281
+  "englishDistrictName": "Thérèse-De Blainville",
+  "frenchDistrictName": "Thérèse-De Blainville",
+  "Liberal": {
+    "votes": 18281,
+    "familyName": "Ayoub",
+    "middleName": "",
+    "firstName": "Ramez"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Carkner\"",
-    "middleName": "\"\"",
-    "firstName": "\"Andrew\"",
-    "votes": 1352
+  "Green Party": {
+    "votes": 1352,
+    "familyName": "Carkner",
+    "middleName": "",
+    "firstName": "Andrew"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Giguère\"",
-    "middleName": "\"\"",
-    "firstName": "\"Alain\"",
-    "votes": 14022
+  "NDP-New Democratic Party": {
+    "votes": 14022,
+    "familyName": "Giguère",
+    "middleName": "",
+    "firstName": "Alain"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Guindon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Daniel\"",
-    "votes": 355
+  "Libertarian": {
+    "votes": 355,
+    "familyName": "Guindon",
+    "middleName": "",
+    "firstName": "Daniel"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Marginean\"",
-    "middleName": "\"\"",
-    "firstName": "\"Alain\"",
-    "votes": 15238
+  "Bloc Québécois": {
+    "votes": 15238,
+    "familyName": "Marginean",
+    "middleName": "",
+    "firstName": "Alain"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Puga\"",
-    "middleName": "\"\"",
-    "firstName": "\"Manuel\"",
-    "votes": 7000
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 7000,
+    "familyName": "Puga",
+    "middleName": "",
+    "firstName": "Manuel"
   }
 }

@@ -1,56 +1,53 @@
 {
   "electoralDistrictNumber": "24064",
-  "englishDistrictName": "\"Rosemont--La Petite-Patrie\"",
-  "frenchDistrictName": "\"Rosemont--La Petite-Patrie\"",
-  "\"Rhinoceros\"": {
-    "familyName": "\"Aglat\"",
-    "middleName": "\"\"",
-    "firstName": "\"Laurent\"",
-    "votes": 495
+  "englishDistrictName": "Rosemont--La Petite-Patrie",
+  "frenchDistrictName": "Rosemont--La Petite-Patrie",
+  "Rhinoceros": {
+    "votes": 495,
+    "familyName": "Aglat",
+    "middleName": "",
+    "firstName": "Laurent"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"André\"",
-    "middleName": "\"\"",
-    "firstName": "\"Claude\"",
-    "votes": 12283
+  "Bloc Québécois": {
+    "votes": 12283,
+    "familyName": "André",
+    "middleName": "",
+    "firstName": "Claude"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Boulerice\"",
-    "middleName": "\"\"",
-    "firstName": "\"Alexandre\"",
-    "votes": 28672
+  "NDP-New Democratic Party": {
+    "votes": 28672,
+    "familyName": "Boulerice",
+    "middleName": "",
+    "firstName": "Alexandre"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Chénier\"",
-    "middleName": "\"\"",
-    "firstName": "\"Stéphane\"",
-    "votes": 171
+  "Marxist-Leninist": {
+    "votes": 171,
+    "familyName": "Chénier",
+    "middleName": "",
+    "firstName": "Stéphane"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"d'Entremont\"",
-    "middleName": "\"\"",
-    "firstName": "\"Peter\"",
-    "votes": 353
+  "Libertarian": {
+    "votes": 353,
+    "familyName": "d'Entremont",
+    "middleName": "",
+    "firstName": "Peter"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Dohan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jeremy\"",
-    "votes": 2510
+  "Conservative": {
+    "votes": 2510,
+    "familyName": "Dohan",
+    "middleName": "",
+    "firstName": "Jeremy"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Medawar\"",
-    "middleName": "\"\"",
-    "firstName": "\"Nadine\"",
-    "votes": 12068
+  "Liberal": {
+    "votes": 12068,
+    "familyName": "Medawar",
+    "middleName": "",
+    "firstName": "Nadine"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Muldeen\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sameer\"",
-    "votes": 1783
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1783,
+    "familyName": "Muldeen",
+    "middleName": "",
+    "firstName": "Sameer"
   }
 }

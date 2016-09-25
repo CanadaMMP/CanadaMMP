@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "13005",
-  "englishDistrictName": "\"Madawaska--Restigouche\"",
-  "frenchDistrictName": "\"Madawaska--Restigouche\"",
-  "\"Liberal\"": {
-    "familyName": "\"Arseneault\"",
-    "middleName": "\"\"",
-    "firstName": "\"René\"",
-    "votes": 20778
+  "englishDistrictName": "Madawaska--Restigouche",
+  "frenchDistrictName": "Madawaska--Restigouche",
+  "Liberal": {
+    "votes": 20778,
+    "familyName": "Arseneault",
+    "middleName": "",
+    "firstName": "René"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Aubin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Françoise\"",
-    "votes": 707
+  "Green Party": {
+    "votes": 707,
+    "familyName": "Aubin",
+    "middleName": "",
+    "firstName": "Françoise"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"L'Italien\"",
-    "middleName": "\"\"",
-    "firstName": "\"Rosaire\"",
-    "votes": 9670
+  "NDP-New Democratic Party": {
+    "votes": 9670,
+    "familyName": "L'Italien",
+    "middleName": "",
+    "firstName": "Rosaire"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Valcourt\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bernard\"",
-    "votes": 6151
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 6151,
+    "familyName": "Valcourt",
+    "middleName": "",
+    "firstName": "Bernard"
   }
 }

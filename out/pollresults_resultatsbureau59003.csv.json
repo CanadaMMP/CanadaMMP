@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "59003",
-  "englishDistrictName": "\"Burnaby South\"",
-  "frenchDistrictName": "\"Burnaby-Sud\"",
-  "\"Libertarian\"": {
-    "familyName": "\"Jaluague\"",
-    "middleName": "\"\"",
-    "firstName": "\"Liz\"",
-    "votes": 499
+  "englishDistrictName": "Burnaby South",
+  "frenchDistrictName": "Burnaby-Sud",
+  "Libertarian": {
+    "votes": 499,
+    "familyName": "Jaluague",
+    "middleName": "",
+    "firstName": "Liz"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Pankratz\"",
-    "middleName": "\"\"",
-    "firstName": "\"Adam\"",
-    "votes": 15547
+  "Liberal": {
+    "votes": 15547,
+    "familyName": "Pankratz",
+    "middleName": "",
+    "firstName": "Adam"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Seear\"",
-    "middleName": "\"\"",
-    "firstName": "\"Grace\"",
-    "votes": 12441
+  "Conservative": {
+    "votes": 12441,
+    "familyName": "Seear",
+    "middleName": "",
+    "firstName": "Grace"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Stewart\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kennedy\"",
-    "votes": 16094
+  "NDP-New Democratic Party": {
+    "votes": 16094,
+    "familyName": "Stewart",
+    "middleName": "",
+    "firstName": "Kennedy"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Tessari\"",
-    "middleName": "\"\"",
-    "firstName": "\"Wyatt\"",
-    "votes": 1306
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1306,
+    "familyName": "Tessari",
+    "middleName": "",
+    "firstName": "Wyatt"
   }
 }

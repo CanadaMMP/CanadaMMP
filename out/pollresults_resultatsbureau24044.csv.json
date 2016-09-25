@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "24044",
-  "englishDistrictName": "\"Louis-Hébert\"",
-  "frenchDistrictName": "\"Louis-Hébert\"",
-  "\"Conservative\"": {
-    "familyName": "\"Asselin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jean-Pierre\"",
-    "votes": 16789
+  "englishDistrictName": "Louis-Hébert",
+  "frenchDistrictName": "Louis-Hébert",
+  "Conservative": {
+    "votes": 16789,
+    "familyName": "Asselin",
+    "middleName": "",
+    "firstName": "Jean-Pierre"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Beaudoin-Julien\"",
-    "middleName": "\"\"",
-    "firstName": "\"Andrée-Anne\"",
-    "votes": 1561
+  "Green Party": {
+    "votes": 1561,
+    "familyName": "Beaudoin-Julien",
+    "middleName": "",
+    "firstName": "Andrée-Anne"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Blanchette\"",
-    "middleName": "\"\"",
-    "firstName": "\"Denis\"",
-    "votes": 12850
+  "NDP-New Democratic Party": {
+    "votes": 12850,
+    "familyName": "Blanchette",
+    "middleName": "",
+    "firstName": "Denis"
   },
-  "\"Christian Heritage Party\"": {
-    "familyName": "\"Jetchick\"",
-    "middleName": "\"\"",
-    "firstName": "\"Stefan\"",
-    "votes": 128
+  "Christian Heritage Party": {
+    "votes": 128,
+    "familyName": "Jetchick",
+    "middleName": "",
+    "firstName": "Stefan"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Lightbound\"",
-    "middleName": "\"\"",
-    "firstName": "\"Joël\"",
-    "votes": 21516
+  "Liberal": {
+    "votes": 21516,
+    "familyName": "Lightbound",
+    "middleName": "",
+    "firstName": "Joël"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Pageau\"",
-    "middleName": "\"\"",
-    "firstName": "\"Caroline\"",
-    "votes": 8900
-  },
-  "undefined": {
-    "votes": null
+  "Bloc Québécois": {
+    "votes": 8900,
+    "familyName": "Pageau",
+    "middleName": "",
+    "firstName": "Caroline"
   }
 }

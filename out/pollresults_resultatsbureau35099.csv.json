@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "35099",
-  "englishDistrictName": "\"Simcoe--Grey\"",
-  "frenchDistrictName": "\"Simcoe--Grey\"",
-  "\"Green Party\"": {
-    "familyName": "\"Fleming\"",
-    "middleName": "\"\"",
-    "firstName": "\"JoAnne\"",
-    "votes": 2923
+  "englishDistrictName": "Simcoe--Grey",
+  "frenchDistrictName": "Simcoe--Grey",
+  "Green Party": {
+    "votes": 2923,
+    "familyName": "Fleming",
+    "middleName": "",
+    "firstName": "JoAnne"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Leitch\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kellie\"",
-    "votes": 30612
+  "Conservative": {
+    "votes": 30612,
+    "familyName": "Leitch",
+    "middleName": "",
+    "firstName": "Kellie"
   },
-  "\"Liberal\"": {
-    "familyName": "\"MacEachern\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mike\"",
-    "votes": 25352
+  "Liberal": {
+    "votes": 25352,
+    "familyName": "MacEachern",
+    "middleName": "",
+    "firstName": "Mike"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Matthews\"",
-    "middleName": "\"\"",
-    "firstName": "\"David\"",
-    "votes": 6332
+  "NDP-New Democratic Party": {
+    "votes": 6332,
+    "familyName": "Matthews",
+    "middleName": "",
+    "firstName": "David"
   },
-  "\"Christian Heritage Party\"": {
-    "familyName": "\"Noordegraaf\"",
-    "middleName": "\"\"",
-    "firstName": "\"Len\"",
-    "votes": 528
-  },
-  "undefined": {
-    "votes": null
+  "Christian Heritage Party": {
+    "votes": 528,
+    "familyName": "Noordegraaf",
+    "middleName": "",
+    "firstName": "Len"
   }
 }

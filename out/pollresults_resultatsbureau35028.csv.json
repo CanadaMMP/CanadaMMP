@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "35028",
-  "englishDistrictName": "\"Etobicoke--Lakeshore\"",
-  "frenchDistrictName": "\"Etobicoke--Lakeshore\"",
-  "\"Liberal\"": {
-    "familyName": "\"Maloney\"",
-    "middleName": "\"\"",
-    "firstName": "\"James\"",
-    "votes": 34638
+  "englishDistrictName": "Etobicoke--Lakeshore",
+  "frenchDistrictName": "Etobicoke--Lakeshore",
+  "Liberal": {
+    "votes": 34638,
+    "familyName": "Maloney",
+    "middleName": "",
+    "firstName": "James"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Murray\"",
-    "middleName": "\"\"",
-    "firstName": "\"Janice\"",
-    "votes": 168
+  "Marxist-Leninist": {
+    "votes": 168,
+    "familyName": "Murray",
+    "middleName": "",
+    "firstName": "Janice"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Salewsky\"",
-    "middleName": "\"\"",
-    "firstName": "\"Angela\"",
-    "votes": 1507
+  "Green Party": {
+    "votes": 1507,
+    "familyName": "Salewsky",
+    "middleName": "",
+    "firstName": "Angela"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Trotter\"",
-    "middleName": "\"\"",
-    "firstName": "\"Phil\"",
-    "votes": 7030
+  "NDP-New Democratic Party": {
+    "votes": 7030,
+    "familyName": "Trotter",
+    "middleName": "",
+    "firstName": "Phil"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Trottier\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bernard\"",
-    "votes": 20932
+  "Conservative": {
+    "votes": 20932,
+    "familyName": "Trottier",
+    "middleName": "",
+    "firstName": "Bernard"
   },
-  "\"Animal Alliance/Environment Voters\"": {
-    "familyName": "\"White\"",
-    "middleName": "\"\"",
-    "firstName": "\"Liz\"",
-    "votes": 233
-  },
-  "undefined": {
-    "votes": null
+  "Animal Alliance/Environment Voters": {
+    "votes": 233,
+    "familyName": "White",
+    "middleName": "",
+    "firstName": "Liz"
   }
 }

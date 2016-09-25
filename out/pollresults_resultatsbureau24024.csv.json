@@ -1,44 +1,43 @@
 {
   "electoralDistrictNumber": "24024",
-  "englishDistrictName": "\"Dorval--Lachine--LaSalle\"",
-  "frenchDistrictName": "\"Dorval--Lachine--LaSalle\"",
-  "\"Conservative\"": {
-    "familyName": "\"Chivu\"",
-    "middleName": "\"\"",
-    "firstName": "\"Daniela\"",
-    "votes": 6049
+  "englishDistrictName": "Dorval--Lachine--LaSalle",
+  "frenchDistrictName": "Dorval--Lachine--LaSalle",
+  "Conservative": {
+    "votes": 6049,
+    "familyName": "Chivu",
+    "middleName": "",
+    "firstName": "Daniela"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Dhillon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Anju\"",
-    "votes": 29974
+  "Liberal": {
+    "votes": 29974,
+    "familyName": "Dhillon",
+    "middleName": "",
+    "firstName": "Anju"
   },
-  "\"Green Party\"": {
-    "familyName": "\"J. Carbonneau\"",
-    "middleName": "\"\"",
-    "firstName": "\"Vincent\"",
-    "votes": 1245
+  "Green Party": {
+    "votes": 1245,
+    "familyName": "J. Carbonneau",
+    "middleName": "",
+    "firstName": "Vincent"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Morin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Isabelle\"",
-    "votes": 11769
+  "NDP-New Democratic Party": {
+    "votes": 11769,
+    "familyName": "Morin",
+    "middleName": "",
+    "firstName": "Isabelle"
   },
-  "\"Independent\"": {
-    "familyName": "\"Ndiaye\"",
-    "middleName": "\"\"",
-    "firstName": "\"Soulèye\"",
-    "votes": 230
+  "Independent": {
+    "Ndiaye": {
+      "votes": 230,
+      "familyName": "Ndiaye",
+      "middleName": "",
+      "firstName": "Soulèye"
+    }
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Vaudry\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jean-Frédéric\"",
-    "votes": 5338
-  },
-  "undefined": {
-    "votes": null
+  "Bloc Québécois": {
+    "votes": 5338,
+    "familyName": "Vaudry",
+    "middleName": "",
+    "firstName": "Jean-Frédéric"
   }
 }

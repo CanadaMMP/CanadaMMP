@@ -1,50 +1,47 @@
 {
   "electoralDistrictNumber": "24054",
-  "englishDistrictName": "\"Outremont\"",
-  "frenchDistrictName": "\"Outremont\"",
-  "\"Liberal\"": {
-    "familyName": "\"Bendayan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Rachel\"",
-    "votes": 14597
+  "englishDistrictName": "Outremont",
+  "frenchDistrictName": "Outremont",
+  "Liberal": {
+    "votes": 14597,
+    "familyName": "Bendayan",
+    "middleName": "",
+    "firstName": "Rachel"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Diallo\"",
-    "middleName": "\"\"",
-    "firstName": "\"Amara\"",
-    "votes": 1575
+  "Green Party": {
+    "votes": 1575,
+    "familyName": "Diallo",
+    "middleName": "",
+    "firstName": "Amara"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Galland Barou\"",
-    "middleName": "\"\"",
-    "firstName": "\"Roger\"",
-    "votes": 3668
+  "Bloc Québécois": {
+    "votes": 3668,
+    "familyName": "Galland Barou",
+    "middleName": "",
+    "firstName": "Roger"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Husny\"",
-    "middleName": "\"\"",
-    "firstName": "\"Rodolphe\"",
-    "votes": 4159
+  "Conservative": {
+    "votes": 4159,
+    "familyName": "Husny",
+    "middleName": "",
+    "firstName": "Rodolphe"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Mulcair\"",
-    "middleName": "\"\"",
-    "firstName": "\"Tom\"",
-    "votes": 19242
+  "NDP-New Democratic Party": {
+    "votes": 19242,
+    "familyName": "Mulcair",
+    "middleName": "",
+    "firstName": "Tom"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Pouliot\"",
-    "middleName": "\"\"",
-    "firstName": "\"Francis\"",
-    "votes": 216
+  "Libertarian": {
+    "votes": 216,
+    "familyName": "Pouliot",
+    "middleName": "",
+    "firstName": "Francis"
   },
-  "\"Communist\"": {
-    "familyName": "\"Welsh\"",
-    "middleName": "\"\"",
-    "firstName": "\"Adrien\"",
-    "votes": 162
-  },
-  "undefined": {
-    "votes": null
+  "Communist": {
+    "votes": 162,
+    "familyName": "Welsh",
+    "middleName": "",
+    "firstName": "Adrien"
   }
 }

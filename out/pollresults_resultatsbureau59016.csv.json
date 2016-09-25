@@ -1,68 +1,65 @@
 {
   "electoralDistrictNumber": "59016",
-  "englishDistrictName": "\"Langley--Aldergrove\"",
-  "frenchDistrictName": "\"Langley--Aldergrove\"",
-  "\"Green Party\"": {
-    "familyName": "\"Dhillon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Simmi Saminder Kaur\"",
-    "votes": 2602
+  "englishDistrictName": "Langley--Aldergrove",
+  "frenchDistrictName": "Langley--Aldergrove",
+  "Green Party": {
+    "votes": 2602,
+    "familyName": "Dhillon",
+    "middleName": "",
+    "firstName": "Simmi Saminder Kaur"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Jensen\"",
-    "middleName": "\"\"",
-    "firstName": "\"Leon\"",
-    "votes": 21563
+  "Liberal": {
+    "votes": 21563,
+    "familyName": "Jensen",
+    "middleName": "",
+    "firstName": "Leon"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Sangster\"",
-    "middleName": "\"\"",
-    "firstName": "\"Margot\"",
-    "votes": 7349
+  "NDP-New Democratic Party": {
+    "votes": 7349,
+    "familyName": "Sangster",
+    "middleName": "",
+    "firstName": "Margot"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Southern\"",
-    "middleName": "\"\"",
-    "firstName": "\"Lauren\"",
-    "votes": 524
+  "Libertarian": {
+    "votes": 524,
+    "familyName": "Southern",
+    "middleName": "",
+    "firstName": "Lauren"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Warawa\"",
-    "middleName": "\"\"",
-    "firstName": "\"Mark\"",
-    "votes": 26872
+  "Conservative": {
+    "votes": 26872,
+    "familyName": "Warawa",
+    "middleName": "",
+    "firstName": "Mark"
   },
-  "\"Simmi Saminder Kaur\"": {
+  "Simmi Saminder Kaur": {
+    "votes": null,
     "familyName": "374",
-    "middleName": "\"Dhillon\"",
-    "firstName": "\"\"",
-    "votes": null
+    "middleName": "Dhillon",
+    "firstName": ""
   },
-  "\"Leon\"": {
+  "Leon": {
+    "votes": null,
     "familyName": "374",
-    "middleName": "\"Jensen\"",
-    "firstName": "\"\"",
-    "votes": null
+    "middleName": "Jensen",
+    "firstName": ""
   },
-  "\"Margot\"": {
+  "Margot": {
+    "votes": null,
     "familyName": "374",
-    "middleName": "\"Sangster\"",
-    "firstName": "\"\"",
-    "votes": null
+    "middleName": "Sangster",
+    "firstName": ""
   },
-  "\"Lauren\"": {
+  "Lauren": {
+    "votes": null,
     "familyName": "374",
-    "middleName": "\"Southern\"",
-    "firstName": "\"\"",
-    "votes": null
+    "middleName": "Southern",
+    "firstName": ""
   },
-  "\"Mark\"": {
+  "Mark": {
+    "votes": null,
     "familyName": "374",
-    "middleName": "\"Warawa\"",
-    "firstName": "\"\"",
-    "votes": null
-  },
-  "undefined": {
-    "votes": null
+    "middleName": "Warawa",
+    "firstName": ""
   }
 }

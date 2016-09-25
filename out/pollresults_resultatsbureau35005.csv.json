@@ -1,44 +1,43 @@
 {
   "electoralDistrictNumber": "35005",
-  "englishDistrictName": "\"Barrie--Springwater--Oro-Medonte\"",
-  "frenchDistrictName": "\"Barrie--Springwater--Oro-Medonte\"",
-  "\"Independent\"": {
-    "familyName": "\"Faerber\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ram\"",
-    "votes": 188
+  "englishDistrictName": "Barrie--Springwater--Oro-Medonte",
+  "frenchDistrictName": "Barrie--Springwater--Oro-Medonte",
+  "Independent": {
+    "Faerber": {
+      "votes": 188,
+      "familyName": "Faerber",
+      "middleName": "",
+      "firstName": "Ram"
+    }
   },
-  "\"Green Party\"": {
-    "familyName": "\"Lancaster\"",
-    "middleName": "\"\"",
-    "firstName": "\"Marty\"",
-    "votes": 2648
+  "Green Party": {
+    "votes": 2648,
+    "familyName": "Lancaster",
+    "middleName": "",
+    "firstName": "Marty"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Nuttall\"",
-    "middleName": "\"\"",
-    "firstName": "\"Alex\"",
-    "votes": 21091
+  "Conservative": {
+    "votes": 21091,
+    "familyName": "Nuttall",
+    "middleName": "",
+    "firstName": "Alex"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Roskam\"",
-    "middleName": "\"\"",
-    "firstName": "\"Darren\"",
-    "votes": 401
+  "Libertarian": {
+    "votes": 401,
+    "familyName": "Roskam",
+    "middleName": "",
+    "firstName": "Darren"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Tamblyn\"",
-    "middleName": "\"\"",
-    "firstName": "\"Brian\"",
-    "votes": 21005
+  "Liberal": {
+    "votes": 21005,
+    "familyName": "Tamblyn",
+    "middleName": "",
+    "firstName": "Brian"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"White\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ellen\"",
-    "votes": 5202
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 5202,
+    "familyName": "White",
+    "middleName": "",
+    "firstName": "Ellen"
   }
 }

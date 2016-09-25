@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "24011",
-  "englishDistrictName": "\"Beloeil--Chambly\"",
-  "frenchDistrictName": "\"Beloeil--Chambly\"",
-  "\"Conservative\"": {
-    "familyName": "\"Chalhoub\"",
-    "middleName": "\"\"",
-    "firstName": "\"Claude\"",
-    "votes": 6173
+  "englishDistrictName": "Beloeil--Chambly",
+  "frenchDistrictName": "Beloeil--Chambly",
+  "Conservative": {
+    "votes": 6173,
+    "familyName": "Chalhoub",
+    "middleName": "",
+    "firstName": "Claude"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Desjardins\"",
-    "middleName": "\"\"",
-    "firstName": "\"Karine\"",
-    "votes": 19494
+  "Liberal": {
+    "votes": 19494,
+    "familyName": "Desjardins",
+    "middleName": "",
+    "firstName": "Karine"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Dubé\"",
-    "middleName": "\"\"",
-    "firstName": "\"Matthew\"",
-    "votes": 20641
+  "NDP-New Democratic Party": {
+    "votes": 20641,
+    "familyName": "Dubé",
+    "middleName": "",
+    "firstName": "Matthew"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Lessard\"",
-    "middleName": "\"\"",
-    "firstName": "\"Yves\"",
-    "votes": 18387
+  "Bloc Québécois": {
+    "votes": 18387,
+    "familyName": "Lessard",
+    "middleName": "",
+    "firstName": "Yves"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Maher\"",
-    "middleName": "\"\"",
-    "firstName": "\"Michael\"",
-    "votes": 245
+  "Libertarian": {
+    "votes": 245,
+    "familyName": "Maher",
+    "middleName": "",
+    "firstName": "Michael"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Yansané\"",
-    "middleName": "\"\"",
-    "firstName": "\"Fodé Kerfalla\"",
-    "votes": 1498
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1498,
+    "familyName": "Yansané",
+    "middleName": "",
+    "firstName": "Fodé Kerfalla"
   }
 }

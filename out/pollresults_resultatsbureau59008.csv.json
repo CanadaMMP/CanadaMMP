@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "59008",
-  "englishDistrictName": "\"Coquitlam--Port Coquitlam\"",
-  "frenchDistrictName": "\"Coquitlam--Port Coquitlam\"",
-  "\"Libertarian\"": {
-    "familyName": "\"Dahlby\"",
-    "middleName": "\"\"",
-    "firstName": "\"Lewis Clarke\"",
-    "votes": 1014
+  "englishDistrictName": "Coquitlam--Port Coquitlam",
+  "frenchDistrictName": "Coquitlam--Port Coquitlam",
+  "Libertarian": {
+    "votes": 1014,
+    "familyName": "Dahlby",
+    "middleName": "",
+    "firstName": "Lewis Clarke"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Horne\"",
-    "middleName": "\"\"",
-    "firstName": "\"Douglas\"",
-    "votes": 18083
+  "Conservative": {
+    "votes": 18083,
+    "familyName": "Horne",
+    "middleName": "",
+    "firstName": "Douglas"
   },
-  "\"Liberal\"": {
-    "familyName": "\"McKinnon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ron\"",
-    "votes": 19938
+  "Liberal": {
+    "votes": 19938,
+    "familyName": "McKinnon",
+    "middleName": "",
+    "firstName": "Ron"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Nickason\"",
-    "middleName": "\"\"",
-    "firstName": "\"Brad\"",
-    "votes": 2076
+  "Green Party": {
+    "votes": 2076,
+    "familyName": "Nickason",
+    "middleName": "",
+    "firstName": "Brad"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Norman\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sara\"",
-    "votes": 15400
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 15400,
+    "familyName": "Norman",
+    "middleName": "",
+    "firstName": "Sara"
   }
 }

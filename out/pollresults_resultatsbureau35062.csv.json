@@ -1,38 +1,37 @@
 {
   "electoralDistrictNumber": "35062",
-  "englishDistrictName": "\"Mississauga--Malton\"",
-  "frenchDistrictName": "\"Mississauga--Malton\"",
-  "\"Liberal\"": {
-    "familyName": "\"Bains\"",
-    "middleName": "\"\"",
-    "firstName": "\"Navdeep\"",
-    "votes": 26165
+  "englishDistrictName": "Mississauga--Malton",
+  "frenchDistrictName": "Mississauga--Malton",
+  "Liberal": {
+    "votes": 26165,
+    "familyName": "Bains",
+    "middleName": "",
+    "firstName": "Navdeep"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Douglas\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dianne\"",
-    "votes": 5450
+  "NDP-New Democratic Party": {
+    "votes": 5450,
+    "familyName": "Douglas",
+    "middleName": "",
+    "firstName": "Dianne"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Grewal\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jagdish\"",
-    "votes": 11701
+  "Conservative": {
+    "votes": 11701,
+    "familyName": "Grewal",
+    "middleName": "",
+    "firstName": "Jagdish"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Mercer\"",
-    "middleName": "\"\"",
-    "firstName": "\"Heather\"",
-    "votes": 737
+  "Green Party": {
+    "votes": 737,
+    "familyName": "Mercer",
+    "middleName": "",
+    "firstName": "Heather"
   },
-  "\"Independent\"": {
-    "familyName": "\"Tharani\"",
-    "middleName": "\"\"",
-    "firstName": "\"Naresh\"",
-    "votes": 203
-  },
-  "undefined": {
-    "votes": null
+  "Independent": {
+    "Tharani": {
+      "votes": 203,
+      "familyName": "Tharani",
+      "middleName": "",
+      "firstName": "Naresh"
+    }
   }
 }

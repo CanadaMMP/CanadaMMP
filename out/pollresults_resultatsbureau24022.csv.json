@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "24022",
-  "englishDistrictName": "\"Chicoutimi--Le Fjord\"",
-  "frenchDistrictName": "\"Chicoutimi--Le Fjord\"",
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Gauthier\"",
-    "middleName": "\"\"",
-    "firstName": "\"Élise\"",
-    "votes": 8990
+  "englishDistrictName": "Chicoutimi--Le Fjord",
+  "frenchDistrictName": "Chicoutimi--Le Fjord",
+  "Bloc Québécois": {
+    "votes": 8990,
+    "familyName": "Gauthier",
+    "middleName": "",
+    "firstName": "Élise"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Lemieux\"",
-    "middleName": "\"\"",
-    "firstName": "\"Denis\"",
-    "votes": 13619
+  "Liberal": {
+    "votes": 13619,
+    "familyName": "Lemieux",
+    "middleName": "",
+    "firstName": "Denis"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Morin\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dany\"",
-    "votes": 13019
+  "NDP-New Democratic Party": {
+    "votes": 13019,
+    "familyName": "Morin",
+    "middleName": "",
+    "firstName": "Dany"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Ste-Marie\"",
-    "middleName": "\"\"",
-    "firstName": "\"Caroline\"",
-    "votes": 7270
+  "Conservative": {
+    "votes": 7270,
+    "familyName": "Ste-Marie",
+    "middleName": "",
+    "firstName": "Caroline"
   },
-  "\"Green Party\"": {
-    "familyName": "\"St-Gelais\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dany\"",
-    "votes": 907
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 907,
+    "familyName": "St-Gelais",
+    "middleName": "",
+    "firstName": "Dany"
   }
 }

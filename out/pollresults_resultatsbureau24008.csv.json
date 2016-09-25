@@ -1,56 +1,53 @@
 {
   "electoralDistrictNumber": "24008",
-  "englishDistrictName": "\"Beauport--Limoilou\"",
-  "frenchDistrictName": "\"Beauport--Limoilou\"",
-  "\"Libertarian\"": {
-    "familyName": "\"Bedard\"",
-    "middleName": "\"\"",
-    "firstName": "\"Francis\"",
-    "votes": 423
+  "englishDistrictName": "Beauport--Limoilou",
+  "frenchDistrictName": "Beauport--Limoilou",
+  "Libertarian": {
+    "votes": 423,
+    "familyName": "Bedard",
+    "middleName": "",
+    "firstName": "Francis"
   },
-  "\"Bloc Québécois\"": {
-    "familyName": "\"Berberi\"",
-    "middleName": "\"\"",
-    "firstName": "\"Doni\"",
-    "votes": 7467
+  "Bloc Québécois": {
+    "votes": 7467,
+    "familyName": "Berberi",
+    "middleName": "",
+    "firstName": "Doni"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Bujold\"",
-    "middleName": "\"\"",
-    "firstName": "\"Antoine\"",
-    "votes": 12854
+  "Liberal": {
+    "votes": 12854,
+    "familyName": "Bujold",
+    "middleName": "",
+    "firstName": "Antoine"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Clarke\"",
-    "middleName": "\"\"",
-    "firstName": "\"Alupa\"",
-    "votes": 15461
+  "Conservative": {
+    "votes": 15461,
+    "familyName": "Clarke",
+    "middleName": "",
+    "firstName": "Alupa"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Côté\"",
-    "middleName": "\"\"",
-    "firstName": "\"Raymond\"",
-    "votes": 12881
+  "NDP-New Democratic Party": {
+    "votes": 12881,
+    "familyName": "Côté",
+    "middleName": "",
+    "firstName": "Raymond"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Elhak\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dalila\"",
-    "votes": 1220
+  "Green Party": {
+    "votes": 1220,
+    "familyName": "Elhak",
+    "middleName": "",
+    "firstName": "Dalila"
   },
-  "\"Forces et Démocratie - Allier les forces de nos régions\"": {
-    "familyName": "\"Laborit\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bladimir\"",
-    "votes": 124
+  "Forces et Démocratie - Allier les forces de nos régions": {
+    "votes": 124,
+    "familyName": "Laborit",
+    "middleName": "",
+    "firstName": "Bladimir"
   },
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Moreau\"",
-    "middleName": "\"\"",
-    "firstName": "\"Claude\"",
-    "votes": 128
-  },
-  "undefined": {
-    "votes": null
+  "Marxist-Leninist": {
+    "votes": 128,
+    "familyName": "Moreau",
+    "middleName": "",
+    "firstName": "Claude"
   }
 }

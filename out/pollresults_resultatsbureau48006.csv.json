@@ -1,50 +1,47 @@
 {
   "electoralDistrictNumber": "48006",
-  "englishDistrictName": "\"Calgary Forest Lawn\"",
-  "frenchDistrictName": "\"Calgary Forest Lawn\"",
-  "\"Libertarian\"": {
-    "familyName": "\"Badura\"",
-    "middleName": "\"\"",
-    "firstName": "\"Matt\"",
-    "votes": 832
+  "englishDistrictName": "Calgary Forest Lawn",
+  "frenchDistrictName": "Calgary Forest Lawn",
+  "Libertarian": {
+    "votes": 832,
+    "familyName": "Badura",
+    "middleName": "",
+    "firstName": "Matt"
   },
-  "\"Communist\"": {
-    "familyName": "\"Devine\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jason\"",
-    "votes": 390
+  "Communist": {
+    "votes": 390,
+    "familyName": "Devine",
+    "middleName": "",
+    "firstName": "Jason"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Hansell\"",
-    "middleName": "\"\"",
-    "firstName": "\"Judson\"",
-    "votes": 1229
+  "Green Party": {
+    "votes": 1229,
+    "familyName": "Hansell",
+    "middleName": "",
+    "firstName": "Judson"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Obhrai\"",
-    "middleName": "\"\"",
-    "firstName": "\"Deepak\"",
-    "votes": 19694
+  "Conservative": {
+    "votes": 19694,
+    "familyName": "Obhrai",
+    "middleName": "",
+    "firstName": "Deepak"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Souraya\"",
-    "middleName": "\"\"",
-    "firstName": "\"Abdou\"",
-    "votes": 4006
+  "NDP-New Democratic Party": {
+    "votes": 4006,
+    "familyName": "Souraya",
+    "middleName": "",
+    "firstName": "Abdou"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Stewart\"",
-    "middleName": "\"\"",
-    "firstName": "\"Cam\"",
-    "votes": 14762
+  "Liberal": {
+    "votes": 14762,
+    "familyName": "Stewart",
+    "middleName": "",
+    "firstName": "Cam"
   },
-  "\"Democratic Advancement\"": {
-    "familyName": "\"Veress\"",
-    "middleName": "\"\"",
-    "firstName": "\"Max\"",
-    "votes": 134
-  },
-  "undefined": {
-    "votes": null
+  "Democratic Advancement": {
+    "votes": 134,
+    "familyName": "Veress",
+    "middleName": "",
+    "firstName": "Max"
   }
 }

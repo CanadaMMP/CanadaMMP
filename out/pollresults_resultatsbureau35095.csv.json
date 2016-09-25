@@ -1,44 +1,43 @@
 {
   "electoralDistrictNumber": "35095",
-  "englishDistrictName": "\"Scarborough--Guildwood\"",
-  "frenchDistrictName": "\"Scarborough--Guildwood\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Casselman\"",
-    "middleName": "\"\"",
-    "firstName": "\"Laura\"",
-    "votes": 4720
+  "englishDistrictName": "Scarborough--Guildwood",
+  "frenchDistrictName": "Scarborough--Guildwood",
+  "NDP-New Democratic Party": {
+    "votes": 4720,
+    "familyName": "Casselman",
+    "middleName": "",
+    "firstName": "Laura"
   },
-  "\"Independent\"": {
-    "familyName": "\"Clarke\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kevin\"",
-    "votes": 175
+  "Independent": {
+    "Clarke": {
+      "votes": 175,
+      "familyName": "Clarke",
+      "middleName": "",
+      "firstName": "Kevin"
+    }
   },
-  "\"Radical Marijuana\"": {
-    "familyName": "\"Coulbeck\"",
-    "middleName": "\"\"",
-    "firstName": "\"Paul\"",
-    "votes": 141
+  "Radical Marijuana": {
+    "votes": 141,
+    "familyName": "Coulbeck",
+    "middleName": "",
+    "firstName": "Paul"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Holding\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kathleen\"",
-    "votes": 606
+  "Green Party": {
+    "votes": 606,
+    "familyName": "Holding",
+    "middleName": "",
+    "firstName": "Kathleen"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Konkel\"",
-    "middleName": "\"\"",
-    "firstName": "\"Chuck\"",
-    "votes": 11108
+  "Conservative": {
+    "votes": 11108,
+    "familyName": "Konkel",
+    "middleName": "",
+    "firstName": "Chuck"
   },
-  "\"Liberal\"": {
-    "familyName": "\"McKay\"",
-    "middleName": "\"\"",
-    "firstName": "\"John\"",
-    "votes": 25167
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 25167,
+    "familyName": "McKay",
+    "middleName": "",
+    "firstName": "John"
   }
 }

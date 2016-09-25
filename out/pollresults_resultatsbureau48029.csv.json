@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "48029",
-  "englishDistrictName": "\"Red Deer--Mountain View\"",
-  "frenchDistrictName": "\"Red Deer--Mountain View\"",
-  "\"Conservative\"": {
-    "familyName": "\"Dreeshen\"",
-    "middleName": "\"\"",
-    "firstName": "\"Earl\"",
-    "votes": 46245
+  "englishDistrictName": "Red Deer--Mountain View",
+  "frenchDistrictName": "Red Deer--Mountain View",
+  "Conservative": {
+    "votes": 46245,
+    "familyName": "Dreeshen",
+    "middleName": "",
+    "firstName": "Earl"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Harris\"",
-    "middleName": "\"\"",
-    "firstName": "\"Paul\"",
-    "votes": 5233
+  "NDP-New Democratic Party": {
+    "votes": 5233,
+    "familyName": "Harris",
+    "middleName": "",
+    "firstName": "Paul"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Kastern\"",
-    "middleName": "\"\"",
-    "firstName": "\"Chandra Lescia\"",
-    "votes": 8356
+  "Liberal": {
+    "votes": 8356,
+    "familyName": "Kastern",
+    "middleName": "",
+    "firstName": "Chandra Lescia"
   },
-  "\"Pirate\"": {
-    "familyName": "\"Milne\"",
-    "middleName": "\"\"",
-    "firstName": "\"Scott\"",
-    "votes": 312
+  "Pirate": {
+    "votes": 312,
+    "familyName": "Milne",
+    "middleName": "",
+    "firstName": "Scott"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Oleny\"",
-    "middleName": "\"\"",
-    "firstName": "\"Simon\"",
-    "votes": 1621
+  "Green Party": {
+    "votes": 1621,
+    "familyName": "Oleny",
+    "middleName": "",
+    "firstName": "Simon"
   },
-  "\"Libertarian\"": {
-    "familyName": "\"Walper\"",
-    "middleName": "\"\"",
-    "firstName": "\"James\"",
-    "votes": 445
-  },
-  "undefined": {
-    "votes": null
+  "Libertarian": {
+    "votes": 445,
+    "familyName": "Walper",
+    "middleName": "",
+    "firstName": "James"
   }
 }

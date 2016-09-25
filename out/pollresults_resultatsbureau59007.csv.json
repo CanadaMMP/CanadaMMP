@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "59007",
-  "englishDistrictName": "\"Cloverdale--Langley City\"",
-  "frenchDistrictName": "\"Cloverdale--Langley City\"",
-  "\"Liberal\"": {
-    "familyName": "\"Aldag\"",
-    "middleName": "\"\"",
-    "firstName": "\"John\"",
-    "votes": 24617
+  "englishDistrictName": "Cloverdale--Langley City",
+  "frenchDistrictName": "Cloverdale--Langley City",
+  "Liberal": {
+    "votes": 24617,
+    "familyName": "Aldag",
+    "middleName": "",
+    "firstName": "John"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Anderson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Scott\"",
-    "votes": 2195
+  "Green Party": {
+    "votes": 2195,
+    "familyName": "Anderson",
+    "middleName": "",
+    "firstName": "Scott"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Drysdale\"",
-    "middleName": "\"\"",
-    "firstName": "\"Dean\"",
-    "votes": 18800
+  "Conservative": {
+    "votes": 18800,
+    "familyName": "Drysdale",
+    "middleName": "",
+    "firstName": "Dean"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Smith\"",
-    "middleName": "\"\"",
-    "firstName": "\"Rebecca\"",
-    "votes": 8463
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 8463,
+    "familyName": "Smith",
+    "middleName": "",
+    "firstName": "Rebecca"
   }
 }

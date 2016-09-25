@@ -1,50 +1,49 @@
 {
   "electoralDistrictNumber": "59004",
-  "englishDistrictName": "\"Cariboo--Prince George\"",
-  "frenchDistrictName": "\"Cariboo--Prince George\"",
-  "\"Liberal\"": {
-    "familyName": "\"Calogheros\"",
-    "middleName": "\"\"",
-    "firstName": "\"Tracy\"",
-    "votes": 16921
+  "englishDistrictName": "Cariboo--Prince George",
+  "frenchDistrictName": "Cariboo--Prince George",
+  "Liberal": {
+    "votes": 16921,
+    "familyName": "Calogheros",
+    "middleName": "",
+    "firstName": "Tracy"
   },
-  "\"No Affiliation\"": {
-    "familyName": "\"Campbell\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gordon\"",
-    "votes": 402
+  "Independent": {
+    "Campbell": {
+      "votes": 402,
+      "familyName": "Campbell",
+      "middleName": "",
+      "firstName": "Gordon"
+    },
+    "Clare": {
+      "votes": 657,
+      "familyName": "Clare",
+      "middleName": "",
+      "firstName": "Sheldon"
+    }
   },
-  "\"Independent\"": {
-    "familyName": "\"Clare\"",
-    "middleName": "\"\"",
-    "firstName": "\"Sheldon\"",
-    "votes": 657
+  "Christian Heritage Party": {
+    "votes": 327,
+    "familyName": "De Kroon",
+    "middleName": "",
+    "firstName": "Adam"
   },
-  "\"Christian Heritage Party\"": {
-    "familyName": "\"De Kroon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Adam\"",
-    "votes": 327
+  "NDP-New Democratic Party": {
+    "votes": 13879,
+    "familyName": "Derrick",
+    "middleName": "",
+    "firstName": "Trent"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Derrick\"",
-    "middleName": "\"\"",
-    "firstName": "\"Trent\"",
-    "votes": 13879
+  "Conservative": {
+    "votes": 19688,
+    "familyName": "Doherty",
+    "middleName": "",
+    "firstName": "Todd"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Doherty\"",
-    "middleName": "\"\"",
-    "firstName": "\"Todd\"",
-    "votes": 19688
-  },
-  "\"Green Party\"": {
-    "familyName": "\"Jaques\"",
-    "middleName": "\"\"",
-    "firstName": "\"Richard Edward\"",
-    "votes": 1860
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1860,
+    "familyName": "Jaques",
+    "middleName": "",
+    "firstName": "Richard Edward"
   }
 }

@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "46008",
-  "englishDistrictName": "\"Provencher\"",
-  "frenchDistrictName": "\"Provencher\"",
-  "\"Conservative\"": {
-    "familyName": "\"Falk\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ted\"",
-    "votes": 25086
+  "englishDistrictName": "Provencher",
+  "frenchDistrictName": "Provencher",
+  "Conservative": {
+    "votes": 25086,
+    "familyName": "Falk",
+    "middleName": "",
+    "firstName": "Ted"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Hayward\"",
-    "middleName": "\"\"",
-    "firstName": "\"Terry\"",
-    "votes": 15509
+  "Liberal": {
+    "votes": 15509,
+    "familyName": "Hayward",
+    "middleName": "",
+    "firstName": "Terry"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Lilley\"",
-    "middleName": "\"\"",
-    "firstName": "\"Les\"",
-    "votes": 2371
+  "NDP-New Democratic Party": {
+    "votes": 2371,
+    "familyName": "Lilley",
+    "middleName": "",
+    "firstName": "Les"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Wheeldon\"",
-    "middleName": "\"\"",
-    "firstName": "\"Jeff\"",
-    "votes": 1779
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 1779,
+    "familyName": "Wheeldon",
+    "middleName": "",
+    "firstName": "Jeff"
   }
 }

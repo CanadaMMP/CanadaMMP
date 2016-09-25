@@ -1,38 +1,35 @@
 {
   "electoralDistrictNumber": "59009",
-  "englishDistrictName": "\"Courtenay--Alberni\"",
-  "frenchDistrictName": "\"Courtenay--Alberni\"",
-  "\"Marxist-Leninist\"": {
-    "familyName": "\"Biley\"",
-    "middleName": "\"\"",
-    "firstName": "\"Barbara\"",
-    "votes": 140
+  "englishDistrictName": "Courtenay--Alberni",
+  "frenchDistrictName": "Courtenay--Alberni",
+  "Marxist-Leninist": {
+    "votes": 140,
+    "familyName": "Biley",
+    "middleName": "",
+    "firstName": "Barbara"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Duncan\"",
-    "middleName": "\"\"",
-    "firstName": "\"John\"",
-    "votes": 19714
+  "Conservative": {
+    "votes": 19714,
+    "familyName": "Duncan",
+    "middleName": "",
+    "firstName": "John"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Johns\"",
-    "middleName": "\"\"",
-    "firstName": "\"Gord\"",
-    "votes": 26582
+  "NDP-New Democratic Party": {
+    "votes": 26582,
+    "familyName": "Johns",
+    "middleName": "",
+    "firstName": "Gord"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Powell-Davidson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Carrie\"",
-    "votes": 15212
+  "Liberal": {
+    "votes": 15212,
+    "familyName": "Powell-Davidson",
+    "middleName": "",
+    "firstName": "Carrie"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Sollitt\"",
-    "middleName": "\"\"",
-    "firstName": "\"Glenn\"",
-    "votes": 8201
-  },
-  "undefined": {
-    "votes": null
+  "Green Party": {
+    "votes": 8201,
+    "familyName": "Sollitt",
+    "middleName": "",
+    "firstName": "Glenn"
   }
 }

@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35022",
-  "englishDistrictName": "\"Dufferin--Caledon\"",
-  "frenchDistrictName": "\"Dufferin--Caledon\"",
-  "\"Liberal\"": {
-    "familyName": "\"Crewson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ed\"",
-    "votes": 23643
+  "englishDistrictName": "Dufferin--Caledon",
+  "frenchDistrictName": "Dufferin--Caledon",
+  "Liberal": {
+    "votes": 23643,
+    "familyName": "Crewson",
+    "middleName": "",
+    "firstName": "Ed"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Tilson\"",
-    "middleName": "\"\"",
-    "firstName": "\"David Allan\"",
-    "votes": 27977
+  "Conservative": {
+    "votes": 27977,
+    "familyName": "Tilson",
+    "middleName": "",
+    "firstName": "David Allan"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Urekar\"",
-    "middleName": "\"\"",
-    "firstName": "\"Nancy\"",
-    "votes": 4433
+  "Green Party": {
+    "votes": 4433,
+    "familyName": "Urekar",
+    "middleName": "",
+    "firstName": "Nancy"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Yazbek\"",
-    "middleName": "\"\"",
-    "firstName": "\"Rehya\"",
-    "votes": 4398
-  },
-  "undefined": {
-    "votes": null
+  "NDP-New Democratic Party": {
+    "votes": 4398,
+    "familyName": "Yazbek",
+    "middleName": "",
+    "firstName": "Rehya"
   }
 }

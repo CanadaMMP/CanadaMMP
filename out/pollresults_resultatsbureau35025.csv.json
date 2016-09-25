@@ -1,44 +1,41 @@
 {
   "electoralDistrictNumber": "35025",
-  "englishDistrictName": "\"Elgin--Middlesex--London\"",
-  "frenchDistrictName": "\"Elgin--Middlesex--London\"",
-  "\"Liberal\"": {
-    "familyName": "\"Baldwin-Sands\"",
-    "middleName": "\"\"",
-    "firstName": "\"Lori\"",
-    "votes": 17642
+  "englishDistrictName": "Elgin--Middlesex--London",
+  "frenchDistrictName": "Elgin--Middlesex--London",
+  "Liberal": {
+    "votes": 17642,
+    "familyName": "Baldwin-Sands",
+    "middleName": "",
+    "firstName": "Lori"
   },
-  "\"Rhinoceros\"": {
-    "familyName": "\"Bernardi\"",
-    "middleName": "\"\"",
-    "firstName": "\"Lou\"",
-    "votes": 185
+  "Rhinoceros": {
+    "votes": 185,
+    "familyName": "Bernardi",
+    "middleName": "",
+    "firstName": "Lou"
   },
-  "\"Christian Heritage Party\"": {
-    "familyName": "\"Hopkins\"",
-    "middleName": "\"\"",
-    "firstName": "\"Michael\"",
-    "votes": 529
+  "Christian Heritage Party": {
+    "votes": 529,
+    "familyName": "Hopkins",
+    "middleName": "",
+    "firstName": "Michael"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Morgan\"",
-    "middleName": "\"\"",
-    "firstName": "\"Bronagh Joyce\"",
-    "votes": 1783
+  "Green Party": {
+    "votes": 1783,
+    "familyName": "Morgan",
+    "middleName": "",
+    "firstName": "Bronagh Joyce"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Sinclair\"",
-    "middleName": "\"\"",
-    "firstName": "\"Fred\"",
-    "votes": 8771
+  "NDP-New Democratic Party": {
+    "votes": 8771,
+    "familyName": "Sinclair",
+    "middleName": "",
+    "firstName": "Fred"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Vecchio\"",
-    "middleName": "\"\"",
-    "firstName": "\"Karen Louise\"",
-    "votes": 28023
-  },
-  "undefined": {
-    "votes": null
+  "Conservative": {
+    "votes": 28023,
+    "familyName": "Vecchio",
+    "middleName": "",
+    "firstName": "Karen Louise"
   }
 }

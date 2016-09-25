@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "13007",
-  "englishDistrictName": "\"Moncton--Riverview--Dieppe\"",
-  "frenchDistrictName": "\"Moncton--Riverview--Dieppe\"",
-  "\"Conservative\"": {
-    "familyName": "\"Goguen\"",
-    "middleName": "\"\"",
-    "firstName": "\"Robert\"",
-    "votes": 11168
+  "englishDistrictName": "Moncton--Riverview--Dieppe",
+  "frenchDistrictName": "Moncton--Riverview--Dieppe",
+  "Conservative": {
+    "votes": 11168,
+    "familyName": "Goguen",
+    "middleName": "",
+    "firstName": "Robert"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"LeBlanc\"",
-    "middleName": "\"\"",
-    "firstName": "\"Luc\"",
-    "votes": 8420
+  "NDP-New Democratic Party": {
+    "votes": 8420,
+    "familyName": "LeBlanc",
+    "middleName": "",
+    "firstName": "Luc"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Melanson\"",
-    "middleName": "\"\"",
-    "firstName": "\"Luc\"",
-    "votes": 2399
+  "Green Party": {
+    "votes": 2399,
+    "familyName": "Melanson",
+    "middleName": "",
+    "firstName": "Luc"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Petitpas Taylor\"",
-    "middleName": "\"\"",
-    "firstName": "\"Ginette\"",
-    "votes": 30054
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 30054,
+    "familyName": "Petitpas Taylor",
+    "middleName": "",
+    "firstName": "Ginette"
   }
 }

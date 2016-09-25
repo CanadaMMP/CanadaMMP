@@ -1,56 +1,53 @@
 {
   "electoralDistrictNumber": "12011",
-  "englishDistrictName": "\"West Nova\"",
-  "frenchDistrictName": "\"Nova-Ouest\"",
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Foster\"",
-    "middleName": "\"\"",
-    "firstName": "\"Greg\"",
-    "votes": 3068
+  "englishDistrictName": "West Nova",
+  "frenchDistrictName": "Nova-Ouest",
+  "NDP-New Democratic Party": {
+    "votes": 3068,
+    "familyName": "Foster",
+    "middleName": "",
+    "firstName": "Greg"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Fraser\"",
-    "middleName": "\"\"",
-    "firstName": "\"Colin\"",
-    "votes": 28681
+  "Liberal": {
+    "votes": 28681,
+    "familyName": "Fraser",
+    "middleName": "",
+    "firstName": "Colin"
   },
-  "\"Conservative\"": {
-    "familyName": "\"LeBlanc\"",
-    "middleName": "\"\"",
-    "firstName": "\"Arnold\"",
-    "votes": 11883
+  "Conservative": {
+    "votes": 11883,
+    "familyName": "LeBlanc",
+    "middleName": "",
+    "firstName": "Arnold"
   },
-  "\"Green Party\"": {
-    "familyName": "\"Walton\"",
-    "middleName": "\"\"",
-    "firstName": "\"Clark\"",
-    "votes": 1898
+  "Green Party": {
+    "votes": 1898,
+    "familyName": "Walton",
+    "middleName": "",
+    "firstName": "Clark"
   },
-  "\"Greg\"": {
+  "Greg": {
+    "votes": null,
     "familyName": "340",
-    "middleName": "\"Foster\"",
-    "firstName": "\"\"",
-    "votes": null
+    "middleName": "Foster",
+    "firstName": ""
   },
-  "\"Colin\"": {
+  "Colin": {
+    "votes": null,
     "familyName": "340",
-    "middleName": "\"Fraser\"",
-    "firstName": "\"\"",
-    "votes": null
+    "middleName": "Fraser",
+    "firstName": ""
   },
-  "\"Arnold\"": {
+  "Arnold": {
+    "votes": null,
     "familyName": "340",
-    "middleName": "\"LeBlanc\"",
-    "firstName": "\"\"",
-    "votes": null
+    "middleName": "LeBlanc",
+    "firstName": ""
   },
-  "\"Clark\"": {
+  "Clark": {
+    "votes": null,
     "familyName": "340",
-    "middleName": "\"Walton\"",
-    "firstName": "\"\"",
-    "votes": null
-  },
-  "undefined": {
-    "votes": null
+    "middleName": "Walton",
+    "firstName": ""
   }
 }

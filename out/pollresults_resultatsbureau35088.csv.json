@@ -1,32 +1,29 @@
 {
   "electoralDistrictNumber": "35088",
-  "englishDistrictName": "\"Carleton\"",
-  "frenchDistrictName": "\"Carleton\"",
-  "\"Green Party\"": {
-    "familyName": "\"Coyne\"",
-    "middleName": "\"\"",
-    "firstName": "\"Deborah\"",
-    "votes": 1932
+  "englishDistrictName": "Carleton",
+  "frenchDistrictName": "Carleton",
+  "Green Party": {
+    "votes": 1932,
+    "familyName": "Coyne",
+    "middleName": "",
+    "firstName": "Deborah"
   },
-  "\"NDP-New Democratic Party\"": {
-    "familyName": "\"Larocque\"",
-    "middleName": "\"\"",
-    "firstName": "\"Kc\"",
-    "votes": 3632
+  "NDP-New Democratic Party": {
+    "votes": 3632,
+    "familyName": "Larocque",
+    "middleName": "",
+    "firstName": "Kc"
   },
-  "\"Conservative\"": {
-    "familyName": "\"Poilievre\"",
-    "middleName": "\"\"",
-    "firstName": "\"Pierre\"",
-    "votes": 27762
+  "Conservative": {
+    "votes": 27762,
+    "familyName": "Poilievre",
+    "middleName": "",
+    "firstName": "Pierre"
   },
-  "\"Liberal\"": {
-    "familyName": "\"Rodgers\"",
-    "middleName": "\"\"",
-    "firstName": "\"Chris\"",
-    "votes": 25913
-  },
-  "undefined": {
-    "votes": null
+  "Liberal": {
+    "votes": 25913,
+    "familyName": "Rodgers",
+    "middleName": "",
+    "firstName": "Chris"
   }
 }
