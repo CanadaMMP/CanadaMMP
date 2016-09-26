@@ -1,68 +1,11 @@
 import fs from 'fs';
 import _ from 'lodash';
+import csv from 'csv-to-json';
 // THIS IS WHAT"S SCREWING UP THE PARSER.
 //
 // 12001,"Cape Breton--Canso","Cape Breton--Canso"," 156","Antigonish, Subd. B",N,N,"",1,364,"Rodgers","","Adam Daniel","Conservative","Conservateur",N,N,23
 // "Antigonish, Subd. B"
-// Use an off-the rack parser instead of this one, should fix the data problems. 
-const parseCSV = (document) => {
-    let lines = _.reject(document.split('\n'), (line) => (line.length < 3));
-    let trueHeaders = lines[0];
-    console.log("True Headers:\n", trueHeaders);
-    let headers = [
-      "electoralDistrictNumber",
-      "englishDistrictName",
-      "frenchDistrictName",
-      "skip",
-      "skip",
-      "skip",
-      "skip",
-      "skip",
-      "skip",
-      "skip",
-      "familyName",
-      "middleName",
-      "firstName",
-      "partyEnglish",
-      "partyFrench",
-      "skip",
-      "skip",
-      "votes",
-    ]
-    console.log("headers:\n", headers);
-    let results = lines.slice(1).map((line) => line.split(','));
-    let firstMap = results.map((result) => {
-        let data = {}
-        for (let n = 0; n < result.length; n++) {
-          if(headers[n] !== "skip"){
-            const removeQuote = /\"/gi
-            data[headers[n]] = result[n].replace(removeQuote, "")
-          }
-        }
-        return data;
-    })
-    let out = _.pick(firstMap[0], ["electoralDistrictNumber", "englishDistrictName", "frenchDistrictName"])
-    return firstMap.reduce((pv, cv) => {
-      if(cv.partyEnglish === "Rodger"){
-        console.log("CV: ", cv)
-      }
-      if(cv.partyEnglish === "No Affiliation" || cv.partyEnglish === "Independent"){
-        pv.Independent = pv.Independent || {}
-        pv.Independent[cv.familyName] = pv.Independent[cv.familyName] || Object.assign({votes: 0}, _.pick(cv, ["familyName", "middleName", "firstName"]))
-        pv.Independent[cv.familyName].votes += parseInt(cv.votes);
-        if(pv.Independent[cv.familyName].votes === null){
-          console.log("INDIE\n", cv);
-        }
-        return pv;
-      }
-      pv[cv.partyEnglish] = pv[cv.partyEnglish] || Object.assign({votes: 0}, _.pick(cv, ["familyName", "middleName", "firstName"]))
-      pv[cv.partyEnglish].votes += parseInt(cv.votes)
-      if(pv[cv.partyEnglish].votes === null){
-        console.log("AS PARTY\n", cv);
-      }
-      return pv;
-    }, out)
-}
+// Use an off-the rack parser instead of this one, should fix the data problems.
 
 const readFile = (dirname, filename) => new Promise(function(resolve, reject) {
     fs.readFile(dirname + filename, 'utf-8', (err, content) => {
@@ -70,15 +13,12 @@ const readFile = (dirname, filename) => new Promise(function(resolve, reject) {
             reject(err);
             return;
         }
-        resolve({
-            file: filename,
-            content: content,
-        })
+        resolve({filename, content})
     });
 });
+
 const writeFile = (filename, content) => new Promise(function(resolve, reject) {
-    fs.appendFile("./out/" + filename + ".json", JSON.stringify(
-        parseCSV(content), null, 2), (err) => {
+    fs.appendFile("./out/" + filename + ".json", JSON.stringify(content, null, 2), (err) => {
         if (err) {
             reject(err);
         } else {
@@ -118,11 +58,58 @@ const stagger = (arrayOfArgs, thenable) => new Promise(function(resolve, reject)
     })
 });
 
+const parseCSV = (dir, filename) => new Promise(function(resolve, reject) {
+  csv.parse({filename: dir + filename}, (err, json) => {
+    if(err){
+      reject(err);
+    }
+    resolve(json);
+  })
+});
+
+const countVotes = (lines) => {
+  let initialInfo = {
+    districtNumber: lines[0]['﻿Electoral District Number/Numéro de circonscription'],
+    districtNameEnglish: lines[0]['Electoral District Name_English/Nom de circonscription_Anglais'],
+    districtNameFrench: lines[0]['Electoral District Name_French/Nom de circonscription_Français'],
+  }
+  let simplifiedLines = lines.map((line) => ({
+    firstName: line['Candidate’s First Name/Prénom du candidat'],
+    familyName: line['Candidate’s Family Name/Nom de famille du candidat'],
+    middleName: line['Candidate’s Middle Name/Second prénom du candidat'],
+    party: line['Political Affiliation Name_English/Appartenance politique_Anglais'],
+    votes: parseInt(line['Candidate Poll Votes Count/Votes du candidat pour le bureau']),
+  }))
+  return simplifiedLines.reduce((pv, line) => {
+    if(line.familyName === undefined){
+      return pv;
+    }
+    if(line.party === "No Affiliation" || line.party === "Independent"){
+      if(!pv.hasOwnProperty("Independents")){
+        pv.Independents = {}
+      }
+      if(!pv.Independents.hasOwnProperty(line.familyName)){
+        pv.Independents[line.familyName] = _.pick(line, ["familyName", "middleName", "firstName"])
+        pv.Independents[line.familyName].votes = 0;
+      }
+      pv.Independents[line.familyName].votes += line.votes;
+      return pv;
+    }
+    if(!pv.hasOwnProperty[line.party]){
+      pv[line.party] = _.pick(line, ["familyName", "middleName", "firstName"]);
+      pv[line.party].votes = 0;
+    }
+    pv[line.party].votes += line.votes;
+    return pv;
+  }, initialInfo)
+}
+
 const getAllFiles = (dirname) => new Promise(function(resolve, reject) {
     getFileNames(dirname)
-      .then((filenames) => stagger(filenames.map((filename) => ({dirname, filename})), readNWrite))
-      .then((x) => resolve(x))
-      .catch((e) => reject(e))
+      .then((filenames) => Promise.all(filenames.map((filename) => parseCSV(dirname, filename)))
+      .then((jsons) => jsons.map((json) => countVotes(json))))
+      .then((jsons) => resolve(jsons))
+      .catch((err) => reject(err))
 })
 
 getAllFiles('./src/data/byDistrict/')
