@@ -1,8 +1,14 @@
 import fs from 'fs';
 import _ from 'lodash';
-
+// THIS IS WHAT"S SCREWING UP THE PARSER.
+//
+// 12001,"Cape Breton--Canso","Cape Breton--Canso"," 156","Antigonish, Subd. B",N,N,"",1,364,"Rodgers","","Adam Daniel","Conservative","Conservateur",N,N,23
+// "Antigonish, Subd. B"
+// Use an off-the rack parser instead of this one, should fix the data problems. 
 const parseCSV = (document) => {
     let lines = _.reject(document.split('\n'), (line) => (line.length < 3));
+    let trueHeaders = lines[0];
+    console.log("True Headers:\n", trueHeaders);
     let headers = [
       "electoralDistrictNumber",
       "englishDistrictName",
@@ -23,6 +29,7 @@ const parseCSV = (document) => {
       "skip",
       "votes",
     ]
+    console.log("headers:\n", headers);
     let results = lines.slice(1).map((line) => line.split(','));
     let firstMap = results.map((result) => {
         let data = {}
@@ -36,6 +43,9 @@ const parseCSV = (document) => {
     })
     let out = _.pick(firstMap[0], ["electoralDistrictNumber", "englishDistrictName", "frenchDistrictName"])
     return firstMap.reduce((pv, cv) => {
+      if(cv.partyEnglish === "Rodger"){
+        console.log("CV: ", cv)
+      }
       if(cv.partyEnglish === "No Affiliation" || cv.partyEnglish === "Independent"){
         pv.Independent = pv.Independent || {}
         pv.Independent[cv.familyName] = pv.Independent[cv.familyName] || Object.assign({votes: 0}, _.pick(cv, ["familyName", "middleName", "firstName"]))

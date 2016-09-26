@@ -1,0 +1,58 @@
+
+> stv@1.0.0 parse C:\Users\brian\source\canadammp
+> babel src -d dist && node ./dist/parser.js
+
+src\backend\js\db\controller.js -> dist\backend\js\db\controller.js
+src\backend\js\dbService.js -> dist\backend\js\dbService.js
+src\data\2015Canadian.js -> dist\data\2015Canadian.js
+src\data\2016Election.js -> dist\data\2016Election.js
+src\frontend\js\actions\actionsCounter.js -> dist\frontend\js\actions\actionsCounter.js
+src\frontend\js\actions\ballotActions.js -> dist\frontend\js\actions\ballotActions.js
+src\frontend\js\actions\index.js -> dist\frontend\js\actions\index.js
+src\frontend\js\canary.js -> dist\frontend\js\canary.js
+src\frontend\js\constants\index.js -> dist\frontend\js\constants\index.js
+src\frontend\js\containers\App.js -> dist\frontend\js\containers\App.js
+src\frontend\js\containers\Ballot.js -> dist\frontend\js\containers\Ballot.js
+src\frontend\js\containers\Login.js -> dist\frontend\js\containers\Login.js
+src\frontend\js\containers\Mmp.js -> dist\frontend\js\containers\Mmp.js
+src\frontend\js\reducers\authorization.js -> dist\frontend\js\reducers\authorization.js
+src\frontend\js\reducers\ballot.js -> dist\frontend\js\reducers\ballot.js
+src\frontend\js\reducers\counter.js -> dist\frontend\js\reducers\counter.js
+src\frontend\js\reducers\index.js -> dist\frontend\js\reducers\index.js
+src\frontend\js\store\configureStore.js -> dist\frontend\js\store\configureStore.js
+src\frontend\js\util.js -> dist\frontend\js\util.js
+src\frontend\js\utilities\reduxify.js -> dist\frontend\js\utilities\reduxify.js
+src\index.js -> dist\index.js
+src\parser.js -> dist\parser.js
+True Headers:
+ ﻿Electoral District Number/Numéro de circonscription,Electoral District Name_English/Nom de circonscription_Anglais,Electoral District Name_French/Nom de circonscription_Français,Polling Station Number/Numéro du bureau de scrutin,Polling Station Name/Nom du bureau de scrutin,Void Poll Indicator/Indicateur de bureau supprimé,No Poll Held Indicator/Indicateur de bureau sans scrutin,Merge With/Fusionné avec,Rejected Ballots for Polling Station/Bulletins rejetés du bureau,Electors for Polling Station/Électeurs du bureau,Candidate’s Family Name/Nom de famille du candidat,Candidate’s Middle Name/Second prénom du candidat,Candidate’s First Name/Prénom du candidat,Political Affiliation Name_English/Appartenance politique_Anglais,Political Affiliation Name_French/Appartenance politique_Français,Incumbent Indicator/Indicateur_Candidat sortant,Elected Candidate Indicator/Indicateur du candidat élu,Candidate Poll Votes Count/Votes du candidat pour le bureau
+headers:
+ [ 'electoralDistrictNumber',
+  'englishDistrictName',
+  'frenchDistrictName',
+  'skip',
+  'skip',
+  'skip',
+  'skip',
+  'skip',
+  'skip',
+  'skip',
+  'familyName',
+  'middleName',
+  'firstName',
+  'partyEnglish',
+  'partyFrench',
+  'skip',
+  'skip',
+  'votes' ]
+CV:  { electoralDistrictNumber: '12001',
+  englishDistrictName: 'Cape Breton--Canso',
+  frenchDistrictName: 'Cape Breton--Canso',
+  familyName: '364',
+  middleName: 'Cuzner',
+  firstName: '',
+  partyEnglish: 'Rodger',
+  partyFrench: 'Liberal',
+  votes: 'Y',
+  undefined: '99\r' }
+undefined

@@ -50,4 +50,108 @@
     "middleName": "Smith",
     "firstName": ""
   }
+}{
+  "electoralDistrictNumber": "12001",
+  "englishDistrictName": "Cape Breton--Canso",
+  "frenchDistrictName": "Cape Breton--Canso",
+  "Green Party": {
+    "votes": 1274,
+    "familyName": "Coady",
+    "middleName": "",
+    "firstName": "Maria Goretti"
+  },
+  "Liberal": {
+    "votes": 32064,
+    "familyName": "Cuzner",
+    "middleName": "",
+    "firstName": "Rodger"
+  },
+  "Conservative": {
+    "votes": 6223,
+    "familyName": "Rodgers",
+    "middleName": "",
+    "firstName": "Adam Daniel"
+  },
+  "NDP-New Democratic Party": {
+    "votes": 3533,
+    "familyName": "Smith",
+    "middleName": "",
+    "firstName": "Michelle"
+  },
+  "Maria Goretti": {
+    "votes": null,
+    "familyName": "364",
+    "middleName": "Coady",
+    "firstName": ""
+  },
+  "Rodger": {
+    "votes": null,
+    "familyName": "364",
+    "middleName": "Cuzner",
+    "firstName": ""
+  },
+  "Adam Daniel": {
+    "votes": null,
+    "familyName": "364",
+    "middleName": "Rodgers",
+    "firstName": ""
+  },
+  "Michelle": {
+    "votes": null,
+    "familyName": "364",
+    "middleName": "Smith",
+    "firstName": ""
+  }
+}{
+  "electoralDistrictNumber": "12001",
+  "englishDistrictName": "Cape Breton--Canso",
+  "frenchDistrictName": "Cape Breton--Canso",
+  "Green Party": {
+    "votes": 1274,
+    "familyName": "Coady",
+    "middleName": "",
+    "firstName": "Maria Goretti"
+  },
+  "Liberal": {
+    "votes": 32064,
+    "familyName": "Cuzner",
+    "middleName": "",
+    "firstName": "Rodger"
+  },
+  "Conservative": {
+    "votes": 6223,
+    "familyName": "Rodgers",
+    "middleName": "",
+    "firstName": "Adam Daniel"
+  },
+  "NDP-New Democratic Party": {
+    "votes": 3533,
+    "familyName": "Smith",
+    "middleName": "",
+    "firstName": "Michelle"
+  },
+  "Maria Goretti": {
+    "votes": null,
+    "familyName": "364",
+    "middleName": "Coady",
+    "firstName": ""
+  },
+  "Rodger": {
+    "votes": null,
+    "familyName": "364",
+    "middleName": "Cuzner",
+    "firstName": ""
+  },
+  "Adam Daniel": {
+    "votes": null,
+    "familyName": "364",
+    "middleName": "Rodgers",
+    "firstName": ""
+  },
+  "Michelle": {
+    "votes": null,
+    "familyName": "364",
+    "middleName": "Smith",
+    "firstName": ""
+  }
 }
