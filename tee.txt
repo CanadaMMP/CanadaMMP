@@ -9,63 +9,13 @@
       ✓ should call fs.readdir with the correct directory name
     writeFile()
       ✓ should write JSON to a file
-    parseCSV
-[ { 'Electoral District Number/Numéro de circonscription': '10001',
-    'Electoral District Name_English/Nom de circonscription_Anglais': '"Avalon"',
-    'Electoral District Name_French/Nom de circonscription_Français': '"Avalon"',
-    'Polling Station Number/Numéro du bureau de scrutin': '" 1"',
-    'Polling Station Name/Nom du bureau de scrutin': '"Freshwater"',
-    'Void Poll Indicator/Indicateur de bureau supprimé': 'N',
-    'No Poll Held Indicator/Indicateur de bureau sans scrutin': 'N',
-    'Merge With/Fusionné avec': '""',
-    'Rejected Ballots for Polling Station/Bulletins rejetés du bureau': '0',
-    'Electors for Polling Station/Électeurs du bureau': '133',
-    'Candidate’s Family Name/Nom de famille du candidat': '"Andrews"',
-    'Candidate’s Middle Name/Second prénom du candidat': '""',
-    'Candidate’s First Name/Prénom du candidat': '"Scott"',
-    'Political Affiliation Name_English/Appartenance politique_Anglais': '"No Affiliation"',
-    'Political Affiliation Name_French/Appartenance politique_Français': '"Aucune appartenance"',
-    'Incumbent Indicator/Indicateur_Candidat sortant': 'Y',
-    'Elected Candidate Indicator/Indicateur du candidat élu': 'N',
-    'Candidate Poll Votes Count/Votes du candidat pour le bureau': '39' },
-  { 'Electoral District Number/Numéro de circonscription': '10001',
-    'Electoral District Name_English/Nom de circonscription_Anglais': '"Avalon"',
-    'Electoral District Name_French/Nom de circonscription_Français': '"Avalon"',
-    'Polling Station Number/Numéro du bureau de scrutin': '" 1"',
-    'Polling Station Name/Nom du bureau de scrutin': '"Freshwater"',
-    'Void Poll Indicator/Indicateur de bureau supprimé': 'N',
-    'No Poll Held Indicator/Indicateur de bureau sans scrutin': 'N',
-    'Merge With/Fusionné avec': '""',
-    'Rejected Ballots for Polling Station/Bulletins rejetés du bureau': '0',
-    'Electors for Polling Station/Électeurs du bureau': '133',
-    'Candidate’s Family Name/Nom de famille du candidat': '"Baldwin"',
-    'Candidate’s Middle Name/Second prénom du candidat': '""',
-    'Candidate’s First Name/Prénom du candidat': '"Jeannie"',
-    'Political Affiliation Name_English/Appartenance politique_Anglais': '"NDP-New Democratic Party"',
-    'Political Affiliation Name_French/Appartenance politique_Français': '"NPD-Nouveau Parti démocratique"',
-    'Incumbent Indicator/Indicateur_Candidat sortant': 'N',
-    'Elected Candidate Indicator/Indicateur du candidat élu': 'N',
-    'Candidate Poll Votes Count/Votes du candidat pour le bureau': '9' },
-  { 'Electoral District Number/Numéro de circonscription': '',
-    'Electoral District Name_English/Nom de circonscription_Anglais': undefined,
-    'Electoral District Name_French/Nom de circonscription_Français': undefined,
-    'Polling Station Number/Numéro du bureau de scrutin': undefined,
-    'Polling Station Name/Nom du bureau de scrutin': undefined,
-    'Void Poll Indicator/Indicateur de bureau supprimé': undefined,
-    'No Poll Held Indicator/Indicateur de bureau sans scrutin': undefined,
-    'Merge With/Fusionné avec': undefined,
-    'Rejected Ballots for Polling Station/Bulletins rejetés du bureau': undefined,
-    'Electors for Polling Station/Électeurs du bureau': undefined,
-    'Candidate’s Family Name/Nom de famille du candidat': undefined,
-    'Candidate’s Middle Name/Second prénom du candidat': undefined,
-    'Candidate’s First Name/Prénom du candidat': undefined,
-    'Political Affiliation Name_English/Appartenance politique_Anglais': undefined,
-    'Political Affiliation Name_French/Appartenance politique_Français': undefined,
-    'Incumbent Indicator/Indicateur_Candidat sortant': undefined,
-    'Elected Candidate Indicator/Indicateur du candidat élu': undefined,
-    'Candidate Poll Votes Count/Votes du candidat pour le bureau': undefined } ]
+    parseCSV()
       ✓ should convert CSV to JSON
+    stripQuotes()
+      ✓ should strip out escaped quote literals from string
+    formatPollingPlaceInfo
+      ✓ should take a raw JSON object and extract the important elements
 
 
-  3 passing (49ms)
+  5 passing (40ms)
 

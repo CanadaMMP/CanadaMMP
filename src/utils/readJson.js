@@ -108,6 +108,7 @@ export default (injections) => {
     writeFile,
     parseCSV,
     stripQuotes,
+    formatPollingPlaceInfo,
     consolidatePollingPlaces,
     countVotes,
     getAllFiles,
