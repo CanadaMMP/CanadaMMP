@@ -2,13 +2,12 @@ import fsImport from 'fs';
 import _ from 'lodash';
 import csv from 'csv-to-json';
 
-export default (injections) => {
+export default (inputDir, outputDir, injections) => {
   injections = injections || {};
   let fs = injections.fs || fsImport;
-  let Console = injections.Console || console;
 
-  const getFileNames = (dirname) => new Promise(function(resolve, reject) {
-    fs.readdir(dirname, (err, filenames) => {
+  const getFileNames = () => new Promise(function(resolve, reject) {
+    fs.readdir(inputDir, (err, filenames) => {
       if (err) {
         reject(err);
         return;
@@ -18,7 +17,7 @@ export default (injections) => {
   });
 
   const writeFile = (filename, content) => new Promise(function(resolve, reject) {
-    fs.appendFile("./out/" + filename + ".json", JSON.stringify(content, null, 2), (err) => {
+    fs.appendFile("./" + outputDir + "/" + filename + ".json", JSON.stringify(content, null, 2), (err) => {
       if (err) {
         reject(err);
       } else {
@@ -34,6 +33,20 @@ export default (injections) => {
       if (err) {
         reject(err);
       }
+      const ED = "Electoral District Number";
+      json.filter((j) => !!j['Candidate’s Family Name/Nom de famille du candidat']);
+      json = json.map((j) => {
+        let val = {};
+        for(let key in j){
+          if (key.indexOf(ED) === 0){
+            console.log("key", key);
+            val[ED] = j[key];
+          } else {
+            val[key] = j[key];
+          }
+        }
+        return val;
+      });
       resolve({
         json,
         filename
@@ -41,7 +54,7 @@ export default (injections) => {
     });
   });
 
-  const stripQuotes = (string) => string.replace(/\"/g, "");
+  const stripQuotes = (string) => typeof(string) === "string" ? string.replace(/\"/g, "") : string;
 
   const formatPollingPlaceInfo = (poll) => ({
     firstName: stripQuotes(poll['Candidate’s First Name/Prénom du candidat']),
@@ -78,11 +91,17 @@ export default (injections) => {
 
   }, demographicData);
 
+  const isValidLine = (line) => {
+    let districtNum = Object.keys(line)[0];
+    return !!line[districtNum];
+  };
+
   const countVotes = (lines) => {
-    lines = _.filter(lines, (line) => !!line['﻿Electoral District Number/Numéro de circonscription']);
-    let districtNumber = stripQuotes(lines[0]['﻿Electoral District Number/Numéro de circonscription']);
-    let districtNameEnglish = stripQuotes(lines[0]['Electoral District Name_English/Nom de circonscription_Anglais']);
-    let districtNameFrench = stripQuotes(lines[0]['Electoral District Name_French/Nom de circonscription_Français']);
+    lines = lines.filter((line) => isValidLine(line));
+    let firstLine = lines[0];
+    let districtNameEnglish = stripQuotes(firstLine['Electoral District Name_English/Nom de circonscription_Anglais']);
+    let districtNameFrench = stripQuotes(firstLine['Electoral District Name_French/Nom de circonscription_Français']);
+    let districtNumber = firstLine["﻿Electoral District Number"];
     return consolidatePollingPlaces(lines.map((line) => formatPollingPlaceInfo(line)), {
       districtNumber,
       districtNameEnglish,
@@ -90,18 +109,25 @@ export default (injections) => {
     });
   };
 
-  const getAllFiles = () => {
-    getFileNames(dirname)
-      .then((filenames) => Promise.all(filenames.map((filename) => parseCSV(dirname, filename))))
+  const getAllFiles = () => new Promise((resolve, reject) => {
+    let progress = setInterval(() => {
+      process.stdout.write(".");
+    }, 1000);
+    getFileNames()
+      .then((filenames) => Promise.all(filenames.map((filename) => parseCSV(inputDir, filename))))
       .then((jsons) => jsons.map(({json, filename}) => ({
         filename: filename,
         votes: countVotes(json)
       })))
       .then((items) => Promise.all(items.map(({filename, votes}) => writeFile(filename, votes))))
       .catch((err) => {
-        Console.log(err);
+        reject(err);
+      })
+      .then(() => {
+        clearInterval(progress);
+        resolve();
       });
-  };
+  });
 
   return {
     getFileNames,

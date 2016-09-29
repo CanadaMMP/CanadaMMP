@@ -1,0 +1,28 @@
+{
+  "districtNameEnglish": "Bonavista--Burin--Trinity",
+  "districtNameFrench": "Bonavista--Burin--Trinity",
+  "NDP-New Democratic Party": {
+    "familyName": "Brown",
+    "middleName": "",
+    "firstName": "Jenn",
+    "votes": 2557
+  },
+  "Green Party": {
+    "familyName": "Colbourne",
+    "middleName": "",
+    "firstName": "Tyler John",
+    "votes": 297
+  },
+  "Liberal": {
+    "familyName": "Foote",
+    "middleName": "",
+    "firstName": "Judy M.",
+    "votes": 28704
+  },
+  "Conservative": {
+    "familyName": "Windsor",
+    "middleName": "",
+    "firstName": "Mike",
+    "votes": 3534
+  }
+}
