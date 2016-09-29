@@ -27,7 +27,6 @@ let {
   parseCSV,
   stripQuotes,
   formatPollingPlaceInfo,
-  countVotes,
 } = readJson("./in/", "out", spyObj);
 let {
   getAllFiles,
@@ -35,13 +34,6 @@ let {
 
 describe('/utils/readJson.js', function(){
   describe('getFileNames()', function(){
-    before(function(){
-      let one = "Electoral District Number/Numéro de circonscription".split('');
-      let two = "﻿Electoral District Number/Numéro de circonscription".split('');
-      for (let i = 0; i < one.length; i++){
-        console.log("Is '" +one[i]+ "'' the same as ''"+ two[i]+ "''?", one[i] === two[i])
-      }
-    })
     it('should call fs.readdir with the correct directory name', function(){
       getFileNames();
       expect(rd.getCall(0).args[0]).to.equal("./in/");

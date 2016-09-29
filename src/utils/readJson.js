@@ -1,6 +1,6 @@
 import fsImport from 'fs';
 import _ from 'lodash';
-import csv from 'csv-to-json';
+import csv2json from 'csv-to-json';
 
 export default (inputDir, outputDir, injections) => {
   injections = injections || {};
@@ -27,7 +27,7 @@ export default (inputDir, outputDir, injections) => {
   });
 
   const parseCSV = (dir, filename) => new Promise(function(resolve, reject) {
-    csv.parse({
+    csv2json.parse({
       filename: dir + filename
     }, (err, json) => {
       if (err) {
@@ -38,8 +38,7 @@ export default (inputDir, outputDir, injections) => {
       json = json.map((j) => {
         let val = {};
         for(let key in j){
-          if (key.indexOf(ED) === 0){
-            console.log("key", key);
+          if (key.indexOf(ED) !== -1){
             val[ED] = j[key];
           } else {
             val[key] = j[key];
@@ -101,7 +100,7 @@ export default (inputDir, outputDir, injections) => {
     let firstLine = lines[0];
     let districtNameEnglish = stripQuotes(firstLine['Electoral District Name_English/Nom de circonscription_Anglais']);
     let districtNameFrench = stripQuotes(firstLine['Electoral District Name_French/Nom de circonscription_Français']);
-    let districtNumber = firstLine["﻿Electoral District Number"];
+    let districtNumber = firstLine['Electoral District Number'];
     return consolidatePollingPlaces(lines.map((line) => formatPollingPlaceInfo(line)), {
       districtNumber,
       districtNameEnglish,

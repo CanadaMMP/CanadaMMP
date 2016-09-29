@@ -10,7 +10,7 @@
     "lint": "eslint src",
     "test": "mocha --recursive --compilers js:babel-register",
     "test:watch": "mocha -w --recursive --compilers js:babel-register",
-    "parse": "./node_modules/.bin/babel src -d dist && node ./dist/parser.js"
+    "parse": "./node_modules/.bin/babel src -d dist && node ./dist/createParsedData.js"
   },
   "repository": {
     "type": "git",
@@ -33,6 +33,7 @@
     "babel-register": "^6.11.6",
     "body-parser": "^1.15.2",
     "cookie-parser": "^1.4.3",
+    "csv": "^1.1.0",
     "csv-to-json": "^0.1.2",
     "eslint": "^3.3.1",
     "eslint-plugin-react": "^6.1.2",

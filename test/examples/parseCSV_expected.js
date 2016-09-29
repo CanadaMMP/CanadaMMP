@@ -1,6 +1,6 @@
 export default[
   {
-    'Electoral District Number/Numéro de circonscription' : '10001',
+    'Electoral District Number' : '10001',
     'Electoral District Name_English/Nom de circonscription_Anglais' : '"Avalon"',
     'Electoral District Name_French/Nom de circonscription_Français' : '"Avalon"',
     'Polling Station Number/Numéro du bureau de scrutin' : '" 1"',
@@ -19,7 +19,7 @@ export default[
     'Elected Candidate Indicator/Indicateur du candidat élu' : 'N',
     'Candidate Poll Votes Count/Votes du candidat pour le bureau' : '39'
   }, {
-    'Electoral District Number/Numéro de circonscription' : '10001',
+    'Electoral District Number' : '10001',
     'Electoral District Name_English/Nom de circonscription_Anglais' : '"Avalon"',
     'Electoral District Name_French/Nom de circonscription_Français' : '"Avalon"',
     'Polling Station Number/Numéro du bureau de scrutin' : '" 1"',
@@ -38,7 +38,7 @@ export default[
     'Elected Candidate Indicator/Indicateur du candidat élu' : 'N',
     'Candidate Poll Votes Count/Votes du candidat pour le bureau' : '9'
   }, {
-    'Electoral District Number/Numéro de circonscription' : '',
+    'Electoral District Number' : '',
     'Electoral District Name_English/Nom de circonscription_Anglais' : undefined,
     'Electoral District Name_French/Nom de circonscription_Français' : undefined,
     'Polling Station Number/Numéro du bureau de scrutin' : undefined,
