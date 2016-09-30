@@ -11,7 +11,7 @@
     "test": "mocha --recursive --compilers js:babel-register",
     "test:watch": "mocha -w --recursive --compilers js:babel-register",
     "parse": "./node_modules/.bin/babel src -d dist && node ./dist/createParsedData.js",
-    "hydrate": "./node_modules/.bin/babel src -d dist && node ./dist/utils/loadDataToDatabase.js"
+    "hydrate": "./node_modules/.bin/babel src -d dist && node ./dist/utils/dbloader.js"
   },
   "repository": {
     "type": "git",
