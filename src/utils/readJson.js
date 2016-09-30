@@ -111,7 +111,7 @@ export default (inputDir, outputDir, injections) => {
   const getAllFiles = () => new Promise((resolve, reject) => {
     let progress = setInterval(() => {
       process.stdout.write(".");
-    }, 1000);
+    }, 100);
     getFileNames()
       .then((filenames) => Promise.all(filenames.map((filename) => parseCSV(inputDir, filename))))
       .then((jsons) => jsons.map(({json, filename}) => ({
