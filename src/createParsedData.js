@@ -1,10 +1,11 @@
 import readJson from './utils/readJson';
 import fs from 'fs';
-const inputDir = './data/byDistrict/';
-const outputDir = './out/';
 const {
   getAllFiles
-} = readJson(inputDir, outputDir);
+} = readJson();
+
+const inputDir = './data/byDistrict/';
+const outputDir = './out/';
 
 const makeOutput = () => new Promise(function(resolve, reject) {
   fs.exists(outputDir, (existsEh) => {
@@ -23,4 +24,4 @@ const makeOutput = () => new Promise(function(resolve, reject) {
 });
 
 makeOutput()
-  .then(() => getAllFiles());
+  .then(() => getAllFiles(inputDir, outputDir));

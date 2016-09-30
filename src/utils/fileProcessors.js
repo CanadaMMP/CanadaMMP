@@ -1,12 +1,10 @@
 import fsImport from 'fs';
 import _ from 'lodash';
-import csv2json from 'csv-to-json';
+import csvToJSON from 'csv-to-json';
 
-export default (inputDir, outputDir, injections) => {
-  injections = injections || {};
-  let fs = injections.fs || fsImport;
+export default (fs = fsImport) => {
 
-  const getFileNames = () => new Promise(function(resolve, reject) {
+  const getFileNames = (inputDir) => new Promise(function(resolve, reject) {
     fs.readdir(inputDir, (err, filenames) => {
       if (err) {
         reject(err);
@@ -16,8 +14,8 @@ export default (inputDir, outputDir, injections) => {
     });
   });
 
-  const writeFile = (filename, content) => new Promise(function(resolve, reject) {
-    fs.appendFile("./" + outputDir + "/" + filename + ".json", JSON.stringify(content, null, 2), (err) => {
+  const writeFile = (outputDir, filename, content) => new Promise(function(resolve, reject) {
+    fs.appendFile(outputDir + filename + ".json", JSON.stringify(content, null, 2), (err) => {
       if (err) {
         reject(err);
       } else {
@@ -26,20 +24,22 @@ export default (inputDir, outputDir, injections) => {
     });
   });
 
-  const parseCSV = (dir, filename) => new Promise(function(resolve, reject) {
-    csv2json.parse({
-      filename: dir + filename
+
+
+  const parseCSV = (inputDir, filename) => new Promise(function(resolve, reject) {
+    csvToJSON.parse({
+      filename: inputDir + filename
     }, (err, json) => {
       if (err) {
         reject(err);
       }
-      const ED = "Electoral District Number";
+      // removes invalid data from CSV-to-JSON module.
       json.filter((j) => !!j['Candidate’s Family Name/Nom de famille du candidat']);
       json = json.map((j) => {
         let val = {};
         for(let key in j){
-          if (key.indexOf(ED) !== -1){
-            val[ED] = j[key];
+          if (key.indexOf("Electoral District Number") !== -1){
+            val["Electoral District Number"] = j[key];
           } else {
             val[key] = j[key];
           }
@@ -108,29 +108,40 @@ export default (inputDir, outputDir, injections) => {
     });
   };
 
-  const getAllFiles = () => new Promise((resolve, reject) => {
-    let progress = setInterval(() => {
-      process.stdout.write(".");
-    }, 100);
-    getFileNames()
+  const getAllFiles = (inputDir, outputDir) => new Promise((resolve, reject) => {
+    getFileNames(inputDir)
       .then((filenames) => Promise.all(filenames.map((filename) => parseCSV(inputDir, filename))))
       .then((jsons) => jsons.map(({json, filename}) => ({
         filename: filename,
         votes: countVotes(json)
       })))
-      .then((items) => Promise.all(items.map(({filename, votes}) => writeFile(filename, votes))))
-      .catch((err) => {
+      .then((items) => Promise.all(items.map(({filename, votes}) => writeFile(outputDir, filename, votes))))
+      .then(() => resolve())
+      .catch((err) => reject(err));
+  });
+
+
+  const jsonToObject = (inputDir, filename) => new Promise((resolve, reject) => {
+    fs.readFile(inputDir + filename, 'utf-8', (err, data) => {
+      if(err) {
         reject(err);
-      })
-      .then(() => {
-        clearInterval(progress);
-        resolve();
-      });
+        throw err;
+      }
+      resolve(JSON.parse(data));
+    });
+  });
+
+  const readJsons = (inputDir, filenames) => new Promise((resolve, reject) => {
+    Promise.all(filenames.map((filename) => jsonToObject(inputDir, filename)))
+      .then((data) => resolve(data))
+      .catch((err) => reject(err));
   });
 
   return {
     getFileNames,
     writeFile,
+    jsonToObject,
+    readJsons,
     parseCSV,
     stripQuotes,
     formatPollingPlaceInfo,
