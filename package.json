@@ -1,7 +1,7 @@
 {
-  "name": "stv",
+  "name": "Canada Election Reform",
   "version": "1.0.0",
-  "description": "",
+  "description": "A website explaining both the facts and theory behind proposed Canadian election reforms",
   "main": "index.js",
   "scripts": {
     "start": "npm run serve | npm run dev",
