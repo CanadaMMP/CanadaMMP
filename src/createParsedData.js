@@ -1,8 +1,8 @@
-import readJson from './utils/readJson';
+import fileProcessors from './utils/fileProcessors';
 import fs from 'fs';
 const {
   getAllFiles
-} = readJson();
+} = fileProcessors();
 
 const inputDir = './data/byDistrict/';
 const outputDir = './out/';
@@ -24,4 +24,5 @@ const makeOutput = () => new Promise(function(resolve, reject) {
 });
 
 makeOutput()
-  .then(() => getAllFiles(inputDir, outputDir));
+  .then(() => getAllFiles(inputDir, outputDir))
+  .catch((err) => console.log(err));

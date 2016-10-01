@@ -2,7 +2,7 @@
 import reduxify from '../utilities/reduxify';
 import * as actions from '../actions/index';
 import React, {Component} from 'react';
-import {allCandidates} from '../../../data/2016Election'
+import {allCandidates} from '../../../../data/2016Election'
 import _ from 'lodash';
 
 const candidatesByParty = (election) => {

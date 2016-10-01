@@ -15,8 +15,6 @@ let {
   parseCSV,
   stripQuotes,
   formatPollingPlaceInfo,
-  consolidatePollingPlaces,
-  countVotes,
   readJsons,
   jsonToObject,
   getAllFiles,
@@ -24,6 +22,9 @@ let {
 
 const clearTestData = (folder) => new Promise(function(resolve, reject) {
   fs.readdir(folder, (err, filenames) => {
+    if (err){
+      reject(err);
+    }
     Promise.all(filenames.map((filename) => new Promise((resolve2) => {
       fs.unlink(folder + filename, () => resolve2());
     }))).then(() => resolve());
@@ -41,13 +42,13 @@ describe('/utils/readJson.js', function() {
     });
   });
   describe('writeFile()', function() {
-    it('should write JSON to a file', function() {
+    it('should write JSON to a file', function(done) {
       const testObj = {
         you: ["must", "build", "additional", 3.14, "lons"]
       };
       expect(clearTestData("./test/examples/test/")
         .then(() => writeFile("./test/examples/test/", "test", testObj))
-        .then(() => getFileNames("./test/examples/test/"))).to.eventually.eql([]);
+        .then(() => getFileNames("./test/examples/test/"))).to.eventually.eql([ 'test.json' ]).notify(done);
     });
   });
   describe('parseCSV()', function() {

@@ -1,0 +1,33 @@
+While Canada (and the United States) is already a representative democracy, election results don't always reflect the full will of the voters. For example, the Liberal Party, in 2015, won a majority (over 50%) of the seats in Parliament, giving them control of the government.  But they only won about 40% of the overall share of the votes across the country.
+
+This is because Canada (like the U.S.) uses "First Past The Post" elections, where the country is divided up into geographic districts, and whoever gets the most votes in each district is sent to Parliament as that district's representative.
+
+There are a number of problems with this system, however.
+
+First, it leaves a great number of people with no real representation of their views in Parliament.  If you, for example, vote for Party A, and Party B wins the election, you have no one to represent your views in Parliament.
+
+Furthermore, even if you vote for the winner, there's a chance that your vote really didn't have any meaningful impact on the outcome. A "squeaker" and a "landslide" represent two completely different trends in public opinion, but produce the same result in Parliament.
+
+This problem is called "Vote Wastage" - and when you combine all the people whose votes didn't make a difference in who represented them, you find that at least 50% of votes - and usually much more - didn't make a statistical difference.
+
+Politicians know this, and so there is no incentive to include the wants and needs of statistically insignificant voters when they make policy.
+
+Indeed, though this is not as large a problem in Canada as it is in the U.S., it is possible to *alter* the outcome of elections by ensuring that the opposing party's votes are the ones statistically wasted. This is done by drawing the boundary lines of each district in such a way as to have all the voters of an opposing party represented overwhelmingly in a district, leading to vote wastage through overage (a.k.a. "packing"), or to draw the boundary lines so that it is impossible for any opposing candidate to muster enough support to win an election (a.k.a. "cracking"). This process is called "gerrymandering", and it perverts the intent of democratic process. Through gerrymandering, representatives get to choose the voters, instead of the voters choosing who represents them.
+
+Secondly, the First Past the Post System can often results in a party gaining more seats - and thus more power - than their support among the electorate would suggest.  In some extreme cases, another party can get more votes but fewer seats. This happened in New Zealand in 1978, 1981, and 1984, for example, where the National party got fewer votes than New Zealand Labour, but won the most seats.  This is also the case in the United States, where in 2012, the Democratic party won over 1.4 million more votes than the Republican party, but the Republicans won 41 more seats in the U.S's 435-member Congress.
+
+Third, the First Past the Post System tends to result in two-party systems - like the United States - or "two-party plus" systems, like Canada and the U.K. These systems greatly underrepresent a large portion of voters. In 2015, Canada's NDP got nearly 20% of the votes, but only 13% of the seats.  The Green party of Canada got 3% of the votes - but only 1 seat in the 338 member Canadian Parliament.
+
+------------------
+
+In order to correct this problem, the Liberal government, under Justin Trudeau, has promised a referendum on electoral reform to move towards a more proportional system of government.
+
+The most likely system is "Mixed Member Proportional" (MMP).  In MMP, voters cast two votes - one for the name of the person they wish would represent them, and one for the party that they would hope to see in control of Parliament.  After the representatives who win districts are seated, extra members of Parliament are added from party-provided lists, until each party's representation is proportional to the percentage of party votes they received.
+
+MMP systems often result in coalition governments and minority governments - that is, where the Prime Minister's party doesn't have a true majority of Parliament - and in such situations, legislation has to be broadly acceptable to a total of 50% of the representatives elected to pass.  What this means is that parties can win enough votes to elect the Prime Minister, but not pass controversial legislation opposed by 50% or more of the country.  
+
+The only country to switch from First Past the Post to MMP was New Zealand. Since then, the country has moved from a two-party system to a multiparty system.  And one of the advantages of a multiparty system is that voters can hold their elected representaties more accountable.
+
+Under MMP, every vote statistically matters, and voters can choose from a variety of parties with similar policies - a voter who feels that a major party has become too corrupt can vote for a minor party with a similar view without voting against their own interests, or "wasting their vote" by going with a third party.
+
+The second most likely system is "Single Transferable Vote".  Under this system, candidates run in multi-member districts, and voters rank their candidates in order of preference.  If a candidate mathmatically *cannot* win the election, his or her voters transfer to their next preference.  If a candidate has enough votes to guarantee a seat, then any additional votes he or she may recieve will be transferred to their next preferences.  Single Transferable Vote is not proportional by design, but it ends up with broadly proportional results.
