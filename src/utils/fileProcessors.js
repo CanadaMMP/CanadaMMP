@@ -127,7 +127,7 @@ export default (fs = fsImport) => {
         reject(err);
         throw err;
       }
-      resolve(JSON.parse(data));
+      resolve(data);
     });
   });
 

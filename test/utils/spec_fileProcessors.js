@@ -14,6 +14,7 @@ let {
   writeFile,
   parseCSV,
   stripQuotes,
+  stripNewlines,
   formatPollingPlaceInfo,
   readJsons,
   jsonToObject,
@@ -148,16 +149,17 @@ describe('/utils/readJson.js', function() {
   describe('jsonToObject()', function() {
     it('parses JSON files into javascript objects', function(done) {
       expect(getFileNames('./test/examples/outdir/')
-          .then((filenames) => jsonToObject('./test/examples/outdir/', filenames[0])))
-        .to.eventually.be.an('object').notify(done);
+        .then((filenames) => jsonToObject('./test/examples/outdir/', filenames[0]))
+        .then((json) => JSON.parse(json))
+      ).to.eventually.be.an('object').notify(done);
     });
   });
   describe('jsonToObject()', function() {
     it('parses JSON files into javascript objects', function(done) {
       expect(getFileNames('./test/examples/outdir/')
         .then((filenames) => jsonToObject('./test/examples/outdir/', filenames[0]))
-        .then((result) => JSON.stringify(result)))
-        .to.eventually.equal(JSON.stringify({
+        .then((result) => stripQuotes(JSON.parse(result))))
+        .to.eventually.eql({
           "districtNumber": "10001",
           "districtNameEnglish": "Avalon",
           "districtNameFrench": "Avalon",
@@ -199,7 +201,7 @@ describe('/utils/readJson.js', function() {
             "firstName": "Ken",
             "votes": 23528
           }
-        })).notify(done);
+        }).notify(done);
 
     });
   });
@@ -277,7 +279,8 @@ describe('/utils/readJson.js', function() {
         }
       }];
       expect(getFileNames('./test/examples/outdir/')
-        .then((filenames) => readJsons('./test/examples/outdir/', filenames)))
+        .then((filenames) => readJsons('./test/examples/outdir/', filenames))
+        .then((files) => files.map((file) => JSON.parse(file))))
         .to.eventually.eql(expected).notify(done);
     });
   });
