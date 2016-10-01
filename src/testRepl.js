@@ -1,6 +1,25 @@
 import controller from './backend/js/db/controller';
 import _ from 'lodash';
 
+const candidateNameGenerator = (candidate) => "" + candidate.familyName.toUpperCase() + ", " + candidate.firstName + " " + candidate.middleName;
+
+const findWinner = (districtResults) => {
+  let parties = _.omit(districtResults, ["districtNumber", "districtNameEnglish", "districtNameFrench", "Independents", "_id"]);
+  let base = {votes:0};
+  if(districtResults.Independents){
+    base = Object.keys(districtResults.Independents).reduce((pv, candidate) => {
+      let candidateRecord = districtResults.Independents[candidate];
+      let candidateName = candidateNameGenerator(candidateRecord);
+      return (candidateRecord.votes > pv.votes) ? ({party: "Independent", candidate: candidateName, votes: 0}) : pv;
+    }, {party: "Independent", candidate: null, votes: 0});
+  }
+  return Object.keys(parties).reduce((pv, party) => {
+    let partyRecord = parties[party];
+    let partyCandidateName = candidateNameGenerator(partyRecord);
+    return (partyRecord.votes > pv.votes) ? ({party: party, candidate: partyCandidateName, votes: partyRecord.votes}) : pv;
+  }, base);
+};
+
 controller().getEveryRecord().then((docs) => {
   console.log("all Votes");
   let allVotes = docs.reduce((pv, doc) => {
@@ -22,31 +41,6 @@ controller().getEveryRecord().then((docs) => {
   }, {Independents: 0});
   console.log("total: ", allVotes);
 
-  let winners = docs.map((doc) => {
-    doc = _.omit(doc, ["_id"]);
-    let district = _.pick(doc, ["districtNumber", "districtNameEnglish", "districtNameFrench"]);
-    let king = {"party": "null", "votes": 0};
-    for(let key in doc){
-      if(key === "Independents"){
-        for(let name in doc[key]){
-          if(doc[key][name].votes > king.votes){
-            king = {"party": "Independent: " + name, votes: doc[key][name].votes};
-          }
-        }
-      } else {
-        if (doc[key].votes > king.votes){
-          king = {"party": key, votes: doc[key].votes};
-        }
-      }
-    }
-    return Object.assign(district, {winner: king});
-  });
-  let partySeats = winners.reduce((pv, district) => {
-    if (!pv[district.winner.party]){
-      pv[district.winner.party] = 0;
-    }
-    pv[district.winner.party] += 1;
-    return pv;
-  },{});
-  console.log("PARTY SEATS:", partySeats);
+  let winners = docs.map((doc) => ({district: doc.districtNameEnglish, winner: findWinner(doc)}));
+  console.log("winners: \n", JSON.stringify(winners));
 });
