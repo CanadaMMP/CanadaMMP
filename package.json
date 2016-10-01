@@ -1,5 +1,5 @@
 {
-  "name": "Canada Election Reform",
+  "name": "canada-election-reform",
   "version": "1.0.0",
   "description": "A website explaining both the facts and theory behind proposed Canadian election reforms",
   "main": "index.js",
@@ -10,6 +10,7 @@
     "lint": "eslint src",
     "test": "mocha --recursive --compilers js:babel-register",
     "test:watch": "mocha -w --recursive --compilers js:babel-register",
+    "testrepl": "./node_modules/.bin/babel src -d dist && node ./dist/testRepl.js",
     "parse": "./node_modules/.bin/babel src -d dist && node ./dist/createParsedData.js",
     "hydrate": "./node_modules/.bin/babel src -d dist && node ./dist/loadDatabase.js"
   },
