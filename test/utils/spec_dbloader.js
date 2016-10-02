@@ -3,8 +3,7 @@ import chaiAsPromised from 'chai-as-promised';
 chai.use(chaiAsPromised);
 const expect = chai.expect;
 import dbloader from '../../src/utils/dbloader';
-const loader = dbloader("unit", "test");
-
+const loader = dbloader("unit", "test", undefined, "unittests");
 const {
   connectToMongo,
   insertDocuments,
