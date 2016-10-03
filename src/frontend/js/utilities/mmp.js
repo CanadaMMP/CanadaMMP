@@ -39,8 +39,8 @@ export const mmpAssignSeats = (parties, seats) => {
 
 export const mmpSeatsByParty = (documents, seats, thresh) => {
   let proportions = proportionOfPopularVoteByParty(documents);
-  let partiesRemaining = partiesPastThreshold(proportions, thresh);
+  let partiesRemaining = partiesPastThreshhold(proportions, thresh);
   let wastage = mmpFindWastage(proportions, thresh);
   let mmpAdjustment = mmpReassignWastage(partiesRemaining, wastage);
-  return mmpAsssignSeats(mmpAdjustment, seats);
+  return mmpAssignSeats(mmpAdjustment, seats);
 };

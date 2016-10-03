@@ -1,3 +1,4 @@
+import _ from 'lodash';
 import chai from 'chai';
 import chaiAsPromised from 'chai-as-promised';
 chai.use(chaiAsPromised);
@@ -22,6 +23,12 @@ const election = {
   "peach": 0.050,
   "mango": 0.25,
 };
+
+const electionVotes =  _.reduce(election, (pv, val, key) => {
+    pv[key] = {"votes": Math.floor(val * 100000)};
+    return pv;
+  }, {})
+;
 
 describe("mmp.js - tools for MMP calculation", function(){
   describe('beatThreshholdEh()', function(){
@@ -78,6 +85,57 @@ describe("mmp.js - tools for MMP calculation", function(){
         mango: 113,
         pear: 95,
       });
+    });
+  });
+  describe('mapSeatsByParty (from sample)', function() {
+    it('correctly takes document records and assigns the correct seats', function() {
+      expect(mmpSeatsByParty([electionVotes], 500, 0.05))
+        .to.eql({
+          "apple": 54,
+          "banana": 155,
+          "grape": 29,
+          "mango": 129,
+          "peach": 29,
+          "pear": 105,
+        });
+
+
+      expect(mmpSeatsByParty([electionVotes], 500, 0.1))
+        .to.eql({
+          "apple": 68,
+          "banana": 168,
+          "mango": 143,
+          "pear": 118,
+        });
+    });
+  });
+
+  describe('mapSeatsByParty (from DB)', function(){
+    let docs;
+    before(function(done) {
+      this.timeout(30000);
+      controller().getEveryRecord()
+        .then((documents) => {
+          docs = documents;
+          return docs;
+        })
+        .then(() => done());
+    });
+    it('correctly takes document records and assigns the correct seats', function(){
+      expect(mmpSeatsByParty(docs, 338, 0.025))
+        .to.eql({
+          "Conservative": 108,
+          "Liberal": 133,
+          "NDP-New Democratic Party": 68,
+          "Green Party": 13,
+          "Bloc Québécois": 17,
+        });
+      expect(mmpSeatsByParty(docs, 338, 0.05))
+        .to.eql({
+          "Conservative": 117,
+          "Liberal": 144,
+          "NDP-New Democratic Party": 77,
+        });
     });
   });
 });
