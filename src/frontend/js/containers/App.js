@@ -4,6 +4,9 @@ import reduxify from '../utilities/reduxify'
 
 import Ballot from './Ballot';
 import Login from './Login';
+import Header from './Header';
+import Hero from './Hero';
+
 
 class App extends Component {
   constructor(props){
@@ -17,10 +20,13 @@ class App extends Component {
     this.setState({componentCounter: this.state.componentCounter + 1})
   }
   render() {
-    return (<div>
-      <Ballot />
-      <Login />
-      </div>
+    return (
+      <div>
+        <Header />
+        <Hero />
+        {/*<Ballot />
+        <Login />*/}
+        </div>
     );
   }
 }

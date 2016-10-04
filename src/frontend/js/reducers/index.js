@@ -4,8 +4,9 @@
 
 import { combineReducers } from 'redux';
 import * as ballot from './ballot';
+import * as language from './language'
 
-const appReducer = combineReducers(Object.assign({}, ballot));
+const appReducer = combineReducers(Object.assign({}, ballot, language));
 
 const rootReducer = (state, action) => {
   // if (action.type === CLEAR_TO_DEFAULT) {
