@@ -104,7 +104,6 @@ export const findWinner = (riding) => ridingResultsInOrder(riding)[0];
  */
 export const voteWastageByParty = (documents) => {
   let popularVote = popularVoteByParty(documents);
-  console.log("Popular Vote", Object.keys(popularVote).contains)
   let rawWastage = documents.map((riding) => ridingVoteWastage(riding)).reduce((pv, riding) => {
     if(!_.includes(Object.keys(popularVote), riding.winner.party)){
       riding.winner.party = "Independents";
@@ -147,7 +146,7 @@ export const seatsByParty = (documents) => documents.map((riding) => findWinner(
   pv[winner.party] += 1;
   return pv;
 }, {});
-
+riding.winner.party
 /**
  * proportionOfSeatsByParty calculates the proportion of each party's representation.
  * @param  {array}  documents - documents directly fromt he database;
