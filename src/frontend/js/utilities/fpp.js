@@ -146,7 +146,6 @@ export const seatsByParty = (documents) => documents.map((riding) => findWinner(
   pv[winner.party] += 1;
   return pv;
 }, {});
-riding.winner.party
 /**
  * proportionOfSeatsByParty calculates the proportion of each party's representation.
  * @param  {array}  documents - documents directly fromt he database;
