@@ -28,6 +28,7 @@ export const ridingVoteWastage = (riding) => {
   let totalWastePc = totalWaste/totalVotes;
   return {
     winner: results[0],
+    losers: results.slice(1),
     winnerWaste,
     winnerWastePc,
     totalVotes,
@@ -75,6 +76,37 @@ export const popularVoteWastagePc = (documents) => popularVoteWastage(documents)
  * @return {object}        - the winner of each election (including party, name, and votes);
  */
 export const findWinner = (riding) => ridingResultsInOrder(riding)[0];
+
+export const voteWastageByParty = (documents) => {
+  let popularVote = popularVoteByParty(documents);
+  let rawWastage = documents.map((riding) => ridingVoteWastage(riding)).reduce((pv, riding) => {
+    if(!Object.keys(popularVote).includes(riding.winner.party)){
+      riding.winner.party = "Independents";
+    }
+    if(!pv[riding.winner.party]){
+      pv[riding.winner.party] = 0;
+    }
+    pv[riding.winner.party] += riding.winner.votes - riding.losers[0].votes;
+    riding.losers.forEach((loser) => {
+      if(!Object.keys(popularVote).includes(loser.party)){
+        loser.party = "Independents";
+      }
+      if(!pv[loser.party]){
+        pv[loser.party] = 0;
+      }
+      pv[loser.party] += loser.votes;
+    });
+    return pv;
+  }, {});
+  return _.reduce(rawWastage, (pv, votes, party) => {
+    let p = {};
+    p[party] = {
+      waste: votes,
+      wastePc: votes/popularVote[party],
+    };
+    return Object.assign(pv, p);
+  }, {totalPopularVote: popularVote});
+};
 
 
 /**
