@@ -1,5 +1,5 @@
 import _ from 'lodash';
-import {proportionOfNationalPopularVoteByParty} from './fpp';
+import {proportionOfPopularVoteByParty} from './fpp';
 
 export const beatThreshholdEh = (value, thresh) => (value >= thresh);
 
@@ -38,7 +38,7 @@ export const mmpAssignSeats = (parties, seats) => {
 };
 
 export const mmpSeatsByParty = (documents, seats, thresh) => {
-  let proportions = proportionOfNationalPopularVoteByParty(documents);
+  let proportions = proportionOfPopularVoteByParty(documents);
   let partiesRemaining = partiesPastThreshhold(proportions, thresh);
   let wastage = mmpFindWastage(proportions, thresh);
   let mmpAdjustment = mmpReassignWastage(partiesRemaining, wastage);

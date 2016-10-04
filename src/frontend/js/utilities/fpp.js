@@ -35,21 +35,15 @@ export const ridingVoteWastage = (riding) => {
     totalWastePc
   };
 };
-/**
- * findWinner() simply returns the first result from a sorting.
- * @param  {object} riding - the riding results (as grabbed from the DB; )
- * @return {object}        - the winner of each election (including party, name, and votes);
- */
-export const findWinner = (riding) => ridingResultsInOrder(riding)[0];
 
 /**
- * nationalPopularVoteByParty() reduces the total results from the election and tallies up
- * the popular vote results.
- * @param  {array} documents - all the election results, retrieved from the database.
- *   @element {object}       - a single district's election results.
- * @return {object}          - an object - keys are parties, and the value is the number of votes
- * */
-export const nationalPopularVoteByParty = (documents) => documents.reduce((pv, doc) => {
+* nationalPopularVoteByParty() reduces the total results from the election and tallies up
+* the popular vote results.
+* @param  {array} documents - all the election results, retrieved from the database.
+*   @element {object}       - a single district's election results.
+* @return {object}          - an object - keys are parties, and the value is the number of votes
+* */
+export const popularVoteByParty = (documents) => documents.reduce((pv, doc) => {
   doc = _.omit(doc, ["districtNumber", "districtNameEnglish", "districtNameFrench", "_id"]);
   for(let key in doc){
     if(key === "Independents"){
@@ -66,13 +60,30 @@ export const nationalPopularVoteByParty = (documents) => documents.reduce((pv, d
   return pv;
 }, {Independents: 0});
 
+
+export const totalVotesCast = (documents) => {
+  return _.reduce(popularVoteByParty(documents), (pv, value) => pv + value, 0);
+};
+
+export const popularVoteWastage = (documents) => documents.map((riding) => ridingVoteWastage(riding)).reduce((pv, ridingWastage) => pv + ridingWastage.totalWaste, 0);
+
+export const popularVoteWastagePc = (documents) => popularVoteWastage(documents)/totalVotesCast(documents);
+
+/**
+ * findWinner() simply returns the first result from a sorting.
+ * @param  {object} riding - the riding results (as grabbed from the DB; )
+ * @return {object}        - the winner of each election (including party, name, and votes);
+ */
+export const findWinner = (riding) => ridingResultsInOrder(riding)[0];
+
+
 /**
  * seatsByParty returns the seats by party of a FPP election;
  * @param  {array}  documents - documents directly fromt he database;
  * @return {object}           - an array containing each party's number of seats;
  */
-export const seatsByParty = (documents) => documents.map((doc) => findWinner(doc)).reduce((pv, winner) => {
-  if (!pv[winner.party]){
+export const seatsByParty = (documents) => documents.map((riding) => findWinner(riding)).reduce((pv, winner) => {
+  if(!pv[winner.party]){
     pv[winner.party] = 0;
   }
   pv[winner.party] += 1;
@@ -100,8 +111,8 @@ export const proportionOfSeatsByParty = (documents) => {
  * @param  {array}  documents - documents directly fromt he database;
  * @return {object}           - the proportion of seats by party
  */
-export const proportionOfNationalPopularVoteByParty = (documents) => {
-  let votes = nationalPopularVoteByParty(documents);
+export const proportionOfPopularVoteByParty = (documents) => {
+  let votes = popularVoteByParty(documents);
   let totalPopularVote = _.reduce(votes, (pv, value) => {
     return pv + value;
   }, 0);
@@ -123,6 +134,6 @@ export const proportionOfNationalPopularVoteByParty = (documents) => {
 export const fppData = (documents) => ({
   seatsByParty: seatsByParty(documents),
   proportionOfSeatsByParty: proportionOfSeatsByParty(documents),
-  nationalPopularVoteByParty: nationalPopularVoteByParty(documents),
-  proportionOfNationalPopularVoteByParty: proportionOfNationalPopularVoteByParty(documents),
+  nationalPopularVoteByParty: popularVoteByParty(documents),
+  proportionOfNationalPopularVoteByParty: proportionOfPopularVoteByParty(documents),
 });

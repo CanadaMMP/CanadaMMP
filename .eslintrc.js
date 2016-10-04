@@ -17,7 +17,7 @@ module.exports = {
     ],
     "rules": {
         "indent": [
-            "error",
+            "warn",
             2
         ],
         "no-console": [0],
@@ -28,7 +28,7 @@ module.exports = {
             "unix"
         ],
         "semi": [
-            "error",
+            "warn",
             "always"
         ]
     }
