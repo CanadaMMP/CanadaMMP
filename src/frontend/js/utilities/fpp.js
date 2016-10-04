@@ -1,13 +1,13 @@
 import _ from 'lodash';
 import candidateNameGenerator from './candidateName';
 import provinces from '../../../utils/provinces';
+
 /**
  * ridingResultsInOrder takes a record from the database and calculates
  * the results, in decending (winner-first) order
  * @param  {object} riding - data for the riding;
  * @return {array}         - an array of the candidates, in decending (winner-first) order by votes.
  */
-
 export const ridingResultsInOrder = (riding) => {
   let results = Object.assign(_.omit(riding, ['_id', 'districtNumber', 'districtNameEnglish', 'districtNameFrench', 'Independents']), riding.Independents);
   // all keys should be a candidate.
@@ -19,6 +19,11 @@ export const ridingResultsInOrder = (riding) => {
   return output;
 };
 
+/**
+ * ridingVoteWastage calculates the amount of wasted votes in a particular riding
+ * @param  {object} riding - the entry (as stored in the DB) for the riding;
+ * @return {object}        = data on wasted votes;
+ */
 export const ridingVoteWastage = (riding) => {
   let results = ridingResultsInOrder(riding);
   let winnerWaste = results[0].votes - results[1].votes;
@@ -61,13 +66,28 @@ export const popularVoteByParty = (documents) => documents.reduce((pv, doc) => {
   return pv;
 }, {Independents: 0});
 
-
+/**
+ * totalVotesCast returns the number of total votes cast in the election.
+ * because we're already counting each item by party anyway, it's easier to add the results of each.
+ * @param  {array} documents - raw documents from the database
+ * @return {number}          - the total votes cast in the document.
+ */
 export const totalVotesCast = (documents) => {
   return _.reduce(popularVoteByParty(documents), (pv, value) => pv + value, 0);
 };
 
+/**
+ * popularVoteWastage
+ * @param  {array} documents - raw documents from the database
+ * @return {number}          - the number of wasted votes.
+ */
 export const popularVoteWastage = (documents) => documents.map((riding) => ridingVoteWastage(riding)).reduce((pv, ridingWastage) => pv + ridingWastage.totalWaste, 0);
 
+/**
+ * [popularVoteWastagePc description]
+ * @param  {array} documents - raw documents from the database
+ * @return {number}          - the ratio of wasted votes to all votes cast;
+ */
 export const popularVoteWastagePc = (documents) => popularVoteWastage(documents)/totalVotesCast(documents);
 
 /**
@@ -77,6 +97,11 @@ export const popularVoteWastagePc = (documents) => popularVoteWastage(documents)
  */
 export const findWinner = (riding) => ridingResultsInOrder(riding)[0];
 
+/**
+ * [voteWastageByParty description]
+ * @param  {object} riding - the riding results (as grabbed from the DB; )
+ * @return {object}        - a listing of how many votes were wasted from each political party.
+ */
 export const voteWastageByParty = (documents) => {
   let popularVote = popularVoteByParty(documents);
   let rawWastage = documents.map((riding) => ridingVoteWastage(riding)).reduce((pv, riding) => {
@@ -174,6 +199,11 @@ export const filterDataByProvince = (documents, province) => {
   });
 };
 
+/**
+ * provinceData is just a formatting function for province data.
+ * @param  {array}  documents - documents directly fromt he database;
+ * @return {object}           - an object
+ */
 export const provinceData = (documents) => ({
   seatsByParty: seatsByParty(documents),
   proportionOfSeatsByParty: proportionOfSeatsByParty(documents),
@@ -184,7 +214,13 @@ export const provinceData = (documents) => ({
   provincePopularVoteWastagePc: popularVoteWastagePc(documents)
 });
 
-
+/**
+ * fppData is a catchall which returns all the relevant data for the documentt.
+ * In an API situation, a single call to FPP data would result in the entire relevant report
+ * being sent back to the requesting page.
+ * @param  {array}  documents - documents directly fromt he database;
+ * @return {object}
+ */
 export const fppData = (documents) => {
   let output = {
     seatsByParty: seatsByParty(documents),
