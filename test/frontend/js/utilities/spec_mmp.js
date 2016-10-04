@@ -25,10 +25,9 @@ const election = {
 };
 
 const electionVotes =  _.reduce(election, (pv, val, key) => {
-    pv[key] = {"votes": Math.floor(val * 100000)};
-    return pv;
-  }, {})
-;
+  pv[key] = {"votes": Math.floor(val * 100000)};
+  return pv;
+}, {});
 
 describe("mmp.js - tools for MMP calculation", function(){
   describe('beatThreshholdEh()', function(){

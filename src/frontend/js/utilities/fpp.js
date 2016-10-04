@@ -1,6 +1,6 @@
 import _ from 'lodash';
 import candidateNameGenerator from './candidateName';
-
+import provinces from '../../../utils/provinces';
 /**
  * ridingResultsInOrder takes a record from the database and calculates
  * the results, in decending (winner-first) order
@@ -131,9 +131,44 @@ export const proportionOfPopularVoteByParty = (documents) => {
  *   @property {object} nationalPopularVoteByParty - the popular vote by party
  *   @property {object} proportionOfNationalPopularVoteByParty - the proportion of popular vote by party.
  */
-export const fppData = (documents) => ({
+
+export const filterDataByProvince = (documents, province) => {
+  let range = {
+    min: provinces[province] * 1000,
+    max: (provinces[province] + 1) * 1000,
+  };
+  return documents.filter((doc) => {
+    return doc.districtNumber >= range.min && doc.districtNumber < range.max;
+  });
+};
+
+export const provinceData = (documents) => ({
   seatsByParty: seatsByParty(documents),
   proportionOfSeatsByParty: proportionOfSeatsByParty(documents),
-  nationalPopularVoteByParty: popularVoteByParty(documents),
-  proportionOfNationalPopularVoteByParty: proportionOfPopularVoteByParty(documents),
+  provincePopularVoteByParty: popularVoteByParty(documents),
+  proportionOfProvincePopularVoteByParty: proportionOfPopularVoteByParty(documents),
+  totalVotesCast: totalVotesCast(documents) ,
+  provincePopularVoteWastage: popularVoteWastage(documents),
+  provincePopularVoteWastagePc: popularVoteWastagePc(documents)
 });
+
+
+export const fppData = (documents) => {
+  let output = {
+    seatsByParty: seatsByParty(documents),
+    proportionOfSeatsByParty: proportionOfSeatsByParty(documents),
+    nationalPopularVoteByParty: popularVoteByParty(documents),
+    proportionOfNationalPopularVoteByParty: proportionOfPopularVoteByParty(documents),
+    totalVotesCast: totalVotesCast(documents) ,
+    nationalPopularVoteWastage: popularVoteWastage(documents),
+    nationalPopularVoteWastagePc: popularVoteWastagePc(documents),
+    byProvince: {},
+  };
+  for(let province in provinces){
+    output.byProvince[province] = provinceData(filterDataByProvince(documents, province));
+  }
+  return output;
+
+
+
+};

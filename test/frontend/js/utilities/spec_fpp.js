@@ -3,6 +3,7 @@ import chaiAsPromised from 'chai-as-promised';
 chai.use(chaiAsPromised);
 const expect = chai.expect;
 import controller from '../../../../src/backend/js/db/controller';
+import provinces from '../../../../src/utils/provinces';
 import {
   ridingResultsInOrder,
   ridingVoteWastage,
@@ -14,7 +15,8 @@ import {
   fppData,
   proportionOfPopularVoteByParty,
   seatsByParty,
-  proportionOfSeatsByParty
+  proportionOfSeatsByParty,
+  filterDataByProvince,
 } from '../../../../src/frontend/js/utilities/fpp';
 import correctData from '../../../examples/correctData';
 
@@ -30,7 +32,7 @@ describe("fpp.js", function() {
     });
   });
 
-  describe('opularVoteByParty()', function() {
+  describe('popularVoteByParty()', function() {
     it('finds the correct totals for each party\'s popular vote totals', function() {
       expect(popularVoteByParty(recordsFromDB)).to.eql(correctData.partyTotals);
     });
@@ -159,6 +161,41 @@ describe("fpp.js", function() {
           "Democratic Advancement": 0.00006747589229051265
         });
       });
+      describe('provincial results', function(){
+        for(let province in provinces){
+          it('has data for ' + province, function(){
+            expect(fppDataResults.byProvince[province]).to.be.an('object');
+          });
+        }
+        it('has the right data for New Brunswick (rep. sample)', function(){
+          let expected = {
+            "seatsByParty": {
+              "Liberal": 10
+            },
+            "proportionOfSeatsByParty": {
+              "Liberal": 1
+            },
+            "provincePopularVoteByParty": {
+              "Independents": 296,
+              "Green Party": 20551,
+              "Liberal": 227764,
+              "Conservative": 112070,
+              "NDP-New Democratic Party": 81105
+            },
+            "proportionOfProvincePopularVoteByParty": {
+              "Independents": 0.0006700076507630391,
+              "Green Party": 0.04651799740145681,
+              "Liberal": 0.5155527789472731,
+              "Conservative": 0.25367485615207364,
+              "NDP-New Democratic Party": 0.1835843598484334
+            },
+            "totalVotesCast": 441786,
+            "provincePopularVoteWastage": 307968,
+            "provincePopularVoteWastagePc": 0.6970976898317285
+          };
+          expect(fppDataResults.byProvince["New Brunswick"]).to.eql(expected);
+        });
+      });
     });
     describe('ridingResultsInOrder()', function() {
       it('lists the results in winner-first order', function() {
@@ -233,9 +270,14 @@ describe("fpp.js", function() {
         expect(popularVoteWastage(recordsFromDB)).to.eql(12330558);
       });
     });
-    describe('popularVoteWastage()', function(){
-      it('calculates the national vote wastage', function(){
+    describe('popularVoteWastagePc()', function(){
+      it('calculates the national vote wastage percentage', function(){
         expect(popularVoteWastagePc(recordsFromDB)).to.eql(0.7009396828053236);
+      });
+    });
+    describe('filterDataByProvince()', function(){
+      it('correctly filters the data by province', function(){
+        expect(filterDataByProvince(recordsFromDB, 'Ontario')).to.have.length(121);
       });
     });
   });

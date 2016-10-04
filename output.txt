@@ -8,22 +8,50 @@
     ✓ correctly does each candidate's name
 
   fpp.js
-    nationalPopularVoteByParty()
-      ✓ finds the correct totals for each party's popular vote totals (67ms)
+true
+    popularVoteByParty()
+      ✓ finds the correct totals for each party's popular vote totals
     seatsByParty()
-      ✓ finds the correct totals for each party's seat totals (40ms)
+      ✓ finds the correct totals for each party's seat totals
     findWinner()
       ✓ finds the correct winner in each election
-    proportionOfSeatsByParty()
-      ✓ finds the correct proportion of seats
-    proportionOfPopularVoteParty()
-      ✓ finds the correct proportion of seats
-    fppData()
-      ✓ finds all of the above
-      ✓ has the right seatsByParty
-      ✓ has the right proportionOfSeatsByParty
-[{"party":"Liberal","familyName":"McDonald","middleName":"","firstName":"Ken","votes":23528},{"party":"Andrews","familyName":"Andrews","middleName":"","firstName":"Scott","votes":7501},{"party":"NDP-New Democratic Party","familyName":"Baldwin","middleName":"","firstName":"Jeannie","votes":6075},{"party":"Conservative","familyName":"Barnett","middleName":"","firstName":"Lorraine E.","votes":4670},{"party":"Green Party","familyName":"Byrne-Puumala","middleName":"","firstName":"Krista","votes":228},{"party":"Forces et Démocratie - Allier les forces de nos régions","familyName":"McCreath","middleName":"","firstName":"Jennifer","votes":84}]
-      1) has the right proportionOfNationalPopularVoteByParty
+      proportionOfSeatsByParty()
+        ✓ finds the correct proportion of seats
+      proportionOfPopularVoteParty()
+        ✓ finds the correct proportion of seats
+      fppData()
+provinces { 'Newfoundland and Labrador': 10,
+  'Prince Edward Island': 11,
+  'Nova Scotia': 12,
+  'New Brunswick': 13,
+  Quebec: 24,
+  Ontario: 35,
+  Manitoba: 46,
+  Saskatchewan: 47,
+  Alberta: 48,
+  'British Columbia': 59,
+  Yukon: 60,
+  'Northwest Territories': 61,
+  Nunavut: 62 }
+--------------
+{"seatsByParty":{"Liberal":184,"NDP-New Democratic Party":44,"Conservative":99,"Bloc Québécois":10,"Green Party":1},"proportionOfSeatsByParty":{"Liberal":0.5443786982248521,"NDP-New Democratic Party":0.1301775147928994,"Conservative":0.29289940828402367,"Bloc Québécois":0.029585798816568046,"Green Party":0.0029585798816568047},"nationalPopularVoteByParty":{"Independents":49616,"NDP-New Democratic Party":3469368,"Conservative":5613633,"Green Party":602933,"Forces et Démocratie - Allier les forces de nos régions":8274,"Liberal":6942937,"Communist":4393,"Christian Heritage Party":15232,"Marxist-Leninist":8838,"Rhinoceros":7263,"Libertarian":36775,"Bloc Québécois":821144,"ATN":136,"United Party":57,"Animal Alliance/Environment Voters":1699,"CAP":401,"PC Party":4476,"Radical Marijuana":1557,"Pirate":908,"PACT":91,"Seniors Party":157,"The Bridge":122,"Canada Party":271,"Democratic Advancement":1187},"proportionOfNationalPopularVoteByParty":{"Independents":0.0028204581902999794,"NDP-New Democratic Party":0.19721878810796234,"Conservative":0.3191111168209498,"Green Party":0.03427417200201825,"Forces et Démocratie - Allier les forces de nos régions":0.00047034164516571327,"Liberal":0.3946763851658088,"Communist":0.0002497233317878872,"Christian Heritage Party":0.0008658742976993165,"Marxist-Leninist":0.0005024026420080462,"Rhinoceros":0.00041287060295365914,"Libertarian":0.002090502054746085,"Bloc Québécois":0.046678537572873394,"ATN":0.00000773102051517247,"United Party":0.000003240207127682579,"Animal Alliance/Environment Voters":0.00009658091070057371,"CAP":0.000022795141371942352,"PC Party":0.0002544415281317057,"Radical Marijuana":0.00008850881575090834,"Pirate":0.00005161593108659266,"PACT":0.000005172962256475696,"Seniors Party":0.00000892478103589763,"The Bridge":0.000006935180168022362,"Canada Party":0.000015405195291262788,"Democratic Advancement":0.00006747589229051265},"totalVotesCast":17591468,"nationalPopularVoteWastage":12330558,"nationalPopularVoteWastagePc":0.7009396828053236,"byProvince":{"Newfoundland and Labrador":{"seatsByParty":{"Liberal":7},"proportionOfSeatsByParty":{"Liberal":1},"provincePopularVoteByParty":{"Independents":7501,"NDP-New Democratic Party":54120,"Conservative":26469,"Green Party":2772,"Forces et Démocratie - Allier les forces de nos régions":84,"Liberal":165418,"Communist":140},"proportionOfProvincePopularVoteByParty":{"Independents":0.02924320868290553,"NDP-New Democratic Party":0.2109908617409475,"Conservative":0.10319137323394567,"Green Party":0.01080684901599975,"Forces et Démocratie - Allier les forces de nos régions":0.00032748027321211363,"Liberal":0.6448944265976359,"Communist":0.0005458004553535227},"totalVotesCast":256504,"provincePopularVoteWastage":195324,"provincePopularVoteWastagePc":0.7614852010105105},"Prince Edward Island":{"seatsByParty":{"Liberal":4},"proportionOfSeatsByParty":{"Liberal":1},"provincePopularVoteByParty":{"Independents":0,"NDP-New Democratic Party":14006,"Green Party":5281,"Liberal":51002,"Conservative":16900,"Christian Heritage Party":295},"proportionOfProvincePopularVoteByParty":{"Independents":0,"NDP-New Democratic Party":0.1600978464633533,"Green Party":0.060365323944949936,"Liberal":0.582986603264597,"Conservative":0.19317818115312516,"Christian Heritage Party":0.0033720451739746695},"totalVotesCast":87484,"provincePopularVoteWastage":68819,"provincePopularVoteWastagePc":0.7866467011110603},"Nova Scotia":{"seatsByParty":{"Liberal":11},"proportionOfSeatsByParty":{"Liberal":1},"provincePopularVoteByParty":{"Independents":1310,"Green Party":17630,"Liberal":324816,"Conservative":93697,"NDP-New Democratic Party":85468,"Marxist-Leninist":130,"Rhinoceros":184,"Communist":151,"Libertarian":242},"proportionOfProvincePopularVoteByParty":{"Independents":0.002501776070034452,"Green Party":0.03366894054557816,"Liberal":0.6203182411941301,"Conservative":0.17893810109467026,"NDP-New Democratic Party":0.16322274591885844,"Marxist-Leninist":0.00024826785427822806,"Rhinoceros":0.00035139450143995357,"Communist":0.00028837266150778796,"Libertarian":0.0004621601595025476},"totalVotesCast":523628,"provincePopularVoteWastage":399478,"provincePopularVoteWastagePc":0.7629041991642922},"New Brunswick":{"seatsByParty":{"Liberal":10},"proportionOfSeatsByParty":{"Liberal":1},"provincePopularVoteByParty":{"Independents":296,"Green Party":20551,"Liberal":227764,"Conservative":112070,"NDP-New Democratic Party":81105},"proportionOfProvincePopularVoteByParty":{"Independents":0.0006700076507630391,"Green Party":0.04651799740145681,"Liberal":0.5155527789472731,"Conservative":0.25367485615207364,"NDP-New Democratic Party":0.1835843598484334},"totalVotesCast":441786,"provincePopularVoteWastage":307968,"provincePopularVoteWastagePc":0.6970976898317285},"Quebec":{"seatsByParty":{"NDP-New Democratic Party":16,"Liberal":40,"Conservative":12,"Bloc Québécois":10},"proportionOfSeatsByParty":{"NDP-New Democratic Party":0.20512820512820512,"Liberal":0.5128205128205128,"Conservative":0.15384615384615385,"Bloc Québécois":0.1282051282051282},"provincePopularVoteByParty":{"Independents":3438,"Green Party":95395,"Liberal":1515673,"Bloc Québécois":821144,"Rhinoceros":5683,"Conservative":709164,"NDP-New Democratic Party":1075366,"Forces et Démocratie - Allier les forces de nos régions":8059,"Libertarian":3197,"Marxist-Leninist":3008,"Communist":545,"Christian Heritage Party":679,"ATN":136},"proportionOfProvincePopularVoteByParty":{"Independents":0.0008105647854160581,"Green Party":0.02249093301476581,"Liberal":0.357344723678276,"Bloc Québécois":0.19359814140653975,"Rhinoceros":0.0013398602895635422,"Conservative":0.16719702311948617,"NDP-New Democratic Party":0.25353513991673204,"Forces et Démocratie - Allier les forces de nos régions":0.0019000411883851112,"Libertarian":0.0007537450898706043,"Marxist-Leninist":0.0007091852456461614,"Communist":0.00012849267249905516,"Christian Heritage Party":0.0001600853662878137,"ATN":0.00003206422653187432},"totalVotesCast":4241487,"provincePopularVoteWastage":3142119,"provincePopularVoteWastagePc":0.7408059956331353},"Ontario":{"seatsByParty":{"Liberal":80,"NDP-New Democratic Party":8,"Conservative":33},"proportionOfSeatsByParty":{"Liberal":0.6611570247933884,"NDP-New Democratic Party":0.06611570247933884,"Conservative":0.2727272727272727},"provincePopularVoteByParty":{"Independents":12573,"Conservative":2293393,"NDP-New Democratic Party":1085916,"Green Party":185992,"Liberal":2929393,"United Party":57,"Animal Alliance/Environment Voters":1499,"Christian Heritage Party":7791,"CAP":401,"Libertarian":15086,"Marxist-Leninist":3112,"Communist":1571,"Rhinoceros":352,"PC Party":2781,"Radical Marijuana":1033,"Pirate":121,"Forces et Démocratie - Allier les forces de nos régions":131,"PACT":91,"Seniors Party":157,"The Bridge":122},"proportionOfProvincePopularVoteByParty":{"Independents":0.0019220150752754842,"Conservative":0.3505874428959889,"NDP-New Democratic Party":0.16600230036449953,"Green Party":0.028432309542721534,"Liberal":0.4478117797984949,"United Party":0.000008713501892205728,"Animal Alliance/Environment Voters":0.0002291498129195857,"Christian Heritage Party":0.0011909981270556986,"CAP":0.00006130025015393854,"Libertarian":0.0023061735008037825,"Marxist-Leninist":0.0004757266296235828,"Communist":0.00024015634162552975,"Rhinoceros":0.000053809695895726595,"PC Party":0.00042512717126708994,"Radical Marijuana":0.00015791311323944764,"Pirate":0.000018497082964156015,"Forces et Démocratie - Allier les forces de nos régions":0.000020025767506648248,"PACT":0.000013911029336679319,"Seniors Party":0.000024000347317128054,"The Bridge":0.000018649951418405238},"totalVotesCast":6541572,"provincePopularVoteWastage":4267746,"provincePopularVoteWastagePc":0.6524037341483057},"Manitoba":{"seatsByParty":{"Conservative":5,"Liberal":7,"NDP-New Democratic Party":2},"proportionOfSeatsByParty":{"Conservative":0.35714285714285715,"Liberal":0.5,"NDP-New Democratic Party":0.14285714285714285},"provincePopularVoteByParty":{"Independents":3499,"Conservative":224527,"Green Party":18944,"NDP-New Democratic Party":81960,"Liberal":268280,"Libertarian":1137,"Christian Heritage Party":2021,"Communist":135},"proportionOfProvincePopularVoteByParty":{"Independents":0.005826781881189603,"Conservative":0.37389821532948214,"Green Party":0.031546886526795034,"NDP-New Democratic Party":0.13648557958911112,"Liberal":0.44675880053888156,"Libertarian":0.0018934126890290306,"Christian Heritage Party":0.003365511912513343,"Communist":0.00022481153299816988},"totalVotesCast":600503,"provincePopularVoteWastage":407629,"provincePopularVoteWastagePc":0.6788125954408221},"Saskatchewan":{"seatsByParty":{"Conservative":10,"NDP-New Democratic Party":3,"Liberal":1},"proportionOfSeatsByParty":{"Conservative":0.7142857142857143,"NDP-New Democratic Party":0.21428571428571427,"Liberal":0.07142857142857142},"provincePopularVoteByParty":{"Independents":1076,"Liberal":131681,"Conservative":267937,"NDP-New Democratic Party":138574,"Green Party":11527,"Rhinoceros":301,"Libertarian":528,"Canada Party":271},"proportionOfProvincePopularVoteByParty":{"Independents":0.001949646218936573,"Liberal":0.23859792170612162,"Conservative":0.4854854637204541,"NDP-New Democratic Party":0.2510876163038259,"Green Party":0.020886219298960854,"Rhinoceros":0.0005453935984199893,"Libertarian":0.0009567037208164596,"Canada Party":0.0004910354324645087},"totalVotesCast":551895,"provincePopularVoteWastage":407874,"provincePopularVoteWastagePc":0.739042752697524},"Alberta":{"seatsByParty":{"Conservative":29,"Liberal":4,"NDP-New Democratic Party":1},"proportionOfSeatsByParty":{"Conservative":0.8529411764705882,"Liberal":0.11764705882352941,"NDP-New Democratic Party":0.029411764705882353},"provincePopularVoteByParty":{"Independents":16422,"NDP-New Democratic Party":224800,"Green Party":48742,"Liberal":473416,"Conservative":1150101,"Democratic Advancement":1187,"Christian Heritage Party":2786,"Marxist-Leninist":808,"Libertarian":9401,"Communist":486,"PC Party":957,"Rhinoceros":743,"Radical Marijuana":279,"Pirate":513},"proportionOfProvincePopularVoteByParty":{"Independents":0.008505983245978926,"NDP-New Democratic Party":0.11643801203848878,"Green Party":0.02524653728994671,"Liberal":0.2452118234306637,"Conservative":0.595709404285934,"Democratic Advancement":0.0006148217094736929,"Christian Heritage Party":0.0014430440459930148,"Marxist-Leninist":0.0004185138510991945,"Libertarian":0.004869367220524168,"Communist":0.00025172986588392144,"PC Party":0.0004956902914627836,"Rhinoceros":0.0003848462764439375,"Radical Marijuana":0.00014451158967410306,"Pirate":0.0002657148584330282},"totalVotesCast":1930641,"provincePopularVoteWastage":1448299,"provincePopularVoteWastagePc":0.750164841625139},"British Columbia":{"seatsByParty":{"Conservative":10,"Liberal":17,"NDP-New Democratic Party":14,"Green Party":1},"proportionOfSeatsByParty":{"Conservative":0.23809523809523808,"Liberal":0.40476190476190477,"NDP-New Democratic Party":0.3333333333333333,"Green Party":0.023809523809523808},"provincePopularVoteByParty":{"Independents":3501,"Conservative":708010,"Green Party":194847,"Marxist-Leninist":1780,"NDP-New Democratic Party":615156,"Liberal":829816,"Communist":1365,"Libertarian":7184,"Christian Heritage Party":1660,"PC Party":738,"Pirate":274,"Radical Marijuana":245,"Animal Alliance/Environment Voters":200},"proportionOfProvincePopularVoteByParty":{"Independents":0.0014804784892945462,"Conservative":0.2993983362483381,"Green Party":0.0823955419033346,"Marxist-Leninist":0.0007527139991271901,"NDP-New Democratic Party":0.2601328836219583,"Liberal":0.35090680893243165,"Communist":0.0005772216903419182,"Libertarian":0.0030379198706346816,"Christian Heritage Party":0.0007019692351410874,"PC Party":0.0003120802985145316,"Pirate":0.00011586721110160117,"Radical Marijuana":0.00010360389313829301,"Animal Alliance/Environment Voters":0.00008457460664350451},"totalVotesCast":2364776,"provincePopularVoteWastage":1647995,"provincePopularVoteWastagePc":0.696892644377311},"Yukon":{"seatsByParty":{"Liberal":1},"proportionOfSeatsByParty":{"Liberal":1},"provincePopularVoteByParty":{"Independents":0,"NDP-New Democratic Party":3943,"Liberal":10887,"Green Party":533,"Conservative":4928},"proportionOfProvincePopularVoteByParty":{"Independents":0,"NDP-New Democratic Party":0.19432260608151397,"Liberal":0.5365432950569218,"Green Party":0.02626780345966192,"Conservative":0.24286629540190233},"totalVotesCast":20291,"provincePopularVoteWastage":15362,"provincePopularVoteWastagePc":0.7570844216647775},"Northwest Territories":{"seatsByParty":{"Liberal":1},"proportionOfSeatsByParty":{"Liberal":1},"provincePopularVoteByParty":{"Independents":0,"NDP-New Democratic Party":5783,"Liberal":9172,"Green Party":537,"Conservative":3481},"proportionOfProvincePopularVoteByParty":{"Independents":0,"NDP-New Democratic Party":0.30480156011173776,"Liberal":0.48342381278659147,"Green Party":0.028303378485215833,"Conservative":0.18347124861645497},"totalVotesCast":18973,"provincePopularVoteWastage":13189,"provincePopularVoteWastagePc":0.6951457334106361},"Nunavut":{"seatsByParty":{"Liberal":1},"proportionOfSeatsByParty":{"Liberal":1},"provincePopularVoteByParty":{"Independents":0,"Conservative":2956,"NDP-New Democratic Party":3171,"Green Party":182,"Liberal":5619},"proportionOfProvincePopularVoteByParty":{"Independents":0,"Conservative":0.2478202548625084,"NDP-New Democratic Party":0.2658450704225352,"Green Party":0.015258215962441314,"Liberal":0.4710764587525151},"totalVotesCast":11928,"provincePopularVoteWastage":8756,"provincePopularVoteWastagePc":0.7340710932260228}}}
+--------------
+        ✓ finds all of the above
+        ✓ has the right seatsByParty
+        ✓ has the right proportionOfSeatsByParty
+        ✓ has the right proportionOfNationalPopularVoteByParty
+      ridingResultsInOrder()
+        ✓ lists the results in winner-first order
+      ridingVoteWastage()
+        ✓ calculates the vote wastage for a district
+      totalVotesCast
+        ✓ calculates the total votes cast
+      popularVoteWastage()
+        ✓ calculates the national vote wastage
+      popularVoteWastagePc()
+        ✓ calculates the national vote wastage percentage
+      filterDataByProvince()
+        ✓ correctly filters the data by province
 
   mmp.js - tools for MMP calculation
     beatThreshholdEh()
@@ -43,8 +71,6 @@
 
   voteManip.js
     manipulatePartyByPercent()
-{ apple: 1050 }
-{ banana: 2850 }
       ✓ adds or subtracts based on increase or decrease
 
   Database Tests
@@ -75,61 +101,5 @@
       ✓ parses an array of filenames of JSON documents into JS objects
 
 
-  29 passing (385ms)
-  1 failing
-
-  1) fpp.js fppData() has the right proportionOfNationalPopularVoteByParty:
-
-      AssertionError: expected [ Array(6) ] to deeply equal []
-      + expected - actual
-
-      -[
-      -  {
-      -    "familyName": "McDonald"
-      -    "firstName": "Ken"
-      -    "middleName": ""
-      -    "party": "Liberal"
-      -    "votes": 23528
-      -  }
-      -  {
-      -    "familyName": "Andrews"
-      -    "firstName": "Scott"
-      -    "middleName": ""
-      -    "party": "Andrews"
-      -    "votes": 7501
-      -  }
-      -  {
-      -    "familyName": "Baldwin"
-      -    "firstName": "Jeannie"
-      -    "middleName": ""
-      -    "party": "NDP-New Democratic Party"
-      -    "votes": 6075
-      -  }
-      -  {
-      -    "familyName": "Barnett"
-      -    "firstName": "Lorraine E."
-      -    "middleName": ""
-      -    "party": "Conservative"
-      -    "votes": 4670
-      -  }
-      -  {
-      -    "familyName": "Byrne-Puumala"
-      -    "firstName": "Krista"
-      -    "middleName": ""
-      -    "party": "Green Party"
-      -    "votes": 228
-      -  }
-      -  {
-      -    "familyName": "McCreath"
-      -    "firstName": "Jennifer"
-      -    "middleName": ""
-      -    "party": "Forces et Démocratie - Allier les forces de nos régions"
-      -    "votes": 84
-      -  }
-      -]
-      +[]
-      
-      at Context.<anonymous> (test/frontend/js/utilities/spec_fpp.js:199:51)
-
-
+  36 passing (491ms)
 
