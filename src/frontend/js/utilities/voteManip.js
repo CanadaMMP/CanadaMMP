@@ -12,7 +12,6 @@ export const proportionallyRemoveVotes = (parties, voteChange) => {
 export const manipulatePartyByPercent = (parties, changedParty, pc) => {
   let result = {};
   result[changedParty] = parties[changedParty] * (1 + pc);
-  console.log(result)
   let diff = parties[changedParty] - result[changedParty];
   return Object.assign({}, result, proportionallyRemoveVotes(_.omit(parties, [changedParty]), diff));
 };
