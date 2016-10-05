@@ -4,6 +4,9 @@
   box-sizing: border-box;
 }
 
+body {
+  font-family: "Lato", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
 .backgroundImage {
   background-image: url('./src/frontend/img/canada-wallpaper.jpeg');
   background-size: cover;
