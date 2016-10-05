@@ -2,10 +2,13 @@ import reduxify from '../utilities/reduxify';
 import * as actions from '../actions/index';
 import React, {Component} from 'react';
 import ReactDOM, {findDOMNode} from 'react-dom';
+import {StyleSheet, css} from 'aphrodite';
 import _ from 'lodash';
 import palette from '../constants/palette';
 import Paper from 'material-ui/Paper';
 import popout from '../../img/popout.svg';
+
+import HeroPieChart from '../charts/HeroPieChart';
 
 const headline = {
   English: "Here's what you need to know about MMP and proportional representation",
@@ -41,79 +44,74 @@ const definitions = {
     textFpp: "Courant de vote système canadien, où chaque circonscription est titulaire d'une élection, et une pluralité (pas nécessairement la majorité) des électeurs choisissent un représentant de toute la puissance de ce district. Il est aussi appelé \"Le gagnant remporte tout\" vote."
   }
 };
-
-const heroStyle = {
-  // height: '100px',
-  width: '100%',
-  textAlign: 'center',
-  display: 'inline-block',
-  backgroundColor: 'rgba(0,0,0,0.7)',
-};
-
-const headlineStyle = {
-  color: 'white',
-  fontFamily: "Patua One",
-  fontSize: '3em',
-  margin: '2vh 4vw'
-};
-
-const flexContainer = {
-  display: "flex",
-  flexDirection: "row",
-  justifyContent: "space-around",
-  alignItems: "stretch",
-  marginBottom: '5vh',
-};
-const leftContainer = {
-  order: "1",
-  color: "white",
-  fontFamily: "Patua One",
-  minWidth: "25%",
-};
-const rightContainer = {
-  order: "2",
-  flex: "flex-grow",
-  textAlign: 'left',
-  maxWidth: '800px',
-};
-const subContainerStyle={
-  fontFamily: "Lato",
-  margin: '2vh 4vw',
-  padding:'1vh 1vw',
-  fontSize: '1.1em',
-  backgroundColor: 'rgba(255,255, 255,0.7)',
-}
-const popoutStyle = {
-  maxWidth: "100%",
-  maxHeight: "90vh",
-}
-import { Textfit } from 'react-textfit';
+const styles = StyleSheet.create({
+  heroStyle : {
+    // height: '100px'
+    backgroundColor: 'rgba(0,0,0,0.7)',
+    width: '100%',
+  },
+  headlineStyle : {
+    color: 'white',
+    fontFamily: "Patua One",
+    fontSize: '4em',
+    margin: '2vh 4vw'
+  },
+  flexContainer : {
+    display: "flex",
+    flexDirection: "row",
+    justifyContent: "space-around",
+    alignItems: "stretch",
+    marginBottom: '5vh',
+  },
+  leftContainer : {
+    order: "1",
+    color: "white",
+    fontFamily: "Patua One",
+    minWidth: "25%",
+  },
+  rightContainer : {
+    order: "2",
+    flex: "flex-grow",
+    textAlign: 'left',
+    maxWidth: '800px',
+  },
+  subContainerStyle:{
+    fontFamily: "Lato",
+    margin: '2vh 4vw',
+    padding:'1vh 1vw',
+    fontSize: '1.1em',
+    backgroundColor: 'rgba(255,255, 255,0.7)',
+  },
+  popoutStyle : {
+    maxWidth: "100%",
+    maxHeight: "90vh",
+  },
+  paragraph: {
+    marginBottom: "1vh",
+  },
+});
 
 class Hero extends Component {
   constructor(props){
     super(props);
-    this.componentDidMount = this.componentDidMount.bind(this);
-  }
-  componentDidMount() {
-    let thing = findDOMNode(this.refs.leftContainer)
-    console.log(thing);
-    console.log(thing.offsetWidth);
   }
 
   render () {
     return (<div >
-      <Paper style={heroStyle} zDepth={1} >
-        <div style={flexContainer}>
-        <div ref="leftContainer" style={leftContainer}>
-        <img style={popoutStyle} src={popout} />
+      <Paper className={css(styles.heroStyle)} zDepth={1} >
+        <div className={css(styles.flexContainer)}>
+        <div ref="leftContainer" className={css(styles.leftContainer)}>
+        <img className={css(styles.popoutStyle)} src={popout} />
         </div>
-        <div style={rightContainer}>
-          <div style={headlineStyle}>
+        <div className={css(styles.rightContainer)}>
+          <div className={css(styles.headlineStyle)}>
             {headline[this.props.language]}
           </div>
-          <Paper style={subContainerStyle} zDepth={3}>
-            {subheadline[this.props.language].map((line) => (<div style={{marginBottom: '1vh'}}>{line}</div>))}
+          <Paper className={css(styles.subContainerStyle)} zDepth={3}>
+            {subheadline[this.props.language].map((line) => (<div className={css(styles.paragraph)}>{line}</div>))}
           </Paper>
+          <HeroPieChart />
+
         </div>
         </div>
       </Paper>
