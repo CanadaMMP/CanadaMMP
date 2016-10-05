@@ -5,19 +5,26 @@ import ReactDOM, {findDOMNode} from 'react-dom';
 import _ from 'lodash';
 import palette from '../constants/palette';
 import Paper from 'material-ui/Paper';
+import popout from '../../img/popout.svg';
 
 const headline = {
-  English: "What you need to know about MMP and proportional representation",
+  English: "Here's what you need to know about MMP and proportional representation",
   Français: "Ce que vous devez savoir sur MMP et la représentation proportionnelle"
 };
 
 const subheadline = {
-  English: ["In a short time, Canada will be asked to choose whether or not they will adopt a new, more proportional, representation system. It's a new way of voting and thinking about representation.",
+  English: [
+    "In a short time, Canada will be asked to choose whether or not they will adopt a new, more proportional, representation system. It's a new way of voting and thinking about representation.",
     "We think that the choice to go with MMP is the smart one for Canada, and in this interactive demo, we hope to explain why MMP will allow voters to have more say in their government, and better hold politicians accountable.",
-    "Mixed Member Proportional is simply a fairer, better system for electing representatives to Parliament.", "Here's why:"],
-  Français: ["Dans un court laps de temps, le Canada sera demandé de choisir si oui ou non ils vont adopter un nouveau système de représentation, plus proportionnel. Il est une nouvelle façon de voter et la réflexion sur la représentation.",
+    "Mixed Member Proportional is simply a fairer, better system for electing representatives to Parliament.",
+    "Please allow us this chance to explain how."
+  ],
+  Français: [
+    "Dans un court laps de temps, le Canada sera demandé de choisir si oui ou non ils vont adopter un nouveau système de représentation, plus proportionnel. Il est une nouvelle façon de voter et la réflexion sur la représentation.",
     "Nous pensons que le choix d'aller avec MMP est une puce pour le Canada, et dans cette démo interactive, nous espérons expliquer pourquoi MMP permettra aux électeurs d'avoir plus disent dans leur gouvernement, et de meilleurs politiciens de tenir responsables.",
-    "Proportionnelle mixte est tout simplement un, meilleur système plus juste pour l'élection des représentants au Parlement.", "Voici pourquoi:"],
+    "Proportionnelle mixte est tout simplement un, meilleur système plus juste pour l'élection des représentants au Parlement.",
+    "S'il vous plaît nous permettre cette chance d'expliquer comment"
+  ],
 };
 
 const definitions = {
@@ -35,23 +42,6 @@ const definitions = {
   }
 };
 
-const leftSidebarText = {
-  English: ["In the 2015 Federal Election",
-    "70%",
-    "of votes",
-    "had literally",
-    "zero",
-    "influence on the makeup",
-    "of Parliament"],
-  Français: ["In the 2015 Federal Election",
-    "70%",
-    "of votes",
-    "had literally",
-    "nul",
-    "influence on the makeup",
-    "of Parliament"],
-};
-
 const heroStyle = {
   // height: '100px',
   width: '100%',
@@ -63,8 +53,8 @@ const heroStyle = {
 const headlineStyle = {
   color: 'white',
   fontFamily: "Patua One",
-  margin: '5vh 10vw',
-  fontSize: '3em'
+  fontSize: '3em',
+  margin: '2vh 4vw'
 };
 
 const flexContainer = {
@@ -86,18 +76,19 @@ const rightContainer = {
   textAlign: 'left',
   maxWidth: '800px',
 };
-const subheadStyle={
-  fontFamily: "Lato",
-  // margin: '5vh 10vw 5vh 10vw',
-  padding: '3vh',
-  fontSize: '1em'
-};
 const subContainerStyle={
   fontFamily: "Lato",
-  marginTop: "3vh",
+  margin: '2vh 4vw',
+  padding:'1vh 1vw',
   fontSize: '1.1em',
   backgroundColor: 'rgba(255,255, 255,0.7)',
 }
+const popoutStyle = {
+  maxWidth: "100%",
+  maxHeight: "90vh",
+}
+import { Textfit } from 'react-textfit';
+
 class Hero extends Component {
   constructor(props){
     super(props);
@@ -112,17 +103,16 @@ class Hero extends Component {
   render () {
     return (<div >
       <Paper style={heroStyle} zDepth={1} >
-        <div style={headlineStyle}>
-          {headline[this.props.language]}
-        </div>
         <div style={flexContainer}>
         <div ref="leftContainer" style={leftContainer}>
+        <img style={popoutStyle} src={popout} />
         </div>
         <div style={rightContainer}>
+          <div style={headlineStyle}>
+            {headline[this.props.language]}
+          </div>
           <Paper style={subContainerStyle} zDepth={3}>
-            <div style={subheadStyle}>
-            {subheadline[this.props.language].map((line) => (<div style={{marginBottom: "1vh"}}>{line}</div>))}
-            </div>
+            {subheadline[this.props.language].map((line) => (<div style={{marginBottom: '1vh'}}>{line}</div>))}
           </Paper>
         </div>
         </div>
