@@ -110,8 +110,7 @@ class Hero extends Component {
           <Paper className={css(styles.subContainerStyle)} zDepth={3}>
             {subheadline[this.props.language].map((line) => (<div className={css(styles.paragraph)}>{line}</div>))}
           </Paper>
-          <HeroPieChart />
-
+          <Paper><HeroPieChart /></Paper>
         </div>
         </div>
       </Paper>
