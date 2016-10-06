@@ -87,6 +87,10 @@ const styles = StyleSheet.create({
     position: 'absolute',
     width: '50vw',
     height: '50vh',
+    margin: '0px 30px 0px 30px',
+  },
+  chartContainer: {
+    padding: '0px 30px 0px 30px',
   }
 });
 
@@ -103,7 +107,7 @@ class Hero extends Component {
           <div className={css(styles.headlineStyle)}>
             {headline[this.props.language]}
           </div>
-          <div>
+          <div className={css(styles.chartContainer)}>
             <HeroPieChart width={styles.chart.width} height={styles.chart.height} className={css(styles.chart)}/>
           </div>
         </div>
