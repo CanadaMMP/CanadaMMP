@@ -7,6 +7,8 @@ import provinces from '../../../../src/utils/provinces';
 import {
   ridingResultsInOrder,
   ridingVoteWastage,
+  ridingVoteWastageByParty,
+  nationalWastedAndNonWastedVotes,
   findWinner,
   popularVoteByParty,
   totalVotesCast,
@@ -244,57 +246,57 @@ describe("fpp.js", function() {
       expect(ridingResultsInOrder(recordsFromDB[0])).to.eql(expected);
     });
   });
-describe("ridingVoteWastage()", function() {
-  it('calculates the vote wastage for a district', function() {
-    expect(ridingVoteWastage(recordsFromDB[0])).to.eql({
-      "winner": {
-        "party": "Liberal",
-        "familyName": "McDonald",
-        "middleName": "",
-        "firstName": "Ken",
-        "votes": 23528
-      },
-      "losers": [
-        {
-          "party": "Andrews",
-          "familyName": "Andrews",
+  describe("ridingVoteWastage()", function() {
+    it('calculates the vote wastage for a district', function() {
+      expect(ridingVoteWastage(recordsFromDB[0])).to.eql({
+        "winner": {
+          "party": "Liberal",
+          "familyName": "McDonald",
           "middleName": "",
-          "firstName": "Scott",
-          "votes": 7501
-        }, {
-          "party": "NDP-New Democratic Party",
-          "familyName": "Baldwin",
-          "middleName": "",
-          "firstName": "Jeannie",
-          "votes": 6075
-        }, {
-          "party": "Conservative",
-          "familyName": "Barnett",
-          "middleName": "",
-          "firstName": "Lorraine E.",
-          "votes": 4670
-        }, {
-          "party": "Green Party",
-          "familyName": "Byrne-Puumala",
-          "middleName": "",
-          "firstName": "Krista",
-          "votes": 228
-        }, {
-          "party": "Forces et Démocratie - Allier les forces de nos régions",
-          "familyName": "McCreath",
-          "middleName": "",
-          "firstName": "Jennifer",
-          "votes": 84
-        }
-      ],
-      "winnerWaste": 16027,
-      "winnerWastePc": 0.6811883713022782,
-      "totalVotes": 42086,
-      "totalWaste": 34584,
-      "totalWastePc": 0.821745948771563
+          "firstName": "Ken",
+          "votes": 23528
+        },
+        "losers": [
+          {
+            "party": "Andrews",
+            "familyName": "Andrews",
+            "middleName": "",
+            "firstName": "Scott",
+            "votes": 7501
+          }, {
+            "party": "NDP-New Democratic Party",
+            "familyName": "Baldwin",
+            "middleName": "",
+            "firstName": "Jeannie",
+            "votes": 6075
+          }, {
+            "party": "Conservative",
+            "familyName": "Barnett",
+            "middleName": "",
+            "firstName": "Lorraine E.",
+            "votes": 4670
+          }, {
+            "party": "Green Party",
+            "familyName": "Byrne-Puumala",
+            "middleName": "",
+            "firstName": "Krista",
+            "votes": 228
+          }, {
+            "party": "Forces et Démocratie - Allier les forces de nos régions",
+            "familyName": "McCreath",
+            "middleName": "",
+            "firstName": "Jennifer",
+            "votes": 84
+          }
+        ],
+        "winnerWaste": 16027,
+        "winnerWastePc": 0.6811883713022782,
+        "totalVotes": 42086,
+        "totalWaste": 34584,
+        "totalWastePc": 0.821745948771563
+      });
     });
   });
-});
   describe('totalVotesCast', function(){
     it('calculates the total votes cast', function(){
       expect(totalVotesCast(recordsFromDB)).to.equal(17591468);
@@ -318,6 +320,44 @@ describe("ridingVoteWastage()", function() {
   describe('voteWastageByParty()', function(){
     it('correctly calculates the vote wastage for each party,', function(){
       expect(voteWastageByParty(recordsFromDB)).to.eql(expectedVoteWastageByParty);
+    });
+  });
+  describe('ridingVoteWastageByParty()', function(){
+    it('correctly caluclates vote wastage by party and by wastage for hero pie chart.', function(){
+      expect(ridingVoteWastageByParty(recordsFromDB[0])).to.eql({
+        "notWasted": {
+          "Liberal": 7502
+        },
+        "wasted": {
+          "Liberal": 16026,
+          "Andrews": 7501,
+          "NDP-New Democratic Party": 6075,
+          "Conservative": 4670,
+          "Green Party": 228,
+          "Forces et Démocratie - Allier les forces de nos régions": 84
+        }
+      });
+    });
+  });
+  describe('nationalWastedAndNonWastedVotes()', function() {
+    it('gets the national wasted and non-wasted votes for the horo graph', function() {
+      expect(nationalWastedAndNonWastedVotes(recordsFromDB)).to.eql({
+        "wasted": {
+          "Others": 141453,
+          "Liberal": 4115086,
+          "NDP-New Democratic Party": 2778906,
+          "Conservative": 4041430,
+          "Green Party": 589672,
+          "Bloc Québécois": 664011
+        },
+        "notWasted": {
+          "Liberal": 2827851,
+          "NDP-New Democratic Party": 690462,
+          "Conservative": 1572203,
+          "Bloc Québécois": 157133,
+          "Green Party": 13261
+        }
+      });
     });
   });
 });

@@ -10,6 +10,7 @@ import popout from '../../img/popout.svg';
 
 import HeroPieChart from '../charts/HeroPieChart';
 
+
 const headline = {
   English: "Here's what you need to know about MMP and proportional representation",
   Français: "Ce que vous devez savoir sur MMP et la représentation proportionnelle"
@@ -62,25 +63,18 @@ const styles = StyleSheet.create({
     justifyContent: "space-around",
     alignItems: "stretch",
     marginBottom: '5vh',
+    textAlign: 'center',
   },
   leftContainer : {
+    width: '50vw',
     order: "1",
     color: "white",
     fontFamily: "Patua One",
-    minWidth: "25%",
+    textAlign: 'left',
   },
   rightContainer : {
+    width: '50vw',
     order: "2",
-    flex: "flex-grow",
-    textAlign: 'left',
-    maxWidth: '800px',
-  },
-  subContainerStyle:{
-    fontFamily: "Lato",
-    margin: '2vh 4vw',
-    padding:'1vh 1vw',
-    fontSize: '1.1em',
-    backgroundColor: 'rgba(255,255, 255,0.7)',
   },
   popoutStyle : {
     maxWidth: "100%",
@@ -89,6 +83,11 @@ const styles = StyleSheet.create({
   paragraph: {
     marginBottom: "1vh",
   },
+  chart: {
+    position: 'absolute',
+    width: '50vw',
+    height: '50vh',
+  }
 });
 
 class Hero extends Component {
@@ -97,20 +96,19 @@ class Hero extends Component {
   }
 
   render () {
-    return (<div >
+    return (<div>
       <Paper className={css(styles.heroStyle)} zDepth={1} >
         <div className={css(styles.flexContainer)}>
         <div ref="leftContainer" className={css(styles.leftContainer)}>
-        <img className={css(styles.popoutStyle)} src={popout} />
-        </div>
-        <div className={css(styles.rightContainer)}>
           <div className={css(styles.headlineStyle)}>
             {headline[this.props.language]}
           </div>
-          <Paper className={css(styles.subContainerStyle)} zDepth={3}>
-            {subheadline[this.props.language].map((line) => (<div className={css(styles.paragraph)}>{line}</div>))}
-          </Paper>
-          <Paper><HeroPieChart /></Paper>
+          <div>
+            <HeroPieChart width={styles.chart.width} height={styles.chart.height} className={css(styles.chart)}/>
+          </div>
+        </div>
+        <div className={css(styles.rightContainer)}>
+          <img className={css(styles.popoutStyle)} src={popout} />
         </div>
         </div>
       </Paper>

@@ -1,6 +1,13 @@
 import _ from 'lodash';
 import candidateNameGenerator from './candidateName';
 import provinces from '../../../utils/provinces';
+const PARTIES_IN_PARLIAMENT = [
+  "Liberal",
+  "NDP-New Democratic Party",
+  "Conservative",
+  "Green Party",
+  "Bloc Québécois",
+];
 
 /**
  * ridingResultsInOrder takes a record from the database and calculates
@@ -41,6 +48,47 @@ export const ridingVoteWastage = (riding) => {
     totalWastePc
   };
 };
+
+export const ridingVoteWastageByParty = (riding) => {
+  let results = ridingResultsInOrder(riding);
+  let notWasted = {};
+  let wasted = {};
+  notWasted[results[0].party] = results[1].votes + 1;
+  wasted[results[0].party] = (results[0].votes - results[1].votes) - 1 ;
+  results.slice(1).forEach((result) => {
+    if(!wasted[result.party]){
+      wasted[result.party] = 0;
+    }
+    wasted[result.party] += result.votes;
+  });
+  return { notWasted, wasted };
+};
+
+
+export const nationalWastedAndNonWastedVotes = (documents) => {
+  let wasteCount = documents.map((riding) => ridingVoteWastageByParty(riding));
+  let totalWasteCount = wasteCount.reduce((pv, riding) => {
+    for(let party in riding.wasted){
+      pv.wasted[party] = pv.wasted[party] ? pv.wasted[party] + riding.wasted[party] : riding.wasted[party];
+    }
+    for(let party in riding.notWasted){
+      pv.notWasted[party] = pv.notWasted[party] ? pv.notWasted[party] + riding.notWasted[party] : riding.notWasted[party];
+    }
+    return pv;
+  }, {wasted:{}, notWasted:{}});
+
+  totalWasteCount.wasted = _.reduce(totalWasteCount.wasted, (pv, votes, party) => {
+    if (PARTIES_IN_PARLIAMENT.includes(party)){
+      pv[party] = votes;
+    } else {
+      pv.Others += votes;
+    }
+    return pv;
+  }, {Others: 0});
+  console.log(JSON.stringify(totalWasteCount));
+  return totalWasteCount;
+};
+
 
 /**
 * nationalPopularVoteByParty() reduces the total results from the election and tallies up
