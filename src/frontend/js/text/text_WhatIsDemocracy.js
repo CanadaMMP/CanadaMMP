@@ -1,17 +1,27 @@
 export const headline = {
-  English: "Democracy, when it comes right down to it, is a system.",
+  English: "Democracy is a promise.",
   Français: '\"Ce que vous devez savoir sur MMP\"'
 };
 
 
 export const subheadline = {
-  English: "It is the system by which the people of a nation can govern themselves. And ideally, this system allows each voter to have an equal voice in who will represent them in government. Ideally, the policies that government passes should roughly reflect the needs and wants of the population.",
+  English: "It is a promise that a government makes - that **every citizen**, whatever race, religion, or creed, whatever their social or economic status, whatever their occuption or location, have **an equal right to be represented in government**.",
   Français: '"Ce que vous devez savoir sur MMP"'
 };
 
+export const subheadline2 = {
+  English: "No democracy lives up to this promise perfectly. But the best democracies never stop to strive to meet that ideal *as best they can.*  Right now, Canada has an oppertunity to make government that much more representative and responsive to the needs of the people, and better realize the equality between its citizens.",
+  Français: '"Ce que vous devez savoir sur MMP"'
+};
+
+export const mainText = {
+  English: [],
+  Francais: ["blah", "blah", "blah"]
+}
+
 export const adams = {
   English: [
-    '\"It comes from a very ancient democracy, you see...\"',
+    '"It comes from a very ancient democracy, you see..."',
     '\"You mean, it comes from a world of lizards?\"',
     "\"No,\" said Ford, who by this time was a little more rational and coherent than he had been, having finally had the coffee forced down him, \"nothing so simple. Nothing anything like so straightforward. On its world, the people are people. The leaders are lizards. The people hate the lizards and the lizards rule the people.\"",
     "\"Odd,\" said Arthur, \"I thought you said it was a democracy.\"",
