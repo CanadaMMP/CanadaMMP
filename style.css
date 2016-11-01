@@ -1,11 +1,11 @@
-@import 'https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i|Patua+One';
+@import url('https://fonts.googleapis.com/css?family=Catamaran:400,700|Trocchi');
 
 * {
   box-sizing: border-box;
 }
 
 body {
-  font-family: "Lato", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  font-family: "Catamaran", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
 }
 .backgroundImage {
   background-image: url('./src/frontend/img/canada-wallpaper.jpeg');
