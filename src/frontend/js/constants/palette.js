@@ -3,11 +3,11 @@ import tinycolor from 'tinycolor2';
 let base = {
   white: '#FFFFFF',
   canadianFlagRed: '#FF0000',
-  liberalRed: '#ea6d6a',
-  conservativeBlue: '#6495ed',
-  ndpOrange: '#f4a460',
-  blocBlue: '#87cefa',
-  greenPartyGreen: '#99c955',
+  liberalRed: '#FF0000',
+  conservativeBlue: '#0C499C',
+  ndpOrange: '#f47216',
+  blocBlue: '#00A7EC',
+  greenPartyGreen: '#3D9B35',
 };
 let waste = {
   conservativeWaste: tinycolor(base.conservativeBlue).lighten(20).desaturate(80).toString(),

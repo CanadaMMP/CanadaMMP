@@ -5,9 +5,8 @@ import ReactDOM, {findDOMNode} from 'react-dom';
 import {StyleSheet, css} from 'aphrodite';
 import palette from '../constants/palette';
 import Paper from 'material-ui/Paper';
-import popout from '../../img/popout.svg';
-import canadaflag from '../../img/canadaflag.svg';
 import Markdown from 'react-remarkable';
+import PopularVotesSeats from './tables/PopularVotesSeats';
 
 import {headline, headline2, subheadline, subheadline2, subheadline3, adams} from '../text/text_WhatIsDemocracy';
 
@@ -34,31 +33,29 @@ const styles = StyleSheet.create({
   container: {
     maxWidth: '960px',
     margin:'auto',
+  },
+  table: {
+    maxWidth: '600px',
   }
 });
 
 
 
-class WhatIsDemocracy extends Component {
+class WhatIsAWastedVote extends Component {
   constructor(props){
     super(props);
   }
 
   render () {
     return (<Paper className={css(styles.main)} zDepth={5} >
-    <div className={css(styles.container)}>
-      <div className={css(styles.headline)}>{headline[this.props.language]}</div>
-      <div className={css(styles.canadaFlag)}><img width={"300px"} src={canadaflag}/></div>
-      <div className={css(styles.subheadline)}><Markdown>{subheadline[this.props.language]}</Markdown></div>
-      <div className={css(styles.subheadline)}><Markdown>{subheadline2[this.props.language]}</Markdown></div>
-      <div className={css(styles.subheadline)}><Markdown>{subheadline3[this.props.language]}</Markdown></div>
-
-      <div className={css(styles.mathLine)}><Markdown>{headline2[this.props.language]}</Markdown></div>
-    </div>
-    {/*{adams[this.props.language].map((line) => <Markdown text={line}/>)}*/}
-      </Paper>
+      <div className={css(styles.container)}>
+        <div className={css(styles.table)}>
+          <PopularVotesSeats />
+        </div>
+      </div>
+    </Paper>
     );
   }
 }
 
-export default reduxify(actions, ['language'], WhatIsDemocracy);
+export default reduxify(actions, ['language'], WhatIsAWastedVote);

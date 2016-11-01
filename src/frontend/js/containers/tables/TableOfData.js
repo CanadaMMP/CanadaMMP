@@ -2,11 +2,10 @@ import _ from 'lodash';
 import React, {Component} from 'react';
 import ReactDOM, {render} from 'react-dom';
 import {StyleSheet, css} from 'aphrodite';
-import {wastageDataArray, TOTAL_POPULAR_VOTE, TOTAL_NON_WASTED} from '../constants/precalculatedData';
-import palette from '../constants/palette';
+import {wastageDataArray, TOTAL_POPULAR_VOTE, TOTAL_NON_WASTED} from '../../constants/precalculatedData';
 import {Table, TableBody, TableHeader, TableHeaderColumn, TableRow, TableRowColumn} from 'material-ui/Table';
 
-const HeroBarChart = (props) =>
+const TableOfData = (props) =>
   (<Table
     selectable={false}>
    <TableHeader displaySelectAll={false}>
@@ -44,4 +43,4 @@ const HeroBarChart = (props) =>
 
 
 
-export default HeroBarChart;
+export default TableOfData;

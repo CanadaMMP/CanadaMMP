@@ -3,14 +3,24 @@ export const headline = {
   Français: '\"Ce que vous devez savoir sur MMP\"'
 };
 
+export const headline2 = {
+  English: "*But it will take some math...*",
+  Français: "french french french french french."
+};
+
 
 export const subheadline = {
-  English: "It is a promise that a government makes - that **every citizen**, whatever race, religion, or creed, whatever their social or economic status, whatever their occuption or location, have **an equal right to be represented in government**.",
+  English: "It is a promise that a government makes to the people it governs. That **every citizen**, whatever race, religion, or creed, whatever their social or economic status, whatever their occuption or location, have **an equal right to be represented in government**.",
   Français: '"Ce que vous devez savoir sur MMP"'
 };
 
 export const subheadline2 = {
   English: "No democracy lives up to this promise perfectly. But the best democracies never stop to strive to meet that ideal *as best they can.*  Right now, Canada has an oppertunity to make government that much more representative and responsive to the needs of the people, and better realize the equality between its citizens.",
+  Français: '"Ce que vous devez savoir sur MMP"'
+};
+
+export const subheadline3 = {
+  English: "This is not an issue of the left or right. This is not about who \"wins\" or \"loses\". Because people on the left, on the right, and in the middle have much to gain from this system. We hope to make that case to you.",
   Français: '"Ce que vous devez savoir sur MMP"'
 };
 
